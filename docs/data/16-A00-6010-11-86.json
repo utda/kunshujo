@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-11-86.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-86.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-11-86.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-86.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,52 +18,52 @@
                     "label": "16-A00-6010-11-86",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "半銭端書　今川小路２丁目９番地田中芳男宛、「晩餐ヲ供度、明６日午後４時頃より御来訪願度、尤御出発前に付万一御差支も候はば、明朝まて御一報願度」云々"
-                        },
-                        {
-                            "label": "月",
-                            "value": "3"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18760003005"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "三沢元衛書翰"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "数量",
                             "value": "１通"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "15"
-                        },
-                        {
-                            "label": "日",
-                            "value": "5"
+                            "label": "書誌事項",
+                            "value": "半銭端書　今川小路２丁目９番地田中芳男宛、「晩餐ヲ供度、明６日午後４時頃より御来訪願度、尤御出発前に付万一御差支も候はば、明朝まて御一報願度」云々"
                         },
                         {
                             "label": "年号",
                             "value": "明治９"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-11-86"
+                            "label": "和暦",
+                            "value": "明治9年3月5日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "15"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "三沢元衛書翰"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治9年3月5日"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-86"
                         },
                         {
-                            "label": "版種類",
-                            "value": "写本"
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "日",
+                            "value": "5"
                         }
                     ]
                 }

@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-1-190.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-1-190.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-1-190.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-1-190.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,6 +18,26 @@
                     "label": "16-A00-6010-1-190",
                     "metadata": [
                         {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文政11年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18280001099"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-190"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文政１１"
+                        },
+                        {
                             "label": "地名",
                             "value": "不明"
                         },
@@ -26,40 +46,20 @@
                             "value": "1"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔発句３首摺物〕"
+                        },
+                        {
                             "label": "数量",
                             "value": "１枚"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "文政１１"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18280001099"
                         },
                         {
                             "label": "書誌事項",
                             "value": "18.9×12.0　旦松作、自画、"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔発句３首摺物〕"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-1-190"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "10"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文政11年1月"
                         }
                     ]
                 }

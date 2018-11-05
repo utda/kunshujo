@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-11-60.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-60.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-11-60.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-60.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,48 +18,48 @@
                     "label": "16-A00-6010-11-60",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "16.8×24.0　東都橘定英謹製、八町堀大通鼈甲類小間物所いつみや栄次郎"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18620199099"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "白兎香麝香入御はみかき引札"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "7"
+                            "label": "書誌事項",
+                            "value": "16.8×24.0　東都橘定英謹製、八町堀大通鼈甲類小間物所いつみや栄次郎"
                         },
                         {
                             "label": "年号",
                             "value": "文久２？"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-11-60"
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "白兎香麝香入御はみかき引札"
                         },
                         {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "形態分類",
+                            "value": "Ｗ"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-60"
                         }
                     ]
                 }

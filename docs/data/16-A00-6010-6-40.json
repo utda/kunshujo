@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-6-40.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-6-40.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-6-40.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-6-40.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,48 +18,48 @@
                     "label": "16-A00-6010-6-40",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "24.5×14.5"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18620199099"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔江戸芝神明前大和屋惣兵衛毛織物類唐物大安売引札〕"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "7"
+                            "label": "書誌事項",
+                            "value": "24.5×14.5"
                         },
                         {
                             "label": "年号",
                             "value": "文久２？"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-6-40"
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔江戸芝神明前大和屋惣兵衛毛織物類唐物大安売引札〕"
                         },
                         {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "形態分類",
+                            "value": "Ｗ"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-6-40"
                         }
                     ]
                 }

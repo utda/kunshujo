@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-1-205.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-1-205.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-1-205.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-1-205.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,8 +18,28 @@
                     "label": "16-A00-6010-1-205",
                     "metadata": [
                         {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
                             "label": "日",
                             "value": "4"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年6月4日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580006004"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-205"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
                         },
                         {
                             "label": "地名",
@@ -30,40 +50,20 @@
                             "value": "6"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "京都出火"
+                        },
+                        {
                             "label": "数量",
                             "value": "１枚"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "安政５"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18580006004"
                         },
                         {
                             "label": "書誌事項",
                             "value": "16.4×20.7"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "京都出火"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-1-205"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "1"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年6月4日"
                         }
                     ]
                 }

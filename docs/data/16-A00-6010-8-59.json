@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-8-59.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-8-59.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-8-59.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-8-59.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,52 +18,52 @@
                     "label": "16-A00-6010-8-59",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "30.5×14.0　摺物に書込み形式、東京大学南校添地内田中芳男宛、小樽１ケ、白井唯一出、「長鯨丸」とあり、田中の帰府は明治３年９月故、翌年とする"
-                        },
-                        {
-                            "label": "月",
-                            "value": "1"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18710001019"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔中之島廻漕会社送り状〕"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "日",
-                            "value": "19"
+                            "label": "書誌事項",
+                            "value": "30.5×14.0　摺物に書込み形式、東京大学南校添地内田中芳男宛、小樽１ケ、白井唯一出、「長鯨丸」とあり、田中の帰府は明治３年９月故、翌年とする"
                         },
                         {
                             "label": "年号",
                             "value": "明治４"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-8-59"
+                            "label": "和暦",
+                            "value": "明治4年1月19日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔中之島廻漕会社送り状〕"
                         },
                         {
                             "label": "地名",
                             "value": "大阪"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治4年1月19日"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-8-59"
                         },
                         {
-                            "label": "版種類",
-                            "value": "写本"
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "日",
+                            "value": "19"
                         }
                     ]
                 }

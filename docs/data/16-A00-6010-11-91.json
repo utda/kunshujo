@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-11-91.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-91.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-11-91.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-91.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,52 +18,52 @@
                     "label": "16-A00-6010-11-91",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり"
-                        },
-                        {
-                            "label": "月",
-                            "value": "9"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18750009020"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔郵便半銭端書百枚出納証〕"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "日",
-                            "value": "20"
+                            "label": "書誌事項",
+                            "value": "12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり"
                         },
                         {
                             "label": "年号",
                             "value": "明治８"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-11-91"
+                            "label": "和暦",
+                            "value": "明治8年9月20日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔郵便半銭端書百枚出納証〕"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治8年9月20日"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-91"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "月",
+                            "value": "9"
+                        },
+                        {
+                            "label": "日",
+                            "value": "20"
                         }
                     ]
                 }

@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-8-16.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-8-16.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-8-16.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-8-16.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,44 +18,44 @@
                     "label": "16-A00-6010-8-16",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "25.0×8.5　「兵庫県租税方」の朱角印あり"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18690099099"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔兵庫県支配所播州加西郡玉野村当巳租税米納入書〕"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "6"
+                            "label": "書誌事項",
+                            "value": "25.0×8.5　「兵庫県租税方」の朱角印あり"
                         },
                         {
                             "label": "年号",
                             "value": "明治２"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-8-16"
+                            "label": "和暦",
+                            "value": "明治2年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "6"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔兵庫県支配所播州加西郡玉野村当巳租税米納入書〕"
                         },
                         {
                             "label": "地名",
                             "value": "播磨"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治2年"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-8-16"
                         }
                     ]
                 }

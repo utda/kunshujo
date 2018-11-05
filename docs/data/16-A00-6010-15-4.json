@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-15-4.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-15-4.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-15-4.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-15-4.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,44 +18,44 @@
                     "label": "16-A00-6010-15-4",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "16.7×10.5　「御手紙１通、右正に落掌仕候也、田中様、水野」と墨書、但し受領証は銅版で印刷されているもの"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18760099099"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔受領証〕"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "15"
+                            "label": "書誌事項",
+                            "value": "16.7×10.5　「御手紙１通、右正に落掌仕候也、田中様、水野」と墨書、但し受領証は銅版で印刷されているもの"
                         },
                         {
                             "label": "年号",
                             "value": "明治９"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-4"
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "15"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔受領証〕"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-15-4"
                         }
                     ]
                 }

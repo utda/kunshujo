@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-11-89.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-89.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-11-89.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-11-89.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,52 +18,52 @@
                     "label": "16-A00-6010-11-89",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "半銭端書　小川町今川小路２丁目９番地田中芳男宛、武田の住所は麻布本村１２０番地、「博物図解明の小册の事に付、山下おゐて引キ合セの上御極め申度、幾日ニ山下え御出張ニヤ、半銭御憤発可被下候」"
-                        },
-                        {
-                            "label": "月",
-                            "value": "10"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18760010019"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "武田昌次書翰"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "数量",
                             "value": "１通"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "15"
-                        },
-                        {
-                            "label": "日",
-                            "value": "19"
+                            "label": "書誌事項",
+                            "value": "半銭端書　小川町今川小路２丁目９番地田中芳男宛、武田の住所は麻布本村１２０番地、「博物図解明の小册の事に付、山下おゐて引キ合セの上御極め申度、幾日ニ山下え御出張ニヤ、半銭御憤発可被下候」"
                         },
                         {
                             "label": "年号",
                             "value": "明治９"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-11-89"
+                            "label": "和暦",
+                            "value": "明治9年10月19日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "15"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "武田昌次書翰"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治9年10月19日"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-89"
                         },
                         {
-                            "label": "版種類",
-                            "value": "写本"
+                            "label": "月",
+                            "value": "10"
+                        },
+                        {
+                            "label": "日",
+                            "value": "19"
                         }
                     ]
                 },
@@ -73,52 +73,52 @@
                     "label": "16-A00-6010-11-89",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "半銭端書　小川町今川小路２丁目９番地田中芳男宛、武田の住所は麻布本村１２０番地、「博物図解明の小册の事に付、山下おゐて引キ合セの上御極め申度、幾日ニ山下え御出張ニヤ、半銭御憤発可被下候」"
-                        },
-                        {
-                            "label": "月",
-                            "value": "10"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18760010019"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "武田昌次書翰"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "数量",
                             "value": "１通"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "15"
-                        },
-                        {
-                            "label": "日",
-                            "value": "19"
+                            "label": "書誌事項",
+                            "value": "半銭端書　小川町今川小路２丁目９番地田中芳男宛、武田の住所は麻布本村１２０番地、「博物図解明の小册の事に付、山下おゐて引キ合セの上御極め申度、幾日ニ山下え御出張ニヤ、半銭御憤発可被下候」"
                         },
                         {
                             "label": "年号",
                             "value": "明治９"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-11-89"
+                            "label": "和暦",
+                            "value": "明治9年10月19日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "15"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "武田昌次書翰"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治9年10月19日"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-89"
                         },
                         {
-                            "label": "版種類",
-                            "value": "写本"
+                            "label": "月",
+                            "value": "10"
+                        },
+                        {
+                            "label": "日",
+                            "value": "19"
                         }
                     ]
                 }

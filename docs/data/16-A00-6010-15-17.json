@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-15-17.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-15-17.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-15-17.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-15-17.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,48 +18,48 @@
                     "label": "16-A00-6010-15-17",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18760099099"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔神田太田屋弥兵衛眼鏡引札〕"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "7"
+                            "label": "書誌事項",
+                            "value": "25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」"
                         },
                         {
                             "label": "年号",
                             "value": "明治９"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-17"
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔神田太田屋弥兵衛眼鏡引札〕"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "形態分類",
+                            "value": "Ｗ"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-15-17"
                         }
                     ]
                 }

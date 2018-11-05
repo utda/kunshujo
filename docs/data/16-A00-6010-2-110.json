@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-2-110.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-2-110.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-2-110.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-2-110.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,48 +18,48 @@
                     "label": "16-A00-6010-2-110",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "24.0×4.2　あと１つは8.2×4.5、勢州松阪平生町須賀屋製、煉油の商品名、一枚には「まぎらわしい物が出廻っている」云々の注意書あり"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18580099099"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "しら梅引札"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "7"
+                            "label": "書誌事項",
+                            "value": "24.0×4.2　あと１つは8.2×4.5、勢州松阪平生町須賀屋製、煉油の商品名、一枚には「まぎらわしい物が出廻っている」云々の注意書あり"
                         },
                         {
                             "label": "年号",
                             "value": "安政５"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-2-110"
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "しら梅引札"
                         },
                         {
                             "label": "地名",
                             "value": "伊勢"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "形態分類",
+                            "value": "Ｗ"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-2-110"
                         }
                     ]
                 }

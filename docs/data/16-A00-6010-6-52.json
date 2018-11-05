@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-6-52.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-6-52.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-6-52.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-6-52.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,52 +18,52 @@
                     "label": "16-A00-6010-6-52",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "24.0×11.5　羊育方書１冊３分、草木培養書１冊１両３分、同１冊１両１分２朱と墨書あり"
-                        },
-                        {
-                            "label": "月",
-                            "value": "7"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": "18650007024"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔長崎会所受取書〕"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "10"
-                        },
-                        {
-                            "label": "日",
-                            "value": "24"
+                            "label": "書誌事項",
+                            "value": "24.0×11.5　羊育方書１冊３分、草木培養書１冊１両３分、同１冊１両１分２朱と墨書あり"
                         },
                         {
                             "label": "年号",
                             "value": "慶応１"
                         },
                         {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-6-52"
+                            "label": "和暦",
+                            "value": "慶応1年7月24日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔長崎会所受取書〕"
                         },
                         {
                             "label": "地名",
                             "value": "江戸・肥前"
                         },
                         {
-                            "label": "和暦",
-                            "value": "慶応1年7月24日"
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-6-52"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "月",
+                            "value": "7"
+                        },
+                        {
+                            "label": "日",
+                            "value": "24"
                         }
                     ]
                 }

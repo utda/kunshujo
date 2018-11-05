@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/16-A00-6010-1-30.json",
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-1-30.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/16-A00-6010-1-30.json/range1",
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-1-30.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
@@ -18,6 +18,26 @@
                     "label": "16-A00-6010-1-30",
                     "metadata": [
                         {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-30"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
                             "label": "地名",
                             "value": "尾張"
                         },
@@ -26,40 +46,20 @@
                             "value": "1"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "菊屋兼題"
+                        },
+                        {
                             "label": "数量",
                             "value": "１枚"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "安政６"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18590001099"
                         },
                         {
                             "label": "書誌事項",
                             "value": "15.3×39.8　毎月六之日、会始正月十六日、二首懐紙、正月は瀧音知春他２題、１２月は海辺雪他２題"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "菊屋兼題"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-1-30"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "10"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政6年1月"
                         }
                     ]
                 }
