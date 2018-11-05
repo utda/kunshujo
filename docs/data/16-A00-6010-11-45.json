@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-11-45.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-11-45.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p45#xywh=1129,735,4822,3738",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-45",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "23.6×29.2　「泰平の世に生れたる持まるの庫におさむる四海なみせん、身なりにもいとはずかせぐびたせんを老若ともにこれを尊む」と狂歌あり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "１１？"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18600011199"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔銭相場戯画〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "6"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "万延１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-45"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "万延1年11?月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

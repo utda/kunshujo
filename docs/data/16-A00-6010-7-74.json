@@ -1,0 +1,78 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-74.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-74.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p45#xywh=1002,772,2586,3708",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-74",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "15.8×18.2　田中芳男宛、摺物に書き込む形式のもの、紙包２ツ、飯田田中大助宛、同大蔵屋金助宛、５５２文済、右に５月７日着の書付（15.5×3.0）あり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "2"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18670002019"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔馬壹伏見屋庄左衛門請取書〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "日",
+                            "value": "19"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "慶応３"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-74"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "慶応3年2月19日"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

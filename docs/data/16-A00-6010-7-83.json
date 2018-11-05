@@ -1,0 +1,78 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-83.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-83.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p52#xywh=1010,727,5084,3708",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-83",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "23.0×31.0"
+                        },
+                        {
+                            "label": "月",
+                            "value": "11"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18540011004"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "大地震大津浪之図"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "2"
+                        },
+                        {
+                            "label": "日",
+                            "value": "4"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-83"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政1年11月4日"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

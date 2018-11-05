@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-115.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-115.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p18#xywh=3272,683,2628,3408",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-115",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.8×16.7　尾府青樹園如仙宗匠評、７句１組入価３５孔、２組以上３０穴ツツ、１組以下并不料不受、巻本東陽連、玉句届所本町札之辻晴月堂卯兵衛、坂上町翠屋政右衛門、毎月１５日締、翌月９日までに返草、遅着月送り、正月ははつ春、左義長、余寒、柳、鶯"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔安政６己未年月次発句合兼題〕"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-115"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-61.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-61.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p37#xywh=949,662,2669,3719",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-61",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "16.0×22.2"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18650099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔慶長五年以降干支年号一覧〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "14"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "慶応１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-61"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "慶応1年"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-101.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-101.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p16#xywh=1923,492,4095,2795",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-101",
+                    "metadata": [
+                        {
+                            "label": "日",
+                            "value": "6"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "月",
+                            "value": "4"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590004006"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.8×20.5　１升に付、松楽印２匁７分、鶴亀印２匁"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋桑名町２丁目知多郡酒売捌所加見屋常三郎店開店口演〕"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-101"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年4月6日"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

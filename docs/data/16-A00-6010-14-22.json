@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-14-22.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-14-22.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p27#xywh=872,854,5598,4122",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-22",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "25.0×34.0　博覧会事務局、於山下御門内博物館、３月１日より５０日間、「博物館及諸家珍蔵新古之物品ヲ陳列シ普ク衆人ノ来観ヲ許ス」"
+                        },
+                        {
+                            "label": "月",
+                            "value": "2"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18740002099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔博覧会案内〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "明治７"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-14-22"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治7年2月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@label": "捃拾帖 十四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

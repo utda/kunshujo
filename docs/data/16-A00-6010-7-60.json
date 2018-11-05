@@ -1,0 +1,78 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-60.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-60.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p37#xywh=3725,691,2326,3518",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-60",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "14.0×21.0　「癸亥年甲子月」とある故、文久３年１１月とする、楊大キン（日偏に斤）撰、開物社刊、和洋暦"
+                        },
+                        {
+                            "label": "月",
+                            "value": "11"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "θ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18630011099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "文久四年甲子暦"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "4"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久３"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-60"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久3年11月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

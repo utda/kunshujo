@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-141.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-141.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p22#xywh=1810,407,3274,1913",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-141",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.4×19.0　丹鶴書院執事集録とあり、よみ手は常典、義路、若君、勝敬君、朝臣（忠央か）、吉順君、祐順君、衛由、忠季君、忠制君、政恒、春野の１２名"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔丹鶴書院新春詠草摺物〕"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-141"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-42.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-42.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p25#xywh=995,705,2534,3536",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-42",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "15.0×21.2　東都鉄炮洲船松町２丁目長崎会所、朝５ツ時～夕７ツ時、休日、毎月一六の日、五節句前日当日、７月１３日～１６日、１２月２０日～正月１２日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔長崎会所定〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-42"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸・肥前"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

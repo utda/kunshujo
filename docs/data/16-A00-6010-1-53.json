@@ -1,0 +1,82 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-53.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-53.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p9#xywh=982,524,2979,2304",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-53",
+                    "metadata": [
+                        {
+                            "label": "日",
+                            "value": "11"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590003011"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.2×19.4　於竹ケ鼻本覚寺、会主武山霞岳、集所竹ケ鼻新町亀屋新助、名古屋本町２丁目揮雲堂、補助風外他２７名"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔書画会案内〕"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-53"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年3月11日"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

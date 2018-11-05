@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-173.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-173.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p31#xywh=3333,440,2758,3885",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-173",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.0×7.5　但し内容は異る、「百物かたり」、「しやうしの内にしかける也」「此竹らうそくの上より二分計下にさす也」と蝋絵のやり方を記している"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "ゆうれいらうえ"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-173"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "15"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

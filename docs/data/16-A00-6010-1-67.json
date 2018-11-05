@@ -1,0 +1,133 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-67.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-67.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=827,445,2217,2761",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-67",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×24.2　角芝居東隣り芝居茶屋よど屋治兵衛・日本橋北詰西へ入宿屋金国堂連名のもの、６６（営業）を参照のこと、角芝居・中芝居の配役名あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪竹田中角其他諸芝居類焼後正月より復興につき口伸〕"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-67"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "11"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=4194,427,1725,2786",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-67",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×24.2　角芝居東隣り芝居茶屋よど屋治兵衛・日本橋北詰西へ入宿屋金国堂連名のもの、６６（営業）を参照のこと、角芝居・中芝居の配役名あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪竹田中角其他諸芝居類焼後正月より復興につき口伸〕"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-67"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "11"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

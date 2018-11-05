@@ -1,0 +1,243 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-11-35.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-11-35.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p33#xywh=1040,742,4987,3641",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-35",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "22.0×30.5が４枚　馬道二丁目森屋治兵衛、細工人千切斎金房、浅草奧山にて興行、「申三」改印あり、２～４枚目はカンカンノウの歌詞とふりつけの図、「申４月吉日千秋万歳」とあり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18600003099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "長崎下りカンカンノウケン・長サ８間余大虎見世物案内"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "万延１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-35"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "万延1年3月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p34#xywh=1045,740,5006,3667",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-35",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "22.0×30.5が４枚　馬道二丁目森屋治兵衛、細工人千切斎金房、浅草奧山にて興行、「申三」改印あり、２～４枚目はカンカンノウの歌詞とふりつけの図、「申４月吉日千秋万歳」とあり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18600003099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "長崎下りカンカンノウケン・長サ８間余大虎見世物案内"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "万延１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-35"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "万延1年3月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p35#xywh=1020,755,5052,3692",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-35",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "22.0×30.5が４枚　馬道二丁目森屋治兵衛、細工人千切斎金房、浅草奧山にて興行、「申三」改印あり、２～４枚目はカンカンノウの歌詞とふりつけの図、「申４月吉日千秋万歳」とあり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18600003099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "長崎下りカンカンノウケン・長サ８間余大虎見世物案内"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "万延１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-35"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "万延1年3月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p36#xywh=1015,815,5088,3592",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-35",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "22.0×30.5が４枚　馬道二丁目森屋治兵衛、細工人千切斎金房、浅草奧山にて興行、「申三」改印あり、２～４枚目はカンカンノウの歌詞とふりつけの図、「申４月吉日千秋万歳」とあり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18600003099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "長崎下りカンカンノウケン・長サ８間余大虎見世物案内"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "万延１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-35"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "万延1年3月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

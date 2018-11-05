@@ -1,0 +1,125 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-1-154.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-1-154.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p25#xywh=799,412,4172,2909",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-154",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "大阪・尾張"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.8×48.0　御用飴コウ（米偏に羔）糖司波多野丹波藤原久保謹製、製法釜元諸国積送所大阪中之島船津橋南詰万歳舎本店、売弘所名古屋本町１丁目玉屋兵右衛門、同杉の町通七間町東之入日野屋治兵衛"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "浪華名製万歳飴引札"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-154"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p26#xywh=2096,451,3907,2806",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-154",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "大阪・尾張"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.8×48.0　御用飴コウ（米偏に羔）糖司波多野丹波藤原久保謹製、製法釜元諸国積送所大阪中之島船津橋南詰万歳舎本店、売弘所名古屋本町１丁目玉屋兵右衛門、同杉の町通七間町東之入日野屋治兵衛"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "浪華名製万歳飴引札"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-154"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
+                "@label": "捃拾帖 一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

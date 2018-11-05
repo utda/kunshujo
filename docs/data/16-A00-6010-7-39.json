@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-39.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-39.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p24#xywh=3717,548,2526,3925",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-39",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "16.0×24.5　さうどくねきりくすり、泉州佐野水野氏、元売弘所日本橋通１丁目金物店朝日屋要助、鉄炮洲本湊町雪踏店松木屋勘兵衛、高砂町横町金物店河内屋安兵衛、神奈川宿追分酒店松木屋伊八"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "真珠妙応丸引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-39"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "和泉・江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

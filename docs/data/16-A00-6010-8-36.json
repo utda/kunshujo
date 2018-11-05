@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-8-36.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-8-36.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/canvas/p14#xywh=814,488,1000,2505",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-8-36",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "14.5×4.5"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18690199099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪新町橋□詰東□うぶけや喜之助鋏所引札〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "明治２？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-8-36"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2?年"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/manifest",
+                "@label": "捃拾帖 八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

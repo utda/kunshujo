@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-63.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-63.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p38#xywh=987,765,2526,3603",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-63",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "14.9×21.8　壬戌正月江東川口カク（羽の下に高）、２月に「送人之英法諸国序」、３月に「読連邦志略」、４月に「撰請開新報局疏」などあり"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620001099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "例月詩文会課題"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-63"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2年1月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

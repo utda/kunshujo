@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/text/json/16-A00-6010-7-25.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/text/json/16-A00-6010-7-25.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p15#xywh=972,593,5294,3932",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-7-25",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "15.5×24.0,15.5×24.5　「わんわんころりはとめどがない、犬ではおいしやがもうからない」とあり、犬の「コロリ」流行は文久元年８月故、この月とする"
+                        },
+                        {
+                            "label": "月",
+                            "value": "8"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18610008099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "ないものづくし上下"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "6"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久１"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-7-25"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久1年8月"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@label": "捃拾帖 七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
