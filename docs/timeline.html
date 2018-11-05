@@ -70,7 +70,7 @@
 
   var width = arg["width"] != null ? arg["width"] : 20;
 
-  var dateUrl = "assets/json/timeline.json"
+  var dateUrl = "data/timeline.json"
 
   jQuery(document).ready(function() {
 
@@ -99,7 +99,7 @@
   function search() {
 
     $.ajax({
-      url:'assets/json/data.json',
+      url:'data/data.json',
       type:'GET'
     })
     .then(
