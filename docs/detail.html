@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <title>『捃拾帖』デジタル展示</title>
+
+  <script src="./assets/js/main.js"></script>
+
+  <script>asset('./');</script>
+
+</head>
+<body>
+
+  <script>header('./');</script>
+
+  <div class="container my-5">
+
+    <h3 id="title" class="mb-5"></h3>
+
+    <div class="row">
+      <div class="col-md-8" id="left" style="display : none;">
+
+        <!--
+        <iframe id="image"
+        class="mb-5"
+        allowfullscreen frameborder="0"
+        width="100%"
+        height="600"></iframe>
+      -->
+    </div>
+    <div class="col-md-4">
+      <div id="metadata" class="ml-2">
+      </div>
+    </div>
+  </div>
+
+  <div class="my-5">
+    <h3 class="">類似画像：Similar images</h3>
+    <p class="mb-4">Powered by <a href="http://www.lire-project.net/">LIRE - Open Source Visual Information Retrieval</a></p>
+
+    <div class="form-row mb-4">
+      <div class="col">
+        <!-- First name -->
+        <label for="exampleForm2">特徴：Search feature</label>
+        <select class="form-control input" id="field">
+          <option value="jc">色+形状：JCD（joined descriptor of CEDD and FCTH）</option>
+          <option value="cl">色：ColorLayout</option>
+          <option value="ph">形状：PHOG (pyramid histogram of oriented gradients)</option>
+          <!-- <option value="eh">EdgeHistogram</option> -->
+        </select>
+      </div>
+      <div class="col">
+        <!-- Last name -->
+        <label for="exampleForm2">検索結果数：# Results</label>
+        <input type="text" id="rows" class="form-control input" value=100 placeholder="Last name">
+      </div>
+    </div>
+
+
+    <div class="row my-5" id="simDiv">
+    </div>
+  </div>
+
+</div>
+
+<script>footer('./');</script>
+
+<script>
+
+map = {}
+map["http://purl.org/dc/terms/type"] = "版"
+map["http://purl.org/dc/terms/subject"] = "内容"
+map["http://purl.org/dc/terms/spatial"] = "地名"
+map["http://purl.org/dc/terms/identifier"] = "目録番号"
+map["http://purl.org/dc/terms/extent"] = "枚数"
+map["http://purl.org/dc/terms/format"] = "形態"
+map["http://purl.org/dc/terms/date"] = "西暦"
+map["http://purl.org/dc/terms/description"] = "書誌事項"
+
+var id;
+
+jQuery(document).ready(function() {
+
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
+
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
+  }
+
+  var resourceUri;
+  //var pos;
+
+  id = arg["id"]
+  var field = arg["field"] ? arg["field"] : "jc"
+  $("#field").val(field)
+
+  var query = " SELECT distinct *";
+  query += " where { ";
+  query += " ?s ?p ?o . ";
+  query += " ?s dcterms:identifier '"+id+"' . ";
+  query += " } order by ?p "
+
+  $.ajax({
+    url:'https://dydra.com/ut-digital-archives/tanaka2/sparql',
+    type:'POST',
+    data:{
+      query : query,
+      format : "json"
+    }
+  })
+  // Ajaxリクエストが成功した時発動
+  .done( (data) => {
+    var result = data.results.bindings;
+
+    for (var i = 0; i < result.length; i++) {
+      var obj = result[i];
+
+      if(obj.p.value == "http://purl.org/dc/terms/relation"){
+        resourceUri = obj.o.value
+        $("#left").show()
+        /*
+        if(obj.o.value.indexOf("#") != -1){
+        pos = obj.o.value.split("#")[1]
+      } else {
+      pos = ""
+      $("#left").hide()
+    }
+    */
+  }
+
+  p = obj.p.value
+  label = map[p]
+
+  if(p == "http://purl.org/dc/terms/title"){
+    $("#title").text(obj.o.value)
+  } else if(p == "http://purl.org/dc/terms/spatial"){
+    row = $('<dl>')
+    $("#metadata").append(row)
+
+    dt = $('<dt>')
+    row.append(dt)
+    dt.append(label)
+
+    dd = $('<dd>')
+    row.append(dd)
+    dd.append(obj.o.value.replace("http://ja.dbpedia.org/resource/", ""))
+  } else if(p == "http://xmlns.com/foaf/0.1/thumbnail"){
+    var img = $('<img class="img-fluid z-depth-1 mb-5 mx-auto d-block">')
+    $("#left").append(img)
+    img.attr("src", obj.o.value)
+  } else if(p == "http://purl.org/dc/terms/tableOfContents" || p == "http://purl.org/dc/terms/relation"){
+
+  } else {
+    row = $('<dl>')
+    $("#metadata").append(row)
+
+    dt = $('<dt>')
+    row.append(dt)
+    dt.append(label)
+
+    dd = $('<dd>')
+    row.append(dd)
+
+    if(label != "目録番号"){
+      /*
+      var a = $("<a>")
+      a.attr("href", "table2.html?"+obj.p.value.replace("http://purl.org/dc/terms/", "").replace("date", "year")+"="+obj.o.value)
+      a.append(obj.o.value)
+      dd.append(a)
+      */
+      dd.append(obj.o.value)
+    } else {
+      dd.append(obj.o.value)
+
+      get_sim_images(obj.o.value)
+    }
+
+  }
+}
+
+if(resourceUri != ""){
+  row = $('<dl>')
+  $("#metadata").append(row)
+
+  dd = $('<dd class="mt-5">')
+  row.append(dd)
+
+  var a = $("<a>")
+  dd.append(a)
+  a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-player/demo/?curation="+resourceUri)
+
+  var img = $("<img>")
+  a.append(img)
+  img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
+
+  a.append("&nbsp;&nbsp;&nbsp;IIIF Curation Playerで見る")
+}
+
+})
+// Ajaxリクエストが失敗した時発動
+.fail( (data) => {
+  alert(data.statusText);
+})
+// Ajaxリクエストが成功・失敗どちらでも発動
+.always( (data) => {
+  $("#loading").empty()
+});
+})
+
+function get_sim_images(id){
+
+  var field = $("#field").val()
+  var rows = $("#rows").val()
+
+  var url = 'http://localhost:8983/solr/lire/lireq?ms=false&fl=*&field='+field+'&id='+id+'&rows='+(Number(rows)+1)+'&accuracy=0.35&candidates=1000'
+  //url = url.replace("?", "&amp;")
+  url = encodeURIComponent(url)
+
+  var url = 'http://localhost/api/ajax.php?url='+url
+
+  $.ajax({
+    url: url,
+    type:'GET',
+    dataType: 'json'
+  })
+  // Ajaxリクエストが成功した時発動
+  .done( (data) => {
+
+    var result = data["docs"]
+
+    var div = $("#simDiv")
+    div.empty()
+
+    for(var i = 1; i < result.length; i++){
+      var obj = result[i];
+
+      var imgurl = obj.imgurl.replace(",300", ",150")
+
+      var col = $('<div class="col-md-3">')
+      div.append(col)
+
+      var figure = $('<figure class="figure">')
+      col.append(figure);
+
+      var a = $("<a>");
+      figure.append(a)
+      a.attr("href", "detail.html?id="+obj.id+"&field="+field)
+
+      var img = $('<img class="figure-img img-fluid rounded z-depth-1">')
+      a.append(img)
+      img.attr("src", imgurl)
+
+      var figcaption = $('<figcaption class="figure-caption">')
+      figure.append(figcaption)
+      figcaption.append("["+i+"] "+obj.title/*+"<br/>d:"+obj.d*/)
+    }
+
+  })
+  // Ajaxリクエストが失敗した時発動
+  .fail( (data) => {
+    alert(data.statusText);
+  })
+  // Ajaxリクエストが成功・失敗どちらでも発動
+  .always( (data) => {
+    $("#loading").empty()
+  });
+}
+$('.input').change(function() {
+  get_sim_images(id)
+});
+
+</script>
+</body>
+</html>

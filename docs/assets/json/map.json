@@ -1,0 +1,1082 @@
+[
+  {
+    "@id": "http://ja.dbpedia.org/resource/丹波国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "丹波国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.070000"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.552500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/遠江国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "遠江国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.726666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "137.857500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/山城国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "山城国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.021111"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.755277"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/東京",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "東京"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.676666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.762222"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/肥前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "肥前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "33.316666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "130.273333"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/美作国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "美作国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.073888"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "133.993888"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/上総国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "上総国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.496388"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.111388"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/和泉国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "和泉国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.487222"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.426111"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/伊賀国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伊賀国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.802500"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "136.156944"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/陸奥国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "陸奥国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "40.822500"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.746944"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/紀伊国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "紀伊国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.226944"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.166666"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/豊前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "豊前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "33.671111"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "130.971111"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/北海道",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "北海道"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "43.064166"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "141.347777"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/下野国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "下野国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.379444"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.785000"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/丹後国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "丹後国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.386666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.117222"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/常陸国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "常陸国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.189444"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.268333"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/横浜",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "横浜"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.445000"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.641944"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/但馬国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "但馬国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.470000"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "134.767500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/駿河国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "駿河国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.990833"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "138.383888"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/武蔵国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "武蔵国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.669166"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.481111"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/尾張国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "尾張国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.254722"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "136.799722"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/羽後国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "羽後国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "39.720555"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.102500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/近江国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "近江国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.003888"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.868333"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/磐城国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "磐城国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "37.059722"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.889722"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/伊豆国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伊豆国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.118888"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "138.918611"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/三河国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "三河国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.949166"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "137.168055"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/越中国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "越中国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.792777"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "137.052500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/下総国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "下総国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.743333"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.905277"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/肥後国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "肥後国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "32.790277"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "130.741388"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/備中国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "備中国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.683055"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "133.773888"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/因幡国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "因幡国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.500833"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "134.234166"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/大和国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大和国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.448611"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.799444"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/備前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "備前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.693055"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "133.963888"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/江戸",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "江戸"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.676666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.762222"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/豊後国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "豊後国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "33.238055"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "131.612500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/岩代国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "岩代国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "37.750833"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.467500"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/土佐国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "土佐国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "33.598611"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "133.641388"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/讃岐国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "讃岐国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.293333"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "133.918333"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/筑前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "筑前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "33.606111"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "130.417777"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/越前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "越前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.901666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "136.166111"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/京都",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "京都"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.025000"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.761388"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/安芸国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "安芸国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.399722"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "132.509444"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/陸前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "陸前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "38.306388"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.988055"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/加賀国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "加賀国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.558888"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "136.610277"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/大阪",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "大阪"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": 34.662762
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": 135.572854
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/薩摩国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "薩摩国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "31.831944"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "130.305833"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/甲斐国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "甲斐国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.638611"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "138.650833"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/名古屋",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "名古屋"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": 35.170915
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": 136.881537
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/摂津国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "摂津国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.671944"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "135.499722"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/伊勢国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "伊勢国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.894444"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "136.496111"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/佐渡国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "佐渡国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "38.033611"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "138.239444"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/信濃国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "信濃国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.654722"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "138.180277"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/美濃国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "美濃国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "35.380833"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "136.525000"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/備後国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "備後国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.574166"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "133.240555"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/阿波国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "阿波国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.066944"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "134.471666"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/羽前国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "羽前国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "38.256666"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "140.341111"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/飛騨国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "飛騨国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.142777"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "137.253888"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/上野国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "上野国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "36.390000"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.035833"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/越後国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "越後国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "37.902222"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "139.022777"
+      }
+    ]
+  },
+  {
+    "@id": "http://ja.dbpedia.org/resource/播磨国",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "播磨国"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "34.833888"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "134.696388"
+      }
+    ]
+  }
+]

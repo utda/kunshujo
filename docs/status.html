@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <title>『捃拾帖』デジタル展示</title>
+
+  <script src="./assets/js/main.js"></script>
+
+
+  <script>asset('./');</script>
+
+</head>
+<body>
+
+  <script>header('./');</script>
+
+  <div class="container py-2 my-5">
+
+    <div id="container" class="my-5"></div>
+
+    <div class="text-center" id="loading">
+      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+    </div>
+
+
+  </div>
+
+  <script>footer('./');</script>
+
+
+  <script>
+
+  var dcterms = "http://purl.org/dc/terms/"
+  var foaf = "http://xmlns.com/foaf/0.1/"
+
+  jQuery(document).ready(function() {
+
+    $.ajax({
+      url:'assets/json/data.json'
+    })
+    .then(
+      // 1つめは通信成功時のコールバック
+      function (result) {
+
+        var pos = {}
+        var neg = {}
+
+        var categories = []
+
+        for(var i = 1; i <= 15; i++){
+          pos[i] = 0
+          neg[i] = 0
+          categories.push("第"+i+"冊")
+        }
+
+        for (var i = 0; i < result.length; i++) {
+
+          var obj = result[i];
+
+          var id = Number(obj[dcterms+"identifier"][0]["@value"].split("-")[3])
+
+          if(obj[foaf+"thumbnail"]){
+            pos[id] = pos[id] + 1
+          } else {
+            neg[id] = neg[id] + 1
+          }
+
+        }
+
+      var series = []
+
+      var p = {}
+      series.push(p)
+      p.name="キュレーション済み"
+      p_arr = []
+      p.data = p_arr
+
+      for(var key in pos){
+        p_arr.push(pos[key])
+      }
+
+      var n = {}
+      series.push(n)
+      n.name="未対応"
+      n_arr = []
+      n.data = n_arr
+
+      for(var key in neg){
+        n_arr.push(neg[key])
+      }
+
+      Highcharts.chart('container', {
+        chart: {
+          type: 'column'
+        },
+        title: {
+          text: 'キュレーション進捗状況'
+        },
+        xAxis: {
+          categories: categories,
+          title: {
+            text: '冊'
+          }
+        },
+        yAxis: {
+          min: 0,
+          title: {
+            text: '進捗割合'
+          }
+        },
+        tooltip: {
+          pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> ({point.percentage:.0f}%)<br/>',
+          shared: true
+        },
+        plotOptions: {
+          column: {
+            stacking: 'percent'
+          }
+        },
+        series: series
+      });
+
+
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+  ).always(function() {
+    $("#loading").empty()
+  });
+
+})
+
+</script>
+</body>
+</html>

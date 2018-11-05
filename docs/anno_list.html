@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <title>『捃拾帖』デジタル展示</title>
+
+  <script src="./assets/js/main.js"></script>
+
+
+  <script>asset('./');</script>
+
+</head>
+<body>
+
+  <script>header('./');</script>
+
+  <div class="container py-2 my-5">
+
+    <h3 class="text-center">アノテーション付与プロジェクト</h3>
+
+    <div class="table-responsive my-5">
+      <table class="table table-hover" id="table">
+        <thead id="thead">
+          <tr>
+            <th></th>
+            <th>Title</th>
+            <th>Publisher</th>
+            <th>#</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="resourceListBody">
+        </tbody>
+      </table>
+    </div>
+
+    <div class="text-center" id="loading">
+      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+    </div>
+
+
+  </div>
+
+  <script>footer('./');</script>
+
+
+  <script>
+  jQuery(document).ready(function() {
+
+    var url = "assets/json/rows.json"
+
+    $.getJSON( url, function( rows ) {
+
+      url = "https://diyhistory.org/public/omekac/api/collections"
+
+      $.getJSON( url, function( data ) {
+
+        for(i = 0; i < data.length; i++){
+          obj = data[i]
+          id = obj.id
+
+          var title;
+          var publisher;
+          var id;
+
+          et = obj["element_texts"]
+          for(j = 0; j < et.length; j++){
+            e = et[j]
+            if(e.element.id == 50){
+              title = e.text
+            } else if(e.element.id == 45){
+              publisher = e.text
+            } else if(e.element.id == 38){
+              id = e.text
+            }
+          }
+          var tr = $("<tr>");
+          $("#resourceListBody").append(tr)
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(id)
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(title)
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(publisher)
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(rows[id])
+
+          var td = $("<td>");
+          tr.append(td)
+          var a = $("<a>")
+          td.append(a)
+          a.attr("href", "anno_edit.html?resourceId="+obj.id+"&vol="+id)
+          a.append('<i class="fas fa-edit"></i>')
+        }
+
+        // DataTable
+        var table = $('#table').DataTable({
+          "iDisplayLength" : 100
+        });
+
+        // Apply the search
+        table.columns().every( function () {
+          var that = this;
+
+          $( 'input', this.header() ).on( 'keyup change', function () {
+            if ( that.search() !== this.value ) {
+              that
+              .search( this.value )
+              .draw();
+            }
+          } );
+        } );
+
+      })
+
+      // Ajaxリクエストが失敗した時発動
+      .fail( (data) => {
+        alert(data.statusText);
+      })
+      // Ajaxリクエストが成功・失敗どちらでも発動
+      .always( (data) => {
+        $("#loading").empty()
+      });
+    })
+  });
+
+  </script>
+</body>
+</html>

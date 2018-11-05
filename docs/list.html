@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <title>『捃拾帖』デジタル展示</title>
+
+  <script src="./assets/js/main.js"></script>
+
+  <script>asset('./');</script>
+
+</head>
+<body>
+
+  <script>header('./');</script>
+
+  <div class="container my-5">
+
+
+
+    <form>
+
+
+      <div class="md-form input-group">
+        <input type="text" class="form-control" placeholder="検索" name="q" id="q">
+        <div class="input-group-append">
+          <button type="submit" class="btn btn-primary waves-effect m-0"><i class="fa fa-search"></i></button>
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <div class="col-sm-12">
+
+        </div>
+      </div>
+      <div class="form-group row">
+        <div class="col-sm-10">
+
+        </div>
+      </div>
+    </form>
+
+    <div class="text-center" id="loading">
+      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+    </div>
+
+    <div class="row my-5" id="row"></div>
+
+    <nav aria-label="Page navigation example">
+      <ul class="pagination justify-content-center" id="pagination">
+
+      </ul>
+    </nav>
+
+  </div>
+
+  <script>footer('./');</script>
+
+
+  <script>
+  jQuery(document).ready(function() {
+
+    var arg  = new Object;
+    url = location.search.substring(1).split('&');
+
+    for(i=0; url[i]; i++) {
+      var k = url[i].split('=');
+      arg[k[0]] = decodeURIComponent(k[1]);
+    }
+
+    var q = arg["q"] != null ? arg["q"] : "";
+    $("#q").val(q);
+
+    var locationUri = arg["locationUri"] != null ? arg["locationUri"] : "";
+
+    var year = arg["year"] != null ? arg["year"] : "";
+
+    jQuery.ajaxSetup({
+      cache : false
+    });
+
+    var page = 1
+    if(arg["page"]){
+      page = Number(arg["page"])
+    }
+
+    var start = page - 3 < 0 ? 0 : page -3
+
+    for(var i = start; i < page + 2; i++){
+      var li = $("<li>")
+      $("#pagination").append(li)
+
+
+      if(i+1 == page){
+        li.attr("class", "page-item active")
+      } else {
+        li.attr("class", "page-item")
+      }
+
+      var a = $("<a>");
+      li.append(a)
+      a.attr("class", "page-link")
+      link = "?"
+      if(q!=""){
+        link += "q="+q+"&"
+      }
+      if(locationUri!=""){
+        link += "locationUri="+locationUri+"&"
+      }
+      if(year!=""){
+        link += "year="+year+"&"
+      }
+      link += "page="+(i+1)
+      a.attr("href", link);
+      a.append(i+1)
+    }
+
+    var unit = 40
+
+    var query = " SELECT distinct ?s ?title ?thumb ";
+    query += " where { ";
+    query += " ?s dcterms:title ?title . ";
+    if(q != ""){
+      query += " ?s ?p ?o . filter regex (?o, '"+q+"', 'i')";
+    }
+    if(locationUri != ""){
+      query += " ?s dcterms:spatial <"+locationUri+"> . ";
+    }
+    if(year != ""){
+      query += " ?s dcterms:date '"+year+"' . ";
+    }
+    query += " ?s dcterms:tableOfContents ?toc . ";
+    query += " optional { ?s foaf:thumbnail ?thumb . } ";
+    query += " } order by ?toc ";
+    query += " limit "+unit;
+    query += " offset "+(page - 1)*unit;
+
+    var array = new Array();
+
+    $.ajax({
+      url:'https://dydra.com/ut-digital-archives/tanaka/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var col = $("<div class='col-md-3'>")
+        $("#row").append(col)
+
+        var a = $("<a>")
+        col.append(a)
+        a.attr("href", "detail.html?curation="+obj.s.value.replace("#", "&pos="))
+
+        var figure = $('<figure class="figure">')
+        a.append(figure)
+
+        var img = $('<img class="figure-img img-fluid z-depth-1">')
+        figure.append(img)
+        if(obj.thumb){
+          img.attr("src", obj.thumb.value)
+        } else {
+          img.attr("src", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQd_xAOzY_r1Ks1qviqM5J_R3pJK7nDUcCFqWZnzdrM1physC1g")
+        }
+
+
+        var caption = $('<figcaption class="figure-caption">')
+        figure.append(caption)
+        caption.append(obj.title.value)
+
+
+      }
+
+
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+  })
+
+  </script>
+</body>
+</html>

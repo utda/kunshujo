@@ -1,0 +1,62 @@
+
+<header>
+  <!--Navbar-->
+  <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="./">電子展示『捃拾帖』</a>
+
+      <!-- Collapse -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Links -->
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+        <!-- Left -->
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item" id="tableli">
+            <a class="nav-link" href="table.html">一覧</a>
+          </li>
+          <li class="nav-item" id="mapli">
+            <a class="nav-link" href="map.html">地図</a>
+          </li>
+          <li class="nav-item" id="timelineli">
+            <a class="nav-link" href="timeline.html">年表</a>
+          </li>
+          <li class="nav-item" id="aboutli">
+            <a class="nav-link" href="about.html">このサイトについて</a>
+          </li>
+          <li class="nav-item" id="statusli">
+            <a class="nav-link" href="status.html">進捗状況</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="assets/json/data.json">データ</a>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </nav>
+  <!--/.Navbar-->
+
+</header>
+
+<script>
+  if(location.pathname.indexOf("list.html") != -1){
+    $("#listli").addClass("active")
+  } if(location.pathname.indexOf("map.html") != -1){
+    $("#mapli").addClass("active")
+  } if(location.pathname.indexOf("timeline.html") != -1){
+    $("#timelineli").addClass("active")
+  }　if(location.pathname.indexOf("table.html") != -1){
+    $("#tableli").addClass("active")
+  } if(location.pathname.indexOf("anno_") != -1){
+    $("#annoli").addClass("active")
+  } if(location.pathname.indexOf("about.html") != -1){
+    $("#aboutli").addClass("active")
+  } if(location.pathname.indexOf("status.html") != -1){
+    $("#statusli").addClass("active")
+  }
+
+</script>
