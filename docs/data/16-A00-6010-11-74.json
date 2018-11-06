@@ -18,20 +18,20 @@
                     "label": "16-A00-6010-11-74",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "7.2×7.6　JAPANESE SILK MANUFACTURES.とあり"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "和暦",
                             "value": "明治1?年"
                         },
                         {
-                            "label": "地名",
-                            "value": "不明"
+                            "label": "書誌事項",
+                            "value": "7.2×7.6　JAPANESE SILK MANUFACTURES.とあり"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "西暦コード",
+                            "value": 18680199099
                         },
                         {
                             "label": "内容分類",
@@ -42,16 +42,16 @@
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18680199099
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "タイトル",
                             "value": "日本絹物引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
                         }
                     ]
                 }

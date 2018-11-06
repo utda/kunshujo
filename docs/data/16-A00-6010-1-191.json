@@ -18,40 +18,28 @@
                     "label": "16-A00-6010-1-191",
                     "metadata": [
                         {
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        },
+                        {
                             "label": "タイトル",
                             "value": "〔篆書３顆〕"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": NaN
-                        },
-                        {
-                            "label": "版種類",
-                            "value": NaN
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": NaN
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
                         },
                         {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         },
                         {
-                            "label": "数量",
-                            "value": "３枚"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "３枚"
                         }
                     ]
                 }
