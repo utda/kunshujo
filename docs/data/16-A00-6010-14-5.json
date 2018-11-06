@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-14-5.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-14-5.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p4#xywh=862,482,2806,5405",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-5",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "33.0×40.3　博覧会事務局"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年2月"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": NaN
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": NaN
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720002099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔澳地利国博覧会出陳案内〕"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@label": "捃拾帖 十四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
