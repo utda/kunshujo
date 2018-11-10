@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-4-99.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-4-99.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p14#xywh=2700,2362,623,655",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-4-99",
+                    "metadata": [
+                        {
+                            "label": "書誌事項",
+                            "value": "4.0×4.0"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔岡やす製京菓子引札〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/manifest",
+                "@label": "捃拾帖 四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
