@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-15-26.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/16-A00-6010-15-26.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p15#xywh=877,690,1076,2788",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-26",
+                    "metadata": [
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔資生堂薬舗服薬指示書〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.0×5.5と8.5×6.1　飯田町２丁目九段坂上常灯台北隣５９番地資生堂、田中芳男宛、内用、用法１日６回に御分服、２日分、No.2720、2759　同様のもの２枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760099099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
