@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-14.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-14.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p10#xywh=1279,742,4748,3753",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-14",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "火事"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.5×28.0"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔飯倉５丁めより出火摺物〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久3年6月2日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18630006002
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

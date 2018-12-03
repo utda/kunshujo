@@ -1,0 +1,101 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-50.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-50.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p54#xywh=958,599,2647,1383",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-50",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.5×46.0　本来小型折本形式のもの"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "普門品"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p56#xywh=1651,598,4565,1386",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-50",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.5×46.0　本来小型折本形式のもの"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "普門品"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

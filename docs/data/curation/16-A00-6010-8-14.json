@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-8-14.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-8-14.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/canvas/p7#xywh=845,1227,966,3471",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-8-14",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.5×5.7　「西宮□造」とあって、「戎」の字の下に鯛の絵あり"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪大手通谷町西え入加茂屋直七戎引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18690199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/manifest",
+                "@label": "捃拾帖 八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

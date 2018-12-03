@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-66.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-66.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p24#xywh=3650,540,2182,1404",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-2-66",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.0×13.0　銅画発販所平安岡田水月堂、絵は東叡山、日光山、身延山、善光寺"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "新鐫木曽街道六十九駅掌覧"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/manifest",
+                "@label": "捃拾帖 二",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

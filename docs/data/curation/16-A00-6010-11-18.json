@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-18.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-18.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p14#xywh=1068,643,4811,3704",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-18",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.3×29.5が２枚"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "諸御大名様京都御屋鋪附"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久3年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18630001099
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-51.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-51.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p54#xywh=940,2027,2650,2582",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-51",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.8×39.3　田中与四郎様宛、５月１９日、白真岡２反代金、３２匁２分"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔松坂屋受取書〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p56#xywh=2324,2057,3862,2568",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-51",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.8×39.3　田中与四郎様宛、５月１９日、白真岡２反代金、３２匁２分"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔松坂屋受取書〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

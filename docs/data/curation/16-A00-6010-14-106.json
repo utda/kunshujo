@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-106.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-106.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p53#xywh=3715,1191,2808,3701",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-106",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "信濃"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.8×22.0　信州松代住伊勢町安寿軒、「信松代美濃左証印」の丸印あり、「信濃国埴科郡之銘品」あり、にはかそば、砂糖製俄そば、そばかんとあり"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "松代産蕎麦羹引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18750099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@label": "捃拾帖 十四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

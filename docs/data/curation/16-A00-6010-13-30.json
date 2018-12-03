@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-30.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-30.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p10#xywh=2783,1786,745,3161",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-13-30",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.0×4.5と5.5×4.2　京都戌亥とあり"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "高雄鳴瀧大極上本山小御刺刀砥引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@label": "捃拾帖 十三",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

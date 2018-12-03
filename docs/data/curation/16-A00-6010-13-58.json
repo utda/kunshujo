@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-58.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-58.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p27#xywh=3849,554,2896,4358",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-13-58",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.6×26.5　皇国銅鐫開基第二世玄玄堂松田緑山製、蘭香亭蔵版、明治三午年於東京出張所刻之"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "皇朝海内真形輿地図"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18700099099
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@label": "捃拾帖 十三",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

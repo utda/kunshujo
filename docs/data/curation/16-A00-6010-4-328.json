@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-328.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-328.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p39#xywh=3564,3105,1134,1402",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-4-328",
+                    "metadata": [
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.8×7.5　御伽羅之油元結、御紅おしろいとあり"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔芝金杉４丁目菊屋喜助万小間物類引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/manifest",
+                "@label": "捃拾帖 四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
