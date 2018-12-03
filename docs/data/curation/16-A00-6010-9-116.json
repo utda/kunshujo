@@ -1,0 +1,58 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-116.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-116.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p23#xywh=2301,641,4426,3256",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-9-116",
+                    "metadata": [
+                        {
+                            "label": "タイトル",
+                            "value": "万里迺空"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "19.7×17.9と19.7×9.0　飛騨素毛、１枚は色摺で気球の図、「帰朝の後其形ちを真実老師の筆に乞ひつたなき一句をのせて海内の知己に贈るになん、月ならて風船高し夕まくれ、斐太素毛」、遣米使節随行員の１人、但し取得は明治２年頃か"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "飛騨"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久1年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18610099099
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/manifest",
+                "@label": "捃拾帖 九",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
