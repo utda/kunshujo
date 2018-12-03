@@ -36,9 +36,9 @@
   </div>
 
   <script>footer('./');</script>
-
-  <script>
   
+  <script>
+
   jQuery(document).ready(function() {
 
     $.ajax({
@@ -51,6 +51,8 @@
         var items = new Array();
 
         var total = 0;
+
+        result = result["progress"]
 
         for(var key in result){
           var item = new Array();

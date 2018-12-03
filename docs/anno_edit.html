@@ -95,11 +95,11 @@
 
   function getAnno(){
 
-    var url = "data/rows.json"
+    var url = "data/progress.json"
 
     $.getJSON( url, function( data ) {
 
-      var rows = data[vol];
+      var rows = data["rows"][vol];
 
       $("#bar").attr("aria-valuemax", rows)
 

@@ -53,7 +53,7 @@
             <th>目録番号</th>
             <th>書誌事項</th>
             <th>枚数</th>
-            <th>西暦</th>
+            <!-- <th>西暦</th> -->
             <th>地名</th>
             <th>版<!--種類--></th>
             <th>形態<!--分類--></th>
@@ -111,7 +111,7 @@
       function (result) {
         var dataSet = []
 
-        arr = [dcterms+"description", dcterms+"extent", dcterms+"date", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
+        arr = [dcterms+"description", dcterms+"extent", /*dcterms+"date",*/ dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
 
         for (var i = 0; i < result.length; i++) {
 
@@ -119,20 +119,21 @@
 
           var obj = result[i];
 
-
-          if(!obj[dcterms+"spatial"] || (locationUri != "" && obj[dcterms+"spatial"] && obj[dcterms+"spatial"][0]["@id"] != locationUri)){
-            flg = false;
+          if(locationUri != ""){
+            if(!obj[dcterms+"spatial"] || ( obj[dcterms+"spatial"] && obj[dcterms+"spatial"][0]["@id"] != locationUri)){
+              flg = false;
+            }
           }
 
-
-          if(!obj[dcterms+"date"] || (year != "" && obj[dcterms+"date"] && obj[dcterms+"date"][0]["@value"] != year)){
-            flg = false;
+          if(year != ""){
+            if(!obj[dcterms+"date"] || ( obj[dcterms+"date"] && obj[dcterms+"date"][0]["@value"] != year)){
+              flg = false;
+            }
           }
 
           if(qid != "" && obj[dcterms+"identifier"][0]["@value"].indexOf(qid+"-") == -1){
             flg = false;
           }
-
 
           if(flg){
 
@@ -141,13 +142,15 @@
             row.push("")
 
             var img_div = $("<div>");
-            var img = $("<img class='img-fluid z-depth-1' height='90px'>")
+            var img = $("<img class='img-fluid' height='90px'>")
             img_div.append(img)
             if(obj[foaf+"thumbnail"]){
               img.attr("src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
               img.before("<span style='display : none;'>image,yes,on,true</span>");
+              img.addClass("z-depth-1")
             }　else {
-              img.attr("src", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQd_xAOzY_r1Ks1qviqM5J_R3pJK7nDUcCFqWZnzdrM1physC1g")
+              img.attr("src", "https://www.freeiconspng.com/uploads/no-image-icon-6.png")
+              //img.attr("src", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQd_xAOzY_r1Ks1qviqM5J_R3pJK7nDUcCFqWZnzdrM1physC1g")
             }
 
             row.push(img_div.prop('outerHTML'))
@@ -225,12 +228,12 @@
           { "width": "10%", "targets": 3 },
           { "width": "20%", "targets": 4 },
           { "width": "5%", "targets": 5 },
+          //{ "width": "5%", "targets": 6 },
           { "width": "5%", "targets": 6 },
           { "width": "5%", "targets": 7 },
           { "width": "5%", "targets": 8 },
-          { "width": "5%", "targets": 9 },
-          { "width": "10%", "targets": 10 },
-          { "width": "5%", "targets": 11 }
+          { "width": "15%", "targets": 9 },
+          { "width": "5%", "targets": 10 }
         ],
         fixedColumns: true
       });
