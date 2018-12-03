@@ -24,13 +24,19 @@
   <script>header('./');</script>
 
   <div class="container py-2 my-5">
-
-    <div id="container" class="my-5"></div>
+    
+    <dt>全体の進捗割合</dt>
+    <dd>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" id="bar" aria-valuemin="0"></div>
+      </div>
+    </dd>
 
     <div class="text-center" id="loading">
       <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
     </div>
 
+    <div id="container" class="my-5"></div>
 
   </div>
 
@@ -62,6 +68,9 @@
           categories.push("第"+i+"冊")
         }
 
+        var all = 0
+        var all_p = 0
+
         for (var i = 0; i < result.length; i++) {
 
           var obj = result[i];
@@ -73,8 +82,21 @@
           } else {
             neg[id] = neg[id] + 1
           }
-
         }
+
+        for(var i = 1; i <= 15; i++){
+          all += pos[i] + neg[i]
+          all_p += pos[i]
+        }
+
+        var ratio = Math.floor(all_p / all * 100)
+
+        $("#bar").attr("style", "width: "+ratio+"%")
+        $("#bar").attr("aria-valuenow", all)
+
+        var text = all_p + " / " + all + " ( "+ratio+" % ) "
+
+        $("#bar").text(text)
 
         var series = []
 
