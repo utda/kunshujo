@@ -43,6 +43,8 @@
       </table>
     </div>
 
+    <div id="container2" class="my-5"></div>
+
     <div class="text-center" id="loading">
       <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
     </div>
@@ -138,6 +140,77 @@
             }
           } );
         } );
+
+
+        var items = new Array();
+
+        var total = 0;
+
+        result = result["progress"]
+
+        for(var key in result){
+          var item = new Array();
+          item.push(Date.parse(key));
+          total = total + result[key];
+          item.push(total)
+          items.push(item)
+        }
+
+        // Build the chart
+        Highcharts.chart('container2', {
+          chart: {
+            zoomType: 'x'
+          },
+          title: {
+            text: ''
+          },
+          subtitle: {
+            text: document.ontouchstart === undefined ?
+            'Click and drag in the plot area to zoom in' : 'Pinch the chart to zoom in'
+          },
+          xAxis: {
+            type: 'datetime'
+          },
+          yAxis: {
+            title: {
+              text: ""//'No. of data'
+            }
+          },
+          legend: {
+            enabled: false
+          },
+          plotOptions: {
+            area: {
+              fillColor: {
+                linearGradient: {
+                  x1: 0,
+                  y1: 0,
+                  x2: 0,
+                  y2: 1
+                },
+                stops: [
+                  [0, Highcharts.getOptions().colors[0]],
+                  [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                ]
+              },
+              marker: {
+                radius: 2
+              },
+              lineWidth: 1,
+              states: {
+                hover: {
+                  lineWidth: 1
+                }
+              },
+            }
+          },
+
+          series: [{
+            type: 'area',
+            name: 'items',
+            data: items
+          }]
+        });
 
       })
 
