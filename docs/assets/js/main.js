@@ -36,3 +36,22 @@ function footer(rootDir){
     }
   });
 }
+
+function check(rootDir){
+  $.ajax({
+    url: rootDir + "include/check.html", // ディレクトリー変更
+    cache: false,
+    async: false,
+    dataType: 'html',
+    success: function(html){
+      html = html.replace(/\{\$root\}/g, rootDir);
+      document.write(html);
+    }
+  });
+}
+
+function show_modal(link, value){
+  $("#link").attr("href", link)
+  $("#value").text(value)
+  $('#myModal').modal()
+}

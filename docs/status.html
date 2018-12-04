@@ -24,7 +24,7 @@
   <script>header('./');</script>
 
   <div class="container py-2 my-5">
-    
+
     <dt>全体の進捗割合</dt>
     <dd>
       <div class="progress">
@@ -39,6 +39,8 @@
     <div id="container" class="my-5"></div>
 
   </div>
+
+  <script>check('./');</script>
 
   <script>footer('./');</script>
 
@@ -146,6 +148,18 @@
           plotOptions: {
             column: {
               stacking: 'percent'
+            },
+            series: {
+              cursor: 'pointer',
+              point: {
+                events: {
+                  click: function () {
+                    var v =  this.category.replace("第", "").replace("冊", "")
+                    var link = "table.html?property=http://purl.org/ontology/bibo/volume&value="+v
+                    show_modal(link, this.category)
+                  }
+                }
+              }
             }
           },
           series: series

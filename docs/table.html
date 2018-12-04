@@ -111,7 +111,7 @@
       function (result) {
         var dataSet = []
 
-        arr = [dcterms+"description", dcterms+"extent", /*dcterms+"date",*/ dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
+        var arr = [dcterms+"description", dcterms+"extent", /*dcterms+"date",*/ dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
 
         for (var i = 0; i < result.length; i++) {
 
@@ -119,154 +119,190 @@
 
           var obj = result[i];
 
-          if(locationUri != ""){
-            if(!obj[dcterms+"spatial"] || ( obj[dcterms+"spatial"] && obj[dcterms+"spatial"][0]["@id"] != locationUri)){
+          if(arg["property"]){
+            var p = arg["property"]
+            var v = arg["value"]
+            if(!obj[p]){
               flg = false;
-            }
-          }
-
-          if(year != ""){
-            if(!obj[dcterms+"date"] || ( obj[dcterms+"date"] && obj[dcterms+"date"][0]["@value"] != year)){
-              flg = false;
-            }
-          }
-
-          if(qid != "" && obj[dcterms+"identifier"][0]["@value"].indexOf(qid+"-") == -1){
-            flg = false;
-          }
-
-          if(flg){
-
-            var row = []
-
-            row.push("")
-
-            var img_div = $("<div>");
-            var img = $("<img class='img-fluid' height='90px'>")
-            img_div.append(img)
-            if(obj[foaf+"thumbnail"]){
-              img.attr("src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
-              img.before("<span style='display : none;'>image,yes,on,true</span>");
-              img.addClass("z-depth-1")
-            }　else {
-              img.attr("src", "https://www.freeiconspng.com/uploads/no-image-icon-6.png")
-              //img.attr("src", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQd_xAOzY_r1Ks1qviqM5J_R3pJK7nDUcCFqWZnzdrM1physC1g")
-            }
-
-            row.push(img_div.prop('outerHTML'))
-
-
-            var a = $("<span>")
-
-            if(obj[dcterms+"title"] == null){
-              console.log(obj[dcterms+"title"])
-            }
-
-
-            a.append(obj[dcterms+"title"][0]["@value"])
-            row.push(a.prop('outerHTML'))
-
-            //----------
-
-            var div = $("<div>")
-
-            var span = $("<span style='display : none;'>")
-            div.append(span)
-            span.append(obj[archiveshub+"note"][0]["@value"])
-            div.append(obj[dcterms+"identifier"][0]["@value"])
-
-            row.push(div.prop("outerHTML"))
-
-            for(var j = 0; j < arr.length; j++){
-              e = arr[j]
-              text = ""
-              if(obj[e]){
-                text = obj[e][0]["@value"]
-              }
-
-              row.push(text)
-            }
-
-            //-----------
-
-            if(obj[dcterms+"relation"] != null){
-              var a = $("<a>")
-              a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+obj[dcterms+"relation"][0]["@id"].replace("#", "&pos="))
-              a.attr("target", "cr")
-              var img = $("<img>")
-              a.append(img)
-              img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
-              row.push(a.prop('outerHTML'))
             } else {
-              row.push("")
+              var tmp = []
+              for(var j = 0; j < obj[p].length; j++){
+                var o;
+                if(arg["type"] && arg["type"] == "uri"){
+                  o = obj[p][j]["@id"]
+                } else {
+                  o = obj[p][j]["@value"]
+                }
+                tmp.push(String(o))
+              }
+              if(tmp.indexOf(v) == -1){
+                flg = false
+              }
             }
-            //表示するかの判定
-            dataSet.push(row)
-
           }
 
+          /*
+          if(locationUri != ""){
+          if(!obj[dcterms+"spatial"] || ( obj[dcterms+"spatial"] && obj[dcterms+"spatial"][0]["@id"] != locationUri)){
+          flg = false;
         }
+      }
 
-        // Setup - add a text input to each footer cell
-        /*
-        $('#table thead th').each( function () {
-        var title = $(this).text();
-        $(this).html( title+'<br/><input type="text" class="form-control"/>' );
-      } );
-      */
-
-      // DataTable
-      var table = $('#table').DataTable({
-        data: dataSet,
-        "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
-        "iDisplayLength" : 50,
-        "order" : [ [ 3, "asc" ] ],
-        "columnDefs": [
-          { "width": "5%", "targets": 0 },
-          { "width": "10%", "targets": 1 },
-          { "width": "15%", "targets": 2 },
-          { "width": "10%", "targets": 3 },
-          { "width": "20%", "targets": 4 },
-          { "width": "5%", "targets": 5 },
-          //{ "width": "5%", "targets": 6 },
-          { "width": "5%", "targets": 6 },
-          { "width": "5%", "targets": 7 },
-          { "width": "5%", "targets": 8 },
-          { "width": "15%", "targets": 9 },
-          { "width": "5%", "targets": 10 }
-        ],
-        fixedColumns: true
-      });
-
-      // Apply the search
-      table.columns().every( function () {
-        var that = this;
-
-        $( 'input', this.header() ).on( 'keyup change', function () {
-          if ( that.search() !== this.value ) {
-            that
-            .search( this.value )
-            .draw();
-          }
-        } );
-      } );
-
-      table.on('order.dt search.dt', function() {
-        table.column(0, {
-          search : 'applied',
-          order : 'applied'
-        }).nodes().each(function(cell, i) {
-          cell.innerHTML = i + 1;
-        });
-      }).draw();
-    },
-    // 2つめは通信失敗時のコールバック
-    function () {
-      alert(data.statusText);
+      if(year != ""){
+      if(!obj[dcterms+"date"] || ( obj[dcterms+"date"] && obj[dcterms+"date"][0]["@value"] != year)){
+      flg = false;
     }
-  ).always(function() {
-    $("#loading").empty()
+  }
+
+  if(qid != "" && obj[dcterms+"identifier"][0]["@value"].indexOf(qid+"-") == -1){
+  flg = false;
+}
+*/
+
+if(flg){
+
+  var row = []
+
+  row.push("")
+
+  var img_div = $("<div>");
+
+  if(obj[foaf+"thumbnail"]){
+
+    var a = $("<a>")
+    img_div.append(a)
+
+    a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+obj[dcterms+"relation"][0]["@id"].replace("#", "&pos="))
+    a.attr("target", "cr")
+
+    var img = $("<img class='img-fluid' height='90px'>")
+    a.append(img)
+
+    img.attr("src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
+    img.before("<span style='display : none;'>image,yes,on,true</span>");
+    img.addClass("z-depth-1")
+  }　else {
+
+    var img = $("<img class='img-fluid' height='90px'>")
+    img_div.append(img)
+
+    img.attr("src", "https://www.freeiconspng.com/uploads/no-image-icon-6.png")
+  }
+
+  row.push(img_div.prop('outerHTML'))
+
+
+  var a = $("<span>")
+
+  if(obj[dcterms+"title"] == null){
+    console.log(obj[dcterms+"title"])
+  }
+
+
+  a.append(obj[dcterms+"title"][0]["@value"])
+  row.push(a.prop('outerHTML'))
+
+  //----------
+
+  var div = $("<div>")
+
+  var span = $("<span style='display : none;'>")
+  div.append(span)
+  span.append(obj[archiveshub+"note"][0]["@value"])
+  div.append(obj[dcterms+"identifier"][0]["@value"])
+
+  row.push(div.prop("outerHTML"))
+
+  for(var j = 0; j < arr.length; j++){
+    e = arr[j]
+    text = ""
+    if(obj[e]){
+      text = obj[e][0]["@value"]
+    }
+
+    row.push(text)
+  }
+
+  //-----------
+
+  if(obj[dcterms+"relation"] != null){
+    var a = $("<a>")
+    a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+obj[dcterms+"relation"][0]["@id"].replace("#", "&pos="))
+    a.attr("target", "cr")
+    var img = $("<img>")
+    a.append(img)
+    img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
+    row.push(a.prop('outerHTML'))
+  } else {
+    row.push("")
+  }
+  //表示するかの判定
+  dataSet.push(row)
+
+}
+
+}
+
+// Setup - add a text input to each footer cell
+/*
+$('#table thead th').each( function () {
+var title = $(this).text();
+$(this).html( title+'<br/><input type="text" class="form-control"/>' );
+} );
+*/
+
+// DataTable
+var table = $('#table').DataTable({
+  data: dataSet,
+  "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
+  "iDisplayLength" : 50,
+  "order" : [ [ 3, "asc" ] ],
+  "columnDefs": [
+    { "width": "5%", "targets": 0 },
+    { "width": "10%", "targets": 1 },
+    { "width": "15%", "targets": 2 },
+    { "width": "10%", "targets": 3 },
+    { "width": "20%", "targets": 4 },
+    { "width": "5%", "targets": 5 },
+    //{ "width": "5%", "targets": 6 },
+    { "width": "5%", "targets": 6 },
+    { "width": "5%", "targets": 7 },
+    { "width": "5%", "targets": 8 },
+    { "width": "15%", "targets": 9 },
+    { "width": "5%", "targets": 10 }
+  ],
+  fixedColumns: true
+});
+
+// Apply the search
+table.columns().every( function () {
+  var that = this;
+
+  $( 'input', this.header() ).on( 'keyup change', function () {
+    if ( that.search() !== this.value ) {
+      that
+      .search( this.value )
+      .draw();
+    }
+  } );
+} );
+
+table.on('order.dt search.dt', function() {
+  table.column(0, {
+    search : 'applied',
+    order : 'applied'
+  }).nodes().each(function(cell, i) {
+    cell.innerHTML = i + 1;
   });
+}).draw();
+},
+// 2つめは通信失敗時のコールバック
+function () {
+  alert(data.statusText);
+}
+).always(function() {
+  $("#loading").empty()
+});
 
 })
 

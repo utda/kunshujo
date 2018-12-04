@@ -31,6 +31,8 @@
 
   </div>
 
+  <script>check('./');</script>
+
   <script>footer('./');</script>
 
 
@@ -193,12 +195,12 @@
 
               contents += '</div>';
 
-              var link = "table.html?locationUri="+location
+              var link = "table.html?property=http://purl.org/dc/terms/spatial&value="+location+"&type=uri"
 
               var contents = '<div><div class="media">';
               //contents += '<img class="mr-3" style="width : 64px" src="'+thumb+'" alt="Generic placeholder image">';
               contents += '<div class="media-body">';
-              contents += '<h5 class="mt-0"><a href="'+link+'">'+title+'</a></h5>';
+              contents += '<h5 class="mt-0"><a href="#" onclick="show_modal(\''+link+'\',\''+title+'\'); return false;">'+title+'</a></h5>';
               //contents += '<p id="p_'+i+'"></p>';
               contents += '</div>';
               contents += '</div></div>';
