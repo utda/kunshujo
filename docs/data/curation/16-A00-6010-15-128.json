@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-128.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-128.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p54#xywh=910,545,2473,3500",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-128",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770008099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "大日本鉛筆広告"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年8月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.8×21.0　東京府下第１大区８小区銀座３丁目２２番地製造人小池卯八郎謹白、明治５年夏薩州加世田村にて黒鉛入手、明治９年２月澳国博覧会事務官藤山種広に就き製法を学ぶ、今回内国博に際し列品する、東京知新堂刻"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

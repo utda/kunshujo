@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-108.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-108.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p48#xywh=3796,2840,2761,1605",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-108",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770005013
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔田中不二麻呂受領証〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年5月13日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.2×16.5　摺物に書込形式、手簡１通他、田中殿御使中"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

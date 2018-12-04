@@ -1,0 +1,58 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-81.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-81.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p42#xywh=973,1501,1368,3399",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-81",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18760008007
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "横浜"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔横浜電信局受領書〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年8月7日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.5×8.0　摺物に書込形式、料金７銭、届１銭５厘、従ヨシヲ至東京タナカ"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

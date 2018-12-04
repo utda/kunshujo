@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-170.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-170.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p75#xywh=1510,894,5040,4044",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-170",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18690009099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔勢州いなぎ村つぼや清兵衛たばこ入引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2年9月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.7×30.5　くし田川より５丁東稲木村にあり、「己巳９月」とあり、１０－７１と同一のもの"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

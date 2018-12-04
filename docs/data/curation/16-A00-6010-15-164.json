@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-164.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-164.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p73#xywh=947,791,2897,4025",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-164",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770005099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京・上野"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔上州甘楽郡中小阪村鉄鉱引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年5月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×24.0　山一組鉄売捌所銀座２丁目１番地紀伊国橋西詰角山一組代理渡辺質、永井泰次郎、取次売捌人５名の住所氏名あり、中に寺木定芳の名あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

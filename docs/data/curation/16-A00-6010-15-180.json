@@ -1,0 +1,101 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-180.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-180.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p80#xywh=3811,573,3312,2011",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-180",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18780099099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "博物館蔵版書籍目録"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治11年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.0×20.2　売捌書肆京橋区南鍋町１丁目５番地文会舎西洋平、京橋区南伝馬町２丁目１３番地有隣堂穴山篤太郎、印刷有隣堂第２活版所"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p81#xywh=872,614,3134,1967",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-180",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18780099099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "博物館蔵版書籍目録"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治11年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.0×20.2　売捌書肆京橋区南鍋町１丁目５番地文会舎西洋平、京橋区南伝馬町２丁目１３番地有隣堂穴山篤太郎、印刷有隣堂第２活版所"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

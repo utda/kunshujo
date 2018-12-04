@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-111.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-111.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p49#xywh=2288,731,784,4114",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-111",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770099099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "田中内務権大書記官宛田中文部大輔送呈"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.8×4.5　短冊型のもの、田中の名前と肩書の部分は墨書"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

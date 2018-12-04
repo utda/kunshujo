@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-156.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-156.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p65#xywh=3741,301,2729,6192",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-156",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770008099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "摺付木引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年8月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.5×38.0　本社本所柳原町１丁目１３番地新燧社、出張所長崎西中町２７８番地、出店大坂高麗橋通３丁目３番地、摺附木売捌処２５名の住所氏名あり、内国博に出す旨"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

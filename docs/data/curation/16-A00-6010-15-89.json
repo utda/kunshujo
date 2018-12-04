@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-89.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-89.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p45#xywh=4092,324,2453,5320",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-89",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18750012009
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "荷物送り状"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年12月9日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "32.5×14.5　摺物に書込形式、諸荷物運送問屋大阪今橋西川岸熊谷伊太郎、送り主博物場三角有儀、届向東京小川町今川小路２丁目９番地田中芳男宛、運賃は大坂払、品名板挾影木入壱つ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-159.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-159.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p67#xywh=669,553,3500,3500",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-159",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770010008
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "東京日々新聞号外附録"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年10月8日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p68#xywh=3661,606,3303,3465",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-159",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18770010008
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "東京日々新聞号外附録"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年10月8日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

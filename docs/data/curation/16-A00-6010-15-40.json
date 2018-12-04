@@ -1,0 +1,62 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-40.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-40.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p19#xywh=910,638,1694,2371",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-15-40",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18760099099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "甲斐"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "甲州雨畑流石硯之本家鬼島雨宮弥兵衛引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.0×10.0　「明治９年雨畑村を硯村と改称」と墨書あり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@label": "捃拾帖 十五",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
