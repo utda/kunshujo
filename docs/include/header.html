@@ -24,6 +24,9 @@
           <li class="nav-item" id="statsli">
             <a class="nav-link" href="stats.html">カテゴリで見る</a>
           </li>
+          <li class="nav-item" id="mosaicli">
+            <a class="nav-link" href="mosaic.html">サムネイルで見る</a>
+          </li>
           <li class="nav-item" id="aboutli">
             <a class="nav-link" href="about.html">このサイトについて</a>
           </li>
@@ -60,8 +63,10 @@
     $("#aboutli").addClass("active")
   } if(location.pathname.indexOf("status.html") != -1){
     $("#statusli").addClass("active")
-  }　if(location.pathname.indexOf("stats.html") != -1){
+  } if(location.pathname.indexOf("stats.html") != -1){
     $("#statsli").addClass("active")
+  } if(location.pathname.indexOf("mosaic.html") != -1){
+    $("#mosaicli").addClass("active")
   }
 
 </script>
