@@ -18,16 +18,24 @@
                     "label": "16-A00-6010-13-44",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18710099099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.0×21.6　本舗は上海にあり"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
@@ -38,22 +46,15 @@
                             "value": "〔博製細巧象牙製品引札〕"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治4年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.0×21.6　本舗は上海にあり"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154849/911,511,2608,3650/,300/0/default.jpg"
                 }
             ],
             "within": {

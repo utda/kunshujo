@@ -18,16 +18,20 @@
                     "label": "16-A00-6010-11-9",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18680001099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "25.0×31.0　１月５日迄の大火を記す"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18680001099
                         },
                         {
                             "label": "地名",
@@ -38,18 +42,15 @@
                             "value": "城州伏見其外所々合戦出火の図"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治1年1月"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "25.0×31.0　１月５日迄の大火を記す"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治1年1月"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154675/1331,1490,4127,2691/,300/0/default.jpg"
                 }
             ],
             "within": {

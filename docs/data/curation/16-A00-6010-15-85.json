@@ -22,38 +22,39 @@
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "官許回陽牛黄丸引札"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "20.0×12.5"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "官許回陽牛黄丸引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "地名",
+                            "value": "不明"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154973/4397,2139,2099,2753/,300/0/default.jpg"
                 }
             ],
             "within": {

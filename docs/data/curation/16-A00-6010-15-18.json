@@ -22,38 +22,39 @@
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔芝浦海苔引札〕"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "26.5×41.0　彩色、有仙軒主人の漢詩あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔芝浦海苔引札〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "地名",
+                            "value": "東京"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154939/934,575,5570,4270/,300/0/default.jpg"
                 }
             ],
             "within": {

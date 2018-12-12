@@ -18,8 +18,8 @@
                     "label": "16-A00-6010-2-46",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "数量",
@@ -30,26 +30,27 @@
                             "value": "銅版"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "芸婦枝"
+                        },
+                        {
                             "label": "地名",
                             "value": "京都"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "花洛西廓嶋原大門口夕景"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "9.5×15.4　梅川夏北刻"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "芸婦枝"
+                            "label": "タイトル",
+                            "value": "花洛西廓嶋原大門口夕景"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154185/810,586,2526,1577/,300/0/default.jpg"
                 }
             ],
             "within": {

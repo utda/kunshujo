@@ -18,8 +18,28 @@
                     "label": "16-A00-6010-1-155",
                     "metadata": [
                         {
+                            "label": "内容分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18580001099
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.4×17.5　別につくられた十干十二支の文字板（5.4×27.5）が動くようにこしらえてあるもの"
                         },
                         {
                             "label": "和暦",
@@ -32,28 +52,9 @@
                         {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "5.4×17.5　別につくられた十干十二支の文字板（5.4×27.5）が動くようにこしらえてあるもの"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154142/833,3327,5108,991/,300/0/default.jpg"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p26#xywh=874,3248,5137,1059",
@@ -61,8 +62,28 @@
                     "label": "16-A00-6010-1-155",
                     "metadata": [
                         {
+                            "label": "内容分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18580001099
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.4×17.5　別につくられた十干十二支の文字板（5.4×27.5）が動くようにこしらえてあるもの"
                         },
                         {
                             "label": "和暦",
@@ -75,34 +96,15 @@
                         {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "5.4×17.5　別につくられた十干十二支の文字板（5.4×27.5）が動くようにこしらえてあるもの"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154143/874,3248,5137,1059/,300/0/default.jpg"
                 }
             ],
             "within": {
                 "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
-                "@label": "捃拾帖 一",
-                "@type": "sc:Manifest"
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 一"
             }
         }
     ]

@@ -22,34 +22,35 @@
                             "value": 18590099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔教訓歌摺物〕"
                         },
                         {
                             "label": "和暦",
                             "value": "安政6年"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "18.0×6.0　清兼（作）、「秋の野にみのる草木をなかむれはすきぬる春にまきしたねたね」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔教訓歌摺物〕"
+                        },
+                        {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154220/926,675,996,2918/,300/0/default.jpg"
                 }
             ],
             "within": {

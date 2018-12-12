@@ -18,8 +18,24 @@
                     "label": "16-A00-6010-1-190",
                     "metadata": [
                         {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18280001099
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.9×12.0　旦松作、自画、"
                         },
                         {
                             "label": "和暦",
@@ -32,30 +48,15 @@
                         {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "18.9×12.0　旦松作、自画、"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154152/986,441,1997,3132/,300/0/default.jpg"
                 }
             ],
             "within": {
                 "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
-                "@label": "捃拾帖 一",
-                "@type": "sc:Manifest"
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 一"
             }
         }
     ]

@@ -22,34 +22,35 @@
                             "value": 18770003003
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔勧業寮受領証〕"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年3月3日"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "27.0×9.5　摺物に書込形式、田中殿より鈴木殿へ壱封"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔勧業寮受領証〕"
+                        },
+                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154977/3764,581,1582,4220/,300/0/default.jpg"
                 }
             ],
             "within": {

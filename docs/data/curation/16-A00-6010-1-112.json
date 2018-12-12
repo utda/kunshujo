@@ -18,8 +18,24 @@
                     "label": "16-A00-6010-1-112",
                     "metadata": [
                         {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18580099099
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.3×4.0"
                         },
                         {
                             "label": "和暦",
@@ -32,30 +48,15 @@
                         {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "京都"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "4.3×4.0"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154134/2667,3536,692,768/,300/0/default.jpg"
                 }
             ],
             "within": {
                 "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
-                "@label": "捃拾帖 一",
-                "@type": "sc:Manifest"
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 一"
             }
         }
     ]

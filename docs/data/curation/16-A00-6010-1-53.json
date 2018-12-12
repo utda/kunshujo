@@ -18,8 +18,28 @@
                     "label": "16-A00-6010-1-53",
                     "metadata": [
                         {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18590003011
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.2×19.4　於竹ケ鼻本覚寺、会主武山霞岳、集所竹ケ鼻新町亀屋新助、名古屋本町２丁目揮雲堂、補助風外他２７名"
                         },
                         {
                             "label": "和暦",
@@ -32,34 +52,15 @@
                         {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.2×19.4　於竹ケ鼻本覚寺、会主武山霞岳、集所竹ケ鼻新町亀屋新助、名古屋本町２丁目揮雲堂、補助風外他２７名"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154126/982,524,2979,2304/,300/0/default.jpg"
                 }
             ],
             "within": {
                 "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
-                "@label": "捃拾帖 一",
-                "@type": "sc:Manifest"
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 一"
             }
         }
     ]

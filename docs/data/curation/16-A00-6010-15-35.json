@@ -22,38 +22,39 @@
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "信濃"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "松代産あんず漬引札"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "6.8×2.7　「シソ入」とあり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "松代産あんず漬引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "地名",
+                            "value": "信濃"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154949/4887,583,504,1181/,300/0/default.jpg"
                 }
             ],
             "within": {

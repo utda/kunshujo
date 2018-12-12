@@ -18,16 +18,20 @@
                     "label": "16-A00-6010-11-18",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18630001099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.3×29.5が２枚"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18630001099
                         },
                         {
                             "label": "地名",
@@ -38,18 +42,15 @@
                             "value": "諸御大名様京都御屋鋪附"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久3年1月"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.3×29.5が２枚"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久3年1月"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154684/1068,643,4811,3704/,300/0/default.jpg"
                 }
             ],
             "within": {

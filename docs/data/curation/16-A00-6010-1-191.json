@@ -18,6 +18,18 @@
                     "label": "16-A00-6010-1-191",
                     "metadata": [
                         {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "３枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18580099099
                         },
@@ -28,26 +40,15 @@
                         {
                             "label": "タイトル",
                             "value": "〔篆書３顆〕"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154152/1607,3518,1450,770/,300/0/default.jpg"
                 }
             ],
             "within": {
                 "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest",
-                "@label": "捃拾帖 一",
-                "@type": "sc:Manifest"
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 一"
             }
         }
     ]

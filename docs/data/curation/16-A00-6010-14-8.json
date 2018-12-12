@@ -18,16 +18,20 @@
                     "label": "16-A00-6010-14-8",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18720099099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.5×34.0が２枚　博物局"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18720099099
                         },
                         {
                             "label": "地名",
@@ -38,18 +42,15 @@
                             "value": "鳥獣類剥製大略"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治5年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.5×34.0が２枚　博物局"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154885/849,823,2840,4106/,300/0/default.jpg"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p11#xywh=857,870,5234,4052",
@@ -57,16 +58,20 @@
                     "label": "16-A00-6010-14-8",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18720099099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.5×34.0が２枚　博物局"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18720099099
                         },
                         {
                             "label": "地名",
@@ -77,18 +82,15 @@
                             "value": "鳥獣類剥製大略"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治5年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.5×34.0が２枚　博物局"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154886/857,870,5234,4052/,300/0/default.jpg"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p12#xywh=3668,846,2824,4029",
@@ -96,16 +98,20 @@
                     "label": "16-A00-6010-14-8",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18720099099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.5×34.0が２枚　博物局"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18720099099
                         },
                         {
                             "label": "地名",
@@ -116,18 +122,15 @@
                             "value": "鳥獣類剥製大略"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治5年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.5×34.0が２枚　博物局"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154887/3668,846,2824,4029/,300/0/default.jpg"
                 }
             ],
             "within": {

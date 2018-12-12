@@ -18,16 +18,24 @@
                     "label": "16-A00-6010-13-27",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18710099099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.4×8.6"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
@@ -38,22 +46,15 @@
                             "value": "駿州窪・飛切・国稀・鷹・引札"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治4年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.4×8.6"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154840/4150,704,1142,2562/,300/0/default.jpg"
                 }
             ],
             "within": {

@@ -1,0 +1,111 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-63.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-63.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p25#xywh=924,709,5211,3636",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-3-63",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.3×26.8　あと１つは24.0×35.0、一包１００銅、内臓の補薬、御免調合所濃州席田郡仏生寺村信楽堂謹製、御免取次所名古屋の分９軒の名あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "三国錠引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "美濃・尾張"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154242/924,709,5211,3636/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p26#xywh=1149,698,4997,3703",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-3-63",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.3×26.8　あと１つは24.0×35.0、一包１００銅、内臓の補薬、御免調合所濃州席田郡仏生寺村信楽堂謹製、御免取次所名古屋の分９軒の名あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "三国錠引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "美濃・尾張"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154243/1149,698,4997,3703/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/manifest",
+                "@label": "捃拾帖 三",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

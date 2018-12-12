@@ -18,16 +18,20 @@
                     "label": "16-A00-6010-13-96",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18670499099
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.4×15.5　玄々堂男十一才童松本多宮GENGEN"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "銅版"
+                            "label": "西暦コード",
+                            "value": 18670499099
                         },
                         {
                             "label": "地名",
@@ -38,18 +42,15 @@
                             "value": "大谷月鏡橋風景"
                         },
                         {
-                            "label": "和暦",
-                            "value": "江戸後期"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.4×15.5　玄々堂男十一才童松本多宮GENGEN"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "江戸後期"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154866/3991,518,2545,1564/,300/0/default.jpg"
                 }
             ],
             "within": {

@@ -18,16 +18,24 @@
                     "label": "16-A00-6010-4-185",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18620199099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.6×6.0"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
@@ -38,22 +46,15 @@
                             "value": "〔江戸室町３丁目青木三五良薬種所引札〕"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "7.6×6.0"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "病気・医療"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154305/962,575,1003,1212/,300/0/default.jpg"
                 }
             ],
             "within": {

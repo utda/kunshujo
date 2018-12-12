@@ -18,16 +18,20 @@
                     "label": "16-A00-6010-13-78",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18670499099
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.1×13.3　原図創製玄堂松緑山"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "銅版"
+                            "label": "西暦コード",
+                            "value": 18670499099
                         },
                         {
                             "label": "地名",
@@ -38,18 +42,15 @@
                             "value": "洛西松之尾大焼神事図"
                         },
                         {
-                            "label": "和暦",
-                            "value": "江戸後期"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "8.1×13.3　原図創製玄堂松緑山"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "江戸後期"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154863/4036,516,2398,1492/,300/0/default.jpg"
                 }
             ],
             "within": {

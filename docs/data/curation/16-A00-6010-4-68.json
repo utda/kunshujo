@@ -18,16 +18,24 @@
                     "label": "16-A00-6010-4-68",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18620199099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.0×4.3"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
@@ -38,22 +46,15 @@
                             "value": "〔市ヶ谷八幡角吉野屋兼治郎桜すし引札〕"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "6.0×4.3"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154293/5154,2592,779,1039/,300/0/default.jpg"
                 }
             ],
             "within": {

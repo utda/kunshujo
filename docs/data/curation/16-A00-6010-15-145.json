@@ -22,38 +22,39 @@
                             "value": 18770099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "近江"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔彦根本町藤田□菓子引札〕"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "最長8.4の扇形　１４４と対か"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔彦根本町藤田□菓子引札〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "地名",
+                            "value": "近江"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154988/2615,3455,994,1406/,300/0/default.jpg"
                 }
             ],
             "within": {

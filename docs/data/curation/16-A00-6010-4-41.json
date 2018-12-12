@@ -18,16 +18,24 @@
                     "label": "16-A00-6010-4-41",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18620199099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.2×8.5"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
@@ -38,22 +46,15 @@
                             "value": "〔浅草駒形丁村田文助万国名産物所引札〕"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "13.2×8.5"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154289/913,587,1423,2154/,300/0/default.jpg"
                 }
             ],
             "within": {

@@ -22,34 +22,35 @@
                             "value": 18780002021
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔東京府領収証〕"
                         },
                         {
                             "label": "和暦",
                             "value": "明治11年2月21日"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "26.3×10.0　摺物に書込形式、「宍戸昌宛親展書一」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔東京府領収証〕"
+                        },
+                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155008/910,591,1624,4293/,300/0/default.jpg"
                 }
             ],
             "within": {

@@ -22,34 +22,35 @@
                             "value": 18770008021
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "内国勧業博覧会出品名録"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年8月21日"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "26.5×31.0　東京大伝馬町３丁目筆墨店高木壽頴、筆獣毛材と筆銘柄は詳細にわかる"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "内国勧業博覧会出品名録"
+                        },
+                        {
                             "label": "形態分類",
                             "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154985/926,544,5235,4332/,300/0/default.jpg"
                 }
             ],
             "within": {

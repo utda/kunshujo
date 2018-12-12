@@ -1,0 +1,67 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-172.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-172.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p51#xywh=2299,2112,1251,2387",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-3-172",
+                    "metadata": [
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.0×7.5"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪嶋の内浪花橋八幡筋北え入中嶋屋卯之助田葉粉早切道具細工所引札〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154268/2299,2112,1251,2387/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/manifest",
+                "@label": "捃拾帖 三",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

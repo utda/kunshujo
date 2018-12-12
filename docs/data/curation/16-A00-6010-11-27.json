@@ -18,16 +18,24 @@
                     "label": "16-A00-6010-11-27",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18690008099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18690008099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "役職名鑑"
                         },
                         {
                             "label": "地名",
@@ -38,22 +46,15 @@
                             "value": "改正真銘御役人附早明鑑"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治2年8月"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "役職名鑑"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2年8月"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154695/948,1212,1057,2725/,300/0/default.jpg"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p26#xywh=649,516,5500,2605",
@@ -61,16 +62,24 @@
                     "label": "16-A00-6010-11-27",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18690008099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18690008099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "役職名鑑"
                         },
                         {
                             "label": "地名",
@@ -81,22 +90,15 @@
                             "value": "改正真銘御役人附早明鑑"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治2年8月"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "役職名鑑"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2年8月"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154696/649,516,5500,2605/,300/0/default.jpg"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p27#xywh=597,1890,6652,2630",
@@ -104,16 +106,24 @@
                     "label": "16-A00-6010-11-27",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18690008099
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "西暦コード",
+                            "value": 18690008099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "役職名鑑"
                         },
                         {
                             "label": "地名",
@@ -124,22 +134,15 @@
                             "value": "改正真銘御役人附早明鑑"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治2年8月"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "役職名鑑"
-                        },
-                        {
                             "label": "内容分類",
                             "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2年8月"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154697/597,1890,6652,2630/,300/0/default.jpg"
                 }
             ],
             "within": {

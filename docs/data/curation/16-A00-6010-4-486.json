@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-486.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-486.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p59#xywh=4431,3503,1742,1046",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-4-486",
+                    "metadata": [
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.0×10.5　吉原細見形式の一枚摺、ただし製所日本橋四日市万国屋長兵衛とあり"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "新吉原江戸町１丁目大黒屋文四郎甲子楼案内"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154341/4431,3503,1742,1046/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/manifest",
+                "@label": "捃拾帖 四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

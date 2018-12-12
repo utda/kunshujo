@@ -22,30 +22,31 @@
                             "value": 18770011099
                         },
                         {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
                             "label": "版種類",
                             "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "博覧会場売品之証"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年11月"
                         },
                         {
+                            "label": "数量",
+                            "value": "３枚"
+                        },
+                        {
                             "label": "書誌事項",
                             "value": "3.5×3.2　同一のもの３枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "博覧会場売品之証"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
                         }
-                    ]
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155004/3043,1276,644,1904/,300/0/default.jpg"
                 }
             ],
             "within": {
