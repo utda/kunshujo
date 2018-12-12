@@ -16,38 +16,18 @@
 
 
   <title>『捃拾帖』デジタル展示</title>
-  
+
   <script src="./assets/js/main.js"></script>
 
   <script>asset('./');</script>
 
   <style>
-  .pagetop {
-    display: none;
-    position: fixed;
-    bottom: 30px;
-    right: 15px;
-  }
   .pagetop a {
-    display: block;
-    background-color: #ccc;
-    text-align: center;
-    color: #222;
-    font-size: 12px;
-    text-decoration: none;
-    padding: 5px 10px;
     filter:alpha(opacity=80);
     -moz-opacity: 0.8;
     opacity: 0.8;
   }
   .pagetop a:hover {
-    display: block;
-    background-color: #b2d1fb;
-    text-align: center;
-    color: #fff;
-    font-size: 12px;
-    text-decoration: none;
-    padding:5px 10px;
     filter:alpha(opacity=80);
     -moz-opacity: 0.8;
     opacity: 0.8;
@@ -102,7 +82,7 @@
           while(i_arr.indexOf(j) != -1){
             j = Math.floor(Math.random()*result.length)
           }
-
+          
           i_arr.push(j)
 
           var obj = result[j];
@@ -146,21 +126,6 @@
   function move(curation){
     open( "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+curation, "cr" ) ;
   }
-
-  $(document).ready(function() {
-    var pagetop = $('.pagetop');
-    $(window).scroll(function () {
-      if ($(this).scrollTop() > 100) {
-        pagetop.fadeIn();
-      } else {
-        pagetop.fadeOut();
-      }
-    });
-    pagetop.click(function () {
-      $('body, html').animate({ scrollTop: 0 }, 500);
-      return false;
-    });
-  });
 
 </script>
 </body>
