@@ -18,8 +18,12 @@
                     "label": "16-A00-6010-2-79",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "名産御えだかき引札"
                         },
                         {
                             "label": "数量",
@@ -34,24 +38,20 @@
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "地名",
                             "value": "美濃"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "10.6×4.8　枝柿は美濃蜂屋村の名産"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "名産御えだかき引札"
+                            "label": "書誌事項",
+                            "value": "10.6×4.8　枝柿は美濃蜂屋村の名産"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154196/2520,2518,837,1790/,300/0/default.jpg"

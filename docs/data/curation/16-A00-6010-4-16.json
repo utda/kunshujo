@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-4-16",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "8.1×5.6　元飯田町中坂下成田屋伊兵衛"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18620199099
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
                         },
                         {
                             "label": "タイトル",
                             "value": "葛根湯引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.1×5.6　元飯田町中坂下成田屋伊兵衛"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154287/5111,3161,999,1364/,300/0/default.jpg"

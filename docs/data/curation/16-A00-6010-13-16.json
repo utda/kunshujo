@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-13-16",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "11.3×8.2　津島名物菓子"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18710099099
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔尾州津嶋近江屋弥三良あかだ引札〕"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.3×8.2　津島名物菓子"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154838/5236,575,1476,1927/,300/0/default.jpg"

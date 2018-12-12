@@ -22,6 +22,18 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "名物あかた引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "10.5×8.0　津嶋向しま大和屋弥三郎"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "名物あかた引札"
+                            "label": "地名",
+                            "value": "尾張"
                         },
                         {
                             "label": "内容分類",
                             "value": "諸営業"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "書誌事項",
+                            "value": "10.5×8.0　津嶋向しま大和屋弥三郎"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154274/961,2746,1407,1710/,300/0/default.jpg"

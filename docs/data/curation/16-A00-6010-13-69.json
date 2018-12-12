@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-13-69",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "銅版"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.0×16.2　玄玄堂松田緑山鐫"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18710199099
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
                         },
                         {
                             "label": "タイトル",
                             "value": "東京品川洋廻漕蒸気入津之図"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅版"
                         },
                         {
                             "label": "和暦",
                             "value": "明治4?年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.0×16.2　玄玄堂松田緑山鐫"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154861/3923,3457,2655,1518/,300/0/default.jpg"

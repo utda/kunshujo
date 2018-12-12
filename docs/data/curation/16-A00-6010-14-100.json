@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-14-100",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "6.0×2.8と5.7×2.4　１枚に「シソ入」とあり"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18750099099
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "信濃"
                         },
                         {
                             "label": "タイトル",
                             "value": "松代産あんず漬引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "和暦",
                             "value": "明治8年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "信濃"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.0×2.8と5.7×2.4　１枚に「シソ入」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154927/2006,1229,463,1022/,300/0/default.jpg"

@@ -22,6 +22,14 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔おみくじ〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "３枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,24 +38,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "8.0×2.5　５３半吉・９５大吉・８５大吉"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔おみくじ〕"
+                            "label": "地名",
+                            "value": "尾張"
                         },
                         {
                             "label": "内容分類",
                             "value": "信仰・行楽・名所図会"
                         },
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "書誌事項",
+                            "value": "8.0×2.5　５３半吉・９５大吉・８５大吉"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154230/2539,2852,1577,1352/,300/0/default.jpg"

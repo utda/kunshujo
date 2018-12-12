@@ -22,6 +22,18 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "白玉餅引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "20.7×29.7　信州仁科大町御用寒製所福島孫三郎製"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "白玉餅引札"
+                            "label": "地名",
+                            "value": "信濃"
                         },
                         {
                             "label": "内容分類",
                             "value": "諸営業"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "信濃"
+                            "label": "書誌事項",
+                            "value": "20.7×29.7　信州仁科大町御用寒製所福島孫三郎製"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154257/1081,796,4902,3394/,300/0/default.jpg"

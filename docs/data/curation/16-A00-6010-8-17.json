@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-8-17",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "写本"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.7×8.5　「兵庫県租税方」の朱角印あり"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18690099099
-                        },
-                        {
-                            "label": "地名",
-                            "value": "播磨"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔兵庫県支配所播州加西郡繁昌村当巳租税納入書〕"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
                             "label": "和暦",
                             "value": "明治2年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "播磨"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.7×8.5　「兵庫県租税方」の朱角印あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154562/3685,603,1395,4082/,300/0/default.jpg"

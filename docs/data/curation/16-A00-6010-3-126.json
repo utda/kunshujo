@@ -22,6 +22,18 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "広昌号引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "23.5×13.3　本店在粤東省城太平門晏公街"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "広昌号引札"
+                            "label": "地名",
+                            "value": "中国"
                         },
                         {
                             "label": "内容分類",
                             "value": "病気・医療"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "中国"
+                            "label": "書誌事項",
+                            "value": "23.5×13.3　本店在粤東省城太平門晏公街"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154258/3724,604,2270,3880/,300/0/default.jpg"

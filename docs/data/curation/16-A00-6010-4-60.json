@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-4-60",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "6.0×3.8"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18620199099
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔日本橋通一新道茶漬庵春柳佃煮処引札〕"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.0×3.8"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154292/3603,1735,694,1043/,300/0/default.jpg"

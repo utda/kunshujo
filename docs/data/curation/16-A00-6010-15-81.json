@@ -22,6 +22,14 @@
                             "value": 18760008007
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔横浜電信局受領書〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,20 +38,12 @@
                             "value": "明治9年8月7日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "地名",
+                            "value": "横浜"
                         },
                         {
                             "label": "書誌事項",
                             "value": "24.5×8.0　摺物に書込形式、料金７銭、届１銭５厘、従ヨシヲ至東京タナカ"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔横浜電信局受領書〕"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "横浜"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154972/973,1501,1368,3399/,300/0/default.jpg"

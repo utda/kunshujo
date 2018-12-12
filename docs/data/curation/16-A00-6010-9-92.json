@@ -18,32 +18,32 @@
                     "label": "16-A00-6010-9-92",
                     "metadata": [
                         {
-                            "label": "版種類",
-                            "value": "写本"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "20.5×17.0　９２から貼込帖の裏側に移る"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18690199099
-                        },
-                        {
-                            "label": "地名",
-                            "value": "大阪"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔整理戸棚製作仕様書〕"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治2?年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "20.5×17.0　９２から貼込帖の裏側に移る"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154602/4007,639,2793,3537/,300/0/default.jpg"

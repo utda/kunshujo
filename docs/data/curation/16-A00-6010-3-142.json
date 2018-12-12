@@ -22,6 +22,18 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "御湯の花引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "7.0×5.0　本元柳屋、白船とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "御湯の花引札"
+                            "label": "地名",
+                            "value": "信濃？"
                         },
                         {
                             "label": "内容分類",
                             "value": "病気・医療"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "信濃？"
+                            "label": "書誌事項",
+                            "value": "7.0×5.0　本元柳屋、白船とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154262/3646,3166,862,1323/,300/0/default.jpg"

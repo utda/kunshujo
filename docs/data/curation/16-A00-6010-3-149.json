@@ -22,6 +22,18 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔□□明神通り武蔵屋太七縫箔引札〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.0×6.8"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔□□明神通り武蔵屋太七縫箔引札〕"
+                            "label": "地名",
+                            "value": "不明"
                         },
                         {
                             "label": "内容分類",
                             "value": "諸営業"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
+                            "label": "書誌事項",
+                            "value": "9.0×6.8"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154263/3676,3091,1015,1426/,300/0/default.jpg"

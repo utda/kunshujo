@@ -18,8 +18,12 @@
                     "label": "16-A00-6010-2-85",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔浪華書肆河内屋喜兵衛名入飛脚図〕"
                         },
                         {
                             "label": "数量",
@@ -34,24 +38,20 @@
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "地名",
                             "value": "大阪"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.0×4.5"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔浪華書肆河内屋喜兵衛名入飛脚図〕"
+                            "label": "書誌事項",
+                            "value": "24.0×4.5"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154198/2491,540,753,3910/,300/0/default.jpg"

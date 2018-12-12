@@ -22,6 +22,18 @@
                             "value": 18770099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "根元千枚漬引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "12.0×12.0　９９と対のものか"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "根元千枚漬引札"
+                            "label": "地名",
+                            "value": "京都"
                         },
                         {
                             "label": "内容分類",
                             "value": "諸営業"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "京都"
+                            "label": "書誌事項",
+                            "value": "12.0×12.0　９９と対のものか"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154976/932,558,2010,1940/,300/0/default.jpg"

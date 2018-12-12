@@ -22,6 +22,14 @@
                             "value": 18770099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔スグリジヤム　ラベル〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,20 +38,12 @@
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "地名",
+                            "value": "東京"
                         },
                         {
                             "label": "書誌事項",
                             "value": "8.2×16.5　彩色、東京四谷内藤新宿勧農局試験場製"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔スグリジヤム　ラベル〕"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154980/3712,544,2792,1329/,300/0/default.jpg"

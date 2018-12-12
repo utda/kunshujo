@@ -22,6 +22,18 @@
                             "value": 18770099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "東奥名産千府菅菰引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.5×14.0"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "東奥名産千府菅菰引札"
+                            "label": "地名",
+                            "value": "陸前"
                         },
                         {
                             "label": "内容分類",
                             "value": "諸営業"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "陸前"
+                            "label": "書誌事項",
+                            "value": "15.5×14.0"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155004/4179,653,2278,2426/,300/0/default.jpg"

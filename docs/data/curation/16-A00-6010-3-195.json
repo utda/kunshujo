@@ -22,6 +22,18 @@
                             "value": 18590099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "実母散引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "23.5×18.5　江戸中橋おが町中通喜谷市郎右衛門（製）"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "実母散引札"
+                            "label": "地名",
+                            "value": "江戸"
                         },
                         {
                             "label": "内容分類",
                             "value": "病気・医療"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "書誌事項",
+                            "value": "23.5×18.5　江戸中橋おが町中通喜谷市郎右衛門（製）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154278/940,575,3042,3758/,300/0/default.jpg"

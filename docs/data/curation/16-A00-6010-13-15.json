@@ -18,28 +18,28 @@
                     "label": "16-A00-6010-13-15",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "21.4×35.7　和紙の凹凸をつけたもの"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18710099099
-                        },
-                        {
-                            "label": "地名",
-                            "value": "大阪"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔大阪理学校出版書籍ノ表紙ニ付ケシ模様〕"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.4×35.7　和紙の凹凸をつけたもの"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154837/839,1148,5925,3677/,300/0/default.jpg"

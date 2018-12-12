@@ -22,6 +22,18 @@
                             "value": 18760099099
                         },
                         {
+                            "label": "タイトル",
+                            "value": "白魚製名物明ほの引札"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
@@ -30,28 +42,16 @@
                             "value": "明治9年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.0×9.3　勢州四日市北町長崎屋十右衛門"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "白魚製名物明ほの引札"
+                            "label": "地名",
+                            "value": "伊勢"
                         },
                         {
                             "label": "内容分類",
                             "value": "諸営業"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
+                            "label": "書誌事項",
+                            "value": "9.0×9.3　勢州四日市北町長崎屋十右衛門"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154970/940,783,1605,1504/,300/0/default.jpg"
