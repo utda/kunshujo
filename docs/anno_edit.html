@@ -166,99 +166,91 @@
     })
   }
 
+  var dcterms = "http://purl.org/dc/terms/"
+  var foaf = "http://xmlns.com/foaf/0.1/"
+  var archiveshub = "http://data.archiveshub.ac.uk/def/"
+  var bibo = "http://purl.org/ontology/bibo/"
+
+  var arr = [dcterms+"extent", dcterms+"date", dcterms+"type", dcterms+"format"]
+
   function getMetadata(){
-    var query = " SELECT distinct * ";
-    query += " where { ";
-    query += " ?s dcterms:title ?title . ";
-
-    query += " ?s dcterms:tableOfContents ?toc . ";
-    query += " ?s dcterms:identifier ?id . ";
-    query += " filter regex(?id, '16-A00-6010-"+vol+"') . "
-    query += " optional { ?s dcterms:date ?date . } ";
-    query += " optional { ?s dcterms:extent ?extent . } ";
-    query += " optional { ?s dcterms:description ?description . } "
-    query += " optional { ?s dcterms:type ?type . } ";
-    query += " optional { ?s dcterms:format ?format . } ";
-    query += " } ";
-
-    var array = new Array();
 
     $.ajax({
-      url:'https://dydra.com/ut-digital-archives/tanaka2/sparql',
-      type:'POST',
-      data:{
-        query : query,
-        format : "json"
-      }
+      url:'data/data.json'
     })
-    // Ajaxリクエストが成功した時発動
-    .done( (data) => {
-      var result = data.results.bindings;
+    .then(
+      // 1つめは通信成功時のコールバック
+      function (result) {
+        var dataSet = []
 
-      for (var i = 0; i < result.length; i++) {
-        var obj = result[i];
+        for (var i = 0; i < result.length; i++) {
+          var obj = result[i];
 
-        var tr = $("<tr>")
-        $("#resourceListBody").append(tr)
-
-        var td = $("<td>");
-        tr.append(td)
-        td.append(obj.title.value)
-
-        //----------
-
-        var div = $("<div>")
-
-        var span = $("<span style='display : none;'>")
-        div.append(span)
-        span.append(obj.toc.value)
-        div.append(obj.id.value)
-
-        var td = $("<td>");
-        tr.append(td)
-        td.append(div)
-
-        //-----------
-
-        var desc = ""
-        if(obj.description){
-          desc = obj.description.value
-        }
-
-        var td = $("<td>");
-        tr.append(td)
-        td.append(desc)
-
-        text = ""
-        arr = ["extent", "type", "format", "date"]
-        for(k = 0; k < arr.length; k++){
-          if(obj[arr[k]]){
-            text += " "+obj[arr[k]].value+";"
+          var id = obj[dcterms+"identifier"][0]["@value"]
+          if(id.indexOf("16-A00-6010-"+vol) == -1){
+            continue
           }
+
+          var tr = $("<tr>")
+          $("#resourceListBody").append(tr)
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(obj[dcterms+"title"][0]["@value"])
+
+          //----------
+
+          var div = $("<div>")
+
+          var span = $("<span style='display : none;'>")
+          div.append(span)
+          span.append(obj[archiveshub+"note"][0]["@value"])
+          div.append(id)
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(div)
+
+          //-----------
+
+          var desc = ""
+          if(obj[dcterms+"description"]){
+            desc = obj[dcterms+"description"][0]["@value"]
+          }
+
+          var td = $("<td>");
+          tr.append(td)
+          td.append(desc)
+
+          text = ""
+
+          for(var j = 0; j < arr.length; j++){
+            e = arr[j]
+            if(obj[e]){
+              text += " "+obj[e][0]["@value"]+";"
+            }
+          }
+
+          td = $("<td>");
+          tr.append(td)
+          td.append(text)
+
+          var span = $("<span>")
+          span.attr("id", "span_"+id)
+          span.text("--")
+
+          td = $("<td>");
+          tr.append(td)
+          td.append(span)
         }
 
-        td = $("<td>");
-        tr.append(td)
-        td.append(text)
-
-        var span = $("<span>")
-        span.attr("id", "span_"+obj.id.value)
-        span.text("--")
-
-        td = $("<td>");
-        tr.append(td)
-        td.append(span)
+        getAnno()
+      },
+      // 2つめは通信失敗時のコールバック
+      function () {
+        alert(data.statusText);
       }
-
-      getAnno()
-
-    })
-    // Ajaxリクエストが失敗した時発動
-    .fail( (data) => {
-      alert(data.statusText);
-    })
-    // Ajaxリクエストが成功・失敗どちらでも発動
-    .always( (data) => {
+    ).always(function() {
       $("#loading").empty()
     });
   }
