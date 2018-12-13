@@ -1,0 +1,67 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-135.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-135.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p34#xywh=1095,2650,2480,1837",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-10-135",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "大極上生白粉引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.2×8.1　皇都堺町通四条上ル２丁目本家延吉屋山下肥後大掾藤原良徳、１枚は品名のみの引札（8.5×6.0）"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154650/1095,2650,2480,1837/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@label": "捃拾帖 十",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

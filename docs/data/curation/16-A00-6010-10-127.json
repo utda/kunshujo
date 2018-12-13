@@ -1,0 +1,59 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-127.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-127.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p33#xywh=1970,2811,1455,1606",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-10-127",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "慶応2年11月9日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18660011009
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "二分判百両書付"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.0×4.3　表に「二分判百両」と摺られ、裏に寅１１月９日大西親兵衛、嶋川治兵衛の印あり"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154649/1970,2811,1455,1606/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@label": "捃拾帖 十",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-27.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-27.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p7#xywh=1137,540,4800,3977",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-10-27",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "３枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "透頂香外郎引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "相模"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.5×11.2　小田原ういらう、他に功能書（14.5×12.5）と金銀はく附花透頂香引札（10.0×8.0）"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154623/1137,540,4800,3977/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@label": "捃拾帖 十",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

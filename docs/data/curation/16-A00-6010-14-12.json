@@ -1,0 +1,103 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-12.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-12.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p14#xywh=887,490,2473,4465",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-12",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720001099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔小川町共学舎出金募集書〕"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.5×48.1　生徒３００人、束脩金１０００疋、月謝１両、積金・寄附金は深川の商人蔵田清右衛門に預けること"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154889/887,490,2473,4465/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p15#xywh=1017,519,5441,4399",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-12",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720001099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔小川町共学舎出金募集書〕"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.5×48.1　生徒３００人、束脩金１０００疋、月謝１両、積金・寄附金は深川の商人蔵田清右衛門に預けること"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154890/1017,519,5441,4399/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@label": "捃拾帖 十四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

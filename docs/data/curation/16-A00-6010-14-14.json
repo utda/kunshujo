@@ -1,0 +1,131 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-14.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-14.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p17#xywh=887,498,5577,4488",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-14",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720009009
+                        },
+                        {
+                            "label": "数量",
+                            "value": "５丁"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "幸臨鉄道開行式"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×26.5が５枚　式次第"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154892/887,498,5577,4488/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p18#xywh=901,643,5628,4289",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-14",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720009009
+                        },
+                        {
+                            "label": "数量",
+                            "value": "５丁"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "幸臨鉄道開行式"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×26.5が５枚　式次第"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154893/901,643,5628,4289/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p19#xywh=3788,620,2710,4266",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-14-14",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720009009
+                        },
+                        {
+                            "label": "数量",
+                            "value": "５丁"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "幸臨鉄道開行式"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×26.5が５枚　式次第"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154894/3788,620,2710,4266/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@label": "捃拾帖 十四",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-76.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-76.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p16#xywh=1070,548,2489,2264",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-10-76",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "熊胆丸引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.7×15.0　尾州名古屋門前町若宮□□東側松前屋吉兵衛"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154632/1070,548,2489,2264/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@label": "捃拾帖 十",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

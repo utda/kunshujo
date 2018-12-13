@@ -1,0 +1,67 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-164.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-164.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p49#xywh=1146,540,5013,3968",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-10-164",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580199099
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "御茶銘并価附"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.0×45.4　名古屋伝馬町通桑名町東え入松柏園升屋半三郎製、年不明の名古屋のもの故、一応安政５年とする"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154665/1146,540,5013,3968/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@label": "捃拾帖 十",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
