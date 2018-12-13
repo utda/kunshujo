@@ -36,7 +36,7 @@
 
 </head>
 <body>
-
+  
   <script>header('./');</script>
 
   <div class="container py-2 my-5">
@@ -52,7 +52,7 @@
             <th>目録番号</th>
             <th>書誌事項</th>
             <th>枚数</th>
-            <!-- <th>西暦</th> -->
+            <th>年月日</th>
             <th>地名</th>
             <th>版<!--種類--></th>
             <th>形態<!--分類--></th>
@@ -111,7 +111,7 @@
       function (result) {
         var dataSet = []
 
-        var arr = [dcterms+"description", dcterms+"extent", /*dcterms+"date",*/ dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
+        var arr = [dcterms+"description", dcterms+"extent", dcterms+"date", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
 
         for (var i = 0; i < result.length; i++) {
 
@@ -203,7 +203,9 @@
             for(var j = 0; j < arr.length; j++){
               e = arr[j]
               text = ""
-              if(obj[e]){
+              if(e == dcterms+"date"){
+                text = "<span style='display : none;'>"+obj[archiveshub+"dateCreatedAccumulated"][0]["@value"]+"</span>"+obj[archiveshub+"dateCreatedAccumulatedString"][0]["@value"]
+              } else if(obj[e]){
                 text = obj[e][0]["@value"]
               }
 
@@ -244,12 +246,12 @@
             { "width": "10%", "targets": 4 },
             { "width": "15%", "targets": 5 },
             { "width": "5%", "targets": 6 },
-            //{ "width": "5%", "targets": 7 },
             { "width": "5%", "targets": 7 },
             { "width": "5%", "targets": 8 },
             { "width": "5%", "targets": 9 },
-            { "width": "15%", "targets": 10 },
-            { "width": "5%", "targets": 11 }
+            { "width": "5%", "targets": 10 },
+            { "width": "10%", "targets": 11 },
+            { "width": "5%", "targets": 12 }
           ],
           fixedColumns: true
         });
