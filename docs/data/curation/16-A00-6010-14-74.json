@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-14-74",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔鉢石宿こにしや喜一郎定宿引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "下野"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.5×8.5　日光御神橋前鉢石宿御参指定宿とあり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.5×8.5　日光御神橋前鉢石宿御参指定宿とあり"
+                            "label": "タイトル",
+                            "value": "〔鉢石宿こにしや喜一郎定宿引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154923/942,3198,1204,1492/,300/0/default.jpg"

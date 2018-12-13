@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-3-46",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政6年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "三輪素麺引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "信濃"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.7×10.4　信州松本城南新町中村屋製、他に「片栗麺うんどん大安売」とあり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.7×10.4　信州松本城南新町中村屋製、他に「片栗麺うんどん大安売」とあり"
+                            "label": "タイトル",
+                            "value": "三輪素麺引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154236/4774,2530,1335,1877/,300/0/default.jpg"

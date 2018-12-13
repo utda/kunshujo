@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-15-116",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治10年"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770099099
                         },
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔日本北海道産開拓使物産局製いぶししか引札〕"
+                            "label": "地名",
+                            "value": "北海道"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "地名",
-                            "value": "北海道"
+                            "label": "和暦",
+                            "value": "明治10年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "10.2×7.7が２枚　SMOKED VENISON、HOKKAIDO YESSO JAPANとあり、ENGRAVING COMP. TOKEI JAPAN"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "10.2×7.7が２枚　SMOKED VENISON、HOKKAIDO YESSO JAPANとあり、ENGRAVING COMP. TOKEI JAPAN"
+                            "label": "タイトル",
+                            "value": "〔日本北海道産開拓使物産局製いぶししか引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154980/910,552,2566,1718/,300/0/default.jpg"

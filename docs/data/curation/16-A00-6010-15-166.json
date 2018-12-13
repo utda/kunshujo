@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-166",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治10年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "国名産名取川埋木引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "陸前"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.4×10.6　仙府国分町及川屋勇蔵"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.4×10.6　仙府国分町及川屋勇蔵"
+                            "label": "タイトル",
+                            "value": "国名産名取川埋木引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155004/4980,3252,1220,1655/,300/0/default.jpg"

@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-14-79",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "西洋リモナーデ用やう"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "不明"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.2×4.5　これに附属して英文製法書付（直径7.3の円形）及び英文PORTABLE LEMONADE引札（11.0×10.6）あり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.2×4.5　これに附属して英文製法書付（直径7.3の円形）及び英文PORTABLE LEMONADE引札（11.0×10.6）あり"
+                            "label": "タイトル",
+                            "value": "西洋リモナーデ用やう"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154924/3766,1805,2652,3142/,300/0/default.jpg"

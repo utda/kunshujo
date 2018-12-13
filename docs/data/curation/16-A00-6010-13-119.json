@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-13-119",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政4年8月"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18570008099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "通天橋風景"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         },
                         {
                             "label": "地名",
                             "value": "京都"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "和暦",
+                            "value": "安政4年8月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.0×12.8　安政四丁巳年仲秋緑山再刻"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.0×12.8　安政四丁巳年仲秋緑山再刻"
+                            "label": "タイトル",
+                            "value": "通天橋風景"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154869/1240,3653,2171,1314/,300/0/default.jpg"

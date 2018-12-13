@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-14-34",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8年9月15日"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750009015
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "読売新聞第２００号附録"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年9月15日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.5×32.0　虎之門外琴平町１番地日就社（刊）"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "27.5×32.0　虎之門外琴平町１番地日就社（刊）"
+                            "label": "タイトル",
+                            "value": "読売新聞第２００号附録"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154910/1191,451,2605,4504/,300/0/default.jpg"
@@ -62,40 +62,40 @@
                     "label": "16-A00-6010-14-34",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8年9月15日"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750009015
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "読売新聞第２００号附録"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年9月15日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.5×32.0　虎之門外琴平町１番地日就社（刊）"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "27.5×32.0　虎之門外琴平町１番地日就社（刊）"
+                            "label": "タイトル",
+                            "value": "読売新聞第２００号附録"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154911/3671,433,3021,4546/,300/0/default.jpg"

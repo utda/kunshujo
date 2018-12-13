@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-10-56",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔小金町中程京屋治右衛門旅宿引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "下総"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.7×10.3　大坂浪花講御定宿"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.7×10.3　大坂浪花講御定宿"
+                            "label": "タイトル",
+                            "value": "〔小金町中程京屋治右衛門旅宿引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154626/1045,576,1707,2553/,300/0/default.jpg"

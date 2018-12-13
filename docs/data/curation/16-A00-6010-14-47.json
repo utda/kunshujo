@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-14-47",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治7年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18740099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔池之端仲町駿河屋菓子引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治7年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.2×3.4　駿河屋玉泉とあり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "4.2×3.4　駿河屋玉泉とあり"
+                            "label": "タイトル",
+                            "value": "〔池之端仲町駿河屋菓子引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154916/1829,490,558,737/,300/0/default.jpg"

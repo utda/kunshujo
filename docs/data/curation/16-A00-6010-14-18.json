@@ -18,32 +18,32 @@
                     "label": "16-A00-6010-14-18",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年9月9日"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720009009
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔鉄道開業式列立次第〕"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "原形不詳"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "原形不詳"
+                            "label": "タイトル",
+                            "value": "〔鉄道開業式列立次第〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154896/924,511,5511,4406/,300/0/default.jpg"

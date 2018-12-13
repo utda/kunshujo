@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-88",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "新製海苔売弘記"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.0×16.4　ガラス瓶とブリキ凾詰の新製品の広告、東京日本橋釘店山形屋窪田惣八"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "14.0×16.4　ガラス瓶とブリキ凾詰の新製品の広告、東京日本橋釘店山形屋窪田惣八"
+                            "label": "タイトル",
+                            "value": "新製海苔売弘記"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154973/934,2622,2737,2301/,300/0/default.jpg"

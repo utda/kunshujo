@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-15-136",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治10年"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770099099
                         },
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "日本北海道石狩川産開拓使物産局製さけ引札"
+                            "label": "地名",
+                            "value": "北海道"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "地名",
-                            "value": "北海道"
+                            "label": "和暦",
+                            "value": "明治10年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.0×15.2と11.0×13.0　大蔵省紙幣局製造"
                         },
                         {
                             "label": "版種類",
                             "value": "石版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.0×15.2と11.0×13.0　大蔵省紙幣局製造"
+                            "label": "タイトル",
+                            "value": "日本北海道石狩川産開拓使物産局製さけ引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154987/903,552,2558,3554/,300/0/default.jpg"

@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-3-116",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政6年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔中仙道下諏訪宿亀屋茂兵衛御膳御箸引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "信濃"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.2×4.0"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "13.2×4.0"
+                            "label": "タイトル",
+                            "value": "〔中仙道下諏訪宿亀屋茂兵衛御膳御箸引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154255/3620,2263,669,2221/,300/0/default.jpg"

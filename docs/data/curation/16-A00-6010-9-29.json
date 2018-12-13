@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-9-29",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治2?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18690199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔大坂心斎橋通北詰北へ入秋田屋幸助新本古本売買所引札〕"
+                            "label": "地名",
+                            "value": "大阪"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "地名",
-                            "value": "大阪"
+                            "label": "和暦",
+                            "value": "明治2?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.4×10.4"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "14.4×10.4"
+                            "label": "タイトル",
+                            "value": "〔大坂心斎橋通北詰北へ入秋田屋幸助新本古本売買所引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154591/3802,663,1686,2382/,300/0/default.jpg"

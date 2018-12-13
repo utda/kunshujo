@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-13-53",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治4年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "御膳信州更科蕎麦引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.7×12.5　麻布永坂町高いなり前ぬのや太兵衛"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "17.7×12.5　麻布永坂町高いなり前ぬのや太兵衛"
+                            "label": "タイトル",
+                            "value": "御膳信州更科蕎麦引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154853/3832,2976,2935,1999/,300/0/default.jpg"

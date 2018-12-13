@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-3-16",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政6年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "仙積散引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "地名",
                             "value": "京都・尾張"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.5×21.8　本家京都衣棚竹屋町水月堂、尾州取次所名古屋本町２丁目雨口屋喜十郎"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "13.5×21.8　本家京都衣棚竹屋町水月堂、尾州取次所名古屋本町２丁目雨口屋喜十郎"
+                            "label": "タイトル",
+                            "value": "仙積散引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154224/970,715,3485,2189/,300/0/default.jpg"

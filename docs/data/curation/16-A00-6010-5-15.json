@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-5-15",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久1年冬"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18610012799
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "文久二年壬戌暦"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
+                            "label": "内容分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "引札"
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久1年冬"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.0×21.5　辛酉冬月、楊江（柳河春三）"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "12.0×21.5　辛酉冬月、楊江（柳河春三）"
+                            "label": "タイトル",
+                            "value": "文久二年壬戌暦"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154352/2650,514,3545,1952/,300/0/default.jpg"

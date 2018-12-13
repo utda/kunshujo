@@ -1,0 +1,67 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-99.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-99.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p19#xywh=3958,2271,2227,2219",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-12-99",
+                    "metadata": [
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.0×13.5　御かみの油、おしろい、びなんかづら、けしやう水、小町べに、御所きはずみ、花橘匂の玉、つやぬの、雪のうめ、元祖さくらか御油製司"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔下谷広徳寺前通り車坂町堺屋重兵衛引札〕"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154771/3958,2271,2227,2219/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@label": "捃拾帖 十二",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

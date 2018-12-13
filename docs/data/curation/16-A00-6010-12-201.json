@@ -1,0 +1,59 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-201.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-201.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p61#xywh=881,562,5265,4535",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-12-201",
+                    "metadata": [
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18700008099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年8月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.8×39.5　「入学の儀是迄自分願に付侭懶惰の弊有之、大に規則を敗壊いたし候間、以来入学の節左の通証書持参可致事」とあり"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大学南校入学者保証人証書書式〕"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154813/881,562,5265,4535/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@label": "捃拾帖 十二",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

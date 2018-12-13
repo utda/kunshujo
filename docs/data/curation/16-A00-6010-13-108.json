@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-13-108",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政6年7月"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590007099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "大谷目鏡橋風景"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         },
                         {
                             "label": "地名",
                             "value": "京都"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "和暦",
+                            "value": "安政6年7月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.2×16.0　玄々堂緑山鐫"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "9.2×16.0　玄々堂緑山鐫"
+                            "label": "タイトル",
+                            "value": "大谷目鏡橋風景"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154868/3897,520,2630,1620/,300/0/default.jpg"

@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-5-21",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2年1月"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620001099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "文久二壬戌歳大小印譜"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
+                            "label": "内容分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "引札"
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2年1月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.0×18.8"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "13.0×18.8"
+                            "label": "タイトル",
+                            "value": "文久二壬戌歳大小印譜"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154353/3143,524,3095,2099/,300/0/default.jpg"

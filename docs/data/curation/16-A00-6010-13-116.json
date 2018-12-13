@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-13-116",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "江戸後期"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18670499099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "大仏三十三間堂大矢数"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         },
                         {
                             "label": "地名",
                             "value": "京都"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "和暦",
+                            "value": "江戸後期"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.8×14.2　玄々堂男十一才童松本民弥"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "7.8×14.2　玄々堂男十一才童松本民弥"
+                            "label": "タイトル",
+                            "value": "大仏三十三間堂大矢数"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154869/3999,3585,2341,1390/,300/0/default.jpg"

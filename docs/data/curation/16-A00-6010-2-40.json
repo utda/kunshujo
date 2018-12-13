@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-2-40",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18580099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔京寺町四条下ル町奈良弥左衛門諸流外療道具所引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "地名",
                             "value": "京都"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.3×3.5"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.3×3.5"
+                            "label": "タイトル",
+                            "value": "〔京寺町四条下ル町奈良弥左衛門諸流外療道具所引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154183/4359,3014,668,1423/,300/0/default.jpg"

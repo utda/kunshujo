@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-4-344",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "薬品会案内"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.2×4.6　「医学館」の印あり、「四月十九日」とあり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.2×4.6　「医学館」の印あり、「四月十九日」とあり"
+                            "label": "タイトル",
+                            "value": "薬品会案内"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154324/5220,531,781,2636/,300/0/default.jpg"

@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-79",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治4年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "銅刻新撰輿地方図"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.1×6.5　但し袋のみ、東京書肆富山堂蔵、附各国旗章一覧"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "9.1×6.5　但し袋のみ、東京書肆富山堂蔵、附各国旗章一覧"
+                            "label": "タイトル",
+                            "value": "銅刻新撰輿地方図"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154971/2218,1595,1165,1593/,300/0/default.jpg"

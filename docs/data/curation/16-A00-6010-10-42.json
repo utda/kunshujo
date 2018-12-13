@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-10-42",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔駿府札之辻町扇子屋庄兵衛引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "駿河"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.2×5.2　絵あり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "4.2×5.2　絵あり"
+                            "label": "タイトル",
+                            "value": "〔駿府札之辻町扇子屋庄兵衛引札〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154625/4718,584,810,723/,300/0/default.jpg"

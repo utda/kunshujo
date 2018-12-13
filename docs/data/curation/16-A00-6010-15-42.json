@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-42",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "幾那保全酒引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.3×10.0と12.0×8.8　神田雉子町保全堂製、AROMATIC FINE BITTER、１枚は効能書"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.3×10.0と12.0×8.8　神田雉子町保全堂製、AROMATIC FINE BITTER、１枚は効能書"
+                            "label": "タイトル",
+                            "value": "幾那保全酒引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154951/3758,583,2753,1990/,300/0/default.jpg"

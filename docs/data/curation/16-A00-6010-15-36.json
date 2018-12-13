@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-36",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "松代産あんずかん・あんずつけ引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "信濃"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.1×8.4　「松代住伊勢町安寿軒」の木印が裏におしてあるもの"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.1×8.4　「松代住伊勢町安寿軒」の木印が裏におしてあるもの"
+                            "label": "タイトル",
+                            "value": "松代産あんずかん・あんずつけ引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154949/2545,575,1259,1305/,300/0/default.jpg"

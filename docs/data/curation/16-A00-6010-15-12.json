@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-12",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "御用御上りゆべし引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "備中"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×4.8　備中矢掛駅名産本家製村田屋"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "17.0×4.8　備中矢掛駅名産本家製村田屋"
+                            "label": "タイトル",
+                            "value": "御用御上りゆべし引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154936/875,898,2813,774/,300/0/default.jpg"

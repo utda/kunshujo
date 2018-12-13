@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-4-491",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "玉松香引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.5×6.5　麹町５丁目吹笙軒玉井製"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.5×6.5　麹町５丁目吹笙軒玉井製"
+                            "label": "タイトル",
+                            "value": "玉松香引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154342/4209,3008,1071,1476/,300/0/default.jpg"

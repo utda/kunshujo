@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-9-125",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治3?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18700199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "天笠馬尓加国大象ノ図"
+                            "label": "地名",
+                            "value": "大阪"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "地名",
-                            "value": "大阪"
+                            "label": "和暦",
+                            "value": "明治3?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "25.5×18.0　太夫元伊勢屋熊吉、大津ゑぶしで宣伝している、色摺"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "25.5×18.0　太夫元伊勢屋熊吉、大津ゑぶしで宣伝している、色摺"
+                            "label": "タイトル",
+                            "value": "天笠馬尓加国大象ノ図"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154610/3804,720,2940,4157/,300/0/default.jpg"

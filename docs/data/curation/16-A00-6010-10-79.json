@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-10-79",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "根元本家神鹿伐角御彫物師引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "大和"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.7×7.8　南都三笠山麓住春栄堂藤原清□"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.7×7.8　南都三笠山麓住春栄堂藤原清□"
+                            "label": "タイトル",
+                            "value": "根元本家神鹿伐角御彫物師引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154633/4458,3046,1307,1427/,300/0/default.jpg"

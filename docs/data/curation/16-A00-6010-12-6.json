@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-12-6",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治4年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "諸国塗物大安売引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.3×27.0　今川橋通本銀町２丁目紀伊国屋平三郎、箸類・文庫類・算盤"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "21.3×27.0　今川橋通本銀町２丁目紀伊国屋平三郎、箸類・文庫類・算盤"
+                            "label": "タイトル",
+                            "value": "諸国塗物大安売引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154756/1827,769,4394,3690/,300/0/default.jpg"

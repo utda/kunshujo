@@ -18,32 +18,32 @@
                     "label": "16-A00-6010-14-89",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8?年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750199099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "勧業寮領証"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8?年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.5×8.2　８月１７日、「履歴３通」と墨書"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "27.5×8.2　８月１７日、「履歴３通」と墨書"
+                            "label": "タイトル",
+                            "value": "勧業寮領証"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154925/955,480,1410,4414/,300/0/default.jpg"

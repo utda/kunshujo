@@ -18,32 +18,32 @@
                     "label": "16-A00-6010-15-114",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治10年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔フサスグリジエリイ　ラベル〕"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.2×16.2　彩色、東京四谷内藤新宿勧農局試験場製"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.2×16.2　彩色、東京四谷内藤新宿勧農局試験場製"
+                            "label": "タイトル",
+                            "value": "〔フサスグリジエリイ　ラベル〕"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154980/3704,1836,2792,1344/,300/0/default.jpg"

@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-15-122",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治10年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "ビハルトン引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "不明"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.5×3.8　手書きのもの"
                         },
                         {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.5×3.8　手書きのもの"
+                            "label": "タイトル",
+                            "value": "ビハルトン引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154983/3931,2627,635,1388/,300/0/default.jpg"

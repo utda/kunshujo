@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-3-58",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政6年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590099099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "破軍星くりやうの事"
+                            "label": "内容分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
                             "value": "不明"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.0×9.0　森平板"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.0×9.0　森平板"
+                            "label": "タイトル",
+                            "value": "破軍星くりやうの事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154240/1014,671,1464,1699/,300/0/default.jpg"

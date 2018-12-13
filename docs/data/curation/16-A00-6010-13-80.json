@@ -18,36 +18,36 @@
                     "label": "16-A00-6010-13-80",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "江戸後期"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18670499099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "花頂山台所門春之景"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         },
                         {
                             "label": "地名",
                             "value": "京都"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "和暦",
+                            "value": "江戸後期"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.1×13.2　玄々堂写"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.1×13.2　玄々堂写"
+                            "label": "タイトル",
+                            "value": "花頂山台所門春之景"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154863/4114,3480,2224,1507/,300/0/default.jpg"

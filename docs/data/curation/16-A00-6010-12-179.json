@@ -1,0 +1,59 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-179.json",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-179.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p46#xywh=1008,532,1220,4345",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-12-179",
+                    "metadata": [
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18700008003
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年8月3日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.3×6.5　兵部省糺問少令史江並鶴之助弟肥田野四郎、当午２１才、生国武蔵、宿所小川町雉子橋通吉田大学大得業生一所、「８月３日」とあり"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "仏学修行願書"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154798/1008,532,1220,4345/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@label": "捃拾帖 十二",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

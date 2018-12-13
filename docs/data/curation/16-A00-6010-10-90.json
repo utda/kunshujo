@@ -18,40 +18,40 @@
                     "label": "16-A00-6010-10-90",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政6年1月"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590001099
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "安政六年歳次己未須弥界由旬暦略書"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
+                            "label": "内容分類",
+                            "value": "引札"
                         },
                         {
                             "label": "地名",
                             "value": "尾張"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "引札"
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.5×23.0　張府中野友安"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.5×23.0　張府中野友安"
+                            "label": "タイトル",
+                            "value": "安政六年歳次己未須弥界由旬暦略書"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154636/2219,613,3697,2672/,300/0/default.jpg"
