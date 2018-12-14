@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-247.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔大坂大手筋豊後町立野屋平兵衛店引札〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-247.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p45#xywh=991,2796,1057,1487",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">9.0×3.6　同名の品が出まわっているので、吟味のため印形を示すとあり、他に立野屋の小印２箇あり</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔大坂大手筋豊後町立野屋平兵衛店引札〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
                     "label": "16-A00-6010-1-247",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "書誌事項",
+                            "value": "9.0×3.6　同名の品が出まわっているので、吟味のため印形を示すとあり、他に立野屋の小印２箇あり"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "大阪"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.0×3.6　同名の品が出まわっているので、吟味のため印形を示すとあり、他に立野屋の小印２箇あり"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔大坂大手筋豊後町立野屋平兵衛店引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "版種類",

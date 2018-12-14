@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-135.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔名府法応寺護国堂多門講中鬮引当人名簿〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-135.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=1021,527,3132,2476",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.0×20.2</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590001015</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔名府法応寺護国堂多門講中鬮引当人名簿〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年1月15日</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
                     "label": "16-A00-6010-1-135",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "書誌事項",
+                            "value": "16.0×20.2"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590001015
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.0×20.2"
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政6年1月15日"
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔名府法応寺護国堂多門講中鬮引当人名簿〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月15日"
                         },
                         {
                             "label": "版種類",

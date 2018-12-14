@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-54.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔朱印９顆〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-54.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p9#xywh=869,2904,3165,1413",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">中島孟平２枚、会心亭印、柳田氏記、石黒良策、双松園記、鈴木容蔵、木村良周、宮田三雄</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">９枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔朱印９顆〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd></dl>",
                     "label": "16-A00-6010-1-54",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "９枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "書誌事項",
+                            "value": "中島孟平２枚、会心亭印、柳田氏記、石黒良策、双松園記、鈴木容蔵、木村良周、宮田三雄"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18580099099
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "中島孟平２枚、会心亭印、柳田氏記、石黒良策、双松園記、鈴木容蔵、木村良周、宮田三雄"
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "９枚"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔朱印９顆〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154126/869,2904,3165,1413/,300/0/default.jpg"

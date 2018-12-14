@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-2.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "嘉永校定東西地球万国全図",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-2.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p2#xywh=872,701,2207,3405",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">22.0×15.5　東都文渓堂梓、栗原信晁再校、為斎画、但し包紙のみ、オランダ語でKAARTとあり</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18530099099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">嘉永校定東西地球万国全図</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">嘉永6年</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
                     "label": "16-A00-6010-1-2",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "書誌事項",
+                            "value": "22.0×15.5　東都文渓堂梓、栗原信晁再校、為斎画、但し包紙のみ、オランダ語でKAARTとあり"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18530099099
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "22.0×15.5　東都文渓堂梓、栗原信晁再校、為斎画、但し包紙のみ、オランダ語でKAARTとあり"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         },
                         {
-                            "label": "和暦",
-                            "value": "嘉永6年"
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "タイトル",
                             "value": "嘉永校定東西地球万国全図"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "嘉永6年"
                         },
                         {
                             "label": "版種類",

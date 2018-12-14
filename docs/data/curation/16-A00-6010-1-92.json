@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-92.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔知多郡衣浦有脇神谷本店製銘酒松楽引札〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-1-92.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p15#xywh=892,511,2419,2833",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.1×19.5　駄卸小売共名古屋桑名町２丁目加見屋常三郎店にておこなっている旨記載あり</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590001099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔知多郡衣浦有脇神谷本店製銘酒松楽引札〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年1月</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
                     "label": "16-A00-6010-1-92",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "書誌事項",
+                            "value": "18.1×19.5　駄卸小売共名古屋桑名町２丁目加見屋常三郎店にておこなっている旨記載あり"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18590001099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "地名",
                             "value": "尾張"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18590001099
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "18.1×19.5　駄卸小売共名古屋桑名町２丁目加見屋常三郎店にておこなっている旨記載あり"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政6年1月"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔知多郡衣浦有脇神谷本店製銘酒松楽引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
                         },
                         {
                             "label": "版種類",
