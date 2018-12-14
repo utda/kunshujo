@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p20#xywh=1251,1114,4502,3197",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">22.6×29.0　「雑木雑、廿六」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔社頭烏をよめる師兼和歌他２２首摺物〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>不明</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政6年</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>〔社頭烏をよめる師兼和歌他２２首摺物〕</td><th>西暦コード</th><td>18590099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>22.6×29.0　「雑木雑、廿六」とあり</td></table>",
                     "label": "16-A00-6010-3-51",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "不明"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "22.6×29.0　「雑木雑、廿六」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔社頭烏をよめる師兼和歌他２２首摺物〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔社頭烏をよめる師兼和歌他２２首摺物〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18590099099
+                            "label": "書誌事項",
+                            "value": "22.6×29.0　「雑木雑、廿六」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154237/1251,1114,4502,3197/,300/0/default.jpg"

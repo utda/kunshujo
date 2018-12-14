@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p59#xywh=949,580,5216,1838",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">11.0×31.0　施印</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔木綿織上の労苦を引き三光の御恩を述ぶる摺物〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政6年</td><th>タイトル</th><td>〔木綿織上の労苦を引き三光の御恩を述ぶる摺物〕</td><th>西暦コード</th><td>18590099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>11.0×31.0　施印</td></table>",
                     "label": "16-A00-6010-3-191",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "尾張"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.0×31.0　施印"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔木綿織上の労苦を引き三光の御恩を述ぶる摺物〕"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "安政6年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "〔木綿織上の労苦を引き三光の御恩を述ぶる摺物〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18590099099
+                            "label": "書誌事項",
+                            "value": "11.0×31.0　施印"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154276/949,580,5216,1838/,300/0/default.jpg"

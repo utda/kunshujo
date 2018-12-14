@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p26#xywh=3687,518,2571,3955",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">番附</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×24.0　書林兼草紙屋大坂心才橋ばくろふ町塩屋喜兵衛板、天保１５甲辰年新版</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">神社祭礼仏閣法会浪華参詣大数望</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">弘化1年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18440099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>大阪</td><th>形態分類</th><td>番附</td><th>数量</th><td>１枚</td><th>和暦</th><td>弘化1年</td><th>内容分類</th><td>信仰・行楽・名所図会</td><th>タイトル</th><td>神社祭礼仏閣法会浪華参詣大数望</td><th>西暦コード</th><td>18440099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>15.0×24.0　書林兼草紙屋大坂心才橋ばくろふ町塩屋喜兵衛板、天保１５甲辰年新版</td></table>",
                     "label": "16-A00-6010-7-43",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "番附"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.0×24.0　書林兼草紙屋大坂心才橋ばくろふ町塩屋喜兵衛板、天保１５甲辰年新版"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "神社祭礼仏閣法会浪華参詣大数望"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "弘化1年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "神社祭礼仏閣法会浪華参詣大数望"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18440099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18440099099
+                            "label": "書誌事項",
+                            "value": "15.0×24.0　書林兼草紙屋大坂心才橋ばくろふ町塩屋喜兵衛板、天保１５甲辰年新版"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154503/3687,518,2571,3955/,300/0/default.jpg"

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p77#xywh=3984,1595,2511,3321",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京・肥後</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">20.0×15.1　書込形式のもの、竹葉石筆立、五色石、２円２２銭、熊本県松岡敬太郎と田中芳男（購入者）の間のもの、「博覧会場売品之証」が貼られてあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔博覧会販売品売買契約証〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年12月6日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770012006</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京・肥後</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年12月6日</td><th>タイトル</th><td>〔博覧会販売品売買契約証〕</td><th>西暦コード</th><td>18770012006</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>20.0×15.1　書込形式のもの、竹葉石筆立、五色石、２円２２銭、熊本県松岡敬太郎と田中芳男（購入者）の間のもの、「博覧会場売品之証」が貼られてあり</td></table>",
                     "label": "16-A00-6010-15-172",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "東京・肥後"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "20.0×15.1　書込形式のもの、竹葉石筆立、五色石、２円２２銭、熊本県松岡敬太郎と田中芳男（購入者）の間のもの、「博覧会場売品之証」が貼られてあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔博覧会販売品売買契約証〕"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年12月6日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "〔博覧会販売品売買契約証〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770012006
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770012006
+                            "label": "書誌事項",
+                            "value": "20.0×15.1　書込形式のもの、竹葉石筆立、五色石、２円２２銭、熊本県松岡敬太郎と田中芳男（購入者）の間のもの、「博覧会場売品之証」が貼られてあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155007/3984,1595,2511,3321/,300/0/default.jpg"

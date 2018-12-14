@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/canvas/p20#xywh=2015,495,1626,4274",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">26.0×10.0　大阪舎密局のものか？</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔入寮願書書式摺物〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690199099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>大阪</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治2?年</td><th>タイトル</th><td>〔入寮願書書式摺物〕</td><th>西暦コード</th><td>18690199099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>26.0×10.0　大阪舎密局のものか？</td></table>",
                     "label": "16-A00-6010-8-57",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "大阪"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "26.0×10.0　大阪舎密局のものか？"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔入寮願書書式摺物〕"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治2?年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "〔入寮願書書式摺物〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18690199099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18690199099
+                            "label": "書誌事項",
+                            "value": "26.0×10.0　大阪舎密局のものか？"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154573/2015,495,1626,4274/,300/0/default.jpg"

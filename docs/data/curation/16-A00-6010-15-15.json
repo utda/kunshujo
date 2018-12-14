@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p7#xywh=1997,752,1461,747",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">横浜</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">8.7×4.4</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔篆刻「横浜検査済」〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760199099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>横浜</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9?年</td><th>内容分類</th><td>政治社会変動</td><th>タイトル</th><td>〔篆刻「横浜検査済」〕</td><th>西暦コード</th><td>18760199099</td><th>書誌事項</th><td>8.7×4.4</td></table>",
                     "label": "16-A00-6010-15-15",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "横浜"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.7×4.4"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔篆刻「横浜検査済」〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9?年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔篆刻「横浜検査済」〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760199099
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.7×4.4"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154937/1997,752,1461,747/,300/0/default.jpg"

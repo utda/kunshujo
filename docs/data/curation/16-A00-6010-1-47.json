@@ -15,20 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=4103,2639,940,839",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>西暦コード</th><td>18580099099</td><th>数量</th><td>１枚</td><th>書誌事項</th><td>4.8×5.5　立っているライオン図とNAHLの４アルファベットあり</td><th>和暦</th><td>安政5年</td><th>タイトル</th><td>〔オランダ語印章〕</td><th>地名</th><td>外国</td><th>内容分類</th><td>病気・医療</td></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>和暦</th><td>安政5年</td></tr><tr><th>タイトル</th><td>〔オランダ語印章〕</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>書誌事項</th><td>4.8×5.5　立っているライオン図とNAHLの４アルファベットあり</td></tr><tr><th>地名</th><td>外国</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr></table>",
                     "label": "16-A00-6010-1-47",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "4.8×5.5　立っているライオン図とNAHLの４アルファベットあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "和暦",
@@ -39,12 +31,20 @@
                             "value": "〔オランダ語印章〕"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.8×5.5　立っているライオン図とNAHLの４アルファベットあり"
+                        },
+                        {
                             "label": "地名",
                             "value": "外国"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154125/4103,2639,940,839/,300/0/default.jpg"

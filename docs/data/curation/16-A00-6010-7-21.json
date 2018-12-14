@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p13#xywh=3845,623,2377,3843",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.0×23.2</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">流行はしかやくはらひ下</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>江戸</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久2年</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>流行はしかやくはらひ下</td><th>西暦コード</th><td>18620099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>14.0×23.2</td></table>",
                     "label": "16-A00-6010-7-21",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "江戸"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "14.0×23.2"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "流行はしかやくはらひ下"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "文久2年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "流行はしかやくはらひ下"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18620099099
+                            "label": "書誌事項",
+                            "value": "14.0×23.2"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154490/3845,623,2377,3843/,300/0/default.jpg"

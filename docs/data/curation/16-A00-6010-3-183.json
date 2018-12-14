@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p55#xywh=973,755,2214,3755",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.5×13.0　色摺のもの</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔大坂南堀江４丁目田中屋利兵衛絹糸引札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590001099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>大阪</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政6年1月</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔大坂南堀江４丁目田中屋利兵衛絹糸引札〕</td><th>西暦コード</th><td>18590001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>23.5×13.0　色摺のもの</td></table>",
                     "label": "16-A00-6010-3-183",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "23.5×13.0　色摺のもの"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔大坂南堀江４丁目田中屋利兵衛絹糸引札〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "安政6年1月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大坂南堀江４丁目田中屋利兵衛絹糸引札〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590001099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18590001099
+                            "label": "書誌事項",
+                            "value": "23.5×13.0　色摺のもの"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154272/973,755,2214,3755/,300/0/default.jpg"

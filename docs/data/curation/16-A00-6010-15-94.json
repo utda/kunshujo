@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p44#xywh=924,573,1589,2694",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.0×9.5　東京九段阪下爼橋東畔今川小路第１坊流芳斎藤和輔</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔今川小路第一坊玉川堂文具引札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔今川小路第一坊玉川堂文具引札〕</td><th>西暦コード</th><td>18770099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>16.0×9.5　東京九段阪下爼橋東畔今川小路第１坊流芳斎藤和輔</td></table>",
                     "label": "16-A00-6010-15-94",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.0×9.5　東京九段阪下爼橋東畔今川小路第１坊流芳斎藤和輔"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔今川小路第一坊玉川堂文具引札〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔今川小路第一坊玉川堂文具引札〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770099099
+                            "label": "書誌事項",
+                            "value": "16.0×9.5　東京九段阪下爼橋東畔今川小路第１坊流芳斎藤和輔"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154974/924,573,1589,2694/,300/0/default.jpg"

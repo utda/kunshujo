@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p5#xywh=981,494,2678,3638",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.8×15.7　陸軍教導団軍楽長小篠秀一、陸軍省雇教師作者ダグロン</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔上野公園開の節陸軍教導団軍楽隊楽譜編号〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年5月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760005099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年5月</td><th>タイトル</th><td>〔上野公園開の節陸軍教導団軍楽隊楽譜編号〕</td><th>西暦コード</th><td>18760005099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>21.8×15.7　陸軍教導団軍楽長小篠秀一、陸軍省雇教師作者ダグロン</td></table>",
                     "label": "16-A00-6010-15-10",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "21.8×15.7　陸軍教導団軍楽長小篠秀一、陸軍省雇教師作者ダグロン"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔上野公園開の節陸軍教導団軍楽隊楽譜編号〕"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年5月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "〔上野公園開の節陸軍教導団軍楽隊楽譜編号〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760005099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760005099
+                            "label": "書誌事項",
+                            "value": "21.8×15.7　陸軍教導団軍楽長小篠秀一、陸軍省雇教師作者ダグロン"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154935/981,494,2678,3638/,300/0/default.jpg"

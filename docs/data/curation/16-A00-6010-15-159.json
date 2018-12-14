@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p67#xywh=669,553,3500,3500",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">東京日々新聞号外附録</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年10月8日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770010008</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年10月8日</td><th>タイトル</th><td>東京日々新聞号外附録</td><th>西暦コード</th><td>18770010008</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</td></table>",
                     "label": "16-A00-6010-15-159",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "東京日々新聞号外附録"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年10月8日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "東京日々新聞号外附録"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770010008
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770010008
+                            "label": "書誌事項",
+                            "value": "21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154997/669,553,3500,3500/,300/0/default.jpg"
@@ -52,7 +52,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p68#xywh=3661,606,3303,3465",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">東京日々新聞号外附録</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年10月8日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770010008</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年10月8日</td><th>タイトル</th><td>東京日々新聞号外附録</td><th>西暦コード</th><td>18770010008</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</td></table>",
                     "label": "16-A00-6010-15-159",
                     "metadata": [
                         {
@@ -60,28 +60,28 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "東京日々新聞号外附録"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年10月8日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "東京日々新聞号外附録"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770010008
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770010008
+                            "label": "書誌事項",
+                            "value": "21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154998/3661,606,3303,3465/,300/0/default.jpg"

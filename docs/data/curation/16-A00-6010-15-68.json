@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p37#xywh=1035,638,1227,2496",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔資生堂調薬舗処方〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>〔資生堂調薬舗処方〕</td><th>西暦コード</th><td>18760099099</td><th>版種類</th><td>写本</td><th>書誌事項</th><td>15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり</td></table>",
                     "label": "16-A00-6010-15-68",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔資生堂調薬舗処方〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔資生堂調薬舗処方〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760099099
                         },
                         {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760099099
+                            "label": "書誌事項",
+                            "value": "15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154967/1035,638,1227,2496/,300/0/default.jpg"
@@ -56,7 +56,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p39#xywh=638,583,3990,2535",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔資生堂調薬舗処方〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>〔資生堂調薬舗処方〕</td><th>西暦コード</th><td>18760099099</td><th>版種類</th><td>写本</td><th>書誌事項</th><td>15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり</td></table>",
                     "label": "16-A00-6010-15-68",
                     "metadata": [
                         {
@@ -64,32 +64,32 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔資生堂調薬舗処方〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔資生堂調薬舗処方〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760099099
                         },
                         {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760099099
+                            "label": "書誌事項",
+                            "value": "15.0×24.7　飯田町２丁目５９番地九段坂上灯台北隣資生堂調薬舗賀川東斎、以上活版印刷、「カヤフテ油、外用」と墨書あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154969/638,583,3990,2535/,300/0/default.jpg"

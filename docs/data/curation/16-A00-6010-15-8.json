@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p4#xywh=4705,566,1582,622",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">3.2×8.8　「１０月１２日出勤」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔ＴＵＪＩＳＩＭＡ　ＴＵＮＥＯＫＩ名刺〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750199099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治8?年</td><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td><th>タイトル</th><td>〔ＴＵＪＩＳＩＭＡ　ＴＵＮＥＯＫＩ名刺〕</td><th>西暦コード</th><td>18750199099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>3.2×8.8　「１０月１２日出勤」とあり</td></table>",
                     "label": "16-A00-6010-15-8",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "3.2×8.8　「１０月１２日出勤」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔ＴＵＪＩＳＩＭＡ　ＴＵＮＥＯＫＩ名刺〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治8?年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔ＴＵＪＩＳＩＭＡ　ＴＵＮＥＯＫＩ名刺〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18750199099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18750199099
+                            "label": "書誌事項",
+                            "value": "3.2×8.8　「１０月１２日出勤」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154934/4705,566,1582,622/,300/0/default.jpg"

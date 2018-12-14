@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p40#xywh=3805,941,2737,3811",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.3×16.5　摺物に書込形式、１０月１３日・１２月２７日御弁当２度分５０銭、田中様御会計中様</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔上野山内精養軒領収書〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年12月28日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760012028</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年12月28日</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔上野山内精養軒領収書〕</td><th>西暦コード</th><td>18760012028</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>24.3×16.5　摺物に書込形式、１０月１３日・１２月２７日御弁当２度分５０銭、田中様御会計中様</td></table>",
                     "label": "16-A00-6010-15-70",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.3×16.5　摺物に書込形式、１０月１３日・１２月２７日御弁当２度分５０銭、田中様御会計中様"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔上野山内精養軒領収書〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年12月28日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔上野山内精養軒領収書〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760012028
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760012028
+                            "label": "書誌事項",
+                            "value": "24.3×16.5　摺物に書込形式、１０月１３日・１２月２７日御弁当２度分５０銭、田中様御会計中様"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154970/3805,941,2737,3811/,300/0/default.jpg"

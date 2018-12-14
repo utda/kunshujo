@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p42#xywh=973,1501,1368,3399",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">横浜</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.5×8.0　摺物に書込形式、料金７銭、届１銭５厘、従ヨシヲ至東京タナカ</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔横浜電信局受領書〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年8月7日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760008007</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>横浜</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年8月7日</td><th>タイトル</th><td>〔横浜電信局受領書〕</td><th>西暦コード</th><td>18760008007</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>24.5×8.0　摺物に書込形式、料金７銭、届１銭５厘、従ヨシヲ至東京タナカ</td></table>",
                     "label": "16-A00-6010-15-81",
                     "metadata": [
                         {
@@ -23,28 +23,28 @@
                             "value": "横浜"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.5×8.0　摺物に書込形式、料金７銭、届１銭５厘、従ヨシヲ至東京タナカ"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔横浜電信局受領書〕"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年8月7日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "〔横浜電信局受領書〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760008007
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760008007
+                            "label": "書誌事項",
+                            "value": "24.5×8.0　摺物に書込形式、料金７銭、届１銭５厘、従ヨシヲ至東京タナカ"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154972/973,1501,1368,3399/,300/0/default.jpg"

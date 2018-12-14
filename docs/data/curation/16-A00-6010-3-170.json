@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p51#xywh=3522,2043,2474,2334",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">信濃</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.5×15.0　木曽薮原宿北野屋文吉</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">お六櫛引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">弘化3年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18460001099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>信濃</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>弘化3年1月</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>お六櫛引札</td><th>西暦コード</th><td>18460001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>14.5×15.0　木曽薮原宿北野屋文吉</td></table>",
                     "label": "16-A00-6010-3-170",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "14.5×15.0　木曽薮原宿北野屋文吉"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "お六櫛引札"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "弘化3年1月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "お六櫛引札"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18460001099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18460001099
+                            "label": "書誌事項",
+                            "value": "14.5×15.0　木曽薮原宿北野屋文吉"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154268/3522,2043,2474,2334/,300/0/default.jpg"

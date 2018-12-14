@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p57#xywh=3852,2949,2620,1951",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.0×16.0　第１大区９小区山下町９番地、「今般香水油御化粧道具耳掃除一式内国勧業博覧会見本出品仕候」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔四ツ目屋木元忠兵衛香水油引札〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770008099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年8月</td><th>タイトル</th><td>〔四ツ目屋木元忠兵衛香水油引札〕</td><th>西暦コード</th><td>18770008099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>12.0×16.0　第１大区９小区山下町９番地、「今般香水油御化粧道具耳掃除一式内国勧業博覧会見本出品仕候」とあり</td></table>",
                     "label": "16-A00-6010-15-135",
                     "metadata": [
                         {
@@ -27,28 +27,28 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "12.0×16.0　第１大区９小区山下町９番地、「今般香水油御化粧道具耳掃除一式内国勧業博覧会見本出品仕候」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔四ツ目屋木元忠兵衛香水油引札〕"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年8月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "〔四ツ目屋木元忠兵衛香水油引札〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770008099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770008099
+                            "label": "書誌事項",
+                            "value": "12.0×16.0　第１大区９小区山下町９番地、「今般香水油御化粧道具耳掃除一式内国勧業博覧会見本出品仕候」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154987/3852,2949,2620,1951/,300/0/default.jpg"

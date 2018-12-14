@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p69#xywh=1167,622,5227,4348",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">保全堂衛生品発売広告</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>２枚</td><th>和暦</th><td>明治10年</td><th>タイトル</th><td>保全堂衛生品発売広告</td><th>西暦コード</th><td>18770099099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地</td></table>",
                     "label": "16-A00-6010-15-161",
                     "metadata": [
                         {
@@ -27,28 +27,28 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "保全堂衛生品発売広告"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "２枚"
+                            "label": "タイトル",
+                            "value": "保全堂衛生品発売広告"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770099099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770099099
+                            "label": "書誌事項",
+                            "value": "27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154999/1167,622,5227,4348/,300/0/default.jpg"
@@ -56,7 +56,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p70#xywh=1074,568,5235,4410",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">保全堂衛生品発売広告</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>２枚</td><th>和暦</th><td>明治10年</td><th>タイトル</th><td>保全堂衛生品発売広告</td><th>西暦コード</th><td>18770099099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地</td></table>",
                     "label": "16-A00-6010-15-161",
                     "metadata": [
                         {
@@ -68,28 +68,28 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "保全堂衛生品発売広告"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "２枚"
+                            "label": "タイトル",
+                            "value": "保全堂衛生品発売広告"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770099099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770099099
+                            "label": "書誌事項",
+                            "value": "27.0×31.3　花王散、神功水（目薬）、保全酒、つやの水、梅が香（香油）、花の露（香水）、香橙舎利別（夏日の飲料）、神田通りかぢ町３番地"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155000/1074,568,5235,4410/,300/0/default.jpg"

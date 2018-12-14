@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p4#xywh=3783,613,2470,3891",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.5×24.0　「右は朝４ツ半時限り、根岸大塚石稲荷大野出張所」、「浅草のうゑびはいつも卯と酉よ、根きしはすべて子の日午の日」月毎に種痘日の日程の表あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">丑年種痘日（うゑび）</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">慶応1年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18650001099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>江戸</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>慶応1年1月</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>丑年種痘日（うゑび）</td><th>西暦コード</th><td>18650001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>15.5×24.0　「右は朝４ツ半時限り、根岸大塚石稲荷大野出張所」、「浅草のうゑびはいつも卯と酉よ、根きしはすべて子の日午の日」月毎に種痘日の日程の表あり</td></table>",
                     "label": "16-A00-6010-7-4",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.5×24.0　「右は朝４ツ半時限り、根岸大塚石稲荷大野出張所」、「浅草のうゑびはいつも卯と酉よ、根きしはすべて子の日午の日」月毎に種痘日の日程の表あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "丑年種痘日（うゑび）"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "慶応1年1月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "丑年種痘日（うゑび）"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18650001099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18650001099
+                            "label": "書誌事項",
+                            "value": "15.5×24.0　「右は朝４ツ半時限り、根岸大塚石稲荷大野出張所」、「浅草のうゑびはいつも卯と酉よ、根きしはすべて子の日午の日」月毎に種痘日の日程の表あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154481/3783,613,2470,3891/,300/0/default.jpg"

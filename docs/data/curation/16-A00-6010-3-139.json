@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p45#xywh=2622,626,1770,2448",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×4.8　「子６月１０日会」、名古屋伊勢町６丁目繁昌院境内とあり、花と鳥の２枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔尾州国府宮神福賦与会所改札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">嘉永5年6月10日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18520006010</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>２枚</td><th>和暦</th><td>嘉永5年6月10日</td><th>内容分類</th><td>信仰・行楽・名所図会</td><th>タイトル</th><td>〔尾州国府宮神福賦与会所改札〕</td><th>西暦コード</th><td>18520006010</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>15.0×4.8　「子６月１０日会」、名古屋伊勢町６丁目繁昌院境内とあり、花と鳥の２枚</td></table>",
                     "label": "16-A00-6010-3-139",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "尾張"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.0×4.8　「子６月１０日会」、名古屋伊勢町６丁目繁昌院境内とあり、花と鳥の２枚"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔尾州国府宮神福賦与会所改札〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "和暦",
                             "value": "嘉永5年6月10日"
                         },
                         {
-                            "label": "数量",
-                            "value": "２枚"
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔尾州国府宮神福賦与会所改札〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18520006010
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18520006010
+                            "label": "書誌事項",
+                            "value": "15.0×4.8　「子６月１０日会」、名古屋伊勢町６丁目繁昌院境内とあり、花と鳥の２枚"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154262/2622,626,1770,2448/,300/0/default.jpg"

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p23#xywh=918,614,2830,2060",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.1×17.0　田中芳男宛、横須賀片山直人宛荷物、摺物に書込形式</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔東京陸運元会社荷物預証〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年11月27日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760011027</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年11月27日</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔東京陸運元会社荷物預証〕</td><th>西暦コード</th><td>18760011027</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>12.1×17.0　田中芳男宛、横須賀片山直人宛荷物、摺物に書込形式</td></table>",
                     "label": "16-A00-6010-15-49",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "12.1×17.0　田中芳男宛、横須賀片山直人宛荷物、摺物に書込形式"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔東京陸運元会社荷物預証〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年11月27日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔東京陸運元会社荷物預証〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760011027
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760011027
+                            "label": "書誌事項",
+                            "value": "12.1×17.0　田中芳男宛、横須賀片山直人宛荷物、摺物に書込形式"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154953/918,614,2830,2060/,300/0/default.jpg"

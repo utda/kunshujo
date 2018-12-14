@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p60#xywh=901,566,3091,3527",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">19.1×21.4　第４大区１小区表神保町２番地辻平兵衛、目薬は西久保巴町松本成規謹製</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">安全火留め石炭油舶来石炭油本ガス油目薬神験水引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年</td><th>タイトル</th><td>安全火留め石炭油舶来石炭油本ガス油目薬神験水引札</td><th>西暦コード</th><td>18770099099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>19.1×21.4　第４大区１小区表神保町２番地辻平兵衛、目薬は西久保巴町松本成規謹製</td></table>",
                     "label": "16-A00-6010-15-151",
                     "metadata": [
                         {
@@ -27,28 +27,28 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "19.1×21.4　第４大区１小区表神保町２番地辻平兵衛、目薬は西久保巴町松本成規謹製"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "安全火留め石炭油舶来石炭油本ガス油目薬神験水引札"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "安全火留め石炭油舶来石炭油本ガス油目薬神験水引札"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770099099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770099099
+                            "label": "書誌事項",
+                            "value": "19.1×21.4　第４大区１小区表神保町２番地辻平兵衛、目薬は西久保巴町松本成規謹製"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154990/901,566,3091,3527/,300/0/default.jpg"

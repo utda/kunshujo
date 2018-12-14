@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p19#xywh=926,2995,2706,1936",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">11.8×16.2　東京大伝馬街第三梅花亭森田清翁発兌、清国伝製雲片、同桂花糖、清国伝習牛皮糖、「明治９年１月１５日」と墨書あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔清国伝製菓子引札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760001099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年1月</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔清国伝製菓子引札〕</td><th>西暦コード</th><td>18760001099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>11.8×16.2　東京大伝馬街第三梅花亭森田清翁発兌、清国伝製雲片、同桂花糖、清国伝習牛皮糖、「明治９年１月１５日」と墨書あり</td></table>",
                     "label": "16-A00-6010-15-41",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.8×16.2　東京大伝馬街第三梅花亭森田清翁発兌、清国伝製雲片、同桂花糖、清国伝習牛皮糖、「明治９年１月１５日」と墨書あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔清国伝製菓子引札〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年1月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔清国伝製菓子引札〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760001099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760001099
+                            "label": "書誌事項",
+                            "value": "11.8×16.2　東京大伝馬街第三梅花亭森田清翁発兌、清国伝製雲片、同桂花糖、清国伝習牛皮糖、「明治９年１月１５日」と墨書あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154949/926,2995,2706,1936/,300/0/default.jpg"

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p44#xywh=3979,582,1898,3028",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.1×11.4　フルコース和名及び仏語名</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">於浜離宮御饗応献立</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年4月2日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770004002</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年4月2日</td><th>内容分類</th><td>政治社会変動</td><th>タイトル</th><td>於浜離宮御饗応献立</td><th>西暦コード</th><td>18770004002</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>18.1×11.4　フルコース和名及び仏語名</td></table>",
                     "label": "16-A00-6010-15-90",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "東京"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "18.1×11.4　フルコース和名及び仏語名"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "於浜離宮御饗応献立"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年4月2日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "於浜離宮御饗応献立"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770004002
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770004002
+                            "label": "書誌事項",
+                            "value": "18.1×11.4　フルコース和名及び仏語名"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154974/3979,582,1898,3028/,300/0/default.jpg"

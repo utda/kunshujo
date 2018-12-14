@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p14#xywh=887,521,2846,4325",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">横浜</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">26.5×17.0　横浜佐野常民出、「コンニチノシユウクハイハエンニンソロ」、着局は本郷電信局</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔田中芳男宛電報送達紙〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年1月11日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760001011</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>横浜</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年1月11日</td><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td><th>タイトル</th><td>〔田中芳男宛電報送達紙〕</td><th>西暦コード</th><td>18760001011</td><th>版種類</th><td>写本</td><th>書誌事項</th><td>26.5×17.0　横浜佐野常民出、「コンニチノシユウクハイハエンニンソロ」、着局は本郷電信局</td></table>",
                     "label": "16-A00-6010-15-23",
                     "metadata": [
                         {
@@ -23,32 +23,32 @@
                             "value": "横浜"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "26.5×17.0　横浜佐野常民出、「コンニチノシユウクハイハエンニンソロ」、着局は本郷電信局"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔田中芳男宛電報送達紙〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治9年1月11日"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔田中芳男宛電報送達紙〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760001011
                         },
                         {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760001011
+                            "label": "書誌事項",
+                            "value": "26.5×17.0　横浜佐野常民出、「コンニチノシユウクハイハエンニンソロ」、着局は本郷電信局"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154944/887,521,2846,4325/,300/0/default.jpg"

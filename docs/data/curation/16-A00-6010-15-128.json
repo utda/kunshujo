@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p54#xywh=910,545,2473,3500",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.8×21.0　東京府下第１大区８小区銀座３丁目２２番地製造人小池卯八郎謹白、明治５年夏薩州加世田村にて黒鉛入手、明治９年２月澳国博覧会事務官藤山種広に就き製法を学ぶ、今回内国博に際し列品する、東京知新堂刻</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">大日本鉛筆広告</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770008099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年8月</td><th>タイトル</th><td>大日本鉛筆広告</td><th>西暦コード</th><td>18770008099</td><th>版種類</th><td>銅版</td><th>書誌事項</th><td>14.8×21.0　東京府下第１大区８小区銀座３丁目２２番地製造人小池卯八郎謹白、明治５年夏薩州加世田村にて黒鉛入手、明治９年２月澳国博覧会事務官藤山種広に就き製法を学ぶ、今回内国博に際し列品する、東京知新堂刻</td></table>",
                     "label": "16-A00-6010-15-128",
                     "metadata": [
                         {
@@ -27,28 +27,28 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "14.8×21.0　東京府下第１大区８小区銀座３丁目２２番地製造人小池卯八郎謹白、明治５年夏薩州加世田村にて黒鉛入手、明治９年２月澳国博覧会事務官藤山種広に就き製法を学ぶ、今回内国博に際し列品する、東京知新堂刻"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "大日本鉛筆広告"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年8月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "大日本鉛筆広告"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770008099
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770008099
+                            "label": "書誌事項",
+                            "value": "14.8×21.0　東京府下第１大区８小区銀座３丁目２２番地製造人小池卯八郎謹白、明治５年夏薩州加世田村にて黒鉛入手、明治９年２月澳国博覧会事務官藤山種広に就き製法を学ぶ、今回内国博に際し列品する、東京知新堂刻"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154984/910,545,2473,3500/,300/0/default.jpg"

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p58#xywh=3758,544,2737,4340",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">紀伊</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.6×26.7　内国勧業博覧会売物店乙第５号出店和歌山県下有田郡湯浅金花堂鈴木吉兵衛、「きんこは海中の人参」云々とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">金海鼡糖金海鼡練金海鼡味噌引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770009099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>紀伊</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年9月</td><th>タイトル</th><td>金海鼡糖金海鼡練金海鼡味噌引札</td><th>西暦コード</th><td>18770009099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>16.6×26.7　内国勧業博覧会売物店乙第５号出店和歌山県下有田郡湯浅金花堂鈴木吉兵衛、「きんこは海中の人参」云々とあり</td></table>",
                     "label": "16-A00-6010-15-140",
                     "metadata": [
                         {
@@ -27,28 +27,28 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.6×26.7　内国勧業博覧会売物店乙第５号出店和歌山県下有田郡湯浅金花堂鈴木吉兵衛、「きんこは海中の人参」云々とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "金海鼡糖金海鼡練金海鼡味噌引札"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年9月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "タイトル",
+                            "value": "金海鼡糖金海鼡練金海鼡味噌引札"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770009099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770009099
+                            "label": "書誌事項",
+                            "value": "16.6×26.7　内国勧業博覧会売物店乙第５号出店和歌山県下有田郡湯浅金花堂鈴木吉兵衛、「きんこは海中の人参」云々とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154988/3758,544,2737,4340/,300/0/default.jpg"

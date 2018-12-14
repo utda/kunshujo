@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p62#xywh=3822,1760,2309,2773",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">信濃</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.5×17.0　飯田御飼料畑松月堂、「第一せんきしやくかつけうちみじ」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">中風薬湯功能</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久1年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18610001099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>信濃</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久1年1月</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>中風薬湯功能</td><th>西暦コード</th><td>18610001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>14.5×17.0　飯田御飼料畑松月堂、「第一せんきしやくかつけうちみじ」とあり</td></table>",
                     "label": "16-A00-6010-7-94",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "14.5×17.0　飯田御飼料畑松月堂、「第一せんきしやくかつけうちみじ」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "中風薬湯功能"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "文久1年1月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "中風薬湯功能"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18610001099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18610001099
+                            "label": "書誌事項",
+                            "value": "14.5×17.0　飯田御飼料畑松月堂、「第一せんきしやくかつけうちみじ」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154539/3822,1760,2309,2773/,300/0/default.jpg"

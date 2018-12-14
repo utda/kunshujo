@@ -15,44 +15,44 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p42#xywh=4479,3439,624,723",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>西暦コード</th><td>18580099099</td><th>数量</th><td>１枚</td><th>書誌事項</th><td>4.5×3.7</td><th>和暦</th><td>安政5年</td><th>形態分類</th><td>引札</td><th>タイトル</th><td>〔尾州常滑陶師三光引札〕</td><th>地名</th><td>尾張</td><th>版種類</th><td>木版</td><th>内容分類</th><td>諸営業</td></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>和暦</th><td>安政5年</td></tr><tr><th>タイトル</th><td>〔尾州常滑陶師三光引札〕</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>書誌事項</th><td>4.5×3.7</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr></table>",
                     "label": "16-A00-6010-1-223",
                     "metadata": [
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "4.5×3.7"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "和暦",
                             "value": "安政5年"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "タイトル",
                             "value": "〔尾州常滑陶師三光引札〕"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×3.7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154159/4479,3439,624,723/,300/0/default.jpg"

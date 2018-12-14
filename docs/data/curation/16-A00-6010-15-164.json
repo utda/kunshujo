@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p73#xywh=947,791,2897,4025",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京・上野</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.0×24.0　山一組鉄売捌所銀座２丁目１番地紀伊国橋西詰角山一組代理渡辺質、永井泰次郎、取次売捌人５名の住所氏名あり、中に寺木定芳の名あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔上州甘楽郡中小阪村鉄鉱引札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年5月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770005099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>東京・上野</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年5月</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔上州甘楽郡中小阪村鉄鉱引札〕</td><th>西暦コード</th><td>18770005099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>18.0×24.0　山一組鉄売捌所銀座２丁目１番地紀伊国橋西詰角山一組代理渡辺質、永井泰次郎、取次売捌人５名の住所氏名あり、中に寺木定芳の名あり</td></table>",
                     "label": "16-A00-6010-15-164",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "18.0×24.0　山一組鉄売捌所銀座２丁目１番地紀伊国橋西詰角山一組代理渡辺質、永井泰次郎、取次売捌人５名の住所氏名あり、中に寺木定芳の名あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔上州甘楽郡中小阪村鉄鉱引札〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治10年5月"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔上州甘楽郡中小阪村鉄鉱引札〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770005099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18770005099
+                            "label": "書誌事項",
+                            "value": "18.0×24.0　山一組鉄売捌所銀座２丁目１番地紀伊国橋西詰角山一組代理渡辺質、永井泰次郎、取次売捌人５名の住所氏名あり、中に寺木定芳の名あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155003/947,791,2897,4025/,300/0/default.jpg"
