@@ -1,0 +1,116 @@
+Acknowledgements
+
+* Leaflet
+
+2-clause BSD License
+Copyright (c) 2010-2016, Vladimir Agafonkin
+Copyright (c) 2010-2011, CloudMade
+https://github.com/Leaflet/Leaflet/blob/master/LICENSE
+
+* Leaflet-IIIF
+
+The MIT License (MIT)
+Copyright (c) 2014 Jack Reed
+https://github.com/mejackreed/Leaflet-IIIF/blob/master/LICENSE.txt
+
+* Leaflet.fullscreen
+
+ISC license
+Copyright (c) 2015, MapBox
+https://github.com/Leaflet/Leaflet.fullscreen/blob/gh-pages/LICENSE
+
+* Leaflet.toolbar
+
+MIT License
+Copyright (c) 2014-2015, Justin Manley
+https://github.com/Leaflet/Leaflet.toolbar/blob/master/LICENSE
+
+* Leaflet.Spin
+
+MIT License
+Copyright (c) 2012 Makina Corpus
+https://github.com/makinacorpus/Leaflet.Spin/blob/master/LICENSE
+
+* L.Control.Credits
+
+The MIT License (MIT)
+Copyright (c) 2015 Greg Allensworth
+https://github.com/gregallensworth/L.Control.Credits/blob/master/LICENSE
+
+* L.EasyButton
+
+MIT License
+Copyright (C) 2014 Daniel Montague
+https://github.com/CliffCloud/Leaflet.EasyButton/blob/master/LICENSE
+
+* leaflet-control-window
+
+The MIT License (MIT)
+Copyright (c) 2015, Filip Zavadil
+https://github.com/mapshakers/leaflet-control-window/blob/master/LICENSE
+
+* Leaflet.Dialog
+
+MIT License
+Copyright (c) 2017 NBT Solutions
+https://github.com/NBTSolutions/Leaflet.Dialog/blob/master/LICENSE
+
+===
+* jQuery
+* jQuery UI
+
+MIT license
+Copyright jQuery Foundation and other contributors
+https://jquery.org/license/
+
+* jPages
+
+MIT license
+Copyright (c) 2011 by Luís Almeida
+https://github.com/luis-almeida/jPages/blob/master/LICENSE.md
+
+* jquery.lazyload
+
+The MIT License (MIT)
+Copyright (c) 2015 Mika Tuupola
+https://github.com/tuupola/jquery_lazyload/blob/master/LICENSE.md
+
+* jQuery UI Touch Punch
+
+Dual licensed under the MIT or GPL Version 2 licenses.
+Copyright 2011-2014, Dave Furfero
+http://touchpunch.furf.com/
+https://github.com/furf/jquery-ui-touch-punch/
+
+* jquery.spin.js
+
+The MIT License
+Copyright (c) 2011-2015 Felix Gnass [fgnass at gmail dot com]
+https://github.com/fgnass/spin.js/blob/master/LICENSE.md
+
+===
+* spin.js
+
+The MIT License
+Copyright (c) 2011-2015 Felix Gnass [fgnass at gmail dot com]
+https://github.com/fgnass/spin.js/blob/master/LICENSE.md
+
+===
+* ProgressBar.js
+
+The MIT License (MIT)
+Copyright (c) 2015 Kimmo Brunfeldt
+https://github.com/kimmobrunfeldt/progressbar.js/blob/master/LICENSE
+
+===
+* Bootstrap
+
+The MIT License (MIT)
+Copyright (c) 2011-2016 Twitter, Inc.
+https://github.com/twbs/bootstrap/blob/v3.3.7/LICENSE
+
+* Honoka (Bootstrap theme)
+
+The MIT License (MIT)
+Copyright (c) 2015 windyakin
+https://github.com/windyakin/Honoka/blob/master/LICENSE

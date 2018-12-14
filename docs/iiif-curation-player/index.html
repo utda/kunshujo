@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>電子展示『捃拾帖』</title>
+  <meta property="og:site_name" content="電子展示『捃拾帖』"/>
+  <meta property="og:title" content="電子展示『捃拾帖』" />
+  <meta name="description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。">
+  <meta property="og:description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。" />
+  <meta property="og:url" content="https://kunshujo.dl.itc.u-tokyo.ac.jp/" />
+
+  <meta property="og:locale" content="ja_JP" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="image_src" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg">
+  <link rel="image_src" href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
+  <link rel="shortcut icon" href="../assets/images/favicon.ico">
+
+  <link rel="stylesheet" href="leaflet/leaflet-0.7.7/leaflet.css">
+  <link rel="stylesheet" href="leaflet/Leaflet.fullscreen/leaflet.fullscreen.css">
+  <link rel="stylesheet" href="leaflet/Leaflet.toolbar/leaflet.toolbar.css">
+  <link rel="stylesheet" href="leaflet/L.Control.Credits/leaflet-control-credits.css">
+  <link rel="stylesheet" href="leaflet/Leaflet.Dialog/Leaflet.Dialog.css">
+  <link rel="stylesheet" href="leaflet/L.EasyButton/easy-button.css">
+  <link rel="stylesheet" href="leaflet/leaflet-control-window/L.Control.Window.css">
+  <link rel="stylesheet" href="bootstrap/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="jquery-ui/jquery-ui-1.12.1.min.css">
+  <link rel="stylesheet" href="iiif-curation-player/player.css">
+  <link rel="stylesheet" href="iiif-curation-player/header_footer.css">
+  <!--
+  <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
+  <link rel="mask-icon" href="favicons/favicon-black.svg" color="#3F415E">
+  <link rel="icon" type="image/vnd.microsoft.icon" href="favicons/favicon.ico">
+  <link rel="icon" type="image/svg+xml" sizes="any" href="favicons/favicon.svg">
+-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<script src="spin/spin.min.js"></script>
+<script src="progressbar/progressbar.min.js"></script>
+<script src="jquery/jquery-1.12.4.min.js"></script>
+<script src="jquery/jquery.lazyload.min.js"></script>
+<script src="jquery/jPages.min.js"></script>
+<script src="jquery/jquery.spin.js"></script>
+<script src="jquery-ui/jquery-ui-1.12.1.min.js"></script>
+<script src="jquery-ui/jquery.ui.touch-punch.min.js"></script>
+<script src="leaflet/leaflet-0.7.7/leaflet.js"></script>
+<script src="leaflet/Leaflet.fullscreen/Leaflet.fullscreen.min.js"></script>
+<script src="leaflet/Leaflet.toolbar/leaflet.toolbar.js"></script>
+<script src="leaflet/Leaflet.Spin/leaflet.spin.min.js"></script>
+<script src="leaflet/L.Control.Credits/leaflet-control-credits.js"></script>
+<script src="leaflet/Leaflet.Dialog/Leaflet.Dialog_mod.js"></script>
+<script src="leaflet/L.EasyButton/easy-button.js"></script>
+<script src="leaflet/leaflet-control-window/L.Control.Window.js"></script>
+<script src="leaflet/leaflet-iiif/leaflet-iiif.js"></script>
+<script src="bootstrap/bootstrap/js/bootstrap.min.js"></script>
+<!-- <title>IIIF Curation Player</title> -->
+<!-- Licenses of open source libraries, see iiif-curation-player/acknowledgements.txt -->
+</head>
+<body>
+
+  <header class="navbar navbar-default navbar-custom-header">
+    <div class="container container-custom-header">
+      <div class="navbar-header navbar-header-custom-header">
+        <button class="navbar-toggle navbar-toggle-custom-header collapsed" type="button" data-toggle="collapse" data-target="#navbar_lang">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <!-- Organization name, collection name, project name, etc. -->
+        <a id="navbar_brand" class="navbar-brand navbar-brand-custom-header" href="."><span class="icp_navbar_brand_logo"></span>IIIF Curation Player</a>
+      </div>
+      <div id="navbar_lang" class="collapse navbar-collapse navbar-collapse-custom-header">
+        <ul id="navbar_lang_ul" class="nav navbar-nav navbar-nav-custom navbar-right">
+          <li class="nav_lang_ja navbar-text navbar-text-custom-header">日本語</li>
+          <li class="nav_lang_en navbar-text navbar-text-custom-header"><a href="#">English</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <div class="container container-custom">
+    <div id="iiif-curation-viewer">
+      <div class="header">
+        <h2 id="book_title">IIIF Curation Player</h2>
+      </div>
+      <div id="image_canvas_nav_container">
+        <nav aria-label="Page navigation" id="page_navigation">
+
+          <ul class="pagination pagination-sm pagination-custom" id="page_nav">
+            <li>
+              <a href="javascript:iiifPlayer.prev();" aria-label="Previous">
+                <span aria-hidden="true">&laquo;前</span>
+              </a>
+            </li>
+            <li><span id="page">0</span></li>
+            <li>
+              <a href="javascript:iiifPlayer.next();" aria-label="Next">
+                <span aria-hidden="true">次&raquo;</span>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="pagination pagination-sm pagination-custom hidden-xs">
+            <li>
+              <a href="javascript:iiifPlayer.showThumbnails();" id="show_thumbnails">
+                <span class="glyphicon glyphicon-th" aria-hidden="true"></span>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="pagination pagination-sm pagination-custom" id="step_nav">
+            <li id="decrease_step">
+              <a href="javascript:iiifPlayer.decreaseStep();" aria-label="Decrease Step">
+                <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
+              </a>
+            </li>
+            <li id="increase_step">
+              <a href="javascript:iiifPlayer.increaseStep();" aria-label="Increase Step">
+                <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="pagination pagination-sm pagination-custom">
+            <li><a href="javascript:void(0);" id="cursor_date"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span></a></li>
+          </ul>
+          <ul class="pagination pagination-sm pagination-custom">
+            <li><a href="javascript:iiifPlayer.latest();" id="timeline_latest"><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></a></li>
+          </ul>
+
+          <ul class="pagination pagination-sm pagination-custom navbar-right pagination-custom-right">
+            <li class="hidden-xs">
+              <ul class="pagination pagination-sm pagination-custom" id="books_nav">
+                <li>
+                  <a href="javascript:iiifPlayer.prevBook();" aria-label="Previous Book">
+                    <span aria-hidden="true">&laquo;</span>
+                  </a>
+                </li>
+                <li><span id="books">資料</span></li>
+                <li>
+                  <a href="javascript:iiifPlayer.nextBook();" aria-label="Next Book">
+                    <span aria-hidden="true">&raquo;</span>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <ul class="pagination pagination-sm pagination-custom" id="page_orig_nav">
+                <li><a id="page_orig">0</a></li>
+              </ul>
+            </li>
+
+            <li class="hidden-xs">
+              <ul class="pagination pagination-sm pagination-custom" id="curation_nav">
+                <li><a href="javascript:iiifPlayer.toggleFav();" id="fav_star_link"><span class="glyphicon glyphicon-star-empty" aria-hidden="true" id="fav_star"></span></a></li>
+                <li><a href="javascript:iiifPlayer.showCurationList();" id="show_curation_list"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span></a></li>
+              </ul>
+            </li>
+
+            <li class="hidden-xs">
+              <ul class="pagination pagination-sm pagination-custom">
+                <li><a id="image_download"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></li>
+              </ul>
+            </li>
+
+            <li>
+              <ul class="pagination pagination-sm pagination-custom" id="info_nav">
+                <li class="dropdown dropdown-custom">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="info_dropdown">
+                    <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                  </a>
+                  <ul class="dropdown-menu dropdown-menu-custom">
+                    <li id="info_list"></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+
+            <li class="hidden-xs">
+              <ul class="pagination pagination-sm pagination-custom" id="help_nav">
+                <li><a href="javascript:iiifPlayer.showHelp();"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+        <div id="image_canvas">
+          <div id="image_canvas_overlay_wrapper">
+            <a href="#" id="image_canvas_overlay_left" style="display: none;"></a>
+            <a href="#" id="image_canvas_overlay_right" style="display: none;"></a>
+            <div href="#" id="image_canvas_overlay_bottom" style="display: none;"></div>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+      <div class="modal fade" tabindex="-1" id="thumbnails_win">
+        <div class="modal-dialog modal-lg" id="thumbnails_dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <div id="thumbnails">
+                <div id="thumbnails_nav"></div>
+                <ul id="thumbnails_container"></ul>
+              </div>
+            </div>
+            <div class="modal-footer modal-footer-custom">
+              <button type="button" class="btn btn-default" data-dismiss="modal" id="thumbnails_close">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal fade" tabindex="-1" id="help_win">
+        <div class="modal-dialog modal-lg" id="help_dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <h4 id="help_title" class="help_title">IIIF Curation Viewer</h4>
+              <div id="help_contents">
+              </div>
+            </div>
+            <div class="modal-footer modal-footer-custom">
+              <a href="#" class="btn btn-default" target="_blank" id="help_more">More info</a>
+              <button type="button" class="btn btn-default" data-dismiss="modal" id="help_close">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal fade" tabindex="-1" id="curation_list_win">
+        <div class="modal-dialog modal-lg" id="curation_list_dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <h4 id="curation_list_title" class="curation_list_title">Curation List</h4>
+              <div id="curation_list_url">
+              </div>
+              <div id="curation_list">
+                <ul id="curation_list_ul" class="curation_list_ul">
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+            </div>
+            <div class="modal-footer modal-footer-custom">
+              <button type="button" class="btn btn-default pull-left" id="curation_list_clear">Clear All</button>
+              <button type="button" class="btn btn-default btn-icv-export" id="curation_list_export">Export</button>
+              <button type="button" class="btn btn-default" id="curation_list_json"><span class="glyphicon glyphicon-download-alt"></span> JSON</button>
+              <button type="button" class="btn btn-default" data-dismiss="modal" id="curation_list_close">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="iiif-curation-player/player.js"></script>
+  <script src="index.js"></script>
+
+
+
+  <footer class="navbar-inverse navbar-custom-footer">
+    <div class="container container-custom-footer">
+      <!-- Organization link, License, etc. -->
+      <p class="navbar-text navbar-text-custom-footer text-center"><a href="https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top" class="navbar-link">東京大学デジタルアーカイブズ構築事業</a>. Powered by <a href="http://codh.rois.ac.jp/software/iiif-curation-player/" class="navbar-link">IIIF Curation Player</a>.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
