@@ -15,44 +15,44 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p22#xywh=5120,415,837,2947",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">17.7×4.7　支那、ユダヤ、ユリウス、グレゴリオ、トルコ、メリケン、西洋、ローマ暦での紀元を記す、柳河氏刊、中空で、そこに「伊藤先生　千村五郎」と墨書あり、２６９が中味か？</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">暦</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580001099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔安政五年大小暦〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年1月</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
+                    "description": "<table class=\"table\"><th>西暦コード</th><td>18580001099</td><th>数量</th><td>１枚</td><th>書誌事項</th><td>17.7×4.7　支那、ユダヤ、ユリウス、グレゴリオ、トルコ、メリケン、西洋、ローマ暦での紀元を記す、柳河氏刊、中空で、そこに「伊藤先生　千村五郎」と墨書あり、２６９が中味か？</td><th>和暦</th><td>安政5年1月</td><th>形態分類</th><td>暦</td><th>タイトル</th><td>〔安政五年大小暦〕</td><th>地名</th><td>江戸</td><th>版種類</th><td>木版</td><th>内容分類</th><td>引札</td></table>",
                     "label": "16-A00-6010-1-140",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "17.7×4.7　支那、ユダヤ、ユリウス、グレゴリオ、トルコ、メリケン、西洋、ローマ暦での紀元を記す、柳河氏刊、中空で、そこに「伊藤先生　千村五郎」と墨書あり、２６９が中味か？"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18580001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔安政五年大小暦〕"
+                            "label": "書誌事項",
+                            "value": "17.7×4.7　支那、ユダヤ、ユリウス、グレゴリオ、トルコ、メリケン、西洋、ローマ暦での紀元を記す、柳河氏刊、中空で、そこに「伊藤先生　千村五郎」と墨書あり、２６９が中味か？"
                         },
                         {
                             "label": "和暦",
                             "value": "安政5年1月"
                         },
                         {
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔安政五年大小暦〕"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154139/5120,415,837,2947/,300/0/default.jpg"

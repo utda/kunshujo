@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p41#xywh=3498,3284,989,1131",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">信濃</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">6.7×6.0　信州諏訪湯本篠原丈左衛門、「ひぜんによし、切きづ、牛馬の負すれよし」とあり、山印の中に「渋山」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">御湯花引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd></dl>",
+                    "description": "<table class=\"table\"><th>地名</th><td>信濃</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政5年</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>御湯花引札</td><th>西暦コード</th><td>18580099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>6.7×6.0　信州諏訪湯本篠原丈左衛門、「ひぜんによし、切きづ、牛馬の負すれよし」とあり、山印の中に「渋山」とあり</td></table>",
                     "label": "16-A00-6010-2-135",
                     "metadata": [
                         {
@@ -27,32 +27,32 @@
                             "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "6.7×6.0　信州諏訪湯本篠原丈左衛門、「ひぜんによし、切きづ、牛馬の負すれよし」とあり、山印の中に「渋山」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "御湯花引札"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "安政5年"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "御湯花引札"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18580099099
+                            "label": "書誌事項",
+                            "value": "6.7×6.0　信州諏訪湯本篠原丈左衛門、「ひぜんによし、切きづ、牛馬の負すれよし」とあり、山印の中に「渋山」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154210/3498,3284,989,1131/,300/0/default.jpg"

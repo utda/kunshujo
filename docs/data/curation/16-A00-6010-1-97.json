@@ -15,36 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p15#xywh=2420,3469,469,764",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">4.1×2.9</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔尾張伊藤圭介之記印章〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd></dl>",
+                    "description": "<table class=\"table\"><th>西暦コード</th><td>18580099099</td><th>数量</th><td>１枚</td><th>書誌事項</th><td>4.1×2.9</td><th>和暦</th><td>安政5年</td><th>タイトル</th><td>〔尾張伊藤圭介之記印章〕</td><th>地名</th><td>尾張</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></table>",
                     "label": "16-A00-6010-1-97",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "4.1×2.9"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔尾張伊藤圭介之記印章〕"
+                            "label": "書誌事項",
+                            "value": "4.1×2.9"
                         },
                         {
                             "label": "和暦",
                             "value": "安政5年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔尾張伊藤圭介之記印章〕"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154132/2420,3469,469,764/,300/0/default.jpg"

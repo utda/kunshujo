@@ -15,44 +15,44 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=3567,398,625,3866",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.6×3.9　「御用所」、「うけ合正札付」、「御誂御望次第仕候」とあり</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔江戸大伝馬２丁目地はり御きせる司むらた六ひやうへ店引札〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
+                    "description": "<table class=\"table\"><th>西暦コード</th><td>18580099099</td><th>数量</th><td>１枚</td><th>書誌事項</th><td>23.6×3.9　「御用所」、「うけ合正札付」、「御誂御望次第仕候」とあり</td><th>和暦</th><td>安政5年</td><th>形態分類</th><td>引札</td><th>タイトル</th><td>〔江戸大伝馬２丁目地はり御きせる司むらた六ひやうへ店引札〕</td><th>地名</th><td>江戸</td><th>版種類</th><td>木版</td><th>内容分類</th><td>諸営業</td></table>",
                     "label": "16-A00-6010-1-74",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "23.6×3.9　「御用所」、「うけ合正札付」、「御誂御望次第仕候」とあり"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔江戸大伝馬２丁目地はり御きせる司むらた六ひやうへ店引札〕"
+                            "label": "書誌事項",
+                            "value": "23.6×3.9　「御用所」、「うけ合正札付」、「御誂御望次第仕候」とあり"
                         },
                         {
                             "label": "和暦",
                             "value": "安政5年"
                         },
                         {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔江戸大伝馬２丁目地はり御きせる司むらた六ひやうへ店引札〕"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154130/3567,398,625,3866/,300/0/default.jpg"

@@ -15,44 +15,44 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p33#xywh=3999,472,1918,2969",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.8×11.5　応需竜刀園弘貞、似醒樓主人酔裡謾筆、綿羊の絵に小の月を描いているもの</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">暦</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18320009099</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">天保四癸巳大小暦</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">天保3年9月</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd></dl>",
+                    "description": "<table class=\"table\"><th>西暦コード</th><td>18320009099</td><th>数量</th><td>１枚</td><th>書誌事項</th><td>18.8×11.5　応需竜刀園弘貞、似醒樓主人酔裡謾筆、綿羊の絵に小の月を描いているもの</td><th>和暦</th><td>天保3年9月</td><th>形態分類</th><td>暦</td><th>タイトル</th><td>天保四癸巳大小暦</td><th>地名</th><td>不明</td><th>版種類</th><td>木版</td><th>内容分類</th><td>引札</td></table>",
                     "label": "16-A00-6010-1-182",
                     "metadata": [
                         {
-                            "label": "書誌事項",
-                            "value": "18.8×11.5　応需竜刀園弘貞、似醒樓主人酔裡謾筆、綿羊の絵に小の月を描いているもの"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
                             "label": "西暦コード",
                             "value": 18320009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "天保四癸巳大小暦"
+                            "label": "書誌事項",
+                            "value": "18.8×11.5　応需竜刀園弘貞、似醒樓主人酔裡謾筆、綿羊の絵に小の月を描いているもの"
                         },
                         {
                             "label": "和暦",
                             "value": "天保3年9月"
                         },
                         {
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "天保四癸巳大小暦"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154150/3999,472,1918,2969/,300/0/default.jpg"
