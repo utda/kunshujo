@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-38.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔銀壱両摺出〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-38.json/range1",
@@ -15,27 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p15#xywh=794,683,2939,2003",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.2×17.7</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔銀壱両摺出〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治4年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18710099099</dd></dl>",
                     "label": "16-A00-6010-13-38",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18710099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "不明"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治4年"
                         },
                         {
                             "label": "書誌事項",
@@ -44,6 +29,22 @@
                         {
                             "label": "タイトル",
                             "value": "〔銀壱両摺出〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18710099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154845/794,683,2939,2003/,300/0/default.jpg"

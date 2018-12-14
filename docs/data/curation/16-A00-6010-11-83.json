@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-83.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "小沢善平書翰",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-83.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p69#xywh=1891,1331,1288,2024",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">小型西洋封筒　米国桑港より、大日本帝国東京上野公園地内田中芳男宛、「当夏中白川殿へ献上致し候果実の義云々」「植物の移植、季候を待て帰国仕候」</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">小沢善平書翰</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治15年10月4日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１通</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18820010004</dd></dl>",
                     "label": "16-A00-6010-11-83",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１通"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18820010004
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治15年10月4日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "小型西洋封筒　米国桑港より、大日本帝国東京上野公園地内田中芳男宛、「当夏中白川殿へ献上致し候果実の義云々」「植物の移植、季候を待て帰国仕候」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "小沢善平書翰"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治15年10月4日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１通"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "小沢善平書翰"
+                            "label": "西暦コード",
+                            "value": 18820010004
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154739/1891,1331,1288,2024/,300/0/default.jpg"

@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-74.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔大坂高麗橋三井店受領証〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-74.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p32#xywh=3795,2141,2970,2766",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.0×18.0　６月１６日田中様とあり、紫縮綿代、但し代価の処切断</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔大坂高麗橋三井店受領証〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700199099</dd></dl>",
                     "label": "16-A00-6010-13-74",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700199099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
                             "label": "地名",
                             "value": "大阪"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治3?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "16.0×18.0　６月１６日田中様とあり、紫縮綿代、但し代価の処切断"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔大坂高麗橋三井店受領証〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔大坂高麗橋三井店受領証〕"
+                            "label": "西暦コード",
+                            "value": 18700199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154862/3795,2141,2970,2766/,300/0/default.jpg"

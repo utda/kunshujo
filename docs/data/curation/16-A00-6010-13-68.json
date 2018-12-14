@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-68.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "両国橋之清流遊船浮行之図",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-68.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p31#xywh=3957,2005,2638,1492",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">9.0×16.0　皇国銅鐫開業之祖玄々堂保居之八男松田龍山以鉄筆刻之</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">両国橋之清流遊船浮行之図</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治4?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18710199099</dd></dl>",
                     "label": "16-A00-6010-13-68",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18710199099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治4?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "9.0×16.0　皇国銅鐫開業之祖玄々堂保居之八男松田龍山以鉄筆刻之"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "両国橋之清流遊船浮行之図"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "両国橋之清流遊船浮行之図"
+                            "label": "西暦コード",
+                            "value": 18710199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154861/3957,2005,2638,1492/,300/0/default.jpg"

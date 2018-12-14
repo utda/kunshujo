@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-53.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "東京ヨリ横浜迄往復鉄道之図",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-53.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p27#xywh=910,552,5647,4348",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">26.3×34.5　神田万世橋通り淡路町２丁目和漢洋活版所国文社、山田栄造著、時刻表及び明治８年日曜日表は活版印刷</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">東京ヨリ横浜迄往復鉄道之図</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750099099</dd></dl>",
                     "label": "16-A00-6010-15-53",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "26.3×34.5　神田万世橋通り淡路町２丁目和漢洋活版所国文社、山田栄造著、時刻表及び明治８年日曜日表は活版印刷"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "東京ヨリ横浜迄往復鉄道之図"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "東京ヨリ横浜迄往復鉄道之図"
+                            "label": "西暦コード",
+                            "value": 18750099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154957/910,552,5647,4348/,300/0/default.jpg"

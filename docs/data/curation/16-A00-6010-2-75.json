@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-75.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "鳥枢沙摩明王真言",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-75.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p26#xywh=4239,546,1648,3046",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.6×10.0　潜龍窟白虎、「龍蛇之蟄以存身也、尺蠖之屈以求信也」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">鳥枢沙摩明王真言</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd></dl>",
                     "label": "16-A00-6010-2-75",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
-                        {
                             "label": "地名",
                             "value": "尾張"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "18.6×10.0　潜龍窟白虎、「龍蛇之蟄以存身也、尺蠖之屈以求信也」とあり"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "鳥枢沙摩明王真言"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "鳥枢沙摩明王真言"
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154195/4239,546,1648,3046/,300/0/default.jpg"

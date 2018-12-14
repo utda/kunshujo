@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-58.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "皇朝海内真形輿地図",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-58.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p27#xywh=3849,554,2896,4358",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">17.6×26.5　皇国銅鐫開基第二世玄玄堂松田緑山製、蘭香亭蔵版、明治三午年於東京出張所刻之</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">皇朝海内真形輿地図</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700099099</dd></dl>",
                     "label": "16-A00-6010-13-58",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治3年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "17.6×26.5　皇国銅鐫開基第二世玄玄堂松田緑山製、蘭香亭蔵版、明治三午年於東京出張所刻之"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "皇朝海内真形輿地図"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "皇朝海内真形輿地図"
+                            "label": "西暦コード",
+                            "value": 18700099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154857/3849,554,2896,4358/,300/0/default.jpg"

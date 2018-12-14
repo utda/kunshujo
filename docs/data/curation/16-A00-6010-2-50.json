@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-50.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "祢津甚平由来記",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-50.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p17#xywh=841,2192,4099,2246",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">美濃・信濃</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.0×40.2　信州小県の武士、化鳥退治を命じられ、美濃国恵那郡大井村で死すとの伝説</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">祢津甚平由来記</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd></dl>",
                     "label": "16-A00-6010-2-50",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
-                        {
                             "label": "地名",
                             "value": "美濃・信濃"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "14.0×40.2　信州小県の武士、化鳥退治を命じられ、美濃国恵那郡大井村で死すとの伝説"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "祢津甚平由来記"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "祢津甚平由来記"
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154186/841,2192,4099,2246/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p18#xywh=3424,2162,2545,2276",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">美濃・信濃</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.0×40.2　信州小県の武士、化鳥退治を命じられ、美濃国恵那郡大井村で死すとの伝説</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">祢津甚平由来記</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd></dl>",
                     "label": "16-A00-6010-2-50",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
-                        {
                             "label": "地名",
                             "value": "美濃・信濃"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "14.0×40.2　信州小県の武士、化鳥退治を命じられ、美濃国恵那郡大井村で死すとの伝説"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "祢津甚平由来記"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "祢津甚平由来記"
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154187/3424,2162,2545,2276/,300/0/default.jpg"

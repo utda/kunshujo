@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-157.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔砂糖無使用卵牛乳菓子製造禀告〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-157.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p64#xywh=864,1424,2690,3469",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.9×21.2　神田橋外西洋割烹舗三河屋久兵衛</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔砂糖無使用卵牛乳菓子製造禀告〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770009099</dd></dl>",
                     "label": "16-A00-6010-15-157",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "15.9×21.2　神田橋外西洋割烹舗三河屋久兵衛"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔砂糖無使用卵牛乳菓子製造禀告〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治10年9月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.9×21.2　神田橋外西洋割烹舗三河屋久兵衛"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔砂糖無使用卵牛乳菓子製造禀告〕"
+                            "label": "西暦コード",
+                            "value": 18770009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154994/864,1424,2690,3469/,300/0/default.jpg"

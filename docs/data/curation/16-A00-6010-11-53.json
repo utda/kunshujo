@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-53.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "初東風",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-53.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p58#xywh=985,621,4856,3263",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">19.7×7.1と19.8×27.7　明治２年１月の俳諧摺物、１７名（蒼丘、如水、守白、小歌、樵夢、得水、春節、光隆、松濤、意萍、有節、奇泉、きく雄、藤（ガイ、がんだれに圭）、雪操、洒雄、春守）、絵は是真、「巳のはる」とある故、一応明治２年とする</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">初東風</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690001099</dd></dl>",
                     "label": "16-A00-6010-11-53",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "不明"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治2年1月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "19.7×7.1と19.8×27.7　明治２年１月の俳諧摺物、１７名（蒼丘、如水、守白、小歌、樵夢、得水、春節、光隆、松濤、意萍、有節、奇泉、きく雄、藤（ガイ、がんだれに圭）、雪操、洒雄、春守）、絵は是真、「巳のはる」とある故、一応明治２年とする"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "初東風"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2年1月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "初東風"
+                            "label": "西暦コード",
+                            "value": 18690001099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154728/985,621,4856,3263/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p59#xywh=589,613,5470,3218",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">19.7×7.1と19.8×27.7　明治２年１月の俳諧摺物、１７名（蒼丘、如水、守白、小歌、樵夢、得水、春節、光隆、松濤、意萍、有節、奇泉、きく雄、藤（ガイ、がんだれに圭）、雪操、洒雄、春守）、絵は是真、「巳のはる」とある故、一応明治２年とする</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">初東風</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690001099</dd></dl>",
                     "label": "16-A00-6010-11-53",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "不明"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治2年1月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "19.7×7.1と19.8×27.7　明治２年１月の俳諧摺物、１７名（蒼丘、如水、守白、小歌、樵夢、得水、春節、光隆、松濤、意萍、有節、奇泉、きく雄、藤（ガイ、がんだれに圭）、雪操、洒雄、春守）、絵は是真、「巳のはる」とある故、一応明治２年とする"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "初東風"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2年1月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "初東風"
+                            "label": "西暦コード",
+                            "value": 18690001099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154729/589,613,5470,3218/,300/0/default.jpg"

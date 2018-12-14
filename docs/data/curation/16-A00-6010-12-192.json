@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-192.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "明治五年壬申略暦",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-192.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p55#xywh=734,635,6067,3831",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">暦</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.0×37.3　明治４年刻文部省天文局、内田五観考</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">明治五年壬申略暦</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治5年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18720001099</dd></dl>",
                     "label": "16-A00-6010-12-192",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18720001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "暦"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "24.0×37.3　明治４年刻文部省天文局、内田五観考"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "明治五年壬申略暦"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治5年1月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.0×37.3　明治４年刻文部省天文局、内田五観考"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "明治五年壬申略暦"
+                            "label": "西暦コード",
+                            "value": 18720001099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154807/734,635,6067,3831/,300/0/default.jpg"

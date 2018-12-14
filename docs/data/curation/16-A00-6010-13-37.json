@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-37.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔中国古銭摺出〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-37.json/range1",
@@ -15,23 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p15#xywh=3733,696,2913,4247",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">中国</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.5×17.5　「此品赤銅ニテ製ス、厚サ五厘計リ孔明ノ頃ノ圭ナリト云伝フ」と墨書あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔中国古銭摺出〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治4年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18710099099</dd></dl>",
                     "label": "16-A00-6010-13-37",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18710099099
-                        },
-                        {
                             "label": "地名",
                             "value": "中国"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治4年"
                         },
                         {
                             "label": "書誌事項",
@@ -40,6 +29,18 @@
                         {
                             "label": "タイトル",
                             "value": "〔中国古銭摺出〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18710099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154845/3733,696,2913,4247/,300/0/default.jpg"

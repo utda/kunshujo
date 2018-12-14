@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-136.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "日本北海道石狩川産開拓使物産局製さけ引札",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-136.json/range1",
@@ -15,16 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p57#xywh=903,552,2558,3554",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">北海道</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">11.0×15.2と11.0×13.0　大蔵省紙幣局製造</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">日本北海道石狩川産開拓使物産局製さけ引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">石版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770099099</dd></dl>",
                     "label": "16-A00-6010-15-136",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770099099
-                        },
                         {
                             "label": "地名",
                             "value": "北海道"
@@ -34,20 +27,28 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "11.0×15.2と11.0×13.0　大蔵省紙幣局製造"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "日本北海道石狩川産開拓使物産局製さけ引札"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "11.0×15.2と11.0×13.0　大蔵省紙幣局製造"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "版種類",
                             "value": "石版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日本北海道石狩川産開拓使物産局製さけ引札"
+                            "label": "西暦コード",
+                            "value": 18770099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154987/903,552,2558,3554/,300/0/default.jpg"

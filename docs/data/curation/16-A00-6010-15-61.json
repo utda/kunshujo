@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-61.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔日本橋出火焼場一覧〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-61.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p32#xywh=1821,599,4667,4309",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">26.0×28.6　東京絵入新聞１２月１日附録焼場一覧、銀座１丁目５番地仮本局絵入新聞社、編輯長前田健次郎、印刷人染崎延房</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔日本橋出火焼場一覧〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">火事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年11月29日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760011029</dd></dl>",
                     "label": "16-A00-6010-15-61",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760011029
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "火事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年11月29日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "26.0×28.6　東京絵入新聞１２月１日附録焼場一覧、銀座１丁目５番地仮本局絵入新聞社、編輯長前田健次郎、印刷人染崎延房"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔日本橋出火焼場一覧〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "火事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年11月29日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔日本橋出火焼場一覧〕"
+                            "label": "西暦コード",
+                            "value": 18760011029
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154962/1821,599,4667,4309/,300/0/default.jpg"

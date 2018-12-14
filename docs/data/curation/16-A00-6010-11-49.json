@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-49.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "開成所規則書",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-49.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p53#xywh=1105,770,4901,3764",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">22.0×16.0と22.0×30.0　前欠</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">開成所規則書</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">元治1年11月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18640011099</dd></dl>",
                     "label": "16-A00-6010-11-49",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18640011099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "元治1年11月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "22.0×16.0と22.0×30.0　前欠"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "開成所規則書"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "元治1年11月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "開成所規則書"
+                            "label": "西暦コード",
+                            "value": 18640011099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154723/1105,770,4901,3764/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p54#xywh=3618,800,2568,3660",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">22.0×16.0と22.0×30.0　前欠</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">開成所規則書</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">元治1年11月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18640011099</dd></dl>",
                     "label": "16-A00-6010-11-49",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18640011099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "元治1年11月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "22.0×16.0と22.0×30.0　前欠"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "開成所規則書"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "元治1年11月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "開成所規則書"
+                            "label": "西暦コード",
+                            "value": 18640011099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154724/3618,800,2568,3660/,300/0/default.jpg"

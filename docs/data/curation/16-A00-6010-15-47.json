@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-47.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "日本地図智慧の板紙引札",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-47.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p22#xywh=3766,536,2792,4371",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.5×27.0　押田俊三製著、明治９年９月発兌、定価１０銭</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">日本地図智慧の板紙引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760009099</dd></dl>",
                     "label": "16-A00-6010-15-47",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.5×27.0　押田俊三製著、明治９年９月発兌、定価１０銭"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "日本地図智慧の板紙引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治9年9月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.5×27.0　押田俊三製著、明治９年９月発兌、定価１０銭"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日本地図智慧の板紙引札"
+                            "label": "西暦コード",
+                            "value": 18760009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154952/3766,536,2792,4371/,300/0/default.jpg"

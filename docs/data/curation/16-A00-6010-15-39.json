@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-39.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔駅逓寮指示摺物〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-39.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p18#xywh=2537,692,1134,2309",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.0×6.3　「此郵便物は米国を経て互に郵便仮条約外の船にて到着候得共、請取人え特殊の便宜を与へんため郵便規則仮手続を以て配達候条、内国郵便税を此朱消の切手を目的なし相払可申事」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔駅逓寮指示摺物〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760099099</dd></dl>",
                     "label": "16-A00-6010-15-39",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760099099
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "14.0×6.3　「此郵便物は米国を経て互に郵便仮条約外の船にて到着候得共、請取人え特殊の便宜を与へんため郵便規則仮手続を以て配達候条、内国郵便税を此朱消の切手を目的なし相払可申事」とあり"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔駅逓寮指示摺物〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔駅逓寮指示摺物〕"
+                            "label": "西暦コード",
+                            "value": 18760099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154948/2537,692,1134,2309/,300/0/default.jpg"

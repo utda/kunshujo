@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-88.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "津田仙書翰",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-88.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p74#xywh=3601,2635,1314,1954",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">半銭端書　小川町今川小路田中芳男宛、津田の住所は麻布新堀町２番地、「ELEOCOCOE、上の洋名日本樹の内何樹に御座候哉、イタリアより注文申越候間御教諭奉希候」</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">津田仙書翰</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年9月22日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１通</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760009022</dd></dl>",
                     "label": "16-A00-6010-11-88",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１通"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760009022
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年9月22日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "半銭端書　小川町今川小路田中芳男宛、津田の住所は麻布新堀町２番地、「ELEOCOCOE、上の洋名日本樹の内何樹に御座候哉、イタリアより注文申越候間御教諭奉希候」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "津田仙書翰"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年9月22日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１通"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "津田仙書翰"
+                            "label": "西暦コード",
+                            "value": 18760009022
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154744/3601,2635,1314,1954/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p77#xywh=3526,2525,1341,2052",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">半銭端書　小川町今川小路田中芳男宛、津田の住所は麻布新堀町２番地、「ELEOCOCOE、上の洋名日本樹の内何樹に御座候哉、イタリアより注文申越候間御教諭奉希候」</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">津田仙書翰</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年9月22日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１通</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760009022</dd></dl>",
                     "label": "16-A00-6010-11-88",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１通"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760009022
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年9月22日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "半銭端書　小川町今川小路田中芳男宛、津田の住所は麻布新堀町２番地、「ELEOCOCOE、上の洋名日本樹の内何樹に御座候哉、イタリアより注文申越候間御教諭奉希候」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "津田仙書翰"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年9月22日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１通"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "津田仙書翰"
+                            "label": "西暦コード",
+                            "value": 18760009022
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154747/3526,2525,1341,2052/,300/0/default.jpg"

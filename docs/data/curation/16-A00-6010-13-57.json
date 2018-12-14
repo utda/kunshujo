@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-57.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔中井敬所鐫田中芳男印鑑〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-13-57.json/range1",
@@ -15,27 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p26#xywh=848,554,5875,4348",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">19.1×13.6他　銀具代２円３分、刀資７００疋〆金４円半、中井兼之の鐫</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔中井敬所鐫田中芳男印鑑〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治5年6月22日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">４枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18720006022</dd></dl>",
                     "label": "16-A00-6010-13-57",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "４枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18720006022
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治5年6月22日"
                         },
                         {
                             "label": "書誌事項",
@@ -44,6 +29,22 @@
                         {
                             "label": "タイトル",
                             "value": "〔中井敬所鐫田中芳男印鑑〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年6月22日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720006022
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154856/848,554,5875,4348/,300/0/default.jpg"

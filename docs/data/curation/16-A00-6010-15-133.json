@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-133.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "官許あかがねめっき売捌御披露",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-133.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p56#xywh=895,1509,2753,3391",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.5×20.6　１１月８日開業、「鍍銅ブリキ板価は下直にして光色保ち方共銅板に少しも異る事なし」とあり、製造人浅草旅籠町２丁目２番地小宮庄兵衛、出口伊三郎、売捌所同大門通り通旅籠町１９番地松坂屋せん</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">官許あかがねめっき売捌御披露</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年11月8日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770011008</dd></dl>",
                     "label": "16-A00-6010-15-133",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770011008
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.5×20.6　１１月８日開業、「鍍銅ブリキ板価は下直にして光色保ち方共銅板に少しも異る事なし」とあり、製造人浅草旅籠町２丁目２番地小宮庄兵衛、出口伊三郎、売捌所同大門通り通旅籠町１９番地松坂屋せん"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "官許あかがねめっき売捌御披露"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治10年11月8日"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.5×20.6　１１月８日開業、「鍍銅ブリキ板価は下直にして光色保ち方共銅板に少しも異る事なし」とあり、製造人浅草旅籠町２丁目２番地小宮庄兵衛、出口伊三郎、売捌所同大門通り通旅籠町１９番地松坂屋せん"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "官許あかがねめっき売捌御披露"
+                            "label": "西暦コード",
+                            "value": 18770011008
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154986/895,1509,2753,3391/,300/0/default.jpg"

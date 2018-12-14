@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-24.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔皇朝１２銭摺出〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-24.json/range1",
@@ -15,27 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p13#xywh=965,2420,1469,2410",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">7.2×9.2と7.7×8.2</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔皇朝１２銭摺出〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">歴史</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760099099</dd></dl>",
                     "label": "16-A00-6010-15-24",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "歴史"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年"
                         },
                         {
                             "label": "書誌事項",
@@ -44,6 +29,22 @@
                         {
                             "label": "タイトル",
                             "value": "〔皇朝１２銭摺出〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "歴史"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154943/965,2420,1469,2410/,300/0/default.jpg"

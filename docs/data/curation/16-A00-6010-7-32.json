@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-7-32.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔元飯田町まき川岸鹿島源七郎酒醤油引札〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-7-32.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p21#xywh=3693,855,2519,3424",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×20.5　亥１１月朔日売出しとあり、加増升（かぞうます）（５００文）、歓楽（４７２文）、男山（４４８文）、むつましく（４００文）、高砂（３４８文）、百歳など酒の銘柄あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔元飯田町まき川岸鹿島源七郎酒醤油引札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久3年11月1日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18630011001</dd></dl>",
                     "label": "16-A00-6010-7-32",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18630011001
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "江戸"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "15.0×20.5　亥１１月朔日売出しとあり、加増升（かぞうます）（５００文）、歓楽（４７２文）、男山（４４８文）、むつましく（４００文）、高砂（３４８文）、百歳など酒の銘柄あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔元飯田町まき川岸鹿島源七郎酒醤油引札〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "文久3年11月1日"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.0×20.5　亥１１月朔日売出しとあり、加増升（かぞうます）（５００文）、歓楽（４７２文）、男山（４４８文）、むつましく（４００文）、高砂（３４８文）、百歳など酒の銘柄あり"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔元飯田町まき川岸鹿島源七郎酒醤油引札〕"
+                            "label": "西暦コード",
+                            "value": 18630011001
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154498/3693,855,2519,3424/,300/0/default.jpg"

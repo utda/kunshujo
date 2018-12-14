@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-16.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔名古屋本町３丁目油屋吉嶋屋市兵衛南店開店口演〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-16.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p5#xywh=2551,548,3326,2646",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.3×21.0　「有明油其外油類」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔名古屋本町３丁目油屋吉嶋屋市兵衛南店開店口演〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年12月5日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580012005</dd></dl>",
                     "label": "16-A00-6010-2-16",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580012005
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "尾張"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.3×21.0　「有明油其外油類」とあり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋本町３丁目油屋吉嶋屋市兵衛南店開店口演〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "安政5年12月5日"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.3×21.0　「有明油其外油類」とあり"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔名古屋本町３丁目油屋吉嶋屋市兵衛南店開店口演〕"
+                            "label": "西暦コード",
+                            "value": 18580012005
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154174/2551,548,3326,2646/,300/0/default.jpg"

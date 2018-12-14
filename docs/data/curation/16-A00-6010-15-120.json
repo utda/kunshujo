@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-120.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "花見炭団・火口炭引札",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-120.json/range1",
@@ -15,16 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p53#xywh=3808,578,2732,2028",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">安芸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.5×16.6　広島県下安芸国沼田郡新庄村山本孫兵衛、前者１袋３銭６厘、後者大袋６銭５厘、小袋２銭１厘、「このたび上野博覧会附属売店におゐて始て仮舗を開けり」云々とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">花見炭団・火口炭引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770009099</dd></dl>",
                     "label": "16-A00-6010-15-120",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770009099
-                        },
                         {
                             "label": "地名",
                             "value": "安芸"
@@ -34,20 +27,28 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "12.5×16.6　広島県下安芸国沼田郡新庄村山本孫兵衛、前者１袋３銭６厘、後者大袋６銭５厘、小袋２銭１厘、「このたび上野博覧会附属売店におゐて始て仮舗を開けり」云々とあり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "花見炭団・火口炭引札"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治10年9月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "12.5×16.6　広島県下安芸国沼田郡新庄村山本孫兵衛、前者１袋３銭６厘、後者大袋６銭５厘、小袋２銭１厘、「このたび上野博覧会附属売店におゐて始て仮舗を開けり」云々とあり"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "花見炭団・火口炭引札"
+                            "label": "西暦コード",
+                            "value": 18770009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154983/3808,578,2732,2028/,300/0/default.jpg"

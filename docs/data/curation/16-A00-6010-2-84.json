@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-84.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔俳句摺物〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-84.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p29#xywh=3222,576,2784,3143",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張・三河</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">19.4×17.0　不転、紫石更宜后、卓池の３俳人の句</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔俳句摺物〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd></dl>",
                     "label": "16-A00-6010-2-84",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "尾張・三河"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "19.4×17.0　不転、紫石更宜后、卓池の３俳人の句"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔俳句摺物〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔俳句摺物〕"
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154198/3222,576,2784,3143/,300/0/default.jpg"

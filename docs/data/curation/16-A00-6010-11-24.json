@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-24.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "神田大明神御際礼",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-24.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p21#xywh=925,553,5148,3951",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">番附</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.2×32.0が３枚　絵２枚、番組１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">神田大明神御際礼</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">祭礼</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">３枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700009099</dd></dl>",
                     "label": "16-A00-6010-11-24",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "祭礼"
-                        },
                         {
                             "label": "地名",
                             "value": "江戸"
@@ -38,20 +27,32 @@
                             "value": "番附"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "24.2×32.0が３枚　絵２枚、番組１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "神田大明神御際礼"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "祭礼"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治3年9月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.2×32.0が３枚　絵２枚、番組１枚"
+                            "label": "数量",
+                            "value": "３枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "神田大明神御際礼"
+                            "label": "西暦コード",
+                            "value": 18700009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154691/925,553,5148,3951/,300/0/default.jpg"
@@ -59,20 +60,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p22#xywh=1120,546,4894,3959",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">番附</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.2×32.0が３枚　絵２枚、番組１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">神田大明神御際礼</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">祭礼</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">３枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700009099</dd></dl>",
                     "label": "16-A00-6010-11-24",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "祭礼"
-                        },
                         {
                             "label": "地名",
                             "value": "江戸"
@@ -82,20 +72,32 @@
                             "value": "番附"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "24.2×32.0が３枚　絵２枚、番組１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "神田大明神御際礼"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "祭礼"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治3年9月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.2×32.0が３枚　絵２枚、番組１枚"
+                            "label": "数量",
+                            "value": "３枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "神田大明神御際礼"
+                            "label": "西暦コード",
+                            "value": 18700009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154692/1120,546,4894,3959/,300/0/default.jpg"
@@ -103,20 +105,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p23#xywh=970,576,5028,3914",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">番附</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.2×32.0が３枚　絵２枚、番組１枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">神田大明神御際礼</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">祭礼</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">３枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700009099</dd></dl>",
                     "label": "16-A00-6010-11-24",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "祭礼"
-                        },
                         {
                             "label": "地名",
                             "value": "江戸"
@@ -126,20 +117,32 @@
                             "value": "番附"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "24.2×32.0が３枚　絵２枚、番組１枚"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "神田大明神御際礼"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "祭礼"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治3年9月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "24.2×32.0が３枚　絵２枚、番組１枚"
+                            "label": "数量",
+                            "value": "３枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "神田大明神御際礼"
+                            "label": "西暦コード",
+                            "value": 18700009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154693/970,576,5028,3914/,300/0/default.jpg"

@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-94.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "開農義会同盟稟啓",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-94.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p79#xywh=975,558,1966,2841",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">17.0×11.8　９月４日上野公園内酣春楼にて開農臨時会の案内、第３大区１１小区四谷仲町１丁目７番地瑞穂舎内とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">開農義会同盟稟啓</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760008099</dd></dl>",
                     "label": "16-A00-6010-11-94",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760008099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "17.0×11.8　９月４日上野公園内酣春楼にて開農臨時会の案内、第３大区１１小区四谷仲町１丁目７番地瑞穂舎内とあり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "開農義会同盟稟啓"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治9年8月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "17.0×11.8　９月４日上野公園内酣春楼にて開農臨時会の案内、第３大区１１小区四谷仲町１丁目７番地瑞穂舎内とあり"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "開農義会同盟稟啓"
+                            "label": "西暦コード",
+                            "value": 18760008099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154749/975,558,1966,2841/,300/0/default.jpg"

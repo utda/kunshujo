@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-51.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "上海航郵船横浜発着一覧表",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-51.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p25#xywh=1113,1385,5297,3523",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">横浜</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">32.0×21.4　郵船問屋横浜西村新七、東京芝愛宕下同出張所、東京堀江町同出張所、７月～１２月のスケジュール、横浜上海間上３２円５０銭、下７円５０銭、東京丸（ニウヨルク）、玄海丸（コスタリカ）、広島丸（ゴルデンエジ）、名護屋丸（ヲルゴニヤン）</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">上海航郵船横浜発着一覧表</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760199099</dd></dl>",
                     "label": "16-A00-6010-15-51",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760199099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "横浜"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "32.0×21.4　郵船問屋横浜西村新七、東京芝愛宕下同出張所、東京堀江町同出張所、７月～１２月のスケジュール、横浜上海間上３２円５０銭、下７円５０銭、東京丸（ニウヨルク）、玄海丸（コスタリカ）、広島丸（ゴルデンエジ）、名護屋丸（ヲルゴニヤン）"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "上海航郵船横浜発着一覧表"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治9?年"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "32.0×21.4　郵船問屋横浜西村新七、東京芝愛宕下同出張所、東京堀江町同出張所、７月～１２月のスケジュール、横浜上海間上３２円５０銭、下７円５０銭、東京丸（ニウヨルク）、玄海丸（コスタリカ）、広島丸（ゴルデンエジ）、名護屋丸（ヲルゴニヤン）"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "上海航郵船横浜発着一覧表"
+                            "label": "西暦コード",
+                            "value": 18760199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154955/1113,1385,5297,3523/,300/0/default.jpg"

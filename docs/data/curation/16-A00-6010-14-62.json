@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-62.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔開拓使宮園縦観之証〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-62.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p46#xywh=5803,1281,726,3659",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">11.3×4.3と11.2×4.2　開拓使農業課朱印、青山南町（第１号）、前同所（第２号）、麻布笄町（第３号）、３節日を除き毎日午前９時より午後４時迄</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔開拓使宮園縦観之証〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750099099</dd></dl>",
                     "label": "16-A00-6010-14-62",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750099099
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "11.3×4.3と11.2×4.2　開拓使農業課朱印、青山南町（第１号）、前同所（第２号）、麻布笄町（第３号）、３節日を除き毎日午前９時より午後４時迄"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔開拓使宮園縦観之証〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔開拓使宮園縦観之証〕"
+                            "label": "西暦コード",
+                            "value": 18750099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154921/5803,1281,726,3659/,300/0/default.jpg"

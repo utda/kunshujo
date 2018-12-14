@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-319.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "西洋指噺図",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-319.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p37#xywh=1030,767,4934,2757",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.6×10.0,18.5×20.0　雷洲加藤製、指の形にてアルファベットを示すもの、””Deaf and Dumb Alphabet””とあり、１枚は表題及び説明書、１枚は図</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">西洋指噺図</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
                     "label": "16-A00-6010-4-319",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "18.6×10.0,18.5×20.0　雷洲加藤製、指の形にてアルファベットを示すもの、””Deaf and Dumb Alphabet””とあり、１枚は表題及び説明書、１枚は図"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "西洋指噺図"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "西洋指噺図"
+                            "label": "西暦コード",
+                            "value": 18620199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154319/1030,767,4934,2757/,300/0/default.jpg"

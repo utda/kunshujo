@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-27.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "改正真銘御役人附早明鑑",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-27.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p25#xywh=948,1212,1057,2725",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">役職名鑑</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">改正真銘御役人附早明鑑</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2年8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690008099</dd></dl>",
                     "label": "16-A00-6010-11-27",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690008099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "役職名鑑"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "改正真銘御役人附早明鑑"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治2年8月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "改正真銘御役人附早明鑑"
+                            "label": "西暦コード",
+                            "value": 18690008099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154695/948,1212,1057,2725/,300/0/default.jpg"
@@ -59,20 +60,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p26#xywh=649,516,5500,2605",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">役職名鑑</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">改正真銘御役人附早明鑑</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2年8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690008099</dd></dl>",
                     "label": "16-A00-6010-11-27",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690008099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -82,20 +72,32 @@
                             "value": "役職名鑑"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "改正真銘御役人附早明鑑"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治2年8月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "改正真銘御役人附早明鑑"
+                            "label": "西暦コード",
+                            "value": 18690008099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154696/649,516,5500,2605/,300/0/default.jpg"
@@ -103,20 +105,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p27#xywh=597,1890,6652,2630",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">役職名鑑</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">改正真銘御役人附早明鑑</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2年8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690008099</dd></dl>",
                     "label": "16-A00-6010-11-27",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690008099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -126,20 +117,32 @@
                             "value": "役職名鑑"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "改正真銘御役人附早明鑑"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治2年8月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.0×34.0と16.0×40.0　包紙（16.0×7.2）あり"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "改正真銘御役人附早明鑑"
+                            "label": "西暦コード",
+                            "value": 18690008099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154697/597,1890,6652,2630/,300/0/default.jpg"

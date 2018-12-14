@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-59.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "汽車出発時刻及賃金表",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-59.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p45#xywh=895,404,2760,4480",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京・横浜</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">17.0×24.2　小児４才迄無賃、１２才迄半賃金、東京横浜間５３分、賃金上等１両２朱、中等３分、下等１分２朱</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">汽車出発時刻及賃金表</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治5年9月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18720009099</dd></dl>",
                     "label": "16-A00-6010-14-59",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18720009099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京・横浜"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治5年9月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "17.0×24.2　小児４才迄無賃、１２才迄半賃金、東京横浜間５３分、賃金上等１両２朱、中等３分、下等１分２朱"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "汽車出発時刻及賃金表"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "汽車出発時刻及賃金表"
+                            "label": "西暦コード",
+                            "value": 18720009099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154920/895,404,2760,4480/,300/0/default.jpg"

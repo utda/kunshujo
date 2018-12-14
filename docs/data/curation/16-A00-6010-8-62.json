@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-8-62.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔牛肉販売案内〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-8-62.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/canvas/p23#xywh=1301,882,5187,3547",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">31.0×21.8　大坂亀井橋天神前延齢舗社中謹白、色摺りのもの、下半分は外人用に牛肉を販売する旨英語の案内</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔牛肉販売案内〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治1年10月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18680010099</dd></dl>",
                     "label": "16-A00-6010-8-62",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18680010099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "大阪"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "31.0×21.8　大坂亀井橋天神前延齢舗社中謹白、色摺りのもの、下半分は外人用に牛肉を販売する旨英語の案内"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔牛肉販売案内〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治1年10月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "31.0×21.8　大坂亀井橋天神前延齢舗社中謹白、色摺りのもの、下半分は外人用に牛肉を販売する旨英語の案内"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔牛肉販売案内〕"
+                            "label": "西暦コード",
+                            "value": 18680010099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154576/1301,882,5187,3547/,300/0/default.jpg"

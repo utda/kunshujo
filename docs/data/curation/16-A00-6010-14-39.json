@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-39.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔盆栽会案内〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-39.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p40#xywh=2122,488,1465,2492",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×8.9　於巣鴨１丁目新梅屋鋪群芳園、３月２０・２１・２２日、会主玉川・竹逸、補助東京植木屋連、「明治７年」と墨書</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔盆栽会案内〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治7年3月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18740003099</dd></dl>",
                     "label": "16-A00-6010-14-39",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18740003099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "15.0×8.9　於巣鴨１丁目新梅屋鋪群芳園、３月２０・２１・２２日、会主玉川・竹逸、補助東京植木屋連、「明治７年」と墨書"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔盆栽会案内〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治7年3月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.0×8.9　於巣鴨１丁目新梅屋鋪群芳園、３月２０・２１・２２日、会主玉川・竹逸、補助東京植木屋連、「明治７年」と墨書"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔盆栽会案内〕"
+                            "label": "西暦コード",
+                            "value": 18740003099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154915/2122,488,1465,2492/,300/0/default.jpg"

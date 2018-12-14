@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-7-80.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "流行とびちがひもの",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-7-80.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p50#xywh=1144,2642,4942,1890",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">11.5×30.5　はしか流行時のもの</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">流行とびちがひもの</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620099099</dd></dl>",
                     "label": "16-A00-6010-7-80",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "11.5×30.5　はしか流行時のもの"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "流行とびちがひもの"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "流行とびちがひもの"
+                            "label": "西暦コード",
+                            "value": 18620099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154527/1144,2642,4942,1890/,300/0/default.jpg"

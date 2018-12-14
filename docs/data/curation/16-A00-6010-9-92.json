@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-92.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔整理戸棚製作仕様書〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-92.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p19#xywh=4007,639,2793,3537",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">20.5×17.0　９２から貼込帖の裏側に移る</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔整理戸棚製作仕様書〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690199099</dd></dl>",
                     "label": "16-A00-6010-9-92",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690199099
-                        },
-                        {
                             "label": "地名",
                             "value": "大阪"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治2?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "20.5×17.0　９２から貼込帖の裏側に移る"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔整理戸棚製作仕様書〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治2?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔整理戸棚製作仕様書〕"
+                            "label": "西暦コード",
+                            "value": 18690199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154602/4007,639,2793,3537/,300/0/default.jpg"

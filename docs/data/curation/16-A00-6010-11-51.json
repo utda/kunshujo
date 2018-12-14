@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-51.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔松坂屋受取書〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-51.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p54#xywh=940,2027,2650,2582",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.8×39.3　田中与四郎様宛、５月１９日、白真岡２反代金、３２匁２分</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔松坂屋受取書〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
                     "label": "16-A00-6010-11-51",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "15.8×39.3　田中与四郎様宛、５月１９日、白真岡２反代金、３２匁２分"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔松坂屋受取書〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔松坂屋受取書〕"
+                            "label": "西暦コード",
+                            "value": 18620199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154724/940,2027,2650,2582/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p56#xywh=2324,2057,3862,2568",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.8×39.3　田中与四郎様宛、５月１９日、白真岡２反代金、３２匁２分</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔松坂屋受取書〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
                     "label": "16-A00-6010-11-51",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "15.8×39.3　田中与四郎様宛、５月１９日、白真岡２反代金、３２匁２分"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔松坂屋受取書〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔松坂屋受取書〕"
+                            "label": "西暦コード",
+                            "value": 18620199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154726/2324,2057,3862,2568/,300/0/default.jpg"

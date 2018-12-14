@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-42.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "幾那保全酒引札",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-42.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p21#xywh=3758,583,2753,1990",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">8.3×10.0と12.0×8.8　神田雉子町保全堂製、AROMATIC FINE BITTER、１枚は効能書</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">幾那保全酒引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760099099</dd></dl>",
                     "label": "16-A00-6010-15-42",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "8.3×10.0と12.0×8.8　神田雉子町保全堂製、AROMATIC FINE BITTER、１枚は効能書"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "幾那保全酒引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治9年"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "8.3×10.0と12.0×8.8　神田雉子町保全堂製、AROMATIC FINE BITTER、１枚は効能書"
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "幾那保全酒引札"
+                            "label": "西暦コード",
+                            "value": 18760099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154951/3758,583,2753,1990/,300/0/default.jpg"

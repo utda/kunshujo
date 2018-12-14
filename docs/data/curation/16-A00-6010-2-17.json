@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-17.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔九百五十年御忌北野みやげ万灯図袋表紙〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-17.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p5#xywh=755,548,1778,2578",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">京都</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.8×11.0</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔九百五十年御忌北野みやげ万灯図袋表紙〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">嘉永5年2月1日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18520002001</dd></dl>",
                     "label": "16-A00-6010-2-17",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18520002001
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
-                        {
                             "label": "地名",
                             "value": "京都"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "嘉永5年2月1日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "15.8×11.0"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔九百五十年御忌北野みやげ万灯図袋表紙〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "嘉永5年2月1日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔九百五十年御忌北野みやげ万灯図袋表紙〕"
+                            "label": "西暦コード",
+                            "value": 18520002001
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154174/755,548,1778,2578/,300/0/default.jpg"

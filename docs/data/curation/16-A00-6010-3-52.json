@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-52.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔鏡摺取図〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-52.json/range1",
@@ -15,27 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p21#xywh=3728,632,2282,3800",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.0×15.5　あと１つは9.7×11.3</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔鏡摺取図〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590099099</dd></dl>",
                     "label": "16-A00-6010-3-52",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18590099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "尾張"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政6年"
                         },
                         {
                             "label": "書誌事項",
@@ -44,6 +29,22 @@
                         {
                             "label": "タイトル",
                             "value": "〔鏡摺取図〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政6年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154238/3728,632,2282,3800/,300/0/default.jpg"

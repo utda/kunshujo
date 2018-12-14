@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-96.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "三潴県書翰",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-96.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p81#xywh=2171,390,1356,2065",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">1銭端書　東京小川町今川小路２丁目９番地田中芳男宛、「学業捷径正に領収候、入用の節は可申入候也」</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">三潴県書翰</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年2月2日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１通</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760002002</dd></dl>",
                     "label": "16-A00-6010-11-96",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１通"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760002002
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年2月2日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "1銭端書　東京小川町今川小路２丁目９番地田中芳男宛、「学業捷径正に領収候、入用の節は可申入候也」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "三潴県書翰"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年2月2日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１通"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "三潴県書翰"
+                            "label": "西暦コード",
+                            "value": 18760002002
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154751/2171,390,1356,2065/,300/0/default.jpg"

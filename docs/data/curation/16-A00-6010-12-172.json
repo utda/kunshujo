@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-172.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "日荷堂御供米摺物",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-172.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p39#xywh=1277,518,1981,1592",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.3×11.0と9.0×11.8　延寿寺、附属の墨書の一紙（17.0×11.5）に「卯１０月晦日、４４歳御女性」とあるので慶応３年とする、</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">日荷堂御供米摺物</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">慶応3年10月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18670010099</dd></dl>",
                     "label": "16-A00-6010-12-172",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18670010099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
-                        {
                             "label": "地名",
                             "value": "不明"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "慶応3年10月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "23.3×11.0と9.0×11.8　延寿寺、附属の墨書の一紙（17.0×11.5）に「卯１０月晦日、４４歳御女性」とあるので慶応３年とする、"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "日荷堂御供米摺物"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "慶応3年10月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日荷堂御供米摺物"
+                            "label": "西暦コード",
+                            "value": 18670010099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154791/1277,518,1981,1592/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p40#xywh=1341,1755,1941,2814",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.3×11.0と9.0×11.8　延寿寺、附属の墨書の一紙（17.0×11.5）に「卯１０月晦日、４４歳御女性」とあるので慶応３年とする、</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">日荷堂御供米摺物</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">慶応3年10月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18670010099</dd></dl>",
                     "label": "16-A00-6010-12-172",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18670010099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
-                        {
                             "label": "地名",
                             "value": "不明"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "慶応3年10月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "23.3×11.0と9.0×11.8　延寿寺、附属の墨書の一紙（17.0×11.5）に「卯１０月晦日、４４歳御女性」とあるので慶応３年とする、"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "日荷堂御供米摺物"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "慶応3年10月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日荷堂御供米摺物"
+                            "label": "西暦コード",
+                            "value": 18670010099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154792/1341,1755,1941,2814/,300/0/default.jpg"

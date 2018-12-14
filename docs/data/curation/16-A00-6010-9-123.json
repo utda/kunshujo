@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-123.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔洋式船造船営業案内〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-123.json/range1",
@@ -15,16 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p25#xywh=836,773,5941,4027",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">摂津</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">36.0×31.4　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メニ二重ナル内車ノ蒸気船」をつくったとあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔洋式船造船営業案内〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700199099</dd></dl>",
                     "label": "16-A00-6010-9-123",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700199099
-                        },
                         {
                             "label": "地名",
                             "value": "摂津"
@@ -34,20 +27,28 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "36.0×31.4　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メニ二重ナル内車ノ蒸気船」をつくったとあり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔洋式船造船営業案内〕"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治3?年"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "36.0×31.4　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メニ二重ナル内車ノ蒸気船」をつくったとあり"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔洋式船造船営業案内〕"
+                            "label": "西暦コード",
+                            "value": 18700199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154608/836,773,5941,4027/,300/0/default.jpg"

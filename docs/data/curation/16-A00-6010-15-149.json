@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-149.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "札幌麦酒引札",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-149.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p60#xywh=3969,606,1251,1733",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">北海道</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">縦9.8の楕円形　ENGRAVING COMP. TOKIO JAPAN</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">札幌麦酒引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770099099</dd></dl>",
                     "label": "16-A00-6010-15-149",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "地名",
                             "value": "北海道"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "縦9.8の楕円形　ENGRAVING COMP. TOKIO JAPAN"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "札幌麦酒引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治10年"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "縦9.8の楕円形　ENGRAVING COMP. TOKIO JAPAN"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "札幌麦酒引札"
+                            "label": "西暦コード",
+                            "value": 18770099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154990/3969,606,1251,1733/,300/0/default.jpg"

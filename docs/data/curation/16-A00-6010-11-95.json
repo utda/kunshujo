@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-95.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "官許錦華錠効能",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-95.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p80#xywh=3477,924,2605,3382",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.8×20.3　神田明神下末広町３６番地建部邸内小野氏精製、「むしくだしらくがん」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">官許錦華錠効能</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年3月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770003099</dd></dl>",
                     "label": "16-A00-6010-11-95",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770003099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "15.8×20.3　神田明神下末広町３６番地建部邸内小野氏精製、「むしくだしらくがん」とあり"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "官許錦華錠効能"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治10年3月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "15.8×20.3　神田明神下末広町３６番地建部邸内小野氏精製、「むしくだしらくがん」とあり"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "官許錦華錠効能"
+                            "label": "西暦コード",
+                            "value": 18770003099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154750/3477,924,2605,3382/,300/0/default.jpg"

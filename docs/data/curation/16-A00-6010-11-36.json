@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-36.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "軍装小引",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-36.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p37#xywh=1060,1249,3884,2889",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">17.7×23.6　包袋（15.5×6.6）もあり、「甲州侍小田原侍軍陣出立寛永１０年於御前談話以後可旨之旨」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">軍装小引</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
                     "label": "16-A00-6010-11-36",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "17.7×23.6　包袋（15.5×6.6）もあり、「甲州侍小田原侍軍陣出立寛永１０年於御前談話以後可旨之旨」とあり"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "軍装小引"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "軍装小引"
+                            "label": "西暦コード",
+                            "value": 18620199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154707/1060,1249,3884,2889/,300/0/default.jpg"

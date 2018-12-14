@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-168.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "博覧会場売品之証",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-168.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p74#xywh=3043,1276,644,1904",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">3.5×3.2　同一のもの３枚</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">博覧会場売品之証</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治10年11月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">３枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18770011099</dd></dl>",
                     "label": "16-A00-6010-15-168",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "３枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770011099
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治10年11月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "3.5×3.2　同一のもの３枚"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "博覧会場売品之証"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年11月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "３枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "博覧会場売品之証"
+                            "label": "西暦コード",
+                            "value": 18770011099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155004/3043,1276,644,1904/,300/0/default.jpg"

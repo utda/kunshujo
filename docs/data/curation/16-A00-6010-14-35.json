@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-35.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "平仮名絵入新聞第１３号",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-35.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p36#xywh=786,482,2854,3780",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.0×34.2　銀座１丁目１０番地仮局絵入新聞社編輯印務柳谷藤吉、両面（４頁）印刷</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">平仮名絵入新聞第１３号</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年5月12日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750005012</dd></dl>",
                     "label": "16-A00-6010-14-35",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750005012
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年5月12日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "23.0×34.2　銀座１丁目１０番地仮局絵入新聞社編輯印務柳谷藤吉、両面（４頁）印刷"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "平仮名絵入新聞第１３号"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年5月12日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "平仮名絵入新聞第１３号"
+                            "label": "西暦コード",
+                            "value": 18750005012
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154911/786,482,2854,3780/,300/0/default.jpg"
@@ -55,39 +56,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p37#xywh=784,496,5605,3776",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.0×34.2　銀座１丁目１０番地仮局絵入新聞社編輯印務柳谷藤吉、両面（４頁）印刷</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">平仮名絵入新聞第１３号</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年5月12日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750005012</dd></dl>",
                     "label": "16-A00-6010-14-35",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750005012
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年5月12日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "23.0×34.2　銀座１丁目１０番地仮局絵入新聞社編輯印務柳谷藤吉、両面（４頁）印刷"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "平仮名絵入新聞第１３号"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年5月12日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "平仮名絵入新聞第１３号"
+                            "label": "西暦コード",
+                            "value": 18750005012
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154912/784,496,5605,3776/,300/0/default.jpg"
@@ -95,39 +97,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p38#xywh=3432,490,3025,3803",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.0×34.2　銀座１丁目１０番地仮局絵入新聞社編輯印務柳谷藤吉、両面（４頁）印刷</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">平仮名絵入新聞第１３号</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年5月12日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750005012</dd></dl>",
                     "label": "16-A00-6010-14-35",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750005012
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年5月12日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "23.0×34.2　銀座１丁目１０番地仮局絵入新聞社編輯印務柳谷藤吉、両面（４頁）印刷"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "平仮名絵入新聞第１３号"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年5月12日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "平仮名絵入新聞第１３号"
+                            "label": "西暦コード",
+                            "value": 18750005012
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154913/3432,490,3025,3803/,300/0/default.jpg"

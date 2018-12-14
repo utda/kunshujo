@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-89.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "勧業寮領証",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-14-89.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p50#xywh=955,480,1410,4414",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">27.5×8.2　８月１７日、「履歴３通」と墨書</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">勧業寮領証</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750199099</dd></dl>",
                     "label": "16-A00-6010-14-89",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750199099
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "27.5×8.2　８月１７日、「履歴３通」と墨書"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "勧業寮領証"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8?年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "勧業寮領証"
+                            "label": "西暦コード",
+                            "value": 18750199099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154925/955,480,1410,4414/,300/0/default.jpg"

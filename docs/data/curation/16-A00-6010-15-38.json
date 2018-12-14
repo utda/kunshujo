@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-38.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "田中氏蔵版章",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-38.json/range1",
@@ -15,27 +15,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p19#xywh=3834,962,1045,3971",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.2×16.1　但し三折になっている形での計寸、この朱印が捺されている和紙に「明治８年６月２１日」の墨書と「東京小川町１０番地尾島邦三郎御印判師」の木刻印あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">田中氏蔵版章</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年6月21日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750006021</dd></dl>",
                     "label": "16-A00-6010-15-38",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750006021
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年6月21日"
                         },
                         {
                             "label": "書誌事項",
@@ -44,6 +29,22 @@
                         {
                             "label": "タイトル",
                             "value": "田中氏蔵版章"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年6月21日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18750006021
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154949/3834,962,1045,3971/,300/0/default.jpg"
@@ -51,27 +52,12 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p20#xywh=2887,941,2986,3990",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.2×16.1　但し三折になっている形での計寸、この朱印が捺されている和紙に「明治８年６月２１日」の墨書と「東京小川町１０番地尾島邦三郎御印判師」の木刻印あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">田中氏蔵版章</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年6月21日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750006021</dd></dl>",
                     "label": "16-A00-6010-15-38",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750006021
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年6月21日"
                         },
                         {
                             "label": "書誌事項",
@@ -80,6 +66,22 @@
                         {
                             "label": "タイトル",
                             "value": "田中氏蔵版章"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年6月21日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18750006021
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154950/2887,941,2986,3990/,300/0/default.jpg"

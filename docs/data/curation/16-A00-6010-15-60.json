@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-60.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "日本各物植物見本",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-60.json/range1",
@@ -15,35 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p28#xywh=916,1367,3083,3550",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.5×19.0　博物館、USEFUL PRODUCTS OF THE VEGETABLE KINGDOM、紀元２５３６年とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">日本各物植物見本</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年2月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760002099</dd></dl>",
                     "label": "16-A00-6010-15-60",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760002099
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年2月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "21.5×19.0　博物館、USEFUL PRODUCTS OF THE VEGETABLE KINGDOM、紀元２５３６年とあり"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "日本各物植物見本"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年2月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日本各物植物見本"
+                            "label": "西暦コード",
+                            "value": 18760002099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154958/916,1367,3083,3550/,300/0/default.jpg"

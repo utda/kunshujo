@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-22.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔寄贈書籍目録〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-15-22.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p13#xywh=3694,830,2772,4041",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.5×16.8　「右明治９年９月５日受取」、澳国博覧会布告文、航海造船報告書、古船吟味心得、工業伝播報告書、蚕卵説、澳国博覧会報告書国勢部（２冊）、澳国博覧会賞状及賞牌領与表（１枚）</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔寄贈書籍目録〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年9月5日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760009005</dd></dl>",
                     "label": "16-A00-6010-15-22",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760009005
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年9月5日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "24.5×16.8　「右明治９年９月５日受取」、澳国博覧会布告文、航海造船報告書、古船吟味心得、工業伝播報告書、蚕卵説、澳国博覧会報告書国勢部（２冊）、澳国博覧会賞状及賞牌領与表（１枚）"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔寄贈書籍目録〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年9月5日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔寄贈書籍目録〕"
+                            "label": "西暦コード",
+                            "value": 18760009005
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154943/3694,830,2772,4041/,300/0/default.jpg"

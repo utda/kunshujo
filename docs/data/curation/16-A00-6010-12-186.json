@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-186.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "法朗西大砲駮隊元リウテナンフウク謹テ諸君ニ告",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-12-186.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p51#xywh=1920,1351,4186,3195",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">19.6×25.0　「芝愛宕下迎曦塾林（正十郎）氏大ニ教黌ヲ開ク、因テ予ガ友人ジモアンヲ将ヒテ林氏ト芝ニ戮カシ洽ク生徒ヲ教育セントス有志ノ輩年ノ壮弱ニ関セス来リ就テ学ヘシ、但シ五月朔日開黌ノコト」とあり、FouqueとGiboin</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">法朗西大砲駮隊元リウテナンフウク謹テ諸君ニ告</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治5年5月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18720005099</dd></dl>",
                     "label": "16-A00-6010-12-186",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18720005099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
                         {
                             "label": "地名",
                             "value": "東京"
@@ -38,20 +27,32 @@
                             "value": "引札"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "19.6×25.0　「芝愛宕下迎曦塾林（正十郎）氏大ニ教黌ヲ開ク、因テ予ガ友人ジモアンヲ将ヒテ林氏ト芝ニ戮カシ洽ク生徒ヲ教育セントス有志ノ輩年ノ壮弱ニ関セス来リ就テ学ヘシ、但シ五月朔日開黌ノコト」とあり、FouqueとGiboin"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "法朗西大砲駮隊元リウテナンフウク謹テ諸君ニ告"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治5年5月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "19.6×25.0　「芝愛宕下迎曦塾林（正十郎）氏大ニ教黌ヲ開ク、因テ予ガ友人ジモアンヲ将ヒテ林氏ト芝ニ戮カシ洽ク生徒ヲ教育セントス有志ノ輩年ノ壮弱ニ関セス来リ就テ学ヘシ、但シ五月朔日開黌ノコト」とあり、FouqueとGiboin"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "法朗西大砲駮隊元リウテナンフウク謹テ諸君ニ告"
+                            "label": "西暦コード",
+                            "value": 18720005099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154803/1920,1351,4186,3195/,300/0/default.jpg"

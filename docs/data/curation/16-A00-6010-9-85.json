@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-85.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔俳諧摺物〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-9-85.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p17#xywh=933,594,2916,2157",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.9×17.6　「庚午年」、「公雲写」とあり、作者は玩玉、花雪、玉兎、花輩、琴女、春草、綾路、飛石、千草、芦鳥の１０名</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔俳諧摺物〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700001099</dd></dl>",
                     "label": "16-A00-6010-9-85",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
                             "label": "地名",
                             "value": "大阪"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治3年1月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "12.9×17.6　「庚午年」、「公雲写」とあり、作者は玩玉、花雪、玉兎、花輩、琴女、春草、綾路、飛石、千草、芦鳥の１０名"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔俳諧摺物〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年1月"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔俳諧摺物〕"
+                            "label": "西暦コード",
+                            "value": 18700001099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154600/933,594,2916,2157/,300/0/default.jpg"

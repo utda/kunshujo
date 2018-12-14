@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-90.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "安政六年歳次己未須弥界由旬暦略書",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-10-90.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p20#xywh=2219,613,3697,2672",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">尾張</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">暦</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.5×23.0　張府中野友安</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">安政六年歳次己未須弥界由旬暦略書</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政6年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18590001099</dd></dl>",
                     "label": "16-A00-6010-10-90",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18590001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
                         {
                             "label": "地名",
                             "value": "尾張"
@@ -38,20 +27,32 @@
                             "value": "暦"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "16.5×23.0　張府中野友安"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "安政六年歳次己未須弥界由旬暦略書"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "和暦",
                             "value": "安政6年1月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "16.5×23.0　張府中野友安"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "安政六年歳次己未須弥界由旬暦略書"
+                            "label": "西暦コード",
+                            "value": 18590001099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154636/2219,613,3697,2672/,300/0/default.jpg"

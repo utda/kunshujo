@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-340.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔文久四季甲子大小暦〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-4-340.json/range1",
@@ -15,20 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p41#xywh=4921,497,1019,3020",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">暦</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.0×5.2　清、印度、西洋ユリウス、西洋グレゴリオ、トルコ、西洋、米利堅暦での紀元を記す、済生堂、中空で書き入れ形式</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔文久四季甲子大小暦〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">元治1年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18640001099</dd></dl>",
                     "label": "16-A00-6010-4-340",
                     "metadata": [
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18640001099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
                         {
                             "label": "地名",
                             "value": "江戸"
@@ -38,20 +27,32 @@
                             "value": "暦"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "18.0×5.2　清、印度、西洋ユリウス、西洋グレゴリオ、トルコ、西洋、米利堅暦での紀元を記す、済生堂、中空で書き入れ形式"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔文久四季甲子大小暦〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "和暦",
                             "value": "元治1年1月"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "18.0×5.2　清、印度、西洋ユリウス、西洋グレゴリオ、トルコ、西洋、米利堅暦での紀元を記す、済生堂、中空で書き入れ形式"
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔文久四季甲子大小暦〕"
+                            "label": "西暦コード",
+                            "value": 18640001099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154323/4921,497,1019,3020/,300/0/default.jpg"

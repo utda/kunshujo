@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-54.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "大日本豊秋津洲略全図",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-2-54.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p19#xywh=3388,555,2526,1561",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">京都</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">9.2×15.0　妙義山、奥州芭蕉之辻、長州下関、壹之碑の図あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">大日本豊秋津洲略全図</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政5年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18580099099</dd></dl>",
                     "label": "16-A00-6010-2-54",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "京都"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "9.2×15.0　妙義山、奥州芭蕉之辻、長州下関、壹之碑の図あり"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "大日本豊秋津洲略全図"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "大日本豊秋津洲略全図"
+                            "label": "西暦コード",
+                            "value": 18580099099
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154188/3388,555,2526,1561/,300/0/default.jpg"

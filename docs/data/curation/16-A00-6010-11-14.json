@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-14.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔飯倉５丁めより出火摺物〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-14.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p10#xywh=1279,742,4748,3753",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.5×28.0</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔飯倉５丁めより出火摺物〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">火事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久3年6月2日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18630006002</dd></dl>",
                     "label": "16-A00-6010-11-14",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18630006002
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "火事"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久3年6月2日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "21.5×28.0"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔飯倉５丁めより出火摺物〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "火事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久3年6月2日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔飯倉５丁めより出火摺物〕"
+                            "label": "西暦コード",
+                            "value": 18630006002
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154680/1279,742,4748,3753/,300/0/default.jpg"

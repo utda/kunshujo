@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-26.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔江戸住吉町敵討摺物〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-3-26.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p10#xywh=1091,796,4690,3576",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.5×29.0　常州新治郡すみむら近藤内膳様家来当時浪人太田六助寅２９才、相手水野出羽守様家来山田金平寅５２才、１枚は画のみ</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔江戸住吉町敵討摺物〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">市井雑事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政1年6月26日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18540006026</dd></dl>",
                     "label": "16-A00-6010-3-26",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18540006026
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "市井雑事"
-                        },
-                        {
                             "label": "地名",
                             "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政1年6月26日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "21.5×29.0　常州新治郡すみむら近藤内膳様家来当時浪人太田六助寅２９才、相手水野出羽守様家来山田金平寅５２才、１枚は画のみ"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔江戸住吉町敵討摺物〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "市井雑事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政1年6月26日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔江戸住吉町敵討摺物〕"
+                            "label": "西暦コード",
+                            "value": 18540006026
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154227/1091,796,4690,3576/,300/0/default.jpg"

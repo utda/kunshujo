@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-91.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "〔郵便半銭端書百枚出納証〕",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-91.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p74#xywh=1189,2650,2115,1651",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔郵便半銭端書百枚出納証〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年9月20日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750009020</dd></dl>",
                     "label": "16-A00-6010-11-91",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750009020
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年9月20日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "〔郵便半銭端書百枚出納証〕"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年9月20日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔郵便半銭端書百枚出納証〕"
+                            "label": "西暦コード",
+                            "value": 18750009020
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154744/1189,2650,2115,1651/,300/0/default.jpg"

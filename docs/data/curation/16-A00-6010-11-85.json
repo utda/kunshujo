@@ -5,7 +5,7 @@
     ],
     "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-85.json",
     "@type": "cr:Curation",
-    "label": "Curating list",
+    "label": "辻新次書翰",
     "selections": [
         {
             "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-11-85.json/range1",
@@ -15,39 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p76#xywh=4636,561,1511,2074",
                     "@type": "sc:Canvas",
+                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">半銭端書　小川町今川小路２丁目９番地田中芳男宛、「弥１０日比御出帆相成候に付ては明２日午後４時より昇堂可仕旨尊示敬承、同日時昇堂御礼可申上候」</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">辻新次書翰</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年3月1日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１通</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760003001</dd></dl>",
                     "label": "16-A00-6010-11-85",
                     "metadata": [
                         {
-                            "label": "数量",
-                            "value": "１通"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760003001
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年3月1日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "半銭端書　小川町今川小路２丁目９番地田中芳男宛、「弥１０日比御出帆相成候に付ては明２日午後４時より昇堂可仕旨尊示敬承、同日時昇堂御礼可申上候」"
                         },
                         {
+                            "label": "タイトル",
+                            "value": "辻新次書翰"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年3月1日"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１通"
+                        },
+                        {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "辻新次書翰"
+                            "label": "西暦コード",
+                            "value": 18760003001
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154746/4636,561,1511,2074/,300/0/default.jpg"
