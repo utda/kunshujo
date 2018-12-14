@@ -53,6 +53,8 @@
 
   <div class="container py-2 my-5">
 
+
+
     <div class="table-responsive my-5">
       <table class="table table-hover" id="table">
         <thead id="thead">
@@ -83,6 +85,8 @@
 
 
   </div>
+
+  <script>curation('./');</script>
 
   <script>footer('./');</script>
 
@@ -165,9 +169,7 @@
 
               var a = $("<a>")
               img_div.append(a)
-
-              a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+obj[dcterms+"relation"][0]["@id"].replace("#", "&pos="))
-              a.attr("target", "cr")
+              a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
 
               var img = $("<img class='img-fluid' height='90px'>")
               a.append(img)
@@ -220,7 +222,6 @@
               } else if(obj[e]){
                 text = obj[e][0]["@value"]
               }
-
               row.push(text)
             }
 
@@ -228,8 +229,7 @@
 
             if(obj[dcterms+"relation"] != null){
               var a = $("<a>")
-              a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+obj[dcterms+"relation"][0]["@id"].replace("#", "&pos="))
-              a.attr("target", "cr")
+              a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
               var img = $("<img>")
               a.append(img)
               img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")

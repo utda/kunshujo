@@ -61,6 +61,8 @@
 
   </div>
 
+  <script>curation('./');</script>
+
   <p class="pagetop"><a href="#wrap">▲</a></p>
 
   <script>
@@ -108,7 +110,7 @@
             img.attr("data-high-res-image-src", url)
             img.attr("width", area[2])
             img.attr("height", area[3])
-            img.attr("onclick", "move('"+obj[dcterms+"relation"][0]["@id"].replace("#", "&pos=")+"')")
+            img.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"')")
             img.attr("style", "cursor: pointer")
 
             $("#myMosaic").append(img)
@@ -132,10 +134,6 @@
     });
 
   })
-
-  function move(curation){
-    open( "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation="+curation, "cr" ) ;
-  }
 
 </script>
 </body>
