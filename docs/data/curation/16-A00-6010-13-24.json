@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p9#xywh=839,559,5871,2343",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">信濃</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.1×35.3　信州飯田本教同志施印</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">五倫和解子もり謡</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">文芸・芸能・スポーツ・教育・出版・教化</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治4年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18710099099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治4年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>信濃</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>五倫和解子もり謡</td></tr><tr><th>書誌事項</th><td>15.1×35.3　信州飯田本教同志施印</td></tr></table>",
                     "label": "16-A00-6010-13-24",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "信濃"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.1×35.3　信州飯田本教同志施印"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "五倫和解子もり謡"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治4年"
@@ -47,8 +31,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "信濃"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18710099099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "五倫和解子もり謡"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.1×35.3　信州飯田本教同志施印"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154839/839,559,5871,2343/,300/0/default.jpg"

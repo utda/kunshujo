@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p14#xywh=887,521,2846,4325",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>横浜</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治9年1月11日</td><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td><th>タイトル</th><td>〔田中芳男宛電報送達紙〕</td><th>西暦コード</th><td>18760001011</td><th>版種類</th><td>写本</td><th>書誌事項</th><td>26.5×17.0　横浜佐野常民出、「コンニチノシユウクハイハエンニンソロ」、着局は本郷電信局</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年1月11日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>横浜</td></tr><tr><th>西暦コード</th><td>18760001011</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>〔田中芳男宛電報送達紙〕</td></tr><tr><th>書誌事項</th><td>26.5×17.0　横浜佐野常民出、「コンニチノシユウクハイハエンニンソロ」、着局は本郷電信局</td></tr></table>",
                     "label": "16-A00-6010-15-23",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "横浜"
+                            "label": "和暦",
+                            "value": "明治9年1月11日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治9年1月11日"
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "横浜"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18760001011
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔田中芳男宛電報送達紙〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18760001011
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
                         },
                         {
                             "label": "書誌事項",

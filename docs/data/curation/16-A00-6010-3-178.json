@@ -15,24 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p52#xywh=994,1405,883,3095",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>江戸</td><th>形態分類</th><td>暦</td><th>数量</th><td>１枚</td><th>和暦</th><td>慶応1年1月</td><th>内容分類</th><td>引札</td><th>タイトル</th><td>〔乙丑大小暦〕</td><th>西暦コード</th><td>18650001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>18.5×5.0　子準狂史荻埜雪嶽、中空で宛名・差出名なし</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応1年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18650001099</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔乙丑大小暦〕</td></tr><tr><th>書誌事項</th><td>18.5×5.0　子準狂史荻埜雪嶽、中空で宛名・差出名なし</td></tr></table>",
                     "label": "16-A00-6010-3-178",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
+                            "label": "和暦",
+                            "value": "慶応1年1月"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "慶応1年1月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18650001099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "暦"
                         },
                         {
                             "label": "内容分類",
@@ -41,14 +49,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔乙丑大小暦〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18650001099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

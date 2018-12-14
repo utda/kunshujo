@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p54#xywh=1188,459,2490,1812",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">14.6×10.6　会主多良尾政男、６月２５・２６・２７日、於呉服橋外柳屋楼上</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔和漢古今書画骨董販売案内〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年6月10日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750006010</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治8年6月10日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18750006010</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔和漢古今書画骨董販売案内〕</td></tr><tr><th>書誌事項</th><td>14.6×10.6　会主多良尾政男、６月２５・２６・２７日、於呉服橋外柳屋楼上</td></tr></table>",
                     "label": "16-A00-6010-14-109",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "14.6×10.6　会主多良尾政男、６月２５・２６・２７日、於呉服橋外柳屋楼上"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔和漢古今書画骨董販売案内〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治8年6月10日"
@@ -51,8 +31,28 @@
                             "value": "活版"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18750006010
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔和漢古今書画骨董販売案内〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.6×10.6　会主多良尾政男、６月２５・２６・２７日、於呉服橋外柳屋楼上"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154929/1188,459,2490,1812/,300/0/default.jpg"

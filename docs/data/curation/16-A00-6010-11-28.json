@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p28#xywh=1015,658,5073,3832",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔諸まじないの法書付〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>〔諸まじないの法書付〕</td></tr><tr><th>書誌事項</th><td>22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等</td></tr></table>",
                     "label": "16-A00-6010-11-28",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔諸まじないの法書付〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
@@ -47,8 +31,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620199099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔諸まじないの法書付〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154698/1015,658,5073,3832/,300/0/default.jpg"
@@ -56,25 +56,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p29#xywh=3656,681,2433,3824",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔諸まじないの法書付〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>〔諸まじないの法書付〕</td></tr><tr><th>書誌事項</th><td>22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等</td></tr></table>",
                     "label": "16-A00-6010-11-28",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔諸まじないの法書付〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
@@ -88,8 +72,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620199099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔諸まじないの法書付〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×30.1と23.1×14.6　早道の法、おもう人よび出す法等"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154699/3656,681,2433,3824/,300/0/default.jpg"

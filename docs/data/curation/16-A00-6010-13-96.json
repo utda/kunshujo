@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p36#xywh=3991,518,2545,1564",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">京都</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">9.4×15.5　玄々堂男十一才童松本多宮GENGEN</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">大谷月鏡橋風景</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">江戸後期</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18670499099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>江戸後期</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>京都</td></tr><tr><th>西暦コード</th><td>18670499099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>大谷月鏡橋風景</td></tr><tr><th>書誌事項</th><td>9.4×15.5　玄々堂男十一才童松本多宮GENGEN</td></tr></table>",
                     "label": "16-A00-6010-13-96",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "京都"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.4×15.5　玄々堂男十一才童松本多宮GENGEN"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "大谷月鏡橋風景"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
                         {
                             "label": "和暦",
                             "value": "江戸後期"
@@ -47,8 +31,24 @@
                             "value": "銅版"
                         },
                         {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18670499099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "大谷月鏡橋風景"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.4×15.5　玄々堂男十一才童松本多宮GENGEN"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154866/3991,518,2545,1564/,300/0/default.jpg"

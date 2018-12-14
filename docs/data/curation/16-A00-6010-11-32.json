@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p31#xywh=3592,2691,2440,1808",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">15.0×10.4　まじないを記したもの</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">のし竹の法</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>のし竹の法</td></tr><tr><th>書誌事項</th><td>15.0×10.4　まじないを記したもの</td></tr></table>",
                     "label": "16-A00-6010-11-32",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.0×10.4　まじないを記したもの"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "のし竹の法"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
@@ -47,8 +31,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620199099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "のし竹の法"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.0×10.4　まじないを記したもの"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154701/3592,2691,2440,1808/,300/0/default.jpg"

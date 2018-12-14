@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p42#xywh=1015,561,4976,3869",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>１枚</td><th>和暦</th><td>文政期</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>〔草木譜巻之二１６丁アセダラグ訳名センダン〕</td><th>西暦コード</th><td>18290299099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>23.7×30.7　観象堂（吉雄俊蔵）罫紙</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文政期</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18290299099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>〔草木譜巻之二１６丁アセダラグ訳名センダン〕</td></tr><tr><th>書誌事項</th><td>23.7×30.7　観象堂（吉雄俊蔵）罫紙</td></tr></table>",
                     "label": "16-A00-6010-2-137",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "文政期"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文政期"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18290299099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔草木譜巻之二１６丁アセダラグ訳名センダン〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18290299099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

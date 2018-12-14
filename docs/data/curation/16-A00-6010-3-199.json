@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p63#xywh=1057,692,4793,3807",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>江戸</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政1年9月25日</td><th>内容分類</th><td>市井雑事</td><th>タイトル</th><td>〔谷中瑞林寺横丁宝蔵院土蔵屋根壊山石ダルマありし旨摺物〕</td><th>西暦コード</th><td>18540009025</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>23.7×31.0</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政1年9月25日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18540009025</td></tr><tr><th>内容分類</th><td>市井雑事</td></tr><tr><th>タイトル</th><td>〔谷中瑞林寺横丁宝蔵院土蔵屋根壊山石ダルマありし旨摺物〕</td></tr><tr><th>書誌事項</th><td>23.7×31.0</td></tr></table>",
                     "label": "16-A00-6010-3-199",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "和暦",
+                            "value": "安政1年9月25日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政1年9月25日"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18540009025
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔谷中瑞林寺横丁宝蔵院土蔵屋根壊山石ダルマありし旨摺物〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18540009025
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

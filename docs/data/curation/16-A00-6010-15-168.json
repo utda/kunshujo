@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p74#xywh=3043,1276,644,1904",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>３枚</td><th>和暦</th><td>明治10年11月</td><th>タイトル</th><td>博覧会場売品之証</td><th>西暦コード</th><td>18770011099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>3.5×3.2　同一のもの３枚</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年11月</td></tr><tr><th>数量</th><td>３枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18770011099</td></tr><tr><th>タイトル</th><td>博覧会場売品之証</td></tr><tr><th>書誌事項</th><td>3.5×3.2　同一のもの３枚</td></tr></table>",
                     "label": "16-A00-6010-15-168",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "和暦",
+                            "value": "明治10年11月"
                         },
                         {
                             "label": "数量",
                             "value": "３枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治10年11月"
+                            "label": "版種類",
+                            "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "博覧会場売品之証"
+                            "label": "地名",
+                            "value": "東京"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770011099
                         },
                         {
-                            "label": "版種類",
-                            "value": "活版"
+                            "label": "タイトル",
+                            "value": "博覧会場売品之証"
                         },
                         {
                             "label": "書誌事項",

@@ -15,24 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p56#xywh=942,570,2564,3027",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>信濃</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久1年4月</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔飯田御堀端和泉屋庄三郎新茶売始引札〕</td><th>西暦コード</th><td>18610004099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>15.5×18.5</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久1年4月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>信濃</td></tr><tr><th>西暦コード</th><td>18610004099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔飯田御堀端和泉屋庄三郎新茶売始引札〕</td></tr><tr><th>書誌事項</th><td>15.5×18.5</td></tr></table>",
                     "label": "16-A00-6010-7-89",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "信濃"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "文久1年4月"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久1年4月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "信濃"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18610004099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "内容分類",
@@ -41,14 +49,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔飯田御堀端和泉屋庄三郎新茶売始引札〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18610004099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

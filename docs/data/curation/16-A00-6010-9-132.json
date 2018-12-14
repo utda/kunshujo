@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p28#xywh=1052,3456,994,1192",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">6.8×5.5</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔北久宝寺町三休橋筋帯屋亀齢堂菓子引札〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>西暦コード</th><td>18690199099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔北久宝寺町三休橋筋帯屋亀齢堂菓子引札〕</td></tr><tr><th>書誌事項</th><td>6.8×5.5</td></tr></table>",
                     "label": "16-A00-6010-9-132",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "6.8×5.5"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔北久宝寺町三休橋筋帯屋亀齢堂菓子引札〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治2?年"
@@ -51,8 +31,28 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18690199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔北久宝寺町三休橋筋帯屋亀齢堂菓子引札〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.8×5.5"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154611/1052,3456,994,1192/,300/0/default.jpg"

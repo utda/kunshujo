@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p19#xywh=3388,555,2526,1561",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>京都</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政5年</td><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td><th>タイトル</th><td>大日本豊秋津洲略全図</td><th>西暦コード</th><td>18580099099</td><th>版種類</th><td>銅版</td><th>書誌事項</th><td>9.2×15.0　妙義山、奥州芭蕉之辻、長州下関、壹之碑の図あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政5年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>京都</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>大日本豊秋津洲略全図</td></tr><tr><th>書誌事項</th><td>9.2×15.0　妙義山、奥州芭蕉之辻、長州下関、壹之碑の図あり</td></tr></table>",
                     "label": "16-A00-6010-2-54",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "京都"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "大日本豊秋津洲略全図"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "銅版"
                         },
                         {
                             "label": "書誌事項",

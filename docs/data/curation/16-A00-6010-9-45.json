@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p10#xywh=931,592,2177,2691",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.5×13.5　大阪今橋丼池東へ入尼ケ崎町除痘館</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">元治二乙丑年種痘定日</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">慶応1年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18650001099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応1年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>西暦コード</th><td>18650001099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>タイトル</th><td>元治二乙丑年種痘定日</td></tr><tr><th>書誌事項</th><td>16.5×13.5　大阪今橋丼池東へ入尼ケ崎町除痘館</td></tr></table>",
                     "label": "16-A00-6010-9-45",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.5×13.5　大阪今橋丼池東へ入尼ケ崎町除痘館"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "元治二乙丑年種痘定日"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
-                        },
                         {
                             "label": "和暦",
                             "value": "慶応1年1月"
@@ -51,8 +31,28 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18650001099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "元治二乙丑年種痘定日"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.5×13.5　大阪今橋丼池東へ入尼ケ崎町除痘館"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154593/931,592,2177,2691/,300/0/default.jpg"

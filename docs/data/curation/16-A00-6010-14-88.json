@@ -15,21 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p50#xywh=2280,941,1422,3935",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.0×8.5　町田久成・田中芳男宛、「第１８号報告添書１通、右は闕尾に付返却落手」と墨書</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">文部省領収之証</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治7年8月15日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18740008015</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治7年8月15日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18740008015</td></tr><tr><th>タイトル</th><td>文部省領収之証</td></tr><tr><th>書誌事項</th><td>24.0×8.5　町田久成・田中芳男宛、「第１８号報告添書１通、右は闕尾に付返却落手」と墨書</td></tr></table>",
                     "label": "16-A00-6010-14-88",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.0×8.5　町田久成・田中芳男宛、「第１８号報告添書１通、右は闕尾に付返却落手」と墨書"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "文部省領収之証"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治7年8月15日"
@@ -43,8 +31,20 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18740008015
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "文部省領収之証"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.0×8.5　町田久成・田中芳男宛、「第１８号報告添書１通、右は闕尾に付返却落手」と墨書"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154925/2280,941,1422,3935/,300/0/default.jpg"

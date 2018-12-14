@@ -15,24 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p79#xywh=926,785,5585,4138",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>番附</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治11年4月</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>桜草比競</td><th>西暦コード</th><td>18780004099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>34.1×25.0　東京第４大区１１小区牛込天神町２１番地柏園謹白、桜草の銘柄番附</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年4月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18780004099</td></tr><tr><th>形態分類</th><td>番附</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>桜草比競</td></tr><tr><th>書誌事項</th><td>34.1×25.0　東京第４大区１１小区牛込天神町２１番地柏園謹白、桜草の銘柄番附</td></tr></table>",
                     "label": "16-A00-6010-15-179",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "番附"
+                            "label": "和暦",
+                            "value": "明治11年4月"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治11年4月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18780004099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "番附"
                         },
                         {
                             "label": "内容分類",
@@ -41,14 +49,6 @@
                         {
                             "label": "タイトル",
                             "value": "桜草比競"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18780004099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

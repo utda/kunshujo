@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p67#xywh=669,553,3500,3500",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年10月8日</td><th>タイトル</th><td>東京日々新聞号外附録</td><th>西暦コード</th><td>18770010008</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年10月8日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18770010008</td></tr><tr><th>タイトル</th><td>東京日々新聞号外附録</td></tr><tr><th>書誌事項</th><td>21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</td></tr></table>",
                     "label": "16-A00-6010-15-159",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "和暦",
+                            "value": "明治10年10月8日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治10年10月8日"
+                            "label": "版種類",
+                            "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "東京日々新聞号外附録"
+                            "label": "地名",
+                            "value": "東京"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770010008
                         },
                         {
-                            "label": "版種類",
-                            "value": "活版"
+                            "label": "タイトル",
+                            "value": "東京日々新聞号外附録"
                         },
                         {
                             "label": "書誌事項",
@@ -52,32 +52,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p68#xywh=3661,606,3303,3465",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治10年10月8日</td><th>タイトル</th><td>東京日々新聞号外附録</td><th>西暦コード</th><td>18770010008</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年10月8日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18770010008</td></tr><tr><th>タイトル</th><td>東京日々新聞号外附録</td></tr><tr><th>書誌事項</th><td>21.0×21.0　内国博覧会の記事、「片山直人」の朱印あり</td></tr></table>",
                     "label": "16-A00-6010-15-159",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "和暦",
+                            "value": "明治10年10月8日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治10年10月8日"
+                            "label": "版種類",
+                            "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "東京日々新聞号外附録"
+                            "label": "地名",
+                            "value": "東京"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770010008
                         },
                         {
-                            "label": "版種類",
-                            "value": "活版"
+                            "label": "タイトル",
+                            "value": "東京日々新聞号外附録"
                         },
                         {
                             "label": "書誌事項",

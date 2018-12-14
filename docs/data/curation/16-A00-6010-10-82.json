@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p18#xywh=5281,2582,559,978",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">播磨</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.3×15.5　「人丸山名産珍菓茶用」とあり、あと一つは「松露糖」とのみあり（5.7×3.2）</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">松露糖引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>播磨</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>松露糖引札</td></tr><tr><th>書誌事項</th><td>12.3×15.5　「人丸山名産珍菓茶用」とあり、あと一つは「松露糖」とのみあり（5.7×3.2）</td></tr></table>",
                     "label": "16-A00-6010-10-82",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "播磨"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "12.3×15.5　「人丸山名産珍菓茶用」とあり、あと一つは「松露糖」とのみあり（5.7×3.2）"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "松露糖引札"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
@@ -51,8 +31,28 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "播磨"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "松露糖引札"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.3×15.5　「人丸山名産珍菓茶用」とあり、あと一つは「松露糖」とのみあり（5.7×3.2）"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154634/5281,2582,559,978/,300/0/default.jpg"

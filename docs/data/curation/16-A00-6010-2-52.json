@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p18#xywh=851,582,2558,1544",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>大和</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政5年</td><th>内容分類</th><td>信仰・行楽・名所図会</td><th>タイトル</th><td>芳野山風景全覧之図</td><th>西暦コード</th><td>18580099099</td><th>版種類</th><td>銅版</td><th>書誌事項</th><td>9.3×15.5　中形とあり、春灯画鐫</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政5年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>大和</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会</td></tr><tr><th>タイトル</th><td>芳野山風景全覧之図</td></tr><tr><th>書誌事項</th><td>9.3×15.5　中形とあり、春灯画鐫</td></tr></table>",
                     "label": "16-A00-6010-2-52",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "大和"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大和"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "芳野山風景全覧之図"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "銅版"
                         },
                         {
                             "label": "書誌事項",

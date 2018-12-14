@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p20#xywh=980,929,2414,3184",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>江戸</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久3年1月</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>文久癸亥月課文題</td><th>西暦コード</th><td>18630001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>14.5×19.5　江東居（川口カク（羽の下に高））、３月に「書米利幹戦記後」、５月に「君子戦必勝論」「散兵銃銘」、６月に「読高山蒲生二子伝」、１０月に「孫子非孫武之書弁」などあり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久3年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18630001099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>文久癸亥月課文題</td></tr><tr><th>書誌事項</th><td>14.5×19.5　江東居（川口カク（羽の下に高））、３月に「書米利幹戦記後」、５月に「君子戦必勝論」「散兵銃銘」、６月に「読高山蒲生二子伝」、１０月に「孫子非孫武之書弁」などあり</td></tr></table>",
                     "label": "16-A00-6010-7-34",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "和暦",
+                            "value": "文久3年1月"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久3年1月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18630001099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "文久癸亥月課文題"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18630001099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

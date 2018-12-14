@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p8#xywh=4545,3059,903,1773",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">暦</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">10.8×6.0　「五日の風十日の雨八不作七四」とあり、明治２年の小の月は４、５、７、８、１０の月、翠栄堂霞居</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔明治二年大小暦〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2年1月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690001099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治2年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>西暦コード</th><td>18690001099</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔明治二年大小暦〕</td></tr><tr><th>書誌事項</th><td>10.8×6.0　「五日の風十日の雨八不作七四」とあり、明治２年の小の月は４、５、７、８、１０の月、翠栄堂霞居</td></tr></table>",
                     "label": "16-A00-6010-9-30",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "10.8×6.0　「五日の風十日の雨八不作七四」とあり、明治２年の小の月は４、５、７、８、１０の月、翠栄堂霞居"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔明治二年大小暦〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治2年1月"
@@ -51,8 +31,28 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18690001099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔明治二年大小暦〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "10.8×6.0　「五日の風十日の雨八不作七四」とあり、明治２年の小の月は４、５、７、８、１０の月、翠栄堂霞居"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154591/4545,3059,903,1773/,300/0/default.jpg"

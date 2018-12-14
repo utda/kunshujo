@@ -15,21 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p19#xywh=4007,639,2793,3537",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">大阪</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">20.5×17.0　９２から貼込帖の裏側に移る</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔整理戸棚製作仕様書〕</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18690199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>西暦コード</th><td>18690199099</td></tr><tr><th>タイトル</th><td>〔整理戸棚製作仕様書〕</td></tr><tr><th>書誌事項</th><td>20.5×17.0　９２から貼込帖の裏側に移る</td></tr></table>",
                     "label": "16-A00-6010-9-92",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "20.5×17.0　９２から貼込帖の裏側に移る"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔整理戸棚製作仕様書〕"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治2?年"
@@ -43,8 +31,20 @@
                             "value": "写本"
                         },
                         {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18690199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔整理戸棚製作仕様書〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "20.5×17.0　９２から貼込帖の裏側に移る"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154602/4007,639,2793,3537/,300/0/default.jpg"

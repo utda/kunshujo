@@ -15,24 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p21#xywh=4314,538,1618,4370",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>美濃</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政5年</td><th>内容分類</th><td>信仰・行楽・名所図会</td><th>タイトル</th><td>養老千歳楼眺望</td><th>西暦コード</th><td>18580099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>27.0×9.7　湯の山千歳楼岡本喜十郎（梓）、他に四季景物、道のり、名物の記載あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政5年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>美濃</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会</td></tr><tr><th>タイトル</th><td>養老千歳楼眺望</td></tr><tr><th>書誌事項</th><td>27.0×9.7　湯の山千歳楼岡本喜十郎（梓）、他に四季景物、道のり、名物の記載あり</td></tr></table>",
                     "label": "16-A00-6010-2-62",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "美濃"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "美濃"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "内容分類",
@@ -41,14 +49,6 @@
                         {
                             "label": "タイトル",
                             "value": "養老千歳楼眺望"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

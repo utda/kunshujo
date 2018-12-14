@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p28#xywh=1829,640,4068,2943",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">京都</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.0×24.6　禁裏御庭拝見日、正月１９日舞御覧、３月３日御闘鶏、７月１４・１５日御灯篭、節分日</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">京都名所方角之図</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">信仰・行楽・名所図会</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>京都</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会</td></tr><tr><th>タイトル</th><td>京都名所方角之図</td></tr><tr><th>書誌事項</th><td>18.0×24.6　禁裏御庭拝見日、正月１９日舞御覧、３月３日御闘鶏、７月１４・１５日御灯篭、節分日</td></tr></table>",
                     "label": "16-A00-6010-10-115",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "京都"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "18.0×24.6　禁裏御庭拝見日、正月１９日舞御覧、３月３日御闘鶏、７月１４・１５日御灯篭、節分日"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "京都名所方角之図"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "信仰・行楽・名所図会"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
@@ -47,8 +31,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620199099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "京都名所方角之図"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×24.6　禁裏御庭拝見日、正月１９日舞御覧、３月３日御闘鶏、７月１４・１５日御灯篭、節分日"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154644/1829,640,4068,2943/,300/0/default.jpg"

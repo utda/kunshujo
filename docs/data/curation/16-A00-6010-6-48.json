@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25235/canvas/p26#xywh=1022,541,1887,4027",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>肥前・江戸</td><th>数量</th><td>１枚</td><th>和暦</th><td>慶応1年6月28日</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>〔長崎会所請取書〕</td><th>西暦コード</th><td>18650006028</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>23.5×11.5　摺物となっている、筆にて草本書１冊（１両）、物産書１冊（１分２朱）、地理書１冊（２両２分２朱）とあり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応1年6月28日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>肥前・江戸</td></tr><tr><th>西暦コード</th><td>18650006028</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>〔長崎会所請取書〕</td></tr><tr><th>書誌事項</th><td>23.5×11.5　摺物となっている、筆にて草本書１冊（１両）、物産書１冊（１分２朱）、地理書１冊（２両２分２朱）とあり</td></tr></table>",
                     "label": "16-A00-6010-6-48",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "肥前・江戸"
+                            "label": "和暦",
+                            "value": "慶応1年6月28日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "慶応1年6月28日"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "肥前・江戸"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18650006028
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔長崎会所請取書〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18650006028
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25235/canvas/p31#xywh=3673,503,2571,4000",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>江戸・肥前</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久3年2月18日</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>〔長崎会所受取書〕</td><th>西暦コード</th><td>18630002018</td><th>版種類</th><td>写本</td><th>書誌事項</th><td>24.8×14.5　九ノ三カラームル１冊、金１分２朱、亥２月１８日と墨書あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久3年2月18日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>江戸・肥前</td></tr><tr><th>西暦コード</th><td>18630002018</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>〔長崎会所受取書〕</td></tr><tr><th>書誌事項</th><td>24.8×14.5　九ノ三カラームル１冊、金１分２朱、亥２月１８日と墨書あり</td></tr></table>",
                     "label": "16-A00-6010-6-58",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "江戸・肥前"
+                            "label": "和暦",
+                            "value": "文久3年2月18日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久3年2月18日"
+                            "label": "版種類",
+                            "value": "写本"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸・肥前"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18630002018
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔長崎会所受取書〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18630002018
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
                         },
                         {
                             "label": "書誌事項",

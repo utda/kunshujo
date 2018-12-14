@@ -15,24 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/canvas/p6#xywh=925,581,5463,4067",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>和泉</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治2?年</td><th>内容分類</th><td>病気・医療</td><th>タイトル</th><td>薬品会案内</td><th>西暦コード</th><td>18690199099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>24.6×33.0　岸和田藩医員中、会宅岸和田円成寺、出品届所　岸和田加藤友元、同南川秀栄、橋本村長谷川桂山、「５月１３日１４日」とあり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>和泉</td></tr><tr><th>西暦コード</th><td>18690199099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>タイトル</th><td>薬品会案内</td></tr><tr><th>書誌事項</th><td>24.6×33.0　岸和田藩医員中、会宅岸和田円成寺、出品届所　岸和田加藤友元、同南川秀栄、橋本村長谷川桂山、「５月１３日１４日」とあり</td></tr></table>",
                     "label": "16-A00-6010-8-9",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "和泉"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "明治2?年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治2?年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "和泉"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18690199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "内容分類",
@@ -41,14 +49,6 @@
                         {
                             "label": "タイトル",
                             "value": "薬品会案内"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18690199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

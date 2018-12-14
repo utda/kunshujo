@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p21#xywh=1005,711,2574,2934",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>横浜</td><th>数量</th><td>２枚</td><th>和暦</th><td>安政1年2月</td><th>内容分類</th><td>政治社会変動</td><th>タイトル</th><td>おらんだ新工夫絵花火</td><th>西暦コード</th><td>18540002099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>19.0×15.5　あと１つは24.0×34.0、１枚は画、座敷なぐさみとあり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政1年2月</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>横浜</td></tr><tr><th>西暦コード</th><td>18540002099</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>おらんだ新工夫絵花火</td></tr><tr><th>書誌事項</th><td>19.0×15.5　あと１つは24.0×34.0、１枚は画、座敷なぐさみとあり</td></tr></table>",
                     "label": "16-A00-6010-3-53",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "横浜"
+                            "label": "和暦",
+                            "value": "安政1年2月"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政1年2月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "横浜"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18540002099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "おらんだ新工夫絵花火"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18540002099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",
@@ -56,20 +56,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p22#xywh=940,655,5166,3738",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>横浜</td><th>数量</th><td>２枚</td><th>和暦</th><td>安政1年2月</td><th>内容分類</th><td>政治社会変動</td><th>タイトル</th><td>おらんだ新工夫絵花火</td><th>西暦コード</th><td>18540002099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>19.0×15.5　あと１つは24.0×34.0、１枚は画、座敷なぐさみとあり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政1年2月</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>横浜</td></tr><tr><th>西暦コード</th><td>18540002099</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>おらんだ新工夫絵花火</td></tr><tr><th>書誌事項</th><td>19.0×15.5　あと１つは24.0×34.0、１枚は画、座敷なぐさみとあり</td></tr></table>",
                     "label": "16-A00-6010-3-53",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "横浜"
+                            "label": "和暦",
+                            "value": "安政1年2月"
                         },
                         {
                             "label": "数量",
                             "value": "２枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政1年2月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "横浜"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18540002099
                         },
                         {
                             "label": "内容分類",
@@ -78,14 +86,6 @@
                         {
                             "label": "タイトル",
                             "value": "おらんだ新工夫絵花火"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18540002099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

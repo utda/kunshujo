@@ -15,21 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p46#xywh=1008,532,1220,4345",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">24.3×6.5　兵部省糺問少令史江並鶴之助弟肥田野四郎、当午２１才、生国武蔵、宿所小川町雉子橋通吉田大学大得業生一所、「８月３日」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">仏学修行願書</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治3年8月3日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18700008003</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治3年8月3日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18700008003</td></tr><tr><th>タイトル</th><td>仏学修行願書</td></tr><tr><th>書誌事項</th><td>24.3×6.5　兵部省糺問少令史江並鶴之助弟肥田野四郎、当午２１才、生国武蔵、宿所小川町雉子橋通吉田大学大得業生一所、「８月３日」とあり</td></tr></table>",
                     "label": "16-A00-6010-12-179",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.3×6.5　兵部省糺問少令史江並鶴之助弟肥田野四郎、当午２１才、生国武蔵、宿所小川町雉子橋通吉田大学大得業生一所、「８月３日」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "仏学修行願書"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治3年8月3日"
@@ -43,8 +31,20 @@
                             "value": "写本"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18700008003
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "仏学修行願書"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.3×6.5　兵部省糺問少令史江並鶴之助弟肥田野四郎、当午２１才、生国武蔵、宿所小川町雉子橋通吉田大学大得業生一所、「８月３日」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154798/1008,532,1220,4345/,300/0/default.jpg"

@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p8#xywh=1152,555,4965,3962",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">伊賀・信濃</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">23.5×30.3　「紀州御免小児薬王ねつさましむしおさへ引止薬」、「紀州御免大人薬王粒甲丹一名ねむり薬」とあり、後者の功能には、かん、しやく、せんしやく、りういん、かんしやう、しんつう、きむつかしとあり、本家調合所伊賀国四日市泊里相原秀八郎、取次飯田池田町綿屋</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">引止薬・粒甲丹引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">病気・医療</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊賀・信濃</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>タイトル</th><td>引止薬・粒甲丹引札</td></tr><tr><th>書誌事項</th><td>23.5×30.3　「紀州御免小児薬王ねつさましむしおさへ引止薬」、「紀州御免大人薬王粒甲丹一名ねむり薬」とあり、後者の功能には、かん、しやく、せんしやく、りういん、かんしやう、しんつう、きむつかしとあり、本家調合所伊賀国四日市泊里相原秀八郎、取次飯田池田町綿屋</td></tr></table>",
                     "label": "16-A00-6010-11-12",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "伊賀・信濃"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "23.5×30.3　「紀州御免小児薬王ねつさましむしおさへ引止薬」、「紀州御免大人薬王粒甲丹一名ねむり薬」とあり、後者の功能には、かん、しやく、せんしやく、りういん、かんしやう、しんつう、きむつかしとあり、本家調合所伊賀国四日市泊里相原秀八郎、取次飯田池田町綿屋"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "引止薬・粒甲丹引札"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "病気・医療"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2?年"
@@ -51,8 +31,28 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "伊賀・信濃"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620199099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "引止薬・粒甲丹引札"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.5×30.3　「紀州御免小児薬王ねつさましむしおさへ引止薬」、「紀州御免大人薬王粒甲丹一名ねむり薬」とあり、後者の功能には、かん、しやく、せんしやく、りういん、かんしやう、しんつう、きむつかしとあり、本家調合所伊賀国四日市泊里相原秀八郎、取次飯田池田町綿屋"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154678/1152,555,4965,3962/,300/0/default.jpg"

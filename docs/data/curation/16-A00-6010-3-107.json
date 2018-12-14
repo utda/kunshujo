@@ -15,24 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p37#xywh=3100,811,357,873",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>不明</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政6年</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>「精選製」篆刻印章</td><th>西暦コード</th><td>18590099099</td><th>書誌事項</th><td>5.0×2.0</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政6年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>不明</td></tr><tr><th>西暦コード</th><td>18590099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>「精選製」篆刻印章</td></tr><tr><th>書誌事項</th><td>5.0×2.0</td></tr></table>",
                     "label": "16-A00-6010-3-107",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "不明"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "安政6年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政6年"
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "内容分類",
@@ -41,10 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "「精選製」篆刻印章"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18590099099
                         },
                         {
                             "label": "書誌事項",

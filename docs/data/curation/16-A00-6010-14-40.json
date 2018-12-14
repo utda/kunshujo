@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p40#xywh=862,464,1294,2710",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">16.3×7.7　５月２６・２７日、於今川小路１丁目玉川茶亭、催主竹逸・玉川、補助植木屋惣連、「明治７年５月」と墨書</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔盆栽会案内〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治7年5月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">活版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18740005099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治7年5月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18740005099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔盆栽会案内〕</td></tr><tr><th>書誌事項</th><td>16.3×7.7　５月２６・２７日、於今川小路１丁目玉川茶亭、催主竹逸・玉川、補助植木屋惣連、「明治７年５月」と墨書</td></tr></table>",
                     "label": "16-A00-6010-14-40",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.3×7.7　５月２６・２７日、於今川小路１丁目玉川茶亭、催主竹逸・玉川、補助植木屋惣連、「明治７年５月」と墨書"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔盆栽会案内〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治7年5月"
@@ -51,8 +31,28 @@
                             "value": "活版"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18740005099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔盆栽会案内〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.3×7.7　５月２６・２７日、於今川小路１丁目玉川茶亭、催主竹逸・玉川、補助植木屋惣連、「明治７年５月」と墨書"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154915/862,464,1294,2710/,300/0/default.jpg"

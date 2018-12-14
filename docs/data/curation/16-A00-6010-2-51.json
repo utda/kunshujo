@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p18#xywh=3450,598,2489,1514",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>播磨</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政期</td><th>内容分類</th><td>歴史</td><th>タイトル</th><td>義士姓名録</td><th>西暦コード</th><td>18590299099</td><th>版種類</th><td>銅版</td><th>書誌事項</th><td>9.3×15.3　中形とあり、「義党達本望引取泉岳寺之図」とあり、春灯（画）</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政期</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>播磨</td></tr><tr><th>西暦コード</th><td>18590299099</td></tr><tr><th>内容分類</th><td>歴史</td></tr><tr><th>タイトル</th><td>義士姓名録</td></tr><tr><th>書誌事項</th><td>9.3×15.3　中形とあり、「義党達本望引取泉岳寺之図」とあり、春灯（画）</td></tr></table>",
                     "label": "16-A00-6010-2-51",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "播磨"
+                            "label": "和暦",
+                            "value": "安政期"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政期"
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "播磨"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590299099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "義士姓名録"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18590299099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "銅版"
                         },
                         {
                             "label": "書誌事項",

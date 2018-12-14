@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p55#xywh=927,750,5241,3543",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久2?年</td><th>内容分類</th><td>芝居・浄瑠璃・歌謡</td><th>タイトル</th><td>心中くどき</td><th>西暦コード</th><td>18620199099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>16.0×40.8　尾州知多郡大野の三治・おさよの心中ばなし</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>芝居・浄瑠璃・歌謡</td></tr><tr><th>タイトル</th><td>心中くどき</td></tr><tr><th>書誌事項</th><td>16.0×40.8　尾州知多郡大野の三治・おさよの心中ばなし</td></tr></table>",
                     "label": "16-A00-6010-7-87",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "文久2?年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "心中くどき"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

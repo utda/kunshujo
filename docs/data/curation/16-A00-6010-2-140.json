@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p43#xywh=903,643,2568,3622",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>３丁</td><th>和暦</th><td>嘉永2年</td><th>内容分類</th><td>歴史</td><th>タイトル</th><td>桶狭間合戦縁記</td><th>西暦コード</th><td>18490099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>嘉永2年</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18490099099</td></tr><tr><th>内容分類</th><td>歴史</td></tr><tr><th>タイトル</th><td>桶狭間合戦縁記</td></tr><tr><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></tr></table>",
                     "label": "16-A00-6010-2-140",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "嘉永2年"
                         },
                         {
                             "label": "数量",
                             "value": "３丁"
                         },
                         {
-                            "label": "和暦",
-                            "value": "嘉永2年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18490099099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "桶狭間合戦縁記"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18490099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",
@@ -56,20 +56,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p44#xywh=911,666,5141,3615",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>３丁</td><th>和暦</th><td>嘉永2年</td><th>内容分類</th><td>歴史</td><th>タイトル</th><td>桶狭間合戦縁記</td><th>西暦コード</th><td>18490099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>嘉永2年</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18490099099</td></tr><tr><th>内容分類</th><td>歴史</td></tr><tr><th>タイトル</th><td>桶狭間合戦縁記</td></tr><tr><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></tr></table>",
                     "label": "16-A00-6010-2-140",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "嘉永2年"
                         },
                         {
                             "label": "数量",
                             "value": "３丁"
                         },
                         {
-                            "label": "和暦",
-                            "value": "嘉永2年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18490099099
                         },
                         {
                             "label": "内容分類",
@@ -78,14 +86,6 @@
                         {
                             "label": "タイトル",
                             "value": "桶狭間合戦縁記"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18490099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",
@@ -97,20 +97,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p45#xywh=925,725,5088,3510",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>３丁</td><th>和暦</th><td>嘉永2年</td><th>内容分類</th><td>歴史</td><th>タイトル</th><td>桶狭間合戦縁記</td><th>西暦コード</th><td>18490099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>嘉永2年</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18490099099</td></tr><tr><th>内容分類</th><td>歴史</td></tr><tr><th>タイトル</th><td>桶狭間合戦縁記</td></tr><tr><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></tr></table>",
                     "label": "16-A00-6010-2-140",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "嘉永2年"
                         },
                         {
                             "label": "数量",
                             "value": "３丁"
                         },
                         {
-                            "label": "和暦",
-                            "value": "嘉永2年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18490099099
                         },
                         {
                             "label": "内容分類",
@@ -119,14 +127,6 @@
                         {
                             "label": "タイトル",
                             "value": "桶狭間合戦縁記"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18490099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",
@@ -138,20 +138,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p46#xywh=896,793,5133,3405",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>３丁</td><th>和暦</th><td>嘉永2年</td><th>内容分類</th><td>歴史</td><th>タイトル</th><td>桶狭間合戦縁記</td><th>西暦コード</th><td>18490099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>嘉永2年</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18490099099</td></tr><tr><th>内容分類</th><td>歴史</td></tr><tr><th>タイトル</th><td>桶狭間合戦縁記</td></tr><tr><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></tr></table>",
                     "label": "16-A00-6010-2-140",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "嘉永2年"
                         },
                         {
                             "label": "数量",
                             "value": "３丁"
                         },
                         {
-                            "label": "和暦",
-                            "value": "嘉永2年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18490099099
                         },
                         {
                             "label": "内容分類",
@@ -160,14 +168,6 @@
                         {
                             "label": "タイトル",
                             "value": "桶狭間合戦縁記"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18490099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",
@@ -179,20 +179,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p47#xywh=3603,800,2470,3330",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>３丁</td><th>和暦</th><td>嘉永2年</td><th>内容分類</th><td>歴史</td><th>タイトル</th><td>桶狭間合戦縁記</td><th>西暦コード</th><td>18490099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>嘉永2年</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18490099099</td></tr><tr><th>内容分類</th><td>歴史</td></tr><tr><th>タイトル</th><td>桶狭間合戦縁記</td></tr><tr><th>書誌事項</th><td>册子　表紙裏に絵図あり</td></tr></table>",
                     "label": "16-A00-6010-2-140",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "嘉永2年"
                         },
                         {
                             "label": "数量",
                             "value": "３丁"
                         },
                         {
-                            "label": "和暦",
-                            "value": "嘉永2年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18490099099
                         },
                         {
                             "label": "内容分類",
@@ -201,14 +209,6 @@
                         {
                             "label": "タイトル",
                             "value": "桶狭間合戦縁記"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18490099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

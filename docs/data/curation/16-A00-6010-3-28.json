@@ -15,36 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p13#xywh=913,653,2724,2016",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>形態分類</th><td>役職名鑑・暦</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政6年1月</td><th>タイトル</th><td>〔名古屋延米相場日程附略暦〕</td><th>西暦コード</th><td>18590001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>15.5×19.5　尾陽米市場米屋兵吉（梓）、武鑑形式</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政6年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18590001099</td></tr><tr><th>形態分類</th><td>役職名鑑・暦</td></tr><tr><th>タイトル</th><td>〔名古屋延米相場日程附略暦〕</td></tr><tr><th>書誌事項</th><td>15.5×19.5　尾陽米市場米屋兵吉（梓）、武鑑形式</td></tr></table>",
                     "label": "16-A00-6010-3-28",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "役職名鑑・暦"
+                            "label": "和暦",
+                            "value": "安政6年1月"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政6年1月"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔名古屋延米相場日程附略暦〕"
+                            "label": "地名",
+                            "value": "尾張"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18590001099
                         },
                         {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "形態分類",
+                            "value": "役職名鑑・暦"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋延米相場日程附略暦〕"
                         },
                         {
                             "label": "書誌事項",

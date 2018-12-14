@@ -15,21 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p33#xywh=1970,2811,1455,1606",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">不明</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">9.0×4.3　表に「二分判百両」と摺られ、裏に寅１１月９日大西親兵衛、嶋川治兵衛の印あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">二分判百両書付</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">慶応2年11月9日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18660011009</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応2年11月9日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>不明</td></tr><tr><th>西暦コード</th><td>18660011009</td></tr><tr><th>タイトル</th><td>二分判百両書付</td></tr><tr><th>書誌事項</th><td>9.0×4.3　表に「二分判百両」と摺られ、裏に寅１１月９日大西親兵衛、嶋川治兵衛の印あり</td></tr></table>",
                     "label": "16-A00-6010-10-127",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "不明"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "9.0×4.3　表に「二分判百両」と摺られ、裏に寅１１月９日大西親兵衛、嶋川治兵衛の印あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "二分判百両書付"
-                        },
                         {
                             "label": "和暦",
                             "value": "慶応2年11月9日"
@@ -43,8 +31,20 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18660011009
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "二分判百両書付"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "9.0×4.3　表に「二分判百両」と摺られ、裏に寅１１月９日大西親兵衛、嶋川治兵衛の印あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154649/1970,2811,1455,1606/,300/0/default.jpg"

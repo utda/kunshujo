@@ -15,29 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p49#xywh=3850,1048,601,811",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">伊勢</dd><dt class=\"col-sm-3\">形態分類</dt><dd class=\"col-sm-9\">引札</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">4.5×3.5</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">四日市美濃屋名物仕入所引札</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750099099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治8年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>西暦コード</th><td>18750099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>四日市美濃屋名物仕入所引札</td></tr><tr><th>書誌事項</th><td>4.5×3.5</td></tr></table>",
                     "label": "16-A00-6010-14-77",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "4.5×3.5"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "四日市美濃屋名物仕入所引札"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治8年"
@@ -51,8 +31,28 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18750099099
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "四日市美濃屋名物仕入所引札"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×3.5"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154924/3850,1048,601,811/,300/0/default.jpg"

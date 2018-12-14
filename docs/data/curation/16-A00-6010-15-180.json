@@ -15,36 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p80#xywh=3811,573,3312,2011",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治11年</td><th>タイトル</th><td>博物館蔵版書籍目録</td><th>西暦コード</th><td>18780099099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>12.0×20.2　売捌書肆京橋区南鍋町１丁目５番地文会舎西洋平、京橋区南伝馬町２丁目１３番地有隣堂穴山篤太郎、印刷有隣堂第２活版所</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>博物館蔵版書籍目録</td></tr><tr><th>書誌事項</th><td>12.0×20.2　売捌書肆京橋区南鍋町１丁目５番地文会舎西洋平、京橋区南伝馬町２丁目１３番地有隣堂穴山篤太郎、印刷有隣堂第２活版所</td></tr></table>",
                     "label": "16-A00-6010-15-180",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "明治11年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治11年"
+                            "label": "版種類",
+                            "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "博物館蔵版書籍目録"
+                            "label": "地名",
+                            "value": "東京"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18780099099
                         },
                         {
-                            "label": "版種類",
-                            "value": "活版"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "博物館蔵版書籍目録"
                         },
                         {
                             "label": "書誌事項",
@@ -56,36 +56,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p81#xywh=872,614,3134,1967",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>東京</td><th>形態分類</th><td>引札</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治11年</td><th>タイトル</th><td>博物館蔵版書籍目録</td><th>西暦コード</th><td>18780099099</td><th>版種類</th><td>活版</td><th>書誌事項</th><td>12.0×20.2　売捌書肆京橋区南鍋町１丁目５番地文会舎西洋平、京橋区南伝馬町２丁目１３番地有隣堂穴山篤太郎、印刷有隣堂第２活版所</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>博物館蔵版書籍目録</td></tr><tr><th>書誌事項</th><td>12.0×20.2　売捌書肆京橋区南鍋町１丁目５番地文会舎西洋平、京橋区南伝馬町２丁目１３番地有隣堂穴山篤太郎、印刷有隣堂第２活版所</td></tr></table>",
                     "label": "16-A00-6010-15-180",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "和暦",
+                            "value": "明治11年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治11年"
+                            "label": "版種類",
+                            "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "博物館蔵版書籍目録"
+                            "label": "地名",
+                            "value": "東京"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18780099099
                         },
                         {
-                            "label": "版種類",
-                            "value": "活版"
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "博物館蔵版書籍目録"
                         },
                         {
                             "label": "書誌事項",

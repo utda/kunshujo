@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p24#xywh=4367,641,1723,3793",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政5年</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>〔篆刻摺物〕</td><th>西暦コード</th><td>18580099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>19.5×10.2　文人の号の篆刻をあつめたもの、下部に篆刻のものあるも判読出来ず</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政5年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>〔篆刻摺物〕</td></tr><tr><th>書誌事項</th><td>19.5×10.2　文人の号の篆刻をあつめたもの、下部に篆刻のものあるも判読出来ず</td></tr></table>",
                     "label": "16-A00-6010-3-60",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔篆刻摺物〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

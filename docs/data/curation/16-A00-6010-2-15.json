@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p4#xywh=763,563,5204,3865",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政3年1月</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>安政丙辰翠竹居課題</td><th>西暦コード</th><td>18560001099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>24.0×31.0　寓津島奥田亮斎撰、正月は物皆春、孤山栖隠図、１２月は贈数者、海苔</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政3年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18560001099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>安政丙辰翠竹居課題</td></tr><tr><th>書誌事項</th><td>24.0×31.0　寓津島奥田亮斎撰、正月は物皆春、孤山栖隠図、１２月は贈数者、海苔</td></tr></table>",
                     "label": "16-A00-6010-2-15",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "安政3年1月"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政3年1月"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18560001099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "安政丙辰翠竹居課題"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18560001099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p28#xywh=1065,706,2386,2106",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.1×14.3　於東京玄玄堂鐫、梅屋敷庭、三圍春堤、梅社雪中、不忍蓮池、品川冲中、柳島妙見、亀戸天神、日本橋秋、吉原春色、両国夏日、浅草酉町、首尾松月</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">東京名所十二勝景</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">常識・娯楽・遊戯・地図・食事</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治4?年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18710199099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治4?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18710199099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>東京名所十二勝景</td></tr><tr><th>書誌事項</th><td>12.1×14.3　於東京玄玄堂鐫、梅屋敷庭、三圍春堤、梅社雪中、不忍蓮池、品川冲中、柳島妙見、亀戸天神、日本橋秋、吉原春色、両国夏日、浅草酉町、首尾松月</td></tr></table>",
                     "label": "16-A00-6010-13-61",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "12.1×14.3　於東京玄玄堂鐫、梅屋敷庭、三圍春堤、梅社雪中、不忍蓮池、品川冲中、柳島妙見、亀戸天神、日本橋秋、吉原春色、両国夏日、浅草酉町、首尾松月"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "東京名所十二勝景"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治4?年"
@@ -47,8 +31,24 @@
                             "value": "銅版"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18710199099
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "東京名所十二勝景"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.1×14.3　於東京玄玄堂鐫、梅屋敷庭、三圍春堤、梅社雪中、不忍蓮池、品川冲中、柳島妙見、亀戸天神、日本橋秋、吉原春色、両国夏日、浅草酉町、首尾松月"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154858/1065,706,2386,2106/,300/0/default.jpg"

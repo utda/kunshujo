@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p15#xywh=1982,619,1599,3917",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>尾張</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政6年</td><th>内容分類</th><td>信仰・行楽・名所図会</td><th>タイトル</th><td>〔菅原道実神像摺物〕</td><th>西暦コード</th><td>18590099099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>24.0×9.5　天庵の５言絶句あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政6年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>西暦コード</th><td>18590099099</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会</td></tr><tr><th>タイトル</th><td>〔菅原道実神像摺物〕</td></tr><tr><th>書誌事項</th><td>24.0×9.5　天庵の５言絶句あり</td></tr></table>",
                     "label": "16-A00-6010-3-35",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "和暦",
+                            "value": "安政6年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政6年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18590099099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔菅原道実神像摺物〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18590099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

@@ -15,21 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p5#xywh=5458,628,660,3076",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">18.0×3.2　生兵教練部、百羅屯教練部、技隊龍教練部と下に３行分ち書あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">和蘭官軍歩操軌範全図題箋</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">安政2年</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18550099099</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政2年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18550099099</td></tr><tr><th>タイトル</th><td>和蘭官軍歩操軌範全図題箋</td></tr><tr><th>書誌事項</th><td>18.0×3.2　生兵教練部、百羅屯教練部、技隊龍教練部と下に３行分ち書あり</td></tr></table>",
                     "label": "16-A00-6010-11-8",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "18.0×3.2　生兵教練部、百羅屯教練部、技隊龍教練部と下に３行分ち書あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "和蘭官軍歩操軌範全図題箋"
-                        },
                         {
                             "label": "和暦",
                             "value": "安政2年"
@@ -43,8 +31,20 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18550099099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "和蘭官軍歩操軌範全図題箋"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×3.2　生兵教練部、百羅屯教練部、技隊龍教練部と下に３行分ち書あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154675/5458,628,660,3076/,300/0/default.jpg"

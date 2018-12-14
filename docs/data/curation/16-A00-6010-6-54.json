@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25235/canvas/p28#xywh=1022,570,1906,3950",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>江戸</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久2?年</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>〔青柳新三郎受取書〕</td><th>西暦コード</th><td>18620199099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>24.7×11.2　「１２月７日金５両御預かり申候」と墨書あり、御料理と摺られてあり、「東両国駒止橋青柳」と押印あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔青柳新三郎受取書〕</td></tr><tr><th>書誌事項</th><td>24.7×11.2　「１２月７日金５両御預かり申候」と墨書あり、御料理と摺られてあり、「東両国駒止橋青柳」と押印あり</td></tr></table>",
                     "label": "16-A00-6010-6-54",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "和暦",
+                            "value": "文久2?年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "〔青柳新三郎受取書〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

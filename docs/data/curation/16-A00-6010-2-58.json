@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p20#xywh=3775,553,2119,1550",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>近江</td><th>数量</th><td>１枚</td><th>和暦</th><td>安政5年</td><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td><th>タイトル</th><td>淡海日吉山二の宮拝殿所掲三十六俳仙</td><th>西暦コード</th><td>18580099099</td><th>版種類</th><td>銅版</td><th>書誌事項</th><td>9.5×13.0　平安梅川夏北写并銅刻、３６人の俳人の名と句あり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政5年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>近江</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>淡海日吉山二の宮拝殿所掲三十六俳仙</td></tr><tr><th>書誌事項</th><td>9.5×13.0　平安梅川夏北写并銅刻、３６人の俳人の名と句あり</td></tr></table>",
                     "label": "16-A00-6010-2-58",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "近江"
+                            "label": "和暦",
+                            "value": "安政5年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "安政5年"
+                            "label": "版種類",
+                            "value": "銅版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "近江"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18580099099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "淡海日吉山二の宮拝殿所掲三十六俳仙"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18580099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "銅版"
                         },
                         {
                             "label": "書誌事項",

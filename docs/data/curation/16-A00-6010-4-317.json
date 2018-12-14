@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p36#xywh=1167,756,2150,1358",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>外国</td><th>数量</th><td>１枚</td><th>和暦</th><td>文久2?年</td><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td><th>タイトル</th><td>達迷塞地道之略記</td><th>西暦コード</th><td>18620199099</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>9.2×14.4　テームズ河の南北を結ぶトンネルのことを記したもの、天保１４年３月２５日通行開始とあり</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>外国</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>達迷塞地道之略記</td></tr><tr><th>書誌事項</th><td>9.2×14.4　テームズ河の南北を結ぶトンネルのことを記したもの、天保１４年３月２５日通行開始とあり</td></tr></table>",
                     "label": "16-A00-6010-4-317",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "外国"
+                            "label": "和暦",
+                            "value": "文久2?年"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "外国"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "達迷塞地道之略記"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

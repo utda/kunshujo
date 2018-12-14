@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p28#xywh=3769,887,2934,4077",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">25.0×18.2　御用御書物師東京芝神明前三島町和泉屋市兵衛発行、水鳥舎江嶋舟霞斎鐫、包紙（9.0×6.5）あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">官版銅刻官等表</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治5年1月20日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">銅版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18720001020</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年1月20日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720001020</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>官版銅刻官等表</td></tr><tr><th>書誌事項</th><td>25.0×18.2　御用御書物師東京芝神明前三島町和泉屋市兵衛発行、水鳥舎江嶋舟霞斎鐫、包紙（9.0×6.5）あり</td></tr></table>",
                     "label": "16-A00-6010-13-60",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "25.0×18.2　御用御書物師東京芝神明前三島町和泉屋市兵衛発行、水鳥舎江嶋舟霞斎鐫、包紙（9.0×6.5）あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "官版銅刻官等表"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治5年1月20日"
@@ -47,8 +31,24 @@
                             "value": "銅版"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18720001020
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "官版銅刻官等表"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "25.0×18.2　御用御書物師東京芝神明前三島町和泉屋市兵衛発行、水鳥舎江嶋舟霞斎鐫、包紙（9.0×6.5）あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154858/3769,887,2934,4077/,300/0/default.jpg"

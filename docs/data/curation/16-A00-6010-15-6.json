@@ -15,20 +15,28 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p3#xywh=871,538,2774,4299",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><th>地名</th><td>伊勢</td><th>数量</th><td>１枚</td><th>和暦</th><td>明治8年11月23日</td><th>内容分類</th><td>諸営業</td><th>タイトル</th><td>蒸気郵船送り状</td><th>西暦コード</th><td>18750011023</td><th>版種類</th><td>木版</td><th>書誌事項</th><td>26.5×16.5　勢州四日市廻漕会社黒川彦左衛門、東京今川小路２丁目田中芳男宛、岡田正堅出、包１つ、清渚丸便、摺物に書込形式</td></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治8年11月23日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>西暦コード</th><td>18750011023</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>蒸気郵船送り状</td></tr><tr><th>書誌事項</th><td>26.5×16.5　勢州四日市廻漕会社黒川彦左衛門、東京今川小路２丁目田中芳男宛、岡田正堅出、包１つ、清渚丸便、摺物に書込形式</td></tr></table>",
                     "label": "16-A00-6010-15-6",
                     "metadata": [
                         {
-                            "label": "地名",
-                            "value": "伊勢"
+                            "label": "和暦",
+                            "value": "明治8年11月23日"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治8年11月23日"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18750011023
                         },
                         {
                             "label": "内容分類",
@@ -37,14 +45,6 @@
                         {
                             "label": "タイトル",
                             "value": "蒸気郵船送り状"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18750011023
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
                         },
                         {
                             "label": "書誌事項",

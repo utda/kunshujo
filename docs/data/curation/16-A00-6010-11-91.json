@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p74#xywh=1189,2650,2115,1651",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">〔郵便半銭端書百枚出納証〕</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">諸営業</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治8年9月20日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18750009020</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治8年9月20日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18750009020</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔郵便半銭端書百枚出納証〕</td></tr><tr><th>書誌事項</th><td>12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり</td></tr></table>",
                     "label": "16-A00-6010-11-91",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔郵便半銭端書百枚出納証〕"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治8年9月20日"
@@ -47,8 +31,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18750009020
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔郵便半銭端書百枚出納証〕"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.6×10.1　８年９月２０日とあり、朱印に「紙幣寮調査部長之印」とあり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154744/1189,2650,2115,1651/,300/0/default.jpg"

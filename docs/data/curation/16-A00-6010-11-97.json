@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p81#xywh=974,460,1298,2059",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">東京</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">1銭端書　東京小川町今川小路２丁目９番地田中芳男宛、「本月１７日付の御書簡并御上梓相成候学業捷径初篇２册到達、正に致領収候也」</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">度会県書翰</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">明治9年1月22日</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">１通</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">写本</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18760001022</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年1月22日</td></tr><tr><th>数量</th><td>１通</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18760001022</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>度会県書翰</td></tr><tr><th>書誌事項</th><td>1銭端書　東京小川町今川小路２丁目９番地田中芳男宛、「本月１７日付の御書簡并御上梓相成候学業捷径初篇２册到達、正に致領収候也」</td></tr></table>",
                     "label": "16-A00-6010-11-97",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "1銭端書　東京小川町今川小路２丁目９番地田中芳男宛、「本月１７日付の御書簡并御上梓相成候学業捷径初篇２册到達、正に致領収候也」"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "度会県書翰"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "和暦",
                             "value": "明治9年1月22日"
@@ -47,8 +31,24 @@
                             "value": "写本"
                         },
                         {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18760001022
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "度会県書翰"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "1銭端書　東京小川町今川小路２丁目９番地田中芳男宛、「本月１７日付の御書簡并御上梓相成候学業捷径初篇２册到達、正に致領収候也」"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154751/974,460,1298,2059/,300/0/default.jpg"

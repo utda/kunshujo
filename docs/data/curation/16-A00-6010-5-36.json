@@ -15,25 +15,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25222/canvas/p11#xywh=1424,503,4636,3577",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">しん板３６歌せん</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2年閏8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620008599</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2年閏8月</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620008599</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>しん板３６歌せん</td></tr><tr><th>書誌事項</th><td>21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり</td></tr></table>",
                     "label": "16-A00-6010-5-36",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "しん板３６歌せん"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2年閏8月"
@@ -47,8 +31,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620008599
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "しん板３６歌せん"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154357/1424,503,4636,3577/,300/0/default.jpg"
@@ -56,25 +56,9 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25222/canvas/p12#xywh=1413,713,4562,3577",
                     "@type": "sc:Canvas",
-                    "description": "<dl class=\"row\"><dt class=\"col-sm-3\">地名</dt><dd class=\"col-sm-9\">江戸</dd><dt class=\"col-sm-3\">書誌事項</dt><dd class=\"col-sm-9\">21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり</dd><dt class=\"col-sm-3\">タイトル</dt><dd class=\"col-sm-9\">しん板３６歌せん</dd><dt class=\"col-sm-3\">内容分類</dt><dd class=\"col-sm-9\">政治社会変動</dd><dt class=\"col-sm-3\">和暦</dt><dd class=\"col-sm-9\">文久2年閏8月</dd><dt class=\"col-sm-3\">数量</dt><dd class=\"col-sm-9\">２枚</dd><dt class=\"col-sm-3\">版種類</dt><dd class=\"col-sm-9\">木版</dd><dt class=\"col-sm-3\">西暦コード</dt><dd class=\"col-sm-9\">18620008599</dd></dl>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2年閏8月</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620008599</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>しん板３６歌せん</td></tr><tr><th>書誌事項</th><td>21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり</td></tr></table>",
                     "label": "16-A00-6010-5-36",
                     "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "しん板３６歌せん"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
                         {
                             "label": "和暦",
                             "value": "文久2年閏8月"
@@ -88,8 +72,24 @@
                             "value": "木版"
                         },
                         {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
                             "label": "西暦コード",
                             "value": 18620008599
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "しん板３６歌せん"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.4×28.0　はしか流行と参勤交代緩和令をよみこんだもの、また「とのさまはみんな馬でとぜうはすみた川」のように、江戸町名６ヶ所を読みこんだ洒落あり"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154358/1413,713,4562,3577/,300/0/default.jpg"
