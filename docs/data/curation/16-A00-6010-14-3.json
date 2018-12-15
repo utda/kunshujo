@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p4#xywh=3711,1246,2806,3728",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>タイトル</th><td>〔博覧会案内〕</td></tr><tr><th>書誌事項</th><td>11.8×13.3が２枚　文部省博物館、３月１０日より２０日間、９字より４字まで、於元昌平阪聖堂</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔博覧会案内〕</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>書誌事項</th><td>11.8×13.3が２枚　文部省博物館、３月１０日より２０日間、９字より４字まで、於元昌平阪聖堂</td></tr></table>",
                     "label": "16-A00-6010-14-3",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年1月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔博覧会案内〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720001099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔博覧会案内〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
                         },
                         {
                             "label": "書誌事項",

@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p30#xywh=4395,613,1791,3917",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治4?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18710199099</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔料理代受取証〕</td></tr><tr><th>書誌事項</th><td>24.0×11.5　摺物に書込形式のもの、本町１丁目西宮和吉より若吉宛、２分と１匁</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔料理代受取証〕</td></tr><tr><th>西暦コード</th><td>18710199099</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治4?年</td></tr><tr><th>書誌事項</th><td>24.0×11.5　摺物に書込形式のもの、本町１丁目西宮和吉より若吉宛、２分と１匁</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-12-145",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治4?年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔料理代受取証〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710199099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔料理代受取証〕"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "24.0×11.5　摺物に書込形式のもの、本町１丁目西宮和吉より若吉宛、２分と１匁"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154782/4395,613,1791,3917/,300/0/default.jpg"

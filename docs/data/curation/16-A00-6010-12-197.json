@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p59#xywh=2554,562,3512,4448",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年2月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720002099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>浅草金龍山奥山にて興行案内</td></tr><tr><th>書誌事項</th><td>27.5×21.5　曲馬会主スリエ、桟敷代１人前３朱（上等）、２朱（中等）、切り見物１朱</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>浅草金龍山奥山にて興行案内</td></tr><tr><th>西暦コード</th><td>18720002099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年2月</td></tr><tr><th>書誌事項</th><td>27.5×21.5　曲馬会主スリエ、桟敷代１人前３朱（上等）、２朱（中等）、切り見物１朱</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr></table>",
                     "label": "16-A00-6010-12-197",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年2月"
+                            "label": "タイトル",
+                            "value": "浅草金龍山奥山にて興行案内"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18720002099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18720002099
+                            "label": "和暦",
+                            "value": "明治5年2月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.5×21.5　曲馬会主スリエ、桟敷代１人前３朱（上等）、２朱（中等）、切り見物１朱"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "浅草金龍山奥山にて興行案内"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "27.5×21.5　曲馬会主スリエ、桟敷代１人前３朱（上等）、２朱（中等）、切り見物１朱"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154811/2554,562,3512,4448/,300/0/default.jpg"

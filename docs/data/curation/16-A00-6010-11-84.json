@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p70#xywh=943,3281,2579,2474",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治7年8月10日</td></tr><tr><th>数量</th><td>１通</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18740008010</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>榊綽書翰</td></tr><tr><th>書誌事項</th><td>半銭端書　小川町今川小路９番地田中芳男宛、榊の住所は赤坂丹後丁７７番地、「少々不快故豚犬二児ヲ明１１日朝尊宅え差出可申」云々</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>榊綽書翰</td></tr><tr><th>西暦コード</th><td>18740008010</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>数量</th><td>１通</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治7年8月10日</td></tr><tr><th>書誌事項</th><td>半銭端書　小川町今川小路９番地田中芳男宛、榊の住所は赤坂丹後丁７７番地、「少々不快故豚犬二児ヲ明１１日朝尊宅え差出可申」云々</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-11-84",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治7年8月10日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１通"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "榊綽書翰"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18740008010
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "榊綽書翰"
+                            "label": "数量",
+                            "value": "１通"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治7年8月10日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "半銭端書　小川町今川小路９番地田中芳男宛、榊の住所は赤坂丹後丁７７番地、「少々不快故豚犬二児ヲ明１１日朝尊宅え差出可申」云々"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154740/943,3281,2579,2474/,300/0/default.jpg"

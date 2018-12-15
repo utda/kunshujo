@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p4#xywh=862,482,2806,5405",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年2月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720002099</td></tr><tr><th>タイトル</th><td>〔澳地利国博覧会出陳案内〕</td></tr><tr><th>書誌事項</th><td>33.0×40.3　博覧会事務局</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔澳地利国博覧会出陳案内〕</td></tr><tr><th>西暦コード</th><td>18720002099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年2月</td></tr><tr><th>書誌事項</th><td>33.0×40.3　博覧会事務局</td></tr></table>",
                     "label": "16-A00-6010-14-5",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年2月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔澳地利国博覧会出陳案内〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720002099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔澳地利国博覧会出陳案内〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年2月"
                         },
                         {
                             "label": "書誌事項",

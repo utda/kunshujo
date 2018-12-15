@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p17#xywh=887,498,5577,4488",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>数量</th><td>５丁</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>タイトル</th><td>幸臨鉄道開行式</td></tr><tr><th>書誌事項</th><td>17.0×26.5が５枚　式次第</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>幸臨鉄道開行式</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>５丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>書誌事項</th><td>17.0×26.5が５枚　式次第</td></tr></table>",
                     "label": "16-A00-6010-14-14",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年9月9日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "５丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "幸臨鉄道開行式"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720009009
                         },
                         {
-                            "label": "タイトル",
-                            "value": "幸臨鉄道開行式"
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "５丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
                         },
                         {
                             "label": "書誌事項",
@@ -52,32 +52,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p18#xywh=901,643,5628,4289",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>数量</th><td>５丁</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>タイトル</th><td>幸臨鉄道開行式</td></tr><tr><th>書誌事項</th><td>17.0×26.5が５枚　式次第</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>幸臨鉄道開行式</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>５丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>書誌事項</th><td>17.0×26.5が５枚　式次第</td></tr></table>",
                     "label": "16-A00-6010-14-14",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年9月9日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "５丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "幸臨鉄道開行式"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720009009
                         },
                         {
-                            "label": "タイトル",
-                            "value": "幸臨鉄道開行式"
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "５丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
                         },
                         {
                             "label": "書誌事項",
@@ -89,32 +89,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p19#xywh=3788,620,2710,4266",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>数量</th><td>５丁</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>タイトル</th><td>幸臨鉄道開行式</td></tr><tr><th>書誌事項</th><td>17.0×26.5が５枚　式次第</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>幸臨鉄道開行式</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>５丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>書誌事項</th><td>17.0×26.5が５枚　式次第</td></tr></table>",
                     "label": "16-A00-6010-14-14",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年9月9日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "５丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "幸臨鉄道開行式"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720009009
                         },
                         {
-                            "label": "タイトル",
-                            "value": "幸臨鉄道開行式"
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "５丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
                         },
                         {
                             "label": "書誌事項",

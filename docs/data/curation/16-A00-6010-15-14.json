@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p7#xywh=1085,1483,2529,3258",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18760199099</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>〔勧業寮出張所受領証〕</td></tr><tr><th>書誌事項</th><td>15.5×20.0　学業捷径８部、「６月３０日」とあり、摺物に書込形式</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔勧業寮出張所受領証〕</td></tr><tr><th>西暦コード</th><td>18760199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治9?年</td></tr><tr><th>書誌事項</th><td>15.5×20.0　学業捷径８部、「６月３０日」とあり、摺物に書込形式</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
                     "label": "16-A00-6010-15-14",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9?年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔勧業寮出張所受領証〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760199099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔勧業寮出張所受領証〕"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "15.5×20.0　学業捷径８部、「６月３０日」とあり、摺物に書込形式"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154937/1085,1483,2529,3258/,300/0/default.jpg"

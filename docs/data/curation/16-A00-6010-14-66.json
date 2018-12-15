@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p47#xywh=1035,420,1399,955",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治8年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>横浜</td></tr><tr><th>西暦コード</th><td>18750099099</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔商会住所摺物〕</td></tr><tr><th>書誌事項</th><td>5.7×8.2　「浜三十四号、NO.34」と摺られてあり、また三井と朱印あり</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔商会住所摺物〕</td></tr><tr><th>西暦コード</th><td>18750099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>横浜</td></tr><tr><th>和暦</th><td>明治8年</td></tr><tr><th>書誌事項</th><td>5.7×8.2　「浜三十四号、NO.34」と摺られてあり、また三井と朱印あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-14-66",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "横浜"
+                            "label": "タイトル",
+                            "value": "〔商会住所摺物〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750099099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔商会住所摺物〕"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "横浜"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "5.7×8.2　「浜三十四号、NO.34」と摺られてあり、また三井と朱印あり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154922/1035,420,1399,955/,300/0/default.jpg"

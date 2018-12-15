@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p70#xywh=1119,1010,5003,3576",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治4年9月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18710009099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>物産小集案内</td></tr><tr><th>書誌事項</th><td>21.5×30.0　１０月７日～２６日、於目白台通雑司ヶ谷鬼子母神少し手前陶器所含翠園、補助博物社中、后見竹本要斎、会主中村芳兵衛、２１２が英文案内</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>物産小集案内</td></tr><tr><th>西暦コード</th><td>18710009099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治4年9月</td></tr><tr><th>書誌事項</th><td>21.5×30.0　１０月７日～２６日、於目白台通雑司ヶ谷鬼子母神少し手前陶器所含翠園、補助博物社中、后見竹本要斎、会主中村芳兵衛、２１２が英文案内</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr></table>",
                     "label": "16-A00-6010-12-207",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治4年9月"
+                            "label": "タイトル",
+                            "value": "物産小集案内"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18710009099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18710009099
+                            "label": "和暦",
+                            "value": "明治4年9月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.5×30.0　１０月７日～２６日、於目白台通雑司ヶ谷鬼子母神少し手前陶器所含翠園、補助博物社中、后見竹本要斎、会主中村芳兵衛、２１２が英文案内"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "物産小集案内"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "21.5×30.0　１０月７日～２６日、於目白台通雑司ヶ谷鬼子母神少し手前陶器所含翠園、補助博物社中、后見竹本要斎、会主中村芳兵衛、２１２が英文案内"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154822/1119,1010,5003,3576/,300/0/default.jpg"

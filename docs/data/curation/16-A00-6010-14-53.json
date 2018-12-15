@@ -15,12 +15,16 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p43#xywh=2855,415,747,1363",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治7年8月20日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18740008020</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>〔郵便スタンプ切抜〕</td></tr><tr><th>書誌事項</th><td>8.0×4.5　菊紋章の入った赤スタンプあり、皇室よりの手紙か？</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔郵便スタンプ切抜〕</td></tr><tr><th>西暦コード</th><td>18740008020</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治7年8月20日</td></tr><tr><th>書誌事項</th><td>8.0×4.5　菊紋章の入った赤スタンプあり、皇室よりの手紙か？</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-14-53",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治7年8月20日"
+                            "label": "タイトル",
+                            "value": "〔郵便スタンプ切抜〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18740008020
                         },
                         {
                             "label": "数量",
@@ -31,20 +35,16 @@
                             "value": "東京"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18740008020
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔郵便スタンプ切抜〕"
+                            "label": "和暦",
+                            "value": "明治7年8月20日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "8.0×4.5　菊紋章の入った赤スタンプあり、皇室よりの手紙か？"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154918/2855,415,747,1363/,300/0/default.jpg"

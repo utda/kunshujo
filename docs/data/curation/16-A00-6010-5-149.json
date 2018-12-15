@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25222/canvas/p37#xywh=1040,240,1062,5768",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久1年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18610001099</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔文久元年大小暦〕</td></tr><tr><th>書誌事項</th><td>36.2×5.8　梅の枝と花であらわしたもの、「花之含笑比月之大小」とあり、雲塘生、「酉春」</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔文久元年大小暦〕</td></tr><tr><th>西暦コード</th><td>18610001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久1年1月</td></tr><tr><th>書誌事項</th><td>36.2×5.8　梅の枝と花であらわしたもの、「花之含笑比月之大小」とあり、雲塘生、「酉春」</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-5-149",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久1年1月"
+                            "label": "タイトル",
+                            "value": "〔文久元年大小暦〕"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18610001099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18610001099
+                            "label": "和暦",
+                            "value": "文久1年1月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "36.2×5.8　梅の枝と花であらわしたもの、「花之含笑比月之大小」とあり、雲塘生、「酉春」"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "引札"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔文久元年大小暦〕"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "36.2×5.8　梅の枝と花であらわしたもの、「花之含笑比月之大小」とあり、雲塘生、「酉春」"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154383/1040,240,1062,5768/,300/0/default.jpg"

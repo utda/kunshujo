@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p21#xywh=1159,600,3401,2960",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>不明</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>タイトル</th><td>芭蕉仕女図七言絶句</td></tr><tr><th>書誌事項</th><td>18.0×21.0　克晦作</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>芭蕉仕女図七言絶句</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>不明</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>18.0×21.0　克晦作</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr></table>",
                     "label": "16-A00-6010-10-94",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "不明"
+                            "label": "タイトル",
+                            "value": "芭蕉仕女図七言絶句"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "芭蕉仕女図七言絶句"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "18.0×21.0　克晦作"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154637/1159,600,3401,2960/,300/0/default.jpg"

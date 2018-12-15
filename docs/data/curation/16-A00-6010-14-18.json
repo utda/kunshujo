@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p21#xywh=924,511,5511,4406",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>タイトル</th><td>〔鉄道開業式列立次第〕</td></tr><tr><th>書誌事項</th><td>原形不詳</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔鉄道開業式列立次第〕</td></tr><tr><th>西暦コード</th><td>18720009009</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年9月9日</td></tr><tr><th>書誌事項</th><td>原形不詳</td></tr></table>",
                     "label": "16-A00-6010-14-18",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年9月9日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔鉄道開業式列立次第〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720009009
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔鉄道開業式列立次第〕"
+                            "label": "版種類",
+                            "value": "活版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年9月9日"
                         },
                         {
                             "label": "書誌事項",

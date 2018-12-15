@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p8#xywh=890,592,2332,4257",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔神田太田屋弥兵衛眼鏡引札〕</td></tr><tr><th>書誌事項</th><td>25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔神田太田屋弥兵衛眼鏡引札〕</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治9年</td></tr><tr><th>書誌事項</th><td>25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-15-17",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "タイトル",
+                            "value": "〔神田太田屋弥兵衛眼鏡引札〕"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18760099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760099099
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "諸営業"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔神田太田屋弥兵衛眼鏡引札〕"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154938/890,592,2332,4257/,300/0/default.jpg"

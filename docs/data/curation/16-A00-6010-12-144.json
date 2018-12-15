@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p29#xywh=988,511,1355,4035",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治1年1月19日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18680001019</td></tr><tr><th>内容分類</th><td>火事</td></tr><tr><th>タイトル</th><td>〔火消入用受取証〕</td></tr><tr><th>書誌事項</th><td>24.2×8.4　本石町１丁目八組月番より阿部将翁宛、金２両也、「右は店火消入用出銀慥ニ請取り申候以上」とあり</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔火消入用受取証〕</td></tr><tr><th>西暦コード</th><td>18680001019</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治1年1月19日</td></tr><tr><th>書誌事項</th><td>24.2×8.4　本石町１丁目八組月番より阿部将翁宛、金２両也、「右は店火消入用出銀慥ニ請取り申候以上」とあり</td></tr><tr><th>内容分類</th><td>火事</td></tr></table>",
                     "label": "16-A00-6010-12-144",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治1年1月19日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔火消入用受取証〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18680001019
                         },
                         {
-                            "label": "内容分類",
-                            "value": "火事"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔火消入用受取証〕"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治1年1月19日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "24.2×8.4　本石町１丁目八組月番より阿部将翁宛、金２両也、「右は店火消入用出銀慥ニ請取り申候以上」とあり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "火事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154781/988,511,1355,4035/,300/0/default.jpg"

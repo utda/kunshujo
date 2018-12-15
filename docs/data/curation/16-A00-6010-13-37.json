@@ -15,12 +15,16 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p15#xywh=3733,696,2913,4247",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治4年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>中国</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>〔中国古銭摺出〕</td></tr><tr><th>書誌事項</th><td>24.5×17.5　「此品赤銅ニテ製ス、厚サ五厘計リ孔明ノ頃ノ圭ナリト云伝フ」と墨書あり</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔中国古銭摺出〕</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>中国</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>書誌事項</th><td>24.5×17.5　「此品赤銅ニテ製ス、厚サ五厘計リ孔明ノ頃ノ圭ナリト云伝フ」と墨書あり</td></tr></table>",
                     "label": "16-A00-6010-13-37",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治4年"
+                            "label": "タイトル",
+                            "value": "〔中国古銭摺出〕"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18710099099
                         },
                         {
                             "label": "数量",
@@ -31,12 +35,8 @@
                             "value": "中国"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18710099099
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔中国古銭摺出〕"
+                            "label": "和暦",
+                            "value": "明治4年"
                         },
                         {
                             "label": "書誌事項",

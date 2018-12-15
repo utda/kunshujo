@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p23#xywh=2301,641,4426,3256",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久1年</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>飛騨</td></tr><tr><th>西暦コード</th><td>18610099099</td></tr><tr><th>タイトル</th><td>万里迺空</td></tr><tr><th>書誌事項</th><td>19.7×17.9と19.7×9.0　飛騨素毛、１枚は色摺で気球の図、「帰朝の後其形ちを真実老師の筆に乞ひつたなき一句をのせて海内の知己に贈るになん、月ならて風船高し夕まくれ、斐太素毛」、遣米使節随行員の１人、但し取得は明治２年頃か</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>万里迺空</td></tr><tr><th>西暦コード</th><td>18610099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>飛騨</td></tr><tr><th>和暦</th><td>文久1年</td></tr><tr><th>書誌事項</th><td>19.7×17.9と19.7×9.0　飛騨素毛、１枚は色摺で気球の図、「帰朝の後其形ちを真実老師の筆に乞ひつたなき一句をのせて海内の知己に贈るになん、月ならて風船高し夕まくれ、斐太素毛」、遣米使節随行員の１人、但し取得は明治２年頃か</td></tr></table>",
                     "label": "16-A00-6010-9-116",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久1年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "飛騨"
+                            "label": "タイトル",
+                            "value": "万里迺空"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18610099099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "万里迺空"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "飛騨"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久1年"
                         },
                         {
                             "label": "書誌事項",

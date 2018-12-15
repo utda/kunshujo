@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p15#xywh=877,690,1076,2788",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>タイトル</th><td>〔資生堂薬舗服薬指示書〕</td></tr><tr><th>書誌事項</th><td>8.0×5.5と8.5×6.1　飯田町２丁目九段坂上常灯台北隣５９番地資生堂、田中芳男宛、内用、用法１日６回に御分服、２日分、No.2720、2759　同様のもの２枚</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔資生堂薬舗服薬指示書〕</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治9年</td></tr><tr><th>書誌事項</th><td>8.0×5.5と8.5×6.1　飯田町２丁目九段坂上常灯台北隣５９番地資生堂、田中芳男宛、内用、用法１日６回に御分服、２日分、No.2720、2759　同様のもの２枚</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-15-26",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "写本"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔資生堂薬舗服薬指示書〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18760099099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "版種類",
+                            "value": "写本"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔資生堂薬舗服薬指示書〕"
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治9年"
                         },
                         {
                             "label": "書誌事項",
                             "value": "8.0×5.5と8.5×6.1　飯田町２丁目九段坂上常灯台北隣５９番地資生堂、田中芳男宛、内用、用法１日６回に御分服、２日分、No.2720、2759　同様のもの２枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154945/877,690,1076,2788/,300/0/default.jpg"

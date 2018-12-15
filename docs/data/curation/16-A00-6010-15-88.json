@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p43#xywh=934,2622,2737,2301",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>新製海苔売弘記</td></tr><tr><th>書誌事項</th><td>14.0×16.4　ガラス瓶とブリキ凾詰の新製品の広告、東京日本橋釘店山形屋窪田惣八</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>新製海苔売弘記</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治9年</td></tr><tr><th>書誌事項</th><td>14.0×16.4　ガラス瓶とブリキ凾詰の新製品の広告、東京日本橋釘店山形屋窪田惣八</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-15-88",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "タイトル",
+                            "value": "新製海苔売弘記"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18760099099
                         },
                         {
                             "label": "版種類",
                             "value": "活版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760099099
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "14.0×16.4　ガラス瓶とブリキ凾詰の新製品の広告、東京日本橋釘店山形屋窪田惣八"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "諸営業"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "新製海苔売弘記"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "14.0×16.4　ガラス瓶とブリキ凾詰の新製品の広告、東京日本橋釘店山形屋窪田惣八"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154973/934,2622,2737,2301/,300/0/default.jpg"

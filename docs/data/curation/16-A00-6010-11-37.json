@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p37#xywh=1062,578,5047,753",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>数量</th><td>２６枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>〔吉原言葉？〕</td></tr><tr><th>書誌事項</th><td>3.5×2.5前後のもの　「どこともなくいいよ」「てまどれるよ」などのことばを記したもの、但し掛けているものは見当たらず、内容不明</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔吉原言葉？〕</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２６枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>3.5×2.5前後のもの　「どこともなくいいよ」「てまどれるよ」などのことばを記したもの、但し掛けているものは見当たらず、内容不明</td></tr></table>",
                     "label": "16-A00-6010-11-37",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２６枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "タイトル",
+                            "value": "〔吉原言葉？〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620199099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔吉原言葉？〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２６枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         },
                         {
                             "label": "書誌事項",

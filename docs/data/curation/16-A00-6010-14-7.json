@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p6#xywh=1673,1322,4823,3601",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
                     "label": "16-A00-6010-14-7",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年1月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "４丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔太政官澳国博覧会出陳達書〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720001099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔太政官澳国博覧会出陳達書〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
                         },
                         {
                             "label": "書誌事項",
@@ -52,32 +52,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p7#xywh=1665,1330,4628,3578",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
                     "label": "16-A00-6010-14-7",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年1月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "４丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔太政官澳国博覧会出陳達書〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720001099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔太政官澳国博覧会出陳達書〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
                         },
                         {
                             "label": "書誌事項",
@@ -89,32 +89,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p8#xywh=1663,1328,4531,3597",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
                     "label": "16-A00-6010-14-7",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年1月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "４丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔太政官澳国博覧会出陳達書〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720001099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔太政官澳国博覧会出陳達書〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
                         },
                         {
                             "label": "書誌事項",
@@ -126,32 +126,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p9#xywh=1671,1328,4523,3597",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔太政官澳国博覧会出陳達書〕</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>４丁</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>書誌事項</th><td>22.0×29.0が４枚　三府知参事・開拓次官・各県令参事宛、大隈参議・寺島外務大輔・井上大蔵大輔より</td></tr></table>",
                     "label": "16-A00-6010-14-7",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治5年1月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "４丁"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔太政官澳国博覧会出陳達書〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18720001099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔太政官澳国博覧会出陳達書〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "４丁"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年1月"
                         },
                         {
                             "label": "書誌事項",

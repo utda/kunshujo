@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p50#xywh=955,480,1410,4414",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治8?年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18750199099</td></tr><tr><th>タイトル</th><td>勧業寮領証</td></tr><tr><th>書誌事項</th><td>27.5×8.2　８月１７日、「履歴３通」と墨書</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>勧業寮領証</td></tr><tr><th>西暦コード</th><td>18750199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治8?年</td></tr><tr><th>書誌事項</th><td>27.5×8.2　８月１７日、「履歴３通」と墨書</td></tr></table>",
                     "label": "16-A00-6010-14-89",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治8?年"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "勧業寮領証"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750199099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "勧業寮領証"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治8?年"
                         },
                         {
                             "label": "書誌事項",

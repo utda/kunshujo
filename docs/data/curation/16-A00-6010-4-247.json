@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p28#xywh=3578,1948,913,2618",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久1年11月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18610011099</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>燈油一升切手</td></tr><tr><th>書誌事項</th><td>16.2×5.2　酉１１月限り、価銀５匁８分、寄場方、売捌所飯田町堀留及び幸橋御門外久保町原の福島屋真平、浅草御門外茅町２丁目伊勢屋勇次郎、箱崎町１丁目三ツ野屋喜十郎</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>燈油一升切手</td></tr><tr><th>西暦コード</th><td>18610011099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久1年11月</td></tr><tr><th>書誌事項</th><td>16.2×5.2　酉１１月限り、価銀５匁８分、寄場方、売捌所飯田町堀留及び幸橋御門外久保町原の福島屋真平、浅草御門外茅町２丁目伊勢屋勇次郎、箱崎町１丁目三ツ野屋喜十郎</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-4-247",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久1年11月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "タイトル",
+                            "value": "燈油一升切手"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18610011099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "燈油一升切手"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久1年11月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "16.2×5.2　酉１１月限り、価銀５匁８分、寄場方、売捌所飯田町堀留及び幸橋御門外久保町原の福島屋真平、浅草御門外茅町２丁目伊勢屋勇次郎、箱崎町１丁目三ツ野屋喜十郎"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154310/3578,1948,913,2618/,300/0/default.jpg"

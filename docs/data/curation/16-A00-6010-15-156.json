@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p65#xywh=3741,301,2729,6192",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>摺付木引札</td></tr><tr><th>書誌事項</th><td>16.5×38.0　本社本所柳原町１丁目１３番地新燧社、出張所長崎西中町２７８番地、出店大坂高麗橋通３丁目３番地、摺附木売捌処２５名の住所氏名あり、内国博に出す旨</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>摺付木引札</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>書誌事項</th><td>16.5×38.0　本社本所柳原町１丁目１３番地新燧社、出張所長崎西中町２７８番地、出店大坂高麗橋通３丁目３番地、摺附木売捌処２５名の住所氏名あり、内国博に出す旨</td></tr><tr><th>形態分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-15-156",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治10年8月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "活版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "摺付木引札"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18770008099
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "版種類",
+                            "value": "活版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "摺付木引札"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年8月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "16.5×38.0　本社本所柳原町１丁目１３番地新燧社、出張所長崎西中町２７８番地、出店大坂高麗橋通３丁目３番地、摺附木売捌処２５名の住所氏名あり、内国博に出す旨"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154995/3741,301,2729,6192/,300/0/default.jpg"

@@ -15,32 +15,32 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p61#xywh=881,562,5265,4535",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治3年8月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>西暦コード</th><td>18700008099</td></tr><tr><th>タイトル</th><td>〔大学南校入学者保証人証書書式〕</td></tr><tr><th>書誌事項</th><td>27.8×39.5　「入学の儀是迄自分願に付侭懶惰の弊有之、大に規則を敗壊いたし候間、以来入学の節左の通証書持参可致事」とあり</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔大学南校入学者保証人証書書式〕</td></tr><tr><th>西暦コード</th><td>18700008099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治3年8月</td></tr><tr><th>書誌事項</th><td>27.8×39.5　「入学の儀是迄自分願に付侭懶惰の弊有之、大に規則を敗壊いたし候間、以来入学の節左の通証書持参可致事」とあり</td></tr></table>",
                     "label": "16-A00-6010-12-201",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治3年8月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "東京"
+                            "label": "タイトル",
+                            "value": "〔大学南校入学者保証人証書書式〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18700008099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔大学南校入学者保証人証書書式〕"
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年8月"
                         },
                         {
                             "label": "書誌事項",

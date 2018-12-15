@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p2#xywh=3765,555,795,4357",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>京都・大阪</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔京都御影堂扇子引札〕</td></tr><tr><th>書誌事項</th><td>26.0×4.0　西京御影堂量阿弥製、大阪京橋２丁目店</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔京都御影堂扇子引札〕</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>京都・大阪</td></tr><tr><th>和暦</th><td>明治9年</td></tr><tr><th>書誌事項</th><td>26.0×4.0　西京御影堂量阿弥製、大阪京橋２丁目店</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-15-2",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "タイトル",
+                            "value": "〔京都御影堂扇子引札〕"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18760099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "京都・大阪"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760099099
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "26.0×4.0　西京御影堂量阿弥製、大阪京橋２丁目店"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "諸営業"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔京都御影堂扇子引札〕"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "26.0×4.0　西京御影堂量阿弥製、大阪京橋２丁目店"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154932/3765,555,795,4357/,300/0/default.jpg"

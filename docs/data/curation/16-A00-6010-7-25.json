@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p15#xywh=972,593,5294,3932",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久1年8月</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18610008099</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>タイトル</th><td>ないものづくし上下</td></tr><tr><th>書誌事項</th><td>15.5×24.0,15.5×24.5　「わんわんころりはとめどがない、犬ではおいしやがもうからない」とあり、犬の「コロリ」流行は文久元年８月故、この月とする</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>ないものづくし上下</td></tr><tr><th>西暦コード</th><td>18610008099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久1年8月</td></tr><tr><th>書誌事項</th><td>15.5×24.0,15.5×24.5　「わんわんころりはとめどがない、犬ではおいしやがもうからない」とあり、犬の「コロリ」流行は文久元年８月故、この月とする</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
                     "label": "16-A00-6010-7-25",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久1年8月"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
+                            "label": "タイトル",
+                            "value": "ないものづくし上下"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18610008099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "ないものづくし上下"
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久1年8月"
                         },
                         {
                             "label": "書誌事項",
                             "value": "15.5×24.0,15.5×24.5　「わんわんころりはとめどがない、犬ではおいしやがもうからない」とあり、犬の「コロリ」流行は文久元年８月故、この月とする"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154492/972,593,5294,3932/,300/0/default.jpg"

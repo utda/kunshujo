@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p6#xywh=875,898,2813,774",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治9年</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>備中</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>御用御上りゆべし引札</td></tr><tr><th>書誌事項</th><td>17.0×4.8　備中矢掛駅名産本家製村田屋</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>御用御上りゆべし引札</td></tr><tr><th>西暦コード</th><td>18760099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>備中</td></tr><tr><th>和暦</th><td>明治9年</td></tr><tr><th>書誌事項</th><td>17.0×4.8　備中矢掛駅名産本家製村田屋</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-15-12",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治9年"
+                            "label": "タイトル",
+                            "value": "御用御上りゆべし引札"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18760099099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "備中"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18760099099
+                            "label": "和暦",
+                            "value": "明治9年"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×4.8　備中矢掛駅名産本家製村田屋"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "諸営業"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "御用御上りゆべし引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "17.0×4.8　備中矢掛駅名産本家製村田屋"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154936/875,898,2813,774/,300/0/default.jpg"

@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p33#xywh=1089,2198,2234,1365",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>江戸後期</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>地名</th><td>紀伊</td></tr><tr><th>西暦コード</th><td>18670499099</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>タイトル</th><td>花園妙心寺</td></tr><tr><th>書誌事項</th><td>8.3×13.3　原図創製、玄々堂緑山</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>花園妙心寺</td></tr><tr><th>西暦コード</th><td>18670499099</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>紀伊</td></tr><tr><th>和暦</th><td>江戸後期</td></tr><tr><th>書誌事項</th><td>8.3×13.3　原図創製、玄々堂緑山</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-13-82",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "江戸後期"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "銅版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "紀伊"
+                            "label": "タイトル",
+                            "value": "花園妙心寺"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18670499099
                         },
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
+                            "label": "版種類",
+                            "value": "銅版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "花園妙心寺"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "紀伊"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "江戸後期"
                         },
                         {
                             "label": "書誌事項",
                             "value": "8.3×13.3　原図創製、玄々堂緑山"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154863/1089,2198,2234,1365/,300/0/default.jpg"

@@ -15,40 +15,40 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p52#xywh=1010,727,5084,3708",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政1年11月4日</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>西暦コード</th><td>18540011004</td></tr><tr><th>内容分類</th><td>自然災害</td></tr><tr><th>タイトル</th><td>大地震大津浪之図</td></tr><tr><th>書誌事項</th><td>23.0×31.0</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>大地震大津浪之図</td></tr><tr><th>西暦コード</th><td>18540011004</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>和暦</th><td>安政1年11月4日</td></tr><tr><th>書誌事項</th><td>23.0×31.0</td></tr><tr><th>内容分類</th><td>自然災害</td></tr></table>",
                     "label": "16-A00-6010-7-83",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "安政1年11月4日"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "大阪"
+                            "label": "タイトル",
+                            "value": "大地震大津浪之図"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18540011004
                         },
                         {
-                            "label": "内容分類",
-                            "value": "自然災害"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "タイトル",
-                            "value": "大地震大津浪之図"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政1年11月4日"
                         },
                         {
                             "label": "書誌事項",
                             "value": "23.0×31.0"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "自然災害"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154529/1010,727,5084,3708/,300/0/default.jpg"

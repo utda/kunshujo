@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p75#xywh=1510,894,5040,4044",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治2年9月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>西暦コード</th><td>18690009099</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>タイトル</th><td>〔勢州いなぎ村つぼや清兵衛たばこ入引札〕</td></tr><tr><th>書誌事項</th><td>24.7×30.5　くし田川より５丁東稲木村にあり、「己巳９月」とあり、１０－７１と同一のもの</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔勢州いなぎ村つぼや清兵衛たばこ入引札〕</td></tr><tr><th>西暦コード</th><td>18690009099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>和暦</th><td>明治2年9月</td></tr><tr><th>書誌事項</th><td>24.7×30.5　くし田川より５丁東稲木村にあり、「己巳９月」とあり、１０－７１と同一のもの</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-15-170",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "明治2年9月"
+                            "label": "タイトル",
+                            "value": "〔勢州いなぎ村つぼや清兵衛たばこ入引札〕"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18690009099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "伊勢"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18690009099
+                            "label": "和暦",
+                            "value": "明治2年9月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.7×30.5　くし田川より５丁東稲木村にあり、「己巳９月」とあり、１０－７１と同一のもの"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "諸営業"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔勢州いなぎ村つぼや清兵衛たばこ入引札〕"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.7×30.5　くし田川より５丁東稲木村にあり、「己巳９月」とあり、１０－７１と同一のもの"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/155005/1510,894,5040,4044/,300/0/default.jpg"

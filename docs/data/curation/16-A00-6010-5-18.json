@@ -15,28 +15,36 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25222/canvas/p6#xywh=3697,2442,1647,2099",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>文久2年1月</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>西暦コード</th><td>18620001099</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔文久二年大小暦〕</td></tr><tr><th>書誌事項</th><td>13.0×9.5　「大黒のつちのえ戌の春がすみ引くやうち出のはまの真砂は」</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔文久二年大小暦〕</td></tr><tr><th>西暦コード</th><td>18620001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久2年1月</td></tr><tr><th>書誌事項</th><td>13.0×9.5　「大黒のつちのえ戌の春がすみ引くやうち出のはまの真砂は」</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-5-18",
                     "metadata": [
                         {
-                            "label": "和暦",
-                            "value": "文久2年1月"
+                            "label": "タイトル",
+                            "value": "〔文久二年大小暦〕"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "西暦コード",
+                            "value": 18620001099
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "地名",
                             "value": "江戸"
                         },
                         {
-                            "label": "西暦コード",
-                            "value": 18620001099
+                            "label": "和暦",
+                            "value": "文久2年1月"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.0×9.5　「大黒のつちのえ戌の春がすみ引くやうち出のはまの真砂は」"
                         },
                         {
                             "label": "形態分類",
@@ -45,14 +53,6 @@
                         {
                             "label": "内容分類",
                             "value": "引札"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔文久二年大小暦〕"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "13.0×9.5　「大黒のつちのえ戌の春がすみ引くやうち出のはまの真砂は」"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154352/3697,2442,1647,2099/,300/0/default.jpg"
