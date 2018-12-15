@@ -51,11 +51,13 @@
 
   <script>header('./');</script>
 
-  <div class="container py-2 my-5">
-
-
+  <div class="container">
 
     <div class="table-responsive my-5">
+      <div class="text-right mb-4">
+        <button id="compareBtn" class="btn btn-primary mb-2">選択行を比較</button>
+        <button id="removeBtn" class="btn btn-info mb-2">すべての選択を解除</button>
+      </div>
       <table class="table table-hover" id="table">
         <thead id="thead">
           <tr>
@@ -71,7 +73,7 @@
             <th>版<!--種類--></th>
             <th>形態<!--分類--></th>
             <th>内容<!--分類--></th>
-            <th>ICV</th>
+            <th>ICP</th>
           </tr>
         </thead>
         <tbody id="resourceListBody">
@@ -267,6 +269,34 @@
           ],
           fixedColumns: true
         });
+
+        $('#table tbody').on( 'click', 'tr', function () {
+          $(this).toggleClass('selected');
+        } );
+
+        $('#compareBtn').click( function () {
+          rows = table.rows('.selected').data()
+
+          if(rows.length > 0){
+            param_str = ""
+            for(i = 0; i < rows.length; i++){
+              curationUri = rows[i][1].split("'")[1]
+              param_str += ";"+curationUri
+            }
+            window.open("mirador/?param="+param_str.substring(1), 'mirador');
+          } else {
+            alert("比較したい資料の行を選択してください.")
+          }
+
+        } );
+
+        $('#removeBtn').click( function () {
+          table
+          .rows( '.selected' )
+          .nodes()
+          .to$()
+          .removeClass( 'selected' );
+        } );
 
         // Apply the search
         table.columns().every( function () {
