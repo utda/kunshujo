@@ -104,7 +104,7 @@
   })
 
   function getAnno(){
-
+    
     var url = "data/progress.json"
 
     $.getJSON( url, function( data ) {
@@ -130,10 +130,10 @@
             for(j = 0 ; j < obj.length; j++){
               var e = obj[j];
               if(e.element.id == 1){
-                var id = $(e.text).text().split("_")[0];
+                var tmp = $(e.text).text().replace("_", "-").split("-")
+                var id = tmp[0] + "-" + tmp[1] + "-" + tmp[2] + "-" + tmp[3] + "-" + tmp[4]
                 if(arr.indexOf(id) == -1){
                   arr.push(id);
-
                 }
               }
               if(e.element.id == 56){
