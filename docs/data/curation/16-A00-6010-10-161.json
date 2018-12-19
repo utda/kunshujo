@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p46#xywh=1136,1615,4701,2953",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/canvas/p46#xywh=1136,1615,4701,2953",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>庚戌改別銘御煎茶</td></tr><tr><th>西暦コード</th><td>18500099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>京都</td></tr><tr><th>和暦</th><td>嘉永3年</td></tr><tr><th>書誌事項</th><td>17.5×28.2　京一条通大宮東入町御茶所小谷仁兵衛、一斤に付直段</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-10-161",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/manifest",
                 "@label": "捃拾帖 十",
                 "@type": "sc:Manifest"
             }

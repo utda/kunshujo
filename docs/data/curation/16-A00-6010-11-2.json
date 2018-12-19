@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p3#xywh=4518,720,1658,3730",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p3#xywh=4518,720,1658,3730",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>ゑのぐ染草所引札</td></tr><tr><th>西暦コード</th><td>18690199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>和暦</th><td>明治2?年</td></tr><tr><th>書誌事項</th><td>22.6×10.3　大阪松屋町通り久宝寺橋北辻角大和屋重兵衛</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-11-2",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

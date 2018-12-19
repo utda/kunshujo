@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p17#xywh=1129,645,2309,3813",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/canvas/p17#xywh=1129,645,2309,3813",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔高遠喜多屋作太郎足袋引札〕</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>信濃</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>23.5×13.0　小倉裏、股引脚半、手甲腹掛</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-10-81",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/manifest",
                 "@label": "捃拾帖 十",
                 "@type": "sc:Manifest"
             }

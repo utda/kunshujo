@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p28#xywh=3769,887,2934,4077",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p28#xywh=3769,887,2934,4077",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>官版銅刻官等表</td></tr><tr><th>西暦コード</th><td>18720001020</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月20日</td></tr><tr><th>書誌事項</th><td>25.0×18.2　御用御書物師東京芝神明前三島町和泉屋市兵衛発行、水鳥舎江嶋舟霞斎鐫、包紙（9.0×6.5）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
                     "label": "16-A00-6010-13-60",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p15#xywh=3733,696,2913,4247",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p15#xywh=3733,696,2913,4247",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔中国古銭摺出〕</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>中国</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>書誌事項</th><td>24.5×17.5　「此品赤銅ニテ製ス、厚サ五厘計リ孔明ノ頃ノ圭ナリト云伝フ」と墨書あり</td></tr></table>",
                     "label": "16-A00-6010-13-37",
@@ -47,7 +47,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

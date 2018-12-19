@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p47#xywh=2444,414,1146,879",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/canvas/p47#xywh=2444,414,1146,879",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔蘭疇医院調薬所成田屋処方薬書付〕</td></tr><tr><th>西暦コード</th><td>18750199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治8?年</td></tr><tr><th>書誌事項</th><td>5.0×7.0　「田中様、水剤、NO.2560」と墨書、成田屋住所は今川小路３丁目</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-14-65",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/manifest",
                 "@label": "捃拾帖 十四",
                 "@type": "sc:Manifest"
             }

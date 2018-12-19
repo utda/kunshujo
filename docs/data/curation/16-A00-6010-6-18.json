@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25235/canvas/p11#xywh=3620,817,2436,3596",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c3f81395-eb01-43c2-a7ef-61a87abeb84d/canvas/p11#xywh=3620,817,2436,3596",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔江戸橋四日市塚口屋利右衛門唐物類引札〕</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>22.5×15.0</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-6-18",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25235/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c3f81395-eb01-43c2-a7ef-61a87abeb84d/manifest",
                 "@label": "捃拾帖 六",
                 "@type": "sc:Manifest"
             }

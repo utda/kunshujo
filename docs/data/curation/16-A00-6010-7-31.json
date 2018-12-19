@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p19#xywh=541,559,4179,3922",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/canvas/p19#xywh=541,559,4179,3922",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>牛胆丸・反本丸引札</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>近江・江戸</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>15.0×23.5　売弘所江都麹町三軒家伊勢屋彦兵衛、牛胆丸は彦根翫酔館製、反本丸は彦根西村一貫斎製、尚施薬の引札（11.0×8.2）添附あり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-7-31",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/manifest",
                 "@label": "捃拾帖 七",
                 "@type": "sc:Manifest"
             }

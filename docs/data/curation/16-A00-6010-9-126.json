@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p27#xywh=836,773,2967,4035",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae3d341e-14cd-4903-bfe3-e101e4431eaa/canvas/p27#xywh=836,773,2967,4035",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>なんば新地とうしみ細工大津画ぶし</td></tr><tr><th>西暦コード</th><td>18700001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>和暦</th><td>明治3年1月</td></tr><tr><th>書誌事項</th><td>17.7×24.4　口上甘唐屋鯨吉作</td></tr><tr><th>形態分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-9-126",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae3d341e-14cd-4903-bfe3-e101e4431eaa/manifest",
                 "@label": "捃拾帖 九",
                 "@type": "sc:Manifest"
             }

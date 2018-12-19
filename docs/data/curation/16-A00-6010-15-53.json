@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p27#xywh=910,552,5647,4348",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2c9e47b9-821a-42e1-84ed-9457929e7c7c/canvas/p27#xywh=910,552,5647,4348",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>東京ヨリ横浜迄往復鉄道之図</td></tr><tr><th>西暦コード</th><td>18750099099</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治8年</td></tr><tr><th>書誌事項</th><td>26.3×34.5　神田万世橋通り淡路町２丁目和漢洋活版所国文社、山田栄造著、時刻表及び明治８年日曜日表は活版印刷</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-15-53",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2c9e47b9-821a-42e1-84ed-9457929e7c7c/manifest",
                 "@label": "捃拾帖 十五",
                 "@type": "sc:Manifest"
             }

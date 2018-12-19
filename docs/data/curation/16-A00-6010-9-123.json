@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p25#xywh=836,773,5941,4027",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae3d341e-14cd-4903-bfe3-e101e4431eaa/canvas/p25#xywh=836,773,5941,4027",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔洋式船造船営業案内〕</td></tr><tr><th>西暦コード</th><td>18700199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>摂津</td></tr><tr><th>和暦</th><td>明治3?年</td></tr><tr><th>書誌事項</th><td>36.0×31.4　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メニ二重ナル内車ノ蒸気船」をつくったとあり</td></tr><tr><th>形態分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-9-123",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae3d341e-14cd-4903-bfe3-e101e4431eaa/manifest",
                 "@label": "捃拾帖 九",
                 "@type": "sc:Manifest"
             }

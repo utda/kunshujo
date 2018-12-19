@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p31#xywh=1008,2072,1664,2505",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/canvas/p31#xywh=1008,2072,1664,2505",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔上野御山下日野屋藤八打物引札〕</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>書誌事項</th><td>15.3×10.3　釘鉄物、真鍮銅、庖丁小刀、鍋釜、大工道具、鋏刺刀</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-12-154",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/manifest",
                 "@label": "捃拾帖 十二",
                 "@type": "sc:Manifest"
             }

@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p7#xywh=972,563,5264,3947",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p7#xywh=972,563,5264,3947",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>天寿補元丹引札</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪・信濃</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>25.0×32.5　本家調合所大坂心斎橋南に３丁目南東角吉文字屋源十郎、延寿堂唐斎鑑製、国元弘所松本本町５丁目米屋弥兵衛、飯田本町２丁目□屋文治郎</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-11-11",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p38#xywh=935,698,5114,2840",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p38#xywh=935,698,5114,2840",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>本朝古金見聞図録訳文前篇</td></tr><tr><th>西暦コード</th><td>18590012099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>安政6年12月</td></tr><tr><th>書誌事項</th><td>18.5×48.4　未年晩冬東都隠士宝集堂老人撰</td></tr></table>",
                     "label": "16-A00-6010-11-38",
@@ -50,7 +50,7 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154708/935,698,5114,2840/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p39#xywh=3356,808,2755,2777",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p39#xywh=3356,808,2755,2777",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>本朝古金見聞図録訳文前篇</td></tr><tr><th>西暦コード</th><td>18590012099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>安政6年12月</td></tr><tr><th>書誌事項</th><td>18.5×48.4　未年晩冬東都隠士宝集堂老人撰</td></tr></table>",
                     "label": "16-A00-6010-11-38",
@@ -88,7 +88,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

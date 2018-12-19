@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p15#xywh=972,593,5294,3932",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/canvas/p15#xywh=972,593,5294,3932",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>ないものづくし上下</td></tr><tr><th>西暦コード</th><td>18610008099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久1年8月</td></tr><tr><th>書誌事項</th><td>15.5×24.0,15.5×24.5　「わんわんころりはとめどがない、犬ではおいしやがもうからない」とあり、犬の「コロリ」流行は文久元年８月故、この月とする</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
                     "label": "16-A00-6010-7-25",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/manifest",
                 "@label": "捃拾帖 七",
                 "@type": "sc:Manifest"
             }

@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p17#xywh=841,2192,4099,2246",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/canvas/p17#xywh=841,2192,4099,2246",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>祢津甚平由来記</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>美濃・信濃</td></tr><tr><th>和暦</th><td>安政5年</td></tr><tr><th>書誌事項</th><td>14.0×40.2　信州小県の武士、化鳥退治を命じられ、美濃国恵那郡大井村で死すとの伝説</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会</td></tr></table>",
                     "label": "16-A00-6010-2-50",
@@ -54,7 +54,7 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154186/841,2192,4099,2246/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p18#xywh=3424,2162,2545,2276",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/canvas/p18#xywh=3424,2162,2545,2276",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>祢津甚平由来記</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>美濃・信濃</td></tr><tr><th>和暦</th><td>安政5年</td></tr><tr><th>書誌事項</th><td>14.0×40.2　信州小県の武士、化鳥退治を命じられ、美濃国恵那郡大井村で死すとの伝説</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会</td></tr></table>",
                     "label": "16-A00-6010-2-50",
@@ -96,7 +96,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/manifest",
                 "@label": "捃拾帖 二",
                 "@type": "sc:Manifest"
             }

@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p69#xywh=1891,1331,1288,2024",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p69#xywh=1891,1331,1288,2024",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>小沢善平書翰</td></tr><tr><th>西暦コード</th><td>18820010004</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>数量</th><td>１通</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治15年10月4日</td></tr><tr><th>書誌事項</th><td>小型西洋封筒　米国桑港より、大日本帝国東京上野公園地内田中芳男宛、「当夏中白川殿へ献上致し候果実の義云々」「植物の移植、季候を待て帰国仕候」</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-11-83",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

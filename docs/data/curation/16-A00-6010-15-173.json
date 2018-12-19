@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p77#xywh=926,1618,2667,3305",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2c9e47b9-821a-42e1-84ed-9457929e7c7c/canvas/p77#xywh=926,1618,2667,3305",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔博覧会販売品売買契約証〕</td></tr><tr><th>西暦コード</th><td>18770011010</td></tr><tr><th>版種類</th><td>活版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京・信濃</td></tr><tr><th>和暦</th><td>明治10年11月10日</td></tr><tr><th>書誌事項</th><td>20.2×14.6　書込形式のもの、伊那郡生田村池田寛一出品百合根５つ、２５銭、長野員委員神井知之と事務局田中芳男（購入者）の間のもの</td></tr></table>",
                     "label": "16-A00-6010-15-173",
@@ -51,7 +51,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2c9e47b9-821a-42e1-84ed-9457929e7c7c/manifest",
                 "@label": "捃拾帖 十五",
                 "@type": "sc:Manifest"
             }

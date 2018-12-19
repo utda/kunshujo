@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p72#xywh=920,534,5241,4067",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/canvas/p72#xywh=920,534,5241,4067",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>博覧会案内</td></tr><tr><th>西暦コード</th><td>18710009099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治4年9月</td></tr><tr><th>書誌事項</th><td>24.5×39.5　９月１５日より文部省博物館に持出すべし、会期は１０月１～１０日、切手は博物館と諸方書林より相渡すべし、文部省博物館刊</td></tr><tr><th>形態分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-12-210",
@@ -54,7 +54,7 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154824/920,534,5241,4067/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p73#xywh=4895,518,1331,4051",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/canvas/p73#xywh=4895,518,1331,4051",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>博覧会案内</td></tr><tr><th>西暦コード</th><td>18710009099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治4年9月</td></tr><tr><th>書誌事項</th><td>24.5×39.5　９月１５日より文部省博物館に持出すべし、会期は１０月１～１０日、切手は博物館と諸方書林より相渡すべし、文部省博物館刊</td></tr><tr><th>形態分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-12-210",
@@ -96,7 +96,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/manifest",
                 "@label": "捃拾帖 十二",
                 "@type": "sc:Manifest"
             }

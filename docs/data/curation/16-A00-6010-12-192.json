@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p55#xywh=734,635,6067,3831",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/canvas/p55#xywh=734,635,6067,3831",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>明治五年壬申略暦</td></tr><tr><th>西暦コード</th><td>18720001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年1月</td></tr><tr><th>書誌事項</th><td>24.0×37.3　明治４年刻文部省天文局、内田五観考</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>内容分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-12-192",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/manifest",
                 "@label": "捃拾帖 十二",
                 "@type": "sc:Manifest"
             }

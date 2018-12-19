@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p12#xywh=4409,3263,619,1056",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/canvas/p12#xywh=4409,3263,619,1056",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔津嶋橋詰町丁子屋信智菓子所引札〕</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>和暦</th><td>安政5年</td></tr><tr><th>書誌事項</th><td>6.2×3.5</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-2-33",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/manifest",
                 "@label": "捃拾帖 二",
                 "@type": "sc:Manifest"
             }

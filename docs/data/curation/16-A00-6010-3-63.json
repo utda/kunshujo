@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p25#xywh=924,709,5211,3636",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/canvas/p25#xywh=924,709,5211,3636",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>三国錠引札</td></tr><tr><th>西暦コード</th><td>18590099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>美濃・尾張</td></tr><tr><th>和暦</th><td>安政6年</td></tr><tr><th>書誌事項</th><td>22.3×26.8　あと１つは24.0×35.0、一包１００銅、内臓の補薬、御免調合所濃州席田郡仏生寺村信楽堂謹製、御免取次所名古屋の分９軒の名あり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-3-63",
@@ -58,7 +58,7 @@
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154242/924,709,5211,3636/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p26#xywh=1149,698,4997,3703",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/canvas/p26#xywh=1149,698,4997,3703",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>三国錠引札</td></tr><tr><th>西暦コード</th><td>18590099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>地名</th><td>美濃・尾張</td></tr><tr><th>和暦</th><td>安政6年</td></tr><tr><th>書誌事項</th><td>22.3×26.8　あと１つは24.0×35.0、一包１００銅、内臓の補薬、御免調合所濃州席田郡仏生寺村信楽堂謹製、御免取次所名古屋の分９軒の名あり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-3-63",
@@ -104,7 +104,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/manifest",
                 "@label": "捃拾帖 三",
                 "@type": "sc:Manifest"
             }

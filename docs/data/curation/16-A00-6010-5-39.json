@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25222/canvas/p13#xywh=4410,2139,1697,2195",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad3333a-e5e8-4a6e-8468-38a15250ee2a/canvas/p13#xywh=4410,2139,1697,2195",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔芝神明前花の露伊勢大掾きやらの油引札〕</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>14.1×12.0</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-5-39",
@@ -59,7 +59,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25222/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad3333a-e5e8-4a6e-8468-38a15250ee2a/manifest",
                 "@label": "捃拾帖 五",
                 "@type": "sc:Manifest"
             }

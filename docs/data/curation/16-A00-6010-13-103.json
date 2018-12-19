@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p37#xywh=3948,2218,2562,1569",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p37#xywh=3948,2218,2562,1569",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>都三条大橋眺望図</td></tr><tr><th>西暦コード</th><td>18670499099</td></tr><tr><th>版種類</th><td>銅版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>京都</td></tr><tr><th>和暦</th><td>江戸後期</td></tr><tr><th>書誌事項</th><td>9.3×15.6</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-13-103",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

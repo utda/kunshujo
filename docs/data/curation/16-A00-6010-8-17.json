@@ -13,7 +13,7 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/canvas/p9#xywh=3685,603,1395,4082",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/30e8938e-030b-4696-abfa-af83b744b5e3/canvas/p9#xywh=3685,603,1395,4082",
                     "@type": "sc:Canvas",
                     "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔兵庫県支配所播州加西郡繁昌村当巳租税納入書〕</td></tr><tr><th>西暦コード</th><td>18690099099</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>播磨</td></tr><tr><th>和暦</th><td>明治2年</td></tr><tr><th>書誌事項</th><td>24.7×8.5　「兵庫県租税方」の朱角印あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
                     "label": "16-A00-6010-8-17",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25234/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/30e8938e-030b-4696-abfa-af83b744b5e3/manifest",
                 "@label": "捃拾帖 八",
                 "@type": "sc:Manifest"
             }
