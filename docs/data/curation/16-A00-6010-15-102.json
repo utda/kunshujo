@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2c9e47b9-821a-42e1-84ed-9457929e7c7c/canvas/p46#xywh=2919,3862,715,1019",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p46#xywh=2919,3862,715,1019",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔三島宿明神前休泊糀屋平右衛門引札〕</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>伊豆</td></tr><tr><th>和暦</th><td>明治10年</td></tr><tr><th>書誌事項</th><td>6.3×4.3</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊豆</td></tr><tr><th>書誌事項</th><td>6.3×4.3</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>タイトル</th><td>〔三島宿明神前休泊糀屋平右衛門引札〕</td></tr><tr><th>和暦</th><td>明治10年</td></tr></table>",
                     "label": "16-A00-6010-15-102",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "〔三島宿明神前休泊糀屋平右衛門引札〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18770099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊豆"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治10年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "6.3×4.3"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊豆"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.3×4.3"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18770099099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔三島宿明神前休泊糀屋平右衛門引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治10年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154976/2919,3862,715,1019/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/015/015_0046.tif/2919,3862,715,1019/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2c9e47b9-821a-42e1-84ed-9457929e7c7c/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
                 "@label": "捃拾帖 十五",
                 "@type": "sc:Manifest"
             }

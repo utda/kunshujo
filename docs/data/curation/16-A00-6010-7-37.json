@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/canvas/p23#xywh=3777,496,2429,4022",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p23#xywh=3777,496,2429,4022",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>御用四季御蒸菓子司松月庵引札</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>15.0×25.0　飯田御堀端和泉屋庄三郎、菓子の品名列挙あり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>書誌事項</th><td>15.0×25.0　飯田御堀端和泉屋庄三郎、菓子の品名列挙あり</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>御用四季御蒸菓子司松月庵引札</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-7-37",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "御用四季御蒸菓子司松月庵引札"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.0×25.0　飯田御堀端和泉屋庄三郎、菓子の品名列挙あり"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.0×25.0　飯田御堀端和泉屋庄三郎、菓子の品名列挙あり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "御用四季御蒸菓子司松月庵引札"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154500/3777,496,2429,4022/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/007/007_0023.tif/3777,496,2429,4022/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
                 "@label": "捃拾帖 七",
                 "@type": "sc:Manifest"
             }

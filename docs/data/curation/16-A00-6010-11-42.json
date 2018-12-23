@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p42#xywh=658,630,5540,3962",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p42#xywh=658,630,5540,3962",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>節分</td></tr><tr><th>西暦コード</th><td>18680001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>和暦</th><td>明治1年1月</td></tr><tr><th>書誌事項</th><td>24.5×34.2</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>書誌事項</th><td>24.5×34.2</td></tr><tr><th>西暦コード</th><td>18680001099</td></tr><tr><th>タイトル</th><td>節分</td></tr><tr><th>和暦</th><td>明治1年1月</td></tr></table>",
                     "label": "16-A00-6010-11-42",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "節分"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18680001099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "内容分類",
+                            "value": "政治社会変動"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "地名",
-                            "value": "大阪"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治1年1月"
+                            "label": "地名",
+                            "value": "大阪"
                         },
                         {
                             "label": "書誌事項",
                             "value": "24.5×34.2"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
+                            "label": "西暦コード",
+                            "value": 18680001099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "節分"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治1年1月"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154712/658,630,5540,3962/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0042.tif/658,630,5540,3962/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

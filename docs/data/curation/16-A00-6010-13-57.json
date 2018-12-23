@@ -13,18 +13,14 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p26#xywh=848,554,5875,4348",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p26#xywh=848,554,5875,4348",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔中井敬所鐫田中芳男印鑑〕</td></tr><tr><th>西暦コード</th><td>18720006022</td></tr><tr><th>数量</th><td>４枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年6月22日</td></tr><tr><th>書誌事項</th><td>19.1×13.6他　銀具代２円３分、刀資７００疋〆金４円半、中井兼之の鐫</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>数量</th><td>４枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>書誌事項</th><td>19.1×13.6他　銀具代２円３分、刀資７００疋〆金４円半、中井兼之の鐫</td></tr><tr><th>西暦コード</th><td>18720006022</td></tr><tr><th>タイトル</th><td>〔中井敬所鐫田中芳男印鑑〕</td></tr><tr><th>和暦</th><td>明治5年6月22日</td></tr></table>",
                     "label": "16-A00-6010-13-57",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "〔中井敬所鐫田中芳男印鑑〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18720006022
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         },
                         {
                             "label": "数量",
@@ -35,23 +31,27 @@
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治5年6月22日"
-                        },
-                        {
                             "label": "書誌事項",
                             "value": "19.1×13.6他　銀具代２円３分、刀資７００疋〆金４円半、中井兼之の鐫"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                            "label": "西暦コード",
+                            "value": 18720006022
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔中井敬所鐫田中芳男印鑑〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年6月22日"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154856/848,554,5875,4348/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/013/013_0026.tif/848,554,5875,4348/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

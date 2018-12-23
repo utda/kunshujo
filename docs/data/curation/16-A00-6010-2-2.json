@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/canvas/p2#xywh=850,1056,2458,3171",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/canvas/p2#xywh=850,1056,2458,3171",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>北斉漫画十二編袋表紙</td></tr><tr><th>西暦コード</th><td>18340099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>和暦</th><td>天保5年</td></tr><tr><th>書誌事項</th><td>22.5×16.0　天保甲午、尾陽東壁堂蔵、「永楽堂記」の印あり</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>書誌事項</th><td>22.5×16.0　天保甲午、尾陽東壁堂蔵、「永楽堂記」の印あり</td></tr><tr><th>西暦コード</th><td>18340099099</td></tr><tr><th>タイトル</th><td>北斉漫画十二編袋表紙</td></tr><tr><th>和暦</th><td>天保5年</td></tr></table>",
                     "label": "16-A00-6010-2-2",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "北斉漫画十二編袋表紙"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18340099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "地名",
-                            "value": "尾張"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "和暦",
-                            "value": "天保5年"
+                            "label": "地名",
+                            "value": "尾張"
                         },
                         {
                             "label": "書誌事項",
                             "value": "22.5×16.0　天保甲午、尾陽東壁堂蔵、「永楽堂記」の印あり"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                            "label": "西暦コード",
+                            "value": 18340099099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "北斉漫画十二編袋表紙"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "天保5年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154171/850,1056,2458,3171/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/002/002_0002.tif/850,1056,2458,3171/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64945590-996a-4b3b-876e-36b0662cf6dc/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25199/manifest",
                 "@label": "捃拾帖 二",
                 "@type": "sc:Manifest"
             }

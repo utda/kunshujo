@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p8#xywh=3033,1190,608,851",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p8#xywh=3033,1190,608,851",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔大坂松屋町美濃屋又兵衛薬種引札〕</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>書誌事項</th><td>5.4×3.6　「松屋町本町北に入」とあり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>書誌事項</th><td>5.4×3.6　「松屋町本町北に入」とあり</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>〔大坂松屋町美濃屋又兵衛薬種引札〕</td></tr><tr><th>和暦</th><td>明治4年</td></tr></table>",
                     "label": "16-A00-6010-13-19",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "〔大坂松屋町美濃屋又兵衛薬種引札〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18710099099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治4年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "5.4×3.6　「松屋町本町北に入」とあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.4×3.6　「松屋町本町北に入」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大坂松屋町美濃屋又兵衛薬種引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治4年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154838/3033,1190,608,851/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/013/013_0008.tif/3033,1190,608,851/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

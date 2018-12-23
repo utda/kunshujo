@@ -13,45 +13,45 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/canvas/p4#xywh=3727,449,2731,854",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p4#xywh=3727,449,2731,854",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔博覧会入場切手〕</td></tr><tr><th>西暦コード</th><td>18720003099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>和暦</th><td>明治5年3月</td></tr><tr><th>書誌事項</th><td>16.8×4.7　博物館、「切手一枚ニ付一人ニ限ル」とあり</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>書誌事項</th><td>16.8×4.7　博物館、「切手一枚ニ付一人ニ限ル」とあり</td></tr><tr><th>西暦コード</th><td>18720003099</td></tr><tr><th>タイトル</th><td>〔博覧会入場切手〕</td></tr><tr><th>和暦</th><td>明治5年3月</td></tr></table>",
                     "label": "16-A00-6010-14-4",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "〔博覧会入場切手〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18720003099
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
                             "label": "地名",
                             "value": "東京"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治5年3月"
-                        },
-                        {
                             "label": "書誌事項",
                             "value": "16.8×4.7　博物館、「切手一枚ニ付一人ニ限ル」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18720003099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔博覧会入場切手〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治5年3月"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154879/3727,449,2731,854/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/014/014_0004.tif/3727,449,2731,854/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
                 "@label": "捃拾帖 十四",
                 "@type": "sc:Manifest"
             }

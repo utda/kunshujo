@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/canvas/p6#xywh=1204,765,4665,3573",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p6#xywh=1204,765,4665,3573",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>〔小田原青物町熊沢屋儀八紙類引札〕</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>相模</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>21.3×28.3　紙類、諸帳面、地唐紙類仕立</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>相模</td></tr><tr><th>書誌事項</th><td>21.3×28.3　紙類、諸帳面、地唐紙類仕立</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>〔小田原青物町熊沢屋儀八紙類引札〕</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-10-26",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "〔小田原青物町熊沢屋儀八紙類引札〕"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "相模"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "21.3×28.3　紙類、諸帳面、地唐紙類仕立"
+                            "label": "内容分類",
+                            "value": "諸営業"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "相模"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "21.3×28.3　紙類、諸帳面、地唐紙類仕立"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔小田原青物町熊沢屋儀八紙類引札〕"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154622/1204,765,4665,3573/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/010/010_0006.tif/1204,765,4665,3573/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
                 "@label": "捃拾帖 十",
                 "@type": "sc:Manifest"
             }

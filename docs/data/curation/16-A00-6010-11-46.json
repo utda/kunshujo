@@ -13,233 +13,233 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p46#xywh=942,720,5219,3693",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p46#xywh=942,720,5219,3693",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-11-46",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "粒甲丹能書"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "３丁"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "３丁"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "粒甲丹能書"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154716/942,720,5219,3693/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0046.tif/942,720,5219,3693/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p47#xywh=955,755,5253,3652",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p47#xywh=955,755,5253,3652",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-11-46",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "粒甲丹能書"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "３丁"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "３丁"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "粒甲丹能書"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154717/955,755,5253,3652/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0047.tif/955,755,5253,3652/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p48#xywh=955,778,5230,3682",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p48#xywh=955,778,5230,3682",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-11-46",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "粒甲丹能書"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "３丁"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "３丁"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "粒甲丹能書"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154718/955,778,5230,3682/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0048.tif/955,778,5230,3682/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p49#xywh=970,770,5185,3637",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p49#xywh=970,770,5185,3637",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-11-46",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "粒甲丹能書"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "３丁"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "３丁"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "粒甲丹能書"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154719/970,770,5185,3637/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0049.tif/970,770,5185,3637/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p50#xywh=3656,688,2545,3719",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p50#xywh=3656,688,2545,3719",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>３丁</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>伊勢</td></tr><tr><th>書誌事項</th><td>22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>粒甲丹能書</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
                     "label": "16-A00-6010-11-46",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "粒甲丹能書"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "３丁"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "文久2?年"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         },
                         {
                             "label": "形態分類",
                             "value": "引札"
                         },
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
+                            "label": "数量",
+                            "value": "３丁"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "伊勢"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "22.5×31.0が４枚と表紙（22.5×15.5）　勢州丹生仙林堂小林尚旺識、「百病の危急を救ふを以て第一の功能とす」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "粒甲丹能書"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154720/3656,688,2545,3719/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0050.tif/3656,688,2545,3719/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

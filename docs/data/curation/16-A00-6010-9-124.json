@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae3d341e-14cd-4903-bfe3-e101e4431eaa/canvas/p26#xywh=759,813,3054,3995",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/canvas/p26#xywh=759,813,3054,3995",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>タイトル</th><td>なんば新地五十三次生人形大当り大津画ぶし</td></tr><tr><th>西暦コード</th><td>18700001099</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>和暦</th><td>明治3年1月</td></tr><tr><th>書誌事項</th><td>17.8×24.1　細工人肥後住人安本亀八、口上あまからや作</td></tr><tr><th>形態分類</th><td>引札</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>書誌事項</th><td>17.8×24.1　細工人肥後住人安本亀八、口上あまからや作</td></tr><tr><th>西暦コード</th><td>18700001099</td></tr><tr><th>タイトル</th><td>なんば新地五十三次生人形大当り大津画ぶし</td></tr><tr><th>和暦</th><td>明治3年1月</td></tr></table>",
                     "label": "16-A00-6010-9-124",
                     "metadata": [
                         {
-                            "label": "タイトル",
-                            "value": "なんば新地五十三次生人形大当り大津画ぶし"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700001099
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
-                            "label": "地名",
-                            "value": "大阪"
+                            "label": "版種類",
+                            "value": "木版"
                         },
                         {
-                            "label": "和暦",
-                            "value": "明治3年1月"
+                            "label": "地名",
+                            "value": "大阪"
                         },
                         {
                             "label": "書誌事項",
                             "value": "17.8×24.1　細工人肥後住人安本亀八、口上あまからや作"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
+                            "label": "西暦コード",
+                            "value": 18700001099
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "なんば新地五十三次生人形大当り大津画ぶし"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "明治3年1月"
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/154609/759,813,3054,3995/,300/0/default.jpg"
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/009/009_0026.tif/759,813,3054,3995/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae3d341e-14cd-4903-bfe3-e101e4431eaa/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25197/manifest",
                 "@label": "捃拾帖 九",
                 "@type": "sc:Manifest"
             }
