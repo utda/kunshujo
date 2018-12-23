@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p21#xywh=3574,1839,442,581",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p21#xywh=3574,1839,442,581",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>書誌事項</th><td>3.6×2.9</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>タイトル</th><td>〔市ヶ谷御門前菓子調進所大黒屋大和引札〕</td></tr><tr><th>和暦</th><td>文久2?年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>3.6×2.9</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔市ヶ谷御門前菓子調進所大黒屋大和引札〕</td></tr><tr><th>西暦コード</th><td>18620199099</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>文久2?年</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-4-159",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "3.6×2.9"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "3.6×2.9"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18620199099
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔市ヶ谷御門前菓子調進所大黒屋大和引札〕"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18620199099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "文久2?年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/004/004_0021.tif/3574,1839,442,581/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/manifest",
                 "@label": "捃拾帖 四",
                 "@type": "sc:Manifest"
             }

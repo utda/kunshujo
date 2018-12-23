@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/canvas/p10#xywh=1843,3746,923,844",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/canvas/p10#xywh=1843,3746,923,844",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>信濃</td></tr><tr><th>書誌事項</th><td>4.8×5.8　菓子と茶の販売</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>〔飯田伝馬町大丸屋平祐引札〕</td></tr><tr><th>和暦</th><td>明治4年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>4.8×5.8　菓子と茶の販売</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔飯田伝馬町大丸屋平祐引札〕</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>地名</th><td>信濃</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-12-49",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "4.8×5.8　菓子と茶の販売"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "信濃"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "4.8×5.8　菓子と茶の販売"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18710099099
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔飯田伝馬町大丸屋平祐引札〕"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "信濃"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/012/012_0010.tif/1843,3746,923,844/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25227/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e106c1e-aa24-46c6-ba69-3a5a289a73a5/manifest",
                 "@label": "捃拾帖 十二",
                 "@type": "sc:Manifest"
             }

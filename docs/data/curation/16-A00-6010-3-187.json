@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p57#xywh=2243,558,1382,2849",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/canvas/p57#xywh=2243,558,1382,2849",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>引札</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>美濃</td></tr><tr><th>書誌事項</th><td>16.8×7.7　濃州広江永次蔵板、「土御門殿御免」</td></tr><tr><th>西暦コード</th><td>18600099099</td></tr><tr><th>タイトル</th><td>七曜晴雨考包紙表紙</td></tr><tr><th>和暦</th><td>万延1年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>16.8×7.7　濃州広江永次蔵板、「土御門殿御免」</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>タイトル</th><td>七曜晴雨考包紙表紙</td></tr><tr><th>西暦コード</th><td>18600099099</td></tr><tr><th>地名</th><td>美濃</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>万延1年</td></tr><tr><th>内容分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-3-187",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "16.8×7.7　濃州広江永次蔵板、「土御門殿御免」"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "美濃"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.8×7.7　濃州広江永次蔵板、「土御門殿御免」"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18600099099
+                            "label": "形態分類",
+                            "value": "暦"
                         },
                         {
                             "label": "タイトル",
                             "value": "七曜晴雨考包紙表紙"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18600099099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "美濃"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "万延1年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/003/003_0057.tif/2243,558,1382,2849/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/manifest",
                 "@label": "捃拾帖 三",
                 "@type": "sc:Manifest"
             }

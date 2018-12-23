@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/canvas/p28#xywh=2609,1996,893,2541",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p28#xywh=2609,1996,893,2541",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>書誌事項</th><td>16.0×5.0　戌５月限、朔日休、価銀３匁２分、浅草田町１丁目角紅屋諌蔵、湯島４丁目井上屋庄次郎、筋違御門外御成道鼡横町升屋念次郎</td></tr><tr><th>西暦コード</th><td>18620005099</td></tr><tr><th>タイトル</th><td>胡麻油五合切手</td></tr><tr><th>和暦</th><td>文久2年5月</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>16.0×5.0　戌５月限、朔日休、価銀３匁２分、浅草田町１丁目角紅屋諌蔵、湯島４丁目井上屋庄次郎、筋違御門外御成道鼡横町升屋念次郎</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>タイトル</th><td>胡麻油五合切手</td></tr><tr><th>西暦コード</th><td>18620005099</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>文久2年5月</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-4-249",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "16.0×5.0　戌５月限、朔日休、価銀３匁２分、浅草田町１丁目角紅屋諌蔵、湯島４丁目井上屋庄次郎、筋違御門外御成道鼡横町升屋念次郎"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.0×5.0　戌５月限、朔日休、価銀３匁２分、浅草田町１丁目角紅屋諌蔵、湯島４丁目井上屋庄次郎、筋違御門外御成道鼡横町升屋念次郎"
+                            "label": "タイトル",
+                            "value": "胡麻油五合切手"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620005099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "胡麻油五合切手"
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "文久2年5月"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/004/004_0028.tif/2609,1996,893,2541/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25192/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/manifest",
                 "@label": "捃拾帖 四",
                 "@type": "sc:Manifest"
             }

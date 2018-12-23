@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p19#xywh=4550,610,2182,3386",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p19#xywh=4550,610,2182,3386",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>甲斐</td></tr><tr><th>書誌事項</th><td>20.4×13.0　ブドウの引札、福田栄助</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>甲州勝沼宿紫玉艶引札</td></tr><tr><th>和暦</th><td>明治4年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>20.4×13.0　ブドウの引札、福田栄助</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>甲州勝沼宿紫玉艶引札</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>地名</th><td>甲斐</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-13-42",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "20.4×13.0　ブドウの引札、福田栄助"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "甲斐"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "20.4×13.0　ブドウの引札、福田栄助"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18710099099
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "タイトル",
                             "value": "甲州勝沼宿紫玉艶引札"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18710099099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "甲斐"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/013/013_0019.tif/4550,610,2182,3386/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

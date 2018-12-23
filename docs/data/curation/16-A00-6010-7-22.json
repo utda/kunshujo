@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/canvas/p13#xywh=972,757,2511,3715",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/canvas/p13#xywh=972,757,2511,3715",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>書誌事項</th><td>15.0×23.0　右上は「病国募諸国騒自国愁隣国悩」、中上は「麻家流国家為民家慎清家咒」とあり</td></tr><tr><th>西暦コード</th><td>18620099099</td></tr><tr><th>タイトル</th><td>〔鎖文字〕</td></tr><tr><th>和暦</th><td>文久2年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>15.0×23.0　右上は「病国募諸国騒自国愁隣国悩」、中上は「麻家流国家為民家慎清家咒」とあり</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>タイトル</th><td>〔鎖文字〕</td></tr><tr><th>西暦コード</th><td>18620099099</td></tr><tr><th>地名</th><td>江戸</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>文久2年</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
                     "label": "16-A00-6010-7-22",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "病気・医療"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "15.0×23.0　右上は「病国募諸国騒自国愁隣国悩」、中上は「麻家流国家為民家慎清家咒」とあり"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "江戸"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.0×23.0　右上は「病国募諸国騒自国愁隣国悩」、中上は「麻家流国家為民家慎清家咒」とあり"
+                            "label": "タイトル",
+                            "value": "〔鎖文字〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18620099099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔鎖文字〕"
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "文久2年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/007/007_0013.tif/972,757,2511,3715/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25258/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c4c6cfea-78f1-4f43-ac2a-658cd230e9e0/manifest",
                 "@label": "捃拾帖 七",
                 "@type": "sc:Manifest"
             }

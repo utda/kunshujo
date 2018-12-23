@@ -13,90 +13,90 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p23#xywh=828,556,5914,2429",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p23#xywh=828,556,5914,2429",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>書誌事項</th><td>14.8×43.8　大坂天満市□かは、ふか□</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>日用重宝大坂橋づくし</td></tr><tr><th>和暦</th><td>明治4年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>14.8×43.8　大坂天満市□かは、ふか□</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>タイトル</th><td>日用重宝大坂橋づくし</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-13-52",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "14.8×43.8　大坂天満市□かは、ふか□"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "14.8×43.8　大坂天満市□かは、ふか□"
+                            "label": "タイトル",
+                            "value": "日用重宝大坂橋づくし"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710099099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日用重宝大坂橋づくし"
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/013/013_0023.tif/828,556,5914,2429/,300/0/default.jpg"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p24#xywh=5565,534,1197,2437",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p24#xywh=5565,534,1197,2437",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>書誌事項</th><td>14.8×43.8　大坂天満市□かは、ふか□</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>日用重宝大坂橋づくし</td></tr><tr><th>和暦</th><td>明治4年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>14.8×43.8　大坂天満市□かは、ふか□</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>タイトル</th><td>日用重宝大坂橋づくし</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>地名</th><td>大阪</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-13-52",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "14.8×43.8　大坂天満市□かは、ふか□"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "大阪"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "14.8×43.8　大坂天満市□かは、ふか□"
+                            "label": "タイトル",
+                            "value": "日用重宝大坂橋づくし"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710099099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "日用重宝大坂橋づくし"
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/013/013_0024.tif/5565,534,1197,2437/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }

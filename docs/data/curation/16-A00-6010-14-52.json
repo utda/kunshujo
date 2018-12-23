@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p43#xywh=3832,438,2606,1108",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/canvas/p43#xywh=3832,438,2606,1108",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>書誌事項</th><td>15.7×6.2　牛込御門外神楽町２丁目開乳社と木印あり、「女うし正肉」と墨書あり</td></tr><tr><th>西暦コード</th><td>18750099099</td></tr><tr><th>タイトル</th><td>〔生乳所開乳社書付〕</td></tr><tr><th>和暦</th><td>明治8年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>15.7×6.2　牛込御門外神楽町２丁目開乳社と木印あり、「女うし正肉」と墨書あり</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>タイトル</th><td>〔生乳所開乳社書付〕</td></tr><tr><th>西暦コード</th><td>18750099099</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治8年</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-14-52",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "15.7×6.2　牛込御門外神楽町２丁目開乳社と木印あり、「女うし正肉」と墨書あり"
                         },
                         {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.7×6.2　牛込御門外神楽町２丁目開乳社と木印あり、「女うし正肉」と墨書あり"
+                            "label": "タイトル",
+                            "value": "〔生乳所開乳社書付〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750099099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔生乳所開乳社書付〕"
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治8年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/014/014_0043.tif/3832,438,2606,1108/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/manifest",
                 "@label": "捃拾帖 十四",
                 "@type": "sc:Manifest"
             }

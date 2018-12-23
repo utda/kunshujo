@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p73#xywh=903,598,2560,2637",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p73#xywh=903,598,2560,2637",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>数量</th><td>１通</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>書誌事項</th><td>半銭端書　今川小路２丁目９番地田中芳男宛、「御申遣の通り来九日は休暇にも御座候に付、朝八九時之間には必す参堂可仕」云々</td></tr><tr><th>西暦コード</th><td>18750005007</td></tr><tr><th>タイトル</th><td>城島謙吉書翰</td></tr><tr><th>和暦</th><td>明治8年5月7日</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>半銭端書　今川小路２丁目９番地田中芳男宛、「御申遣の通り来九日は休暇にも御座候に付、朝八九時之間には必す参堂可仕」云々</td></tr><tr><th>版種類</th><td>写本</td></tr><tr><th>タイトル</th><td>城島謙吉書翰</td></tr><tr><th>西暦コード</th><td>18750005007</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>数量</th><td>１通</td></tr><tr><th>和暦</th><td>明治8年5月7日</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr></table>",
                     "label": "16-A00-6010-11-82",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "常識・娯楽・遊戯・地図・食事"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１通"
+                            "label": "書誌事項",
+                            "value": "半銭端書　今川小路２丁目９番地田中芳男宛、「御申遣の通り来九日は休暇にも御座候に付、朝八九時之間には必す参堂可仕」云々"
                         },
                         {
                             "label": "版種類",
                             "value": "写本"
                         },
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "半銭端書　今川小路２丁目９番地田中芳男宛、「御申遣の通り来九日は休暇にも御座候に付、朝八九時之間には必す参堂可仕」云々"
+                            "label": "タイトル",
+                            "value": "城島謙吉書翰"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18750005007
                         },
                         {
-                            "label": "タイトル",
-                            "value": "城島謙吉書翰"
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１通"
                         },
                         {
                             "label": "和暦",
                             "value": "明治8年5月7日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "常識・娯楽・遊戯・地図・食事"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0073.tif/903,598,2560,2637/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

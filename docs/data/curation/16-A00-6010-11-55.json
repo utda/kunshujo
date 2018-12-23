@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p61#xywh=2940,533,3192,4217",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p61#xywh=2940,533,3192,4217",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>引札</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>書誌事項</th><td>26.0×19.5</td></tr><tr><th>西暦コード</th><td>18700001099</td></tr><tr><th>タイトル</th><td>官許明治三歳庚午略歴</td></tr><tr><th>和暦</th><td>明治3年1月</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>26.0×19.5</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>暦</td></tr><tr><th>タイトル</th><td>官許明治三歳庚午略歴</td></tr><tr><th>西暦コード</th><td>18700001099</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治3年1月</td></tr><tr><th>内容分類</th><td>引札</td></tr></table>",
                     "label": "16-A00-6010-11-55",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "暦"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "26.0×19.5"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "26.0×19.5"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18700001099
+                            "label": "形態分類",
+                            "value": "暦"
                         },
                         {
                             "label": "タイトル",
                             "value": "官許明治三歳庚午略歴"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18700001099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "明治3年1月"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "引札"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/011/011_0061.tif/2940,533,3192,4217/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/manifest",
                 "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }

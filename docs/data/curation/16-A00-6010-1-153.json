@@ -13,11 +13,15 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p25#xywh=4853,1986,1060,1306",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/canvas/p25#xywh=4853,1986,1060,1306",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>タイトル</th><td>万歳飴引札</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>書誌事項</th><td>8.0×6.0　売弘所名古屋杉の野日野屋治兵衛店</td></tr><tr><th>和暦</th><td>安政5年</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>安政5年</td></tr><tr><th>西暦コード</th><td>18580099099</td></tr><tr><th>タイトル</th><td>万歳飴引札</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>書誌事項</th><td>8.0×6.0　売弘所名古屋杉の野日野屋治兵衛店</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
                     "label": "16-A00-6010-1-153",
                     "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
                         {
                             "label": "西暦コード",
                             "value": 18580099099
@@ -27,32 +31,28 @@
                             "value": "万歳飴引札"
                         },
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "8.0×6.0　売弘所名古屋杉の野日野屋治兵衛店"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "安政5年"
-                        },
-                        {
                             "label": "版種類",
                             "value": "木版"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "尾張"
                         },
                         {
                             "label": "数量",
                             "value": "１枚"
                         },
                         {
+                            "label": "書誌事項",
+                            "value": "8.0×6.0　売弘所名古屋杉の野日野屋治兵衛店"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "引札"
+                        },
+                        {
                             "label": "内容分類",
                             "value": "病気・医療"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/001/001_0025.tif/4853,1986,1060,1306/,300/0/default.jpg"

@@ -13,53 +13,53 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/canvas/p28#xywh=4848,2406,1288,2047",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/canvas/p28#xywh=4848,2406,1288,2047",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>書誌事項</th><td>12.5×7.5</td></tr><tr><th>西暦コード</th><td>18590099099</td></tr><tr><th>タイトル</th><td>〔杉の町長者町西なかほど南がわ古手ごふくひしや理八店引札〕</td></tr><tr><th>和暦</th><td>安政6年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>12.5×7.5</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔杉の町長者町西なかほど南がわ古手ごふくひしや理八店引札〕</td></tr><tr><th>西暦コード</th><td>18590099099</td></tr><tr><th>地名</th><td>尾張</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>安政6年</td></tr><tr><th>内容分類</th><td>諸営業</td></tr></table>",
                     "label": "16-A00-6010-3-73",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "諸営業"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "12.5×7.5"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "尾張"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "12.5×7.5"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": 18590099099
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
                             "label": "タイトル",
                             "value": "〔杉の町長者町西なかほど南がわ古手ごふくひしや理八店引札〕"
                         },
                         {
+                            "label": "西暦コード",
+                            "value": 18590099099
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
                             "label": "和暦",
                             "value": "安政6年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/003/003_0028.tif/4848,2406,1288,2047/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25228/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69cf4ccb-2fc5-43f9-9eb8-1a54e1ca3c35/manifest",
                 "@label": "捃拾帖 三",
                 "@type": "sc:Manifest"
             }

@@ -13,38 +13,38 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/canvas/p38#xywh=1154,669,5017,3881",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/canvas/p38#xywh=1154,669,5017,3881",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>形態分類</th><td>引札</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>摂津</td></tr><tr><th>書誌事項</th><td>23.0×27.0　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メ二重ナル内車蒸気船」をつくったとあり、あと１枚は帆船図（13.2×24.6）</td></tr><tr><th>西暦コード</th><td>18700199099</td></tr><tr><th>タイトル</th><td>〔洋式船造船営業案内〕</td></tr><tr><th>和暦</th><td>明治3?年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>23.0×27.0　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メ二重ナル内車蒸気船」をつくったとあり、あと１枚は帆船図（13.2×24.6）</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>形態分類</th><td>引札</td></tr><tr><th>タイトル</th><td>〔洋式船造船営業案内〕</td></tr><tr><th>西暦コード</th><td>18700199099</td></tr><tr><th>地名</th><td>摂津</td></tr><tr><th>数量</th><td>２枚</td></tr><tr><th>和暦</th><td>明治3?年</td></tr></table>",
                     "label": "16-A00-6010-10-143",
                     "metadata": [
                         {
-                            "label": "形態分類",
-                            "value": "引札"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "２枚"
+                            "label": "書誌事項",
+                            "value": "23.0×27.0　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メ二重ナル内車蒸気船」をつくったとあり、あと１枚は帆船図（13.2×24.6）"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "摂津"
+                            "label": "形態分類",
+                            "value": "引札"
                         },
                         {
-                            "label": "書誌事項",
-                            "value": "23.0×27.0　神戸弁天浜船大工フヒツジエラードストロム、高木静江、「当節阿波侯ノ為メ二重ナル内車蒸気船」をつくったとあり、あと１枚は帆船図（13.2×24.6）"
+                            "label": "タイトル",
+                            "value": "〔洋式船造船営業案内〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18700199099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔洋式船造船営業案内〕"
+                            "label": "地名",
+                            "value": "摂津"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
                         },
                         {
                             "label": "和暦",
@@ -55,7 +55,7 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25226/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d1c6c567-4bfa-464d-afd0-c70cbab52729/manifest",
                 "@label": "捃拾帖 十",
                 "@type": "sc:Manifest"
             }

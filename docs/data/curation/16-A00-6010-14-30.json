@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/canvas/p32#xywh=3870,791,1497,4064",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/canvas/p32#xywh=3870,791,1497,4064",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>書誌事項</th><td>24.1×8.7　納本書目１冊、文部省</td></tr><tr><th>西暦コード</th><td>18740009023</td></tr><tr><th>タイトル</th><td>〔文部省領収之証〕</td></tr><tr><th>和暦</th><td>明治7年9月23日</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>24.1×8.7　納本書目１冊、文部省</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>タイトル</th><td>〔文部省領収之証〕</td></tr><tr><th>西暦コード</th><td>18740009023</td></tr><tr><th>地名</th><td>東京</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治7年9月23日</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr></table>",
                     "label": "16-A00-6010-14-30",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "政治社会変動"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "24.1×8.7　納本書目１冊、文部省"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "24.1×8.7　納本書目１冊、文部省"
+                            "label": "タイトル",
+                            "value": "〔文部省領収之証〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18740009023
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔文部省領収之証〕"
+                            "label": "地名",
+                            "value": "東京"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治7年9月23日"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/014/014_0032.tif/3870,791,1497,4064/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25251/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d31a5d15-afe1-411d-abaa-ed9263d5c800/manifest",
                 "@label": "捃拾帖 十四",
                 "@type": "sc:Manifest"
             }

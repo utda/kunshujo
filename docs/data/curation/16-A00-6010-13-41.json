@@ -13,49 +13,49 @@
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/canvas/p18#xywh=687,630,6827,4375",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/canvas/p18#xywh=687,630,6827,4375",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>地名</th><td>讃岐</td></tr><tr><th>書誌事項</th><td>30.0×42.6　三木郡池戸村組頭専二施印、稲作・麦作・甘藷・茄子・瓜・綿・大根・接木法</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>タイトル</th><td>〔讃岐池戸村専二農作法摺物〕</td></tr><tr><th>和暦</th><td>明治4年</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>書誌事項</th><td>30.0×42.6　三木郡池戸村組頭専二施印、稲作・麦作・甘藷・茄子・瓜・綿・大根・接木法</td></tr><tr><th>版種類</th><td>木版</td></tr><tr><th>タイトル</th><td>〔讃岐池戸村専二農作法摺物〕</td></tr><tr><th>西暦コード</th><td>18710099099</td></tr><tr><th>地名</th><td>讃岐</td></tr><tr><th>数量</th><td>１枚</td></tr><tr><th>和暦</th><td>明治4年</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr></table>",
                     "label": "16-A00-6010-13-41",
                     "metadata": [
                         {
-                            "label": "内容分類",
-                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
+                            "label": "書誌事項",
+                            "value": "30.0×42.6　三木郡池戸村組頭専二施印、稲作・麦作・甘藷・茄子・瓜・綿・大根・接木法"
                         },
                         {
                             "label": "版種類",
                             "value": "木版"
                         },
                         {
-                            "label": "地名",
-                            "value": "讃岐"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "30.0×42.6　三木郡池戸村組頭専二施印、稲作・麦作・甘藷・茄子・瓜・綿・大根・接木法"
+                            "label": "タイトル",
+                            "value": "〔讃岐池戸村専二農作法摺物〕"
                         },
                         {
                             "label": "西暦コード",
                             "value": 18710099099
                         },
                         {
-                            "label": "タイトル",
-                            "value": "〔讃岐池戸村専二農作法摺物〕"
+                            "label": "地名",
+                            "value": "讃岐"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
                         },
                         {
                             "label": "和暦",
                             "value": "明治4年"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
                         }
                     ],
                     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/013/013_0018.tif/687,630,6827,4375/,300/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25256/manifest",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de25754d-12ff-4fd4-850c-976ec5651c8d/manifest",
                 "@label": "捃拾帖 十三",
                 "@type": "sc:Manifest"
             }
