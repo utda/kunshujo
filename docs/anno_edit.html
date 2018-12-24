@@ -1,272 +1,239 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>電子展示『捃拾帖』</title>
-  <meta property="og:site_name" content="電子展示『捃拾帖』"/>
-  <meta property="og:title" content="電子展示『捃拾帖』" />
-  <meta name="description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。">
-  <meta property="og:description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。" />
-  <meta property="og:url" content="https://kunshujo.dl.itc.u-tokyo.ac.jp/" />
+---
+layout: default
+title: アノテーション付与
+---
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="image_src" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg">
-  <link rel="image_src" href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
+<div class="container-fluid mt-5">
 
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
+  <h3 class="text-center">アノテーション付与</h3>
 
-  <script src="./assets/js/main.js"></script>
+  <dt>Progress</dt>
+  <dd>
+    <div class="progress">
+      <div class="progress-bar" role="progressbar" id="bar" aria-valuemin="0"></div>
+    </div>
+  </dd>
 
-  <script>asset('./');</script>
+  <div class="row mt-5">
 
-</head>
-<body>
+    <div class="col-md-6">
 
-  <script>header('./');</script>
+      <div style="width:100%; height:800px; overflow-y:auto;">
 
-  <div class="container-fluid mt-5">
+        <div class="table-responsive">
+          <table class="table table-hover" id="table" width="100%">
+            <thead id="thead">
+              <tr>
+                <th>タイトル</th>
+                <th>目録番号</th>
+                <th>書誌事項</th>
+                <th>その他</th>
+                <th>頁</th>
+              </tr>
+            </thead>
+            <tbody id="resourceListBody">
+            </tbody>
+          </table>
 
-    <h3 class="text-center">アノテーション付与</h3>
-
-    <dt>Progress</dt>
-    <dd>
-      <div class="progress">
-        <div class="progress-bar" role="progressbar" id="bar" aria-valuemin="0"></div>
-      </div>
-    </dd>
-
-    <div class="row mt-5">
-
-      <div class="col-md-6">
-
-        <div style="width:100%; height:800px; overflow-y:auto;">
-
-          <div class="table-responsive">
-            <table class="table table-hover" id="table" width="100%">
-              <thead id="thead">
-                <tr>
-                  <th>タイトル</th>
-                  <th>目録番号</th>
-                  <th>書誌事項</th>
-                  <th>その他</th>
-                  <th>頁</th>
-                </tr>
-              </thead>
-              <tbody id="resourceListBody">
-              </tbody>
-            </table>
-
-            <div class="text-center" id="loading">
-              <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
-            </div>
+          <div class="text-center" id="loading">
+            <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
           </div>
-
         </div>
 
       </div>
-      <div class="col-md-6">
-        <iframe title="Mirador" frameborder="0" id="mirador" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="100%" height="800px"></iframe>
-      </div>
+
+    </div>
+    <div class="col-md-6">
+      <iframe title="Mirador" frameborder="0" id="mirador" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="100%" height="800px"></iframe>
     </div>
   </div>
+</div>
 
-  <script>footer('./');</script>
+<script>
 
-  <script>
+var vol;
+var resourceId;
 
-  var vol;
-  var resourceId;
+jQuery(document).ready(function() {
 
-  jQuery(document).ready(function() {
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
 
-    var arg  = new Object;
-    url = location.search.substring(1).split('&');
-
-    for(i=0; url[i]; i++) {
-      var k = url[i].split('=');
-      arg[k[0]] = decodeURIComponent(k[1]);
-    }
-
-    resourceId = arg["resourceId"]
-    vol = arg["vol"]
-
-    $("#mirador").attr("src", "https://diyhistory.org/public/omekac/admin/collections/"+resourceId+"/annotator")
-
-    getMetadata()
-  })
-
-  function getAnno(){
-    
-    var url = "data/progress.json"
-
-    $.getJSON( url, function( data ) {
-
-      var rows = data["rows"][vol];
-
-      $("#bar").attr("aria-valuemax", rows)
-
-      var total = 0;
-
-      var arr = [];
-
-      $.ajaxSetup({ async: false });
-
-      for(k = 0 ; k < 5; k++){
-        page = k + 1
-        url = "https://diyhistory.org/public/omekac/api/items?search=https://diyhistory.org/public/omekac/oa/collections/"+resourceId+"/manifest.json&item_type=18&page="+page
-
-        $.getJSON( url, function( data ) {
-
-          for(i = 0; i < data.length; i++){
-            var obj = data[i]["element_texts"];
-            for(j = 0 ; j < obj.length; j++){
-              var e = obj[j];
-              if(e.element.id == 1){
-                var tmp = $(e.text).text().replace("_", "-").split("-")
-                var id = tmp[0] + "-" + tmp[1] + "-" + tmp[2] + "-" + tmp[3] + "-" + tmp[4]
-                if(arr.indexOf(id) == -1){
-                  arr.push(id);
-                }
-              }
-              if(e.element.id == 56){
-                a = JSON.parse(e.text)
-                page = a["on"][0]["full"].split("/p")[1]
-                $("#span_"+id).text(page)
-              }
-            }
-          }
-
-          total = arr.length;
-          $("#total").text(total)
-
-          var ratio = Math.floor(total / rows * 100)
-
-          $("#bar").attr("style", "width: "+ratio+"%")
-          $("#bar").attr("aria-valuenow", total)
-
-          var text = total + " / " + rows
-
-          $("#bar").text(text)
-
-        })
-      }
-
-      // DataTable
-
-      var table = $('#table').DataTable({
-        //data: dataSet,
-        "iDisplayLength" : 10,
-        "order" : [ [ 1, "asc" ] ],
-        "columnDefs": [
-          { "width": "20%", "targets": 0 },
-          { "width": "20%", "targets": 1 },
-          { "width": "40%", "targets": 2 },
-          { "width": "20%", "targets": 3 }
-        ],
-        fixedColumns: true
-      });
-
-
-    })
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
   }
 
-  var dcterms = "http://purl.org/dc/terms/"
-  var foaf = "http://xmlns.com/foaf/0.1/"
-  var archiveshub = "http://data.archiveshub.ac.uk/def/"
-  var bibo = "http://purl.org/ontology/bibo/"
+  resourceId = arg["resourceId"]
+  vol = arg["vol"]
 
-  var arr = [dcterms+"extent", dcterms+"date", dcterms+"type", dcterms+"format"]
+  $("#mirador").attr("src", "https://diyhistory.org/public/omekac/admin/collections/"+resourceId+"/annotator")
 
-  function getMetadata(){
+  getMetadata()
+})
 
-    $.ajax({
-      url:'data/data.json'
-    })
-    .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
-        var dataSet = []
+function getAnno(){
 
-        for (var i = 0; i < result.length; i++) {
-          var obj = result[i];
+  var url = "data/progress.json"
 
-          var id = obj[dcterms+"identifier"][0]["@value"]
-          if(id.indexOf("16-A00-6010-"+vol) == -1){
-            continue
-          }
+  $.getJSON( url, function( data ) {
 
-          var tr = $("<tr>")
-          $("#resourceListBody").append(tr)
+    var rows = data["rows"][vol];
 
-          var td = $("<td>");
-          tr.append(td)
-          td.append(obj[dcterms+"title"][0]["@value"])
+    $("#bar").attr("aria-valuemax", rows)
 
-          //----------
+    var total = 0;
 
-          var div = $("<div>")
+    var arr = [];
 
-          var span = $("<span style='display : none;'>")
-          div.append(span)
-          span.append(obj[archiveshub+"note"][0]["@value"])
-          div.append(id)
+    $.ajaxSetup({ async: false });
 
-          var td = $("<td>");
-          tr.append(td)
-          td.append(div)
+    for(k = 0 ; k < 5; k++){
+      page = k + 1
+      url = "https://diyhistory.org/public/omekac/api/items?search=https://diyhistory.org/public/omekac/oa/collections/"+resourceId+"/manifest.json&item_type=18&page="+page
 
-          //-----------
+      $.getJSON( url, function( data ) {
 
-          var desc = ""
-          if(obj[dcterms+"description"]){
-            desc = obj[dcterms+"description"][0]["@value"]
-          }
-
-          var td = $("<td>");
-          tr.append(td)
-          td.append(desc)
-
-          text = ""
-
-          for(var j = 0; j < arr.length; j++){
-            e = arr[j]
-            if(obj[e]){
-              text += " "+obj[e][0]["@value"]+";"
+        for(i = 0; i < data.length; i++){
+          var obj = data[i]["element_texts"];
+          for(j = 0 ; j < obj.length; j++){
+            var e = obj[j];
+            if(e.element.id == 1){
+              var tmp = $(e.text).text().replace("_", "-").split("-")
+              var id = tmp[0] + "-" + tmp[1] + "-" + tmp[2] + "-" + tmp[3] + "-" + tmp[4]
+              if(arr.indexOf(id) == -1){
+                arr.push(id);
+              }
+            }
+            if(e.element.id == 56){
+              a = JSON.parse(e.text)
+              page = a["on"][0]["full"].split("/p")[1]
+              $("#span_"+id).text(page)
             }
           }
-
-          td = $("<td>");
-          tr.append(td)
-          td.append(text)
-
-          var span = $("<span>")
-          span.attr("id", "span_"+id)
-          span.text("--")
-
-          td = $("<td>");
-          tr.append(td)
-          td.append(span)
         }
 
-        getAnno()
-      },
-      // 2つめは通信失敗時のコールバック
-      function () {
-        alert(data.statusText);
-      }
-    ).always(function() {
-      $("#loading").empty()
+        total = arr.length;
+        $("#total").text(total)
+
+        var ratio = Math.floor(total / rows * 100)
+
+        $("#bar").attr("style", "width: "+ratio+"%")
+        $("#bar").attr("aria-valuenow", total)
+
+        var text = total + " / " + rows
+
+        $("#bar").text(text)
+
+      })
+    }
+
+    // DataTable
+
+    var table = $('#table').DataTable({
+      //data: dataSet,
+      "iDisplayLength" : 10,
+      "order" : [ [ 1, "asc" ] ],
+      "columnDefs": [
+        { "width": "20%", "targets": 0 },
+        { "width": "20%", "targets": 1 },
+        { "width": "40%", "targets": 2 },
+        { "width": "20%", "targets": 3 }
+      ],
+      fixedColumns: true
     });
-  }
+
+
+  })
+}
+
+var dcterms = "http://purl.org/dc/terms/"
+var foaf = "http://xmlns.com/foaf/0.1/"
+var archiveshub = "http://data.archiveshub.ac.uk/def/"
+var bibo = "http://purl.org/ontology/bibo/"
+
+var arr = [dcterms+"extent", dcterms+"date", dcterms+"type", dcterms+"format"]
+
+function getMetadata(){
+
+  $.ajax({
+    url:'data/data.json'
+  })
+  .then(
+    // 1つめは通信成功時のコールバック
+    function (result) {
+      var dataSet = []
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var id = obj[dcterms+"identifier"][0]["@value"]
+        if(id.indexOf("16-A00-6010-"+vol) == -1){
+          continue
+        }
+
+        var tr = $("<tr>")
+        $("#resourceListBody").append(tr)
+
+        var td = $("<td>");
+        tr.append(td)
+        td.append(obj[dcterms+"title"][0]["@value"])
+
+        //----------
+
+        var div = $("<div>")
+
+        var span = $("<span style='display : none;'>")
+        div.append(span)
+        span.append(obj[archiveshub+"note"][0]["@value"])
+        div.append(id)
+
+        var td = $("<td>");
+        tr.append(td)
+        td.append(div)
+
+        //-----------
+
+        var desc = ""
+        if(obj[dcterms+"description"]){
+          desc = obj[dcterms+"description"][0]["@value"]
+        }
+
+        var td = $("<td>");
+        tr.append(td)
+        td.append(desc)
+
+        text = ""
+
+        for(var j = 0; j < arr.length; j++){
+          e = arr[j]
+          if(obj[e]){
+            text += " "+obj[e][0]["@value"]+";"
+          }
+        }
+
+        td = $("<td>");
+        tr.append(td)
+        td.append(text)
+
+        var span = $("<span>")
+        span.attr("id", "span_"+id)
+        span.text("--")
+
+        td = $("<td>");
+        tr.append(td)
+        td.append(span)
+      }
+
+      getAnno()
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+  ).always(function() {
+    $("#loading").empty()
+  });
+}
 
 </script>
-</body>
-</html>

@@ -1,240 +1,205 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>電子展示『捃拾帖』</title>
-  <meta property="og:site_name" content="電子展示『捃拾帖』"/>
-  <meta property="og:title" content="電子展示『捃拾帖』" />
-  <meta name="description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。">
-  <meta property="og:description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。" />
-  <meta property="og:url" content="https://kunshujo.dl.itc.u-tokyo.ac.jp/" />
+---
+layout: default
+title: アノテーション付与
+---
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="image_src" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg">
-  <link rel="image_src" href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
+<div class="container py-2 my-5">
 
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
+  <h3 class="text-center">アノテーション付与</h3>
 
-  <script src="./assets/js/main.js"></script>
-
-
-  <script>asset('./');</script>
-
-</head>
-<body>
-
-  <script>header('./');</script>
-
-  <div class="container py-2 my-5">
-
-    <h3 class="text-center">アノテーション付与</h3>
-
-    <div class="table-responsive my-5">
-      <table class="table table-hover" id="table">
-        <thead id="thead">
-          <tr>
-            <th></th>
-            <th>Title</th>
-            <th>Publisher</th>
-            <th>#</th>
-            <th></th>
-          </tr>
-        </thead>
-        <tbody id="resourceListBody">
-        </tbody>
-      </table>
-    </div>
-
-    <div id="container2" class="my-5"></div>
-
-    <div class="text-center" id="loading">
-      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
-    </div>
-
-
+  <div class="table-responsive my-5">
+    <table class="table table-hover" id="table">
+      <thead id="thead">
+        <tr>
+          <th></th>
+          <th>Title</th>
+          <th>Publisher</th>
+          <th>#</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="resourceListBody">
+      </tbody>
+    </table>
   </div>
 
-  <script>footer('./');</script>
+  <div id="container2" class="my-5"></div>
+
+  <div class="text-center" id="loading">
+    <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+  </div>
 
 
-  <script>
-  jQuery(document).ready(function() {
+</div>
 
-    var url = "data/progress.json"
+<script>
+jQuery(document).ready(function() {
 
-    $.getJSON( url, function( result ) {
+  var url = "data/progress.json"
 
-      rows = result["rows"]
-      hist = result["hist"]
+  $.getJSON( url, function( result ) {
 
-      url = "https://diyhistory.org/public/omekac/api/collections"
+    rows = result["rows"]
+    hist = result["hist"]
 
-      $.getJSON( url, function( data ) {
+    url = "https://diyhistory.org/public/omekac/api/collections"
 
-        for(i = 0; i < data.length; i++){
-          obj = data[i]
-          id = obj.id
+    $.getJSON( url, function( data ) {
 
-          var title;
-          var publisher;
-          var id;
+      for(i = 0; i < data.length; i++){
+        obj = data[i]
+        id = obj.id
 
-          et = obj["element_texts"]
-          for(j = 0; j < et.length; j++){
-            e = et[j]
-            if(e.element.id == 50){
-              title = e.text
-            } else if(e.element.id == 45){
-              publisher = e.text
-            } else if(e.element.id == 38){
-              id = e.text
-            }
+        var title;
+        var publisher;
+        var id;
+
+        et = obj["element_texts"]
+        for(j = 0; j < et.length; j++){
+          e = et[j]
+          if(e.element.id == 50){
+            title = e.text
+          } else if(e.element.id == 45){
+            publisher = e.text
+          } else if(e.element.id == 38){
+            id = e.text
           }
-          var tr = $("<tr>");
-          $("#resourceListBody").append(tr)
-
-          var td = $("<td>");
-          tr.append(td)
-          td.append(id)
-
-          var td = $("<td>");
-          tr.append(td)
-          td.append(title)
-
-          var td = $("<td>");
-          tr.append(td)
-          td.append(publisher)
-
-          var td = $("<td>");
-          tr.append(td)
-
-          var c = hist[id]
-          var o = rows[id]
-          if(c > o){
-            c = o
-          } else if(c == null){
-            c = 0
-          }
-          td.append(c+"/"+o)
-
-          var td = $("<td>");
-          tr.append(td)
-          var a = $("<a>")
-          td.append(a)
-          a.attr("href", "anno_edit.html?resourceId="+obj.id+"&vol="+id)
-          a.append('<i class="fas fa-edit"></i>')
         }
+        var tr = $("<tr>");
+        $("#resourceListBody").append(tr)
 
-        // DataTable
-        var table = $('#table').DataTable({
-          "iDisplayLength" : 100
-        });
+        var td = $("<td>");
+        tr.append(td)
+        td.append(id)
 
-        // Apply the search
-        table.columns().every( function () {
-          var that = this;
+        var td = $("<td>");
+        tr.append(td)
+        td.append(title)
 
-          $( 'input', this.header() ).on( 'keyup change', function () {
-            if ( that.search() !== this.value ) {
-              that
-              .search( this.value )
-              .draw();
-            }
-          } );
-        } );
+        var td = $("<td>");
+        tr.append(td)
+        td.append(publisher)
 
+        var td = $("<td>");
+        tr.append(td)
 
-        var items = new Array();
-
-        var total = 0;
-
-        result = result["progress"]
-
-        for(var key in result){
-          var item = new Array();
-          item.push(Date.parse(key));
-          total = total + result[key];
-          item.push(total)
-          items.push(item)
+        var c = hist[id]
+        var o = rows[id]
+        if(c > o){
+          c = o
+        } else if(c == null){
+          c = 0
         }
+        td.append(c+"/"+o)
 
-        // Build the chart
-        Highcharts.chart('container2', {
-          chart: {
-            zoomType: 'x'
-          },
-          title: {
-            text: ''
-          },
-          subtitle: {
-            text: document.ontouchstart === undefined ?
-            'Click and drag in the plot area to zoom in' : 'Pinch the chart to zoom in'
-          },
-          xAxis: {
-            type: 'datetime'
-          },
-          yAxis: {
-            title: {
-              text: ""//'No. of data'
-            }
-          },
-          legend: {
-            enabled: false
-          },
-          plotOptions: {
-            area: {
-              fillColor: {
-                linearGradient: {
-                  x1: 0,
-                  y1: 0,
-                  x2: 0,
-                  y2: 1
-                },
-                stops: [
-                  [0, Highcharts.getOptions().colors[0]],
-                  [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
-                ]
-              },
-              marker: {
-                radius: 2
-              },
-              lineWidth: 1,
-              states: {
-                hover: {
-                  lineWidth: 1
-                }
-              },
-            }
-          },
+        var td = $("<td>");
+        tr.append(td)
+        var a = $("<a>")
+        td.append(a)
+        a.attr("href", "anno_edit.html?resourceId="+obj.id+"&vol="+id)
+        a.append('<i class="fas fa-edit"></i>')
+      }
 
-          series: [{
-            type: 'area',
-            name: 'items',
-            data: items
-          }]
-        });
-
-      })
-
-      // Ajaxリクエストが失敗した時発動
-      .fail( (data) => {
-        alert(data.statusText);
-      })
-      // Ajaxリクエストが成功・失敗どちらでも発動
-      .always( (data) => {
-        $("#loading").empty()
+      // DataTable
+      var table = $('#table').DataTable({
+        "iDisplayLength" : 100
       });
-    })
-  });
 
-  </script>
-</body>
-</html>
+      // Apply the search
+      table.columns().every( function () {
+        var that = this;
+
+        $( 'input', this.header() ).on( 'keyup change', function () {
+          if ( that.search() !== this.value ) {
+            that
+            .search( this.value )
+            .draw();
+          }
+        } );
+      } );
+
+
+      var items = new Array();
+
+      var total = 0;
+
+      result = result["progress"]
+
+      for(var key in result){
+        var item = new Array();
+        item.push(Date.parse(key));
+        total = total + result[key];
+        item.push(total)
+        items.push(item)
+      }
+
+      // Build the chart
+      Highcharts.chart('container2', {
+        chart: {
+          zoomType: 'x'
+        },
+        title: {
+          text: ''
+        },
+        subtitle: {
+          text: document.ontouchstart === undefined ?
+          'Click and drag in the plot area to zoom in' : 'Pinch the chart to zoom in'
+        },
+        xAxis: {
+          type: 'datetime'
+        },
+        yAxis: {
+          title: {
+            text: ""//'No. of data'
+          }
+        },
+        legend: {
+          enabled: false
+        },
+        plotOptions: {
+          area: {
+            fillColor: {
+              linearGradient: {
+                x1: 0,
+                y1: 0,
+                x2: 0,
+                y2: 1
+              },
+              stops: [
+                [0, Highcharts.getOptions().colors[0]],
+                [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+              ]
+            },
+            marker: {
+              radius: 2
+            },
+            lineWidth: 1,
+            states: {
+              hover: {
+                lineWidth: 1
+              }
+            },
+          }
+        },
+
+        series: [{
+          type: 'area',
+          name: 'items',
+          data: items
+        }]
+      });
+
+    })
+
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+  })
+});
+
+</script>

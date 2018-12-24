@@ -1,140 +1,107 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+---
+layout: mosaic
+title: サムネイルで見る
+---
 
-  <title>電子展示『捃拾帖』</title>
-  <meta property="og:site_name" content="電子展示『捃拾帖』"/>
-  <meta property="og:title" content="電子展示『捃拾帖』" />
-  <meta name="description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。">
-  <meta property="og:description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。" />
-  <meta property="og:url" content="https://kunshujo.dl.itc.u-tokyo.ac.jp/" />
+<link rel="stylesheet" type="text/css" href="assets/thirdparty/jquery-mosaic/jquery.mosaic.css"/>
+<script type="text/javascript" src="assets/thirdparty/jquery-mosaic/jquery.mosaic.js"></script>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="image_src" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg">
-  <link rel="image_src" href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
 
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
+<style>
+.pagetop a {
+  filter:alpha(opacity=80);
+  -moz-opacity: 0.8;
+  opacity: 0.8;
+}
+.pagetop a:hover {
+  filter:alpha(opacity=80);
+  -moz-opacity: 0.8;
+  opacity: 0.8;
+}
+</style>
 
-  <link rel="stylesheet" type="text/css" href="assets/thirdparty/jquery-mosaic/jquery.mosaic.css"/>
-  <script type="text/javascript" src="assets/thirdparty/jquery-mosaic/jquery.mosaic.js"></script>
+<div class="container-fluid py-2 my-5">
 
-  <script src="./assets/js/main.js"></script>
+  <h3 class="mb-5 text-center">ランダムに<span id="n"></span>件を抽出して表示します</h3>
 
-  <script>asset('./');</script>
-
-  <style>
-  .pagetop a {
-    filter:alpha(opacity=80);
-    -moz-opacity: 0.8;
-    opacity: 0.8;
-  }
-  .pagetop a:hover {
-    filter:alpha(opacity=80);
-    -moz-opacity: 0.8;
-    opacity: 0.8;
-  }
-  </style>
-
-</head>
-<body>
-
-  <script>header('./');</script>
-
-  <div class="container-fluid py-2 my-5">
-
-    <h3 class="mb-5 text-center">ランダムに<span id="n"></span>件を抽出して表示します</h3>
-
-    <div class="text-center" id="loading">
-      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
-    </div>
-
-    <div id="myMosaic"></div>
-
+  <div class="text-center" id="loading">
+    <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
   </div>
 
-  <script>curation('./');</script>
+  <div id="myMosaic"></div>
 
-  <p class="pagetop"><a href="#wrap">▲</a></p>
+</div>
 
-  <script>
+<script>
 
 
-  var dcterms = "http://purl.org/dc/terms/"
-  var foaf = "http://xmlns.com/foaf/0.1/"
+var dcterms = "http://purl.org/dc/terms/"
+var foaf = "http://xmlns.com/foaf/0.1/"
 
-  var n = 250
-  $("#n").append(n)
+var n = 250
+$("#n").append(n)
 
-  var i_arr = []
+var i_arr = []
 
-  jQuery(document).ready(function() {
+jQuery(document).ready(function() {
 
-    $.ajax({
-      url:'data/data.json'
-    })
-    .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
+  $.ajax({
+    url:'data/data.json'
+  })
+  .then(
+    // 1つめは通信成功時のコールバック
+    function (result) {
 
-        var arr = [dcterms+"description", dcterms+"extent", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
+      var arr = [dcterms+"description", dcterms+"extent", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
 
-        for (var i = 0; i < n; i++) {
+      for (var i = 0; i < n; i++) {
 
-          var j = Math.floor(Math.random()*result.length)
+        var j = Math.floor(Math.random()*result.length)
 
-          while(i_arr.indexOf(j) != -1){
-            j = Math.floor(Math.random()*result.length)
-          }
-
-          i_arr.push(j)
-
-          var obj = result[j];
-
-          if(obj[foaf+"thumbnail"]){
-
-            var url = obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,200/")
-
-            var area = url.split("/")[6].split(",")
-
-            var img = $("<img>")
-            img.attr("src", url)
-            img.attr("data-high-res-image-src", url)
-            img.attr("width", area[2])
-            img.attr("height", area[3])
-            img.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"')")
-            img.attr("style", "cursor: pointer")
-
-            $("#myMosaic").append(img)
-          }
-
+        while(i_arr.indexOf(j) != -1){
+          j = Math.floor(Math.random()*result.length)
         }
 
+        i_arr.push(j)
+
+        var obj = result[j];
+
+        if(obj[foaf+"thumbnail"]){
+
+          var url = obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,200/")
+
+          var area = url.split("/")[6].split(",")
+
+          var img = $("<img>")
+          img.attr("src", url)
+          img.attr("data-high-res-image-src", url)
+          img.attr("width", area[2])
+          img.attr("height", area[3])
+          img.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"')")
+          img.attr("style", "cursor: pointer")
+
+          $("#myMosaic").append(img)
+        }
+
+      }
+
+      setTimeout(function(){
         $('#myMosaic').Mosaic({
           maxRowHeight: 200,
           innerGap : 10
         });
+      },1000);
 
 
-      },
-      // 2つめは通信失敗時のコールバック
-      function () {
-        alert(data.statusText);
-      }
-    ).always(function() {
-      $("#loading").empty()
-    });
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+  ).always(function() {
+    $("#loading").empty()
+  });
 
-  })
+})
 
 </script>
-</body>
-</html>

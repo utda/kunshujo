@@ -1,34 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>電子展示『捃拾帖』</title>
-  <meta property="og:site_name" content="電子展示『捃拾帖』"/>
-  <meta property="og:title" content="電子展示『捃拾帖』" />
-  <meta name="description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。">
-  <meta property="og:description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。" />
-  <meta property="og:url" content="https://kunshujo.dl.itc.u-tokyo.ac.jp/" />
+---
+layout: default
+title: 一覧
+---
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="image_src" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg">
-  <link rel="image_src" href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-
-  <script src="./assets/js/main.js"></script>
-
-
-  <script>asset('./');</script>
-
-  <style>
+<style>
   div.dataTables_length {
     padding-left: 2em;
   }
@@ -46,54 +21,50 @@
   }
 </style>
 
-</head>
-<body>
 
-  <script>header('./');</script>
+<div class="container">
 
-  <div class="container">
-
-    <div class="table-responsive my-5">
-      <div class="text-right mb-4">
-        <button id="compareBtn" class="btn btn-primary mb-2">選択行を比較</button>
-        <button id="removeBtn" class="btn btn-info mb-2">すべての選択を解除</button>
-      </div>
-      <table class="table table-hover" id="table">
-        <thead id="thead">
-          <tr>
-            <th></th>
-            <th></th>
-            <th>タイトル</th>
-            <th>帖数</th>
-            <th>目録番号</th>
-            <th>書誌事項</th>
-            <th>枚数</th>
-            <th>年月日</th>
-            <th>地名</th>
-            <th>版<!--種類--></th>
-            <th>形態<!--分類--></th>
-            <th>内容<!--分類--></th>
-            <th>ICP</th>
-          </tr>
-        </thead>
-        <tbody id="resourceListBody">
-        </tbody>
-      </table>
+  <div class="table-responsive my-5">
+    <div class="text-right mb-4">
+      <button id="compareBtn" class="btn btn-primary mb-2">選択行を比較</button>
+      <button id="removeBtn" class="btn btn-info mb-2">すべての選択を解除</button>
     </div>
-
-    <div class="text-center" id="loading">
-      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
-    </div>
-
-
+    <table class="table table-hover" id="table">
+      <thead id="thead">
+        <tr>
+          <th></th>
+          <th></th>
+          <th>タイトル</th>
+          <th>帖数</th>
+          <th>目録番号</th>
+          <th>書誌事項</th>
+          <th>枚数</th>
+          <th>年月日</th>
+          <th>地名</th>
+          <th>版<!--種類--></th>
+          <th>形態<!--分類--></th>
+          <th>内容<!--分類--></th>
+          <th>ICP</th>
+        </tr>
+      </thead>
+      <tbody id="resourceListBody">
+      </tbody>
+    </table>
   </div>
 
-  <script>curation('./');</script>
+  <div class="text-center" id="loading">
+    <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+  </div>
 
-  <script>footer('./');</script>
+
+</div>
 
 
-  <script>
+
+<!-- <script>curation('./');</script> -->
+
+
+<script>
 
   var dcterms = "http://purl.org/dc/terms/"
   var foaf = "http://xmlns.com/foaf/0.1/"
@@ -125,227 +96,209 @@
       url:'data/data.json'
     })
     .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
-        var dataSet = []
+    // 1つめは通信成功時のコールバック
+    function (result) {
+      var dataSet = []
 
-        var arr = [dcterms+"description", dcterms+"extent", dcterms+"date", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
+      var arr = [dcterms+"description", dcterms+"extent", dcterms+"date", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
 
-        for (var i = 0; i < result.length; i++) {
+      for (var i = 0; i < result.length; i++) {
 
-          var flg = true
+        var flg = true
 
-          var obj = result[i];
+        var obj = result[i];
 
-          if(arg["property"]){
-            var p = arg["property"]
-            var v = arg["value"]
-            if(!obj[p]){
-              flg = false;
-            } else {
-              var tmp = []
-              for(var j = 0; j < obj[p].length; j++){
-                var o;
-                if(arg["type"] && arg["type"] == "uri"){
-                  o = obj[p][j]["@id"]
-                } else {
-                  o = obj[p][j]["@value"]
-                }
-                tmp.push(String(o))
+        if(arg["property"]){
+          var p = arg["property"]
+          var v = arg["value"]
+          if(!obj[p]){
+            flg = false;
+          } else {
+            var tmp = []
+            for(var j = 0; j < obj[p].length; j++){
+              var o;
+              if(arg["type"] && arg["type"] == "uri"){
+                o = obj[p][j]["@id"]
+              } else {
+                o = obj[p][j]["@value"]
               }
-              if(tmp.indexOf(v) == -1){
-                flg = false
-              }
+              tmp.push(String(o))
+            }
+            if(tmp.indexOf(v) == -1){
+              flg = false
             }
           }
+        }
 
-          if(flg){
+        if(flg){
 
-            var row = []
+          var row = []
 
-            row.push("")
+          row.push("")
 
-            var img_div = $("<div>");
+          var img_div = $("<div>");
 
             if(obj[foaf+"thumbnail"]){
 
               var a = $("<a>")
-              img_div.append(a)
-              a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
+                img_div.append(a)
+                a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
 
-              var img = $("<img class='img-fluid' height='90px'>")
-              a.append(img)
+                var img = $("<img class='img-fluid' height='90px'>")
+                a.append(img)
 
-              img.attr("src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
-              img.before("<span style='display : none;'>image,yes,on,true</span>");
-              img.addClass("z-depth-1")
-            }　else {
+                img.attr("src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
+                img.before("<span style='display : none;'>image,yes,on,true</span>");
+                img.addClass("z-depth-1")
+              }　else {
 
-              var img = $("<img class='img-fluid' height='90px'>")
-              img_div.append(img)
+                var img = $("<img class='img-fluid' height='90px'>")
+                img_div.append(img)
 
-              img.attr("src", "https://www.freeiconspng.com/uploads/no-image-icon-6.png")
-            }
-
-            row.push(img_div.prop('outerHTML'))
-
-
-            var a = $("<span>")
-
-            if(obj[dcterms+"title"] == null){
-              console.log(obj[dcterms+"title"])
-            }
-
-
-            a.append(obj[dcterms+"title"][0]["@value"])
-
-            row.push(a.prop('outerHTML'))
-
-            var div = $("<div>")
-            div.append("『捃拾帖』第"+obj[bibo+"volume"][0]["@value"]+"帖")
-            row.push(div.prop("outerHTML"))
-
-            //----------
-
-            var div = $("<div>")
-
-            var span = $("<span style='display : none;'>")
-            div.append(span)
-            span.append(obj[archiveshub+"note"][0]["@value"])
-            div.append(obj[dcterms+"identifier"][0]["@value"])
-
-            row.push(div.prop("outerHTML"))
-
-            for(var j = 0; j < arr.length; j++){
-              e = arr[j]
-              text = ""
-              if(e == dcterms+"date"){
-                text = "<span style='display : none;'>"+obj[archiveshub+"dateCreatedAccumulated"][0]["@value"]+"</span>"+obj[archiveshub+"dateCreatedAccumulatedString"][0]["@value"]
-              } else if(obj[e]){
-                text = obj[e][0]["@value"]
+                img.attr("src", "https://www.freeiconspng.com/uploads/no-image-icon-6.png")
               }
-              row.push(text)
-            }
 
-            //-----------
+              row.push(img_div.prop('outerHTML'))
 
-            if(obj[dcterms+"relation"] != null){
-              var a = $("<a>")
-              a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
-              var img = $("<img>")
-              a.append(img)
-              img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
-              row.push(a.prop('outerHTML'))
-            } else {
-              row.push("")
-            }
-            //表示するかの判定
-            dataSet.push(row)
 
-          }
+              var a = $("<span>")
 
-        }
+                if(obj[dcterms+"title"] == null){
+                  console.log(obj[dcterms+"title"])
+                }
 
-        // DataTable
-        var table = $('#table').DataTable({
-          "language": {
-            "url": "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
-          },
-          data: dataSet,
-          "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
-          "iDisplayLength" : 50,
-          "order" : [ [ 4, "asc" ] ],
-          "columnDefs": [
-            { "width": "5%", "targets": 0 },
-            { "width": "10%", "targets": 1 },
-            { "width": "10%", "targets": 2 },
-            { "width": "10%", "targets": 3 },
-            { "width": "10%", "targets": 4 },
-            { "width": "15%", "targets": 5 },
-            { "width": "5%", "targets": 6 },
-            { "width": "5%", "targets": 7 },
-            { "width": "5%", "targets": 8 },
-            { "width": "5%", "targets": 9 },
-            { "width": "5%", "targets": 10 },
-            { "width": "10%", "targets": 11 },
-            { "width": "5%", "targets": 12 },
-            {
-              orderable: false,
-              className: 'select-checkbox',
-              targets:   0
-            }
-          ],
-          select: {
-            style:    'multi',
-            selector: 'td:first-child'
-          }
-          //fixedColumns: true
-        });
 
-        /*
-        $('#table tbody').on( 'click', 'tr', function () {
-        $(this).toggleClass('selected');
-      } );
-      */
+                a.append(obj[dcterms+"title"][0]["@value"])
 
-      $('#compareBtn').click( function () {
-        rows = table.rows('.selected').data()
+                row.push(a.prop('outerHTML'))
 
-        if(rows.length > 0){
-          param_str = ""
-          for(i = 0; i < rows.length; i++){
-            curationUri = rows[i][1].split("'")[1]
-            param_str += ";"+curationUri
-          }
-          window.open("mirador/?param="+param_str.substring(1), 'mirador');
-        } else {
-          alert("比較したい資料の行を選択してください.")
-        }
+                var div = $("<div>")
+                  div.append("『捃拾帖』第"+obj[bibo+"volume"][0]["@value"]+"帖")
+                  row.push(div.prop("outerHTML"))
 
-      } );
+                  //----------
 
-      $('#removeBtn').click( function () {
-        table
-        .rows( '.selected' )
-        .nodes()
-        .to$()
-        .removeClass( 'selected' );
-      } );
+                  var div = $("<div>")
 
-      // Apply the search
-      table.columns().every( function () {
-        var that = this;
+                    var span = $("<span style='display : none;'>")
+                      div.append(span)
+                      span.append(obj[archiveshub+"note"][0]["@value"])
+                      div.append(obj[dcterms+"identifier"][0]["@value"])
 
-        $( 'input', this.header() ).on( 'keyup change', function () {
-          if ( that.search() !== this.value ) {
-            that
-            .search( this.value )
-            .draw();
-          }
-        } );
-      } );
+                      row.push(div.prop("outerHTML"))
 
-      /*
-      table.on('order.dt search.dt', function() {
-      table.column(0, {
-      search : 'applied',
-      order : 'applied'
-    }).nodes().each(function(cell, i) {
-    cell.innerHTML = i + 1;
-  });
-}).draw();
-*/
-},
-// 2つめは通信失敗時のコールバック
-function () {
-  alert(data.statusText);
-}
-).always(function() {
-  $("#loading").empty()
-});
+                      for(var j = 0; j < arr.length; j++){
+                        e = arr[j]
+                        text = ""
+                        if(e == dcterms+"date"){
+                          text = "<span style='display : none;'>"+obj[archiveshub+"dateCreatedAccumulated"][0]["@value"]+"</span>"+obj[archiveshub+"dateCreatedAccumulatedString"][0]["@value"]
+                        } else if(obj[e]){
+                          text = obj[e][0]["@value"]
+                        }
+                        row.push(text)
+                      }
 
-})
+                      //-----------
 
-</script>
-</body>
-</html>
+                      if(obj[dcterms+"relation"] != null){
+                        var a = $("<a>")
+                          a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
+                          var img = $("<img>")
+                          a.append(img)
+                          img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
+                          row.push(a.prop('outerHTML'))
+                        } else {
+                          row.push("")
+                        }
+                        //表示するかの判定
+                        dataSet.push(row)
+
+                      }
+
+                    }
+
+                    // DataTable
+                    var table = $('#table').DataTable({
+                      "language": {
+                        "url": "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
+                      },
+                      data: dataSet,
+                      "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
+                      "iDisplayLength" : 50,
+                      "order" : [ [ 4, "asc" ] ],
+                      "columnDefs": [
+                      { "width": "5%", "targets": 0 },
+                      { "width": "10%", "targets": 1 },
+                      { "width": "10%", "targets": 2 },
+                      { "width": "10%", "targets": 3 },
+                      { "width": "10%", "targets": 4 },
+                      { "width": "15%", "targets": 5 },
+                      { "width": "5%", "targets": 6 },
+                      { "width": "5%", "targets": 7 },
+                      { "width": "5%", "targets": 8 },
+                      { "width": "5%", "targets": 9 },
+                      { "width": "5%", "targets": 10 },
+                      { "width": "10%", "targets": 11 },
+                      { "width": "5%", "targets": 12 },
+                      {
+                        orderable: false,
+                        className: 'select-checkbox',
+                        targets:   0
+                      }
+                      ],
+                      select: {
+                        style:    'multi',
+                        selector: 'td:first-child'
+                      }
+                      //fixedColumns: true
+                    });
+
+
+                    $('#compareBtn').click( function () {
+                      rows = table.rows('.selected').data()
+
+                      if(rows.length > 0){
+                        param_str = ""
+                        for(i = 0; i < rows.length; i++){
+                          curationUri = rows[i][1].split("'")[1]
+                          param_str += ";"+curationUri
+                        }
+                        window.open("mirador/?param="+param_str.substring(1), 'mirador');
+                      } else {
+                        alert("比較したい資料の行を選択してください.")
+                      }
+
+                    } );
+
+                    $('#removeBtn').click( function () {
+                      table
+                      .rows( '.selected' )
+                      .nodes()
+                      .to$()
+                      .removeClass( 'selected' );
+                    } );
+
+                    // Apply the search
+                    table.columns().every( function () {
+                      var that = this;
+
+                      $( 'input', this.header() ).on( 'keyup change', function () {
+                        if ( that.search() !== this.value ) {
+                          that
+                          .search( this.value )
+                          .draw();
+                        }
+                      } );
+                    } );
+                  },
+                  // 2つめは通信失敗時のコールバック
+                  function () {
+                    alert(data.statusText);
+                  }
+                  ).always(function() {
+                    $("#loading").empty()
+                  });
+
+                })
+
+              </script>

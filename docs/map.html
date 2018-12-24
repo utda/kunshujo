@@ -1,55 +1,21 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+---
+layout: default
+title: 地図で見る
+---
 
-  <title>電子展示『捃拾帖』</title>
-  <meta property="og:site_name" content="電子展示『捃拾帖』"/>
-  <meta property="og:title" content="電子展示『捃拾帖』" />
-  <meta name="description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。">
-  <meta property="og:description" content="東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。" />
-  <meta property="og:url" content="https://kunshujo.dl.itc.u-tokyo.ac.jp/" />
+<div class="container py-2 my-5">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="image_src" content="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg">
-  <link rel="image_src" href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/166427/1139,1721,3003,1791/,600/0/default.jpg" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
+  <h3 class="mb-5">地図で見る</h3>
 
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-
-  <script src="./assets/js/main.js"></script>
-
-  <script>asset('./');</script>
-</head>
-<body>
-
-  <script>header('./');</script>
-
-  <div class="container py-2 my-5">
-
-    <h3 class="mb-5">地図で見る</h3>
-
-    <div class="text-center" id="loading">
-      <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
-    </div>
-
-    <div id="mapid" style="width: 100%; height: 600px;"></div>
-
+  <div class="text-center" id="loading">
+    <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
   </div>
 
-  <script>check('./');</script>
+  <div id="mapid" style="width: 100%; height: 600px;"></div>
 
-  <script>footer('./');</script>
+</div>
 
-
-  <script>
+<script>
 
   var dcterms = "http://purl.org/dc/terms/"
 
@@ -63,44 +29,44 @@
       url:'data/data.json'
     })
     .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
+    // 1つめは通信成功時のコールバック
+    function (result) {
 
 
 
-        var locations = {}
+      var locations = {}
 
-        for (var i = 0; i < result.length; i++) {
+      for (var i = 0; i < result.length; i++) {
 
-          var obj = result[i];
+        var obj = result[i];
 
-          if(obj[dcterms+"spatial"]){
-            var locationUri = obj[dcterms+"spatial"][0]["@id"]
-            if(!locations[locationUri]){
-              locations[locationUri] = 0
-            }
-            locations[locationUri] = locations[locationUri] + 1
-
+        if(obj[dcterms+"spatial"]){
+          var locationUri = obj[dcterms+"spatial"][0]["@id"]
+          if(!locations[locationUri]){
+            locations[locationUri] = 0
           }
+          locations[locationUri] = locations[locationUri] + 1
 
         }
 
-        displayMap(locations)
-
-
-
-      },
-      // 2つめは通信失敗時のコールバック
-      function () {
-        alert(data.statusText);
       }
+
+      displayMap(locations)
+
+
+
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
     ).always(function() {
       $("#loading").empty()
     });
 
   });
 
-  function get_dbpedia_info(id, locationUri){
+  function get_dbpedia_info2(id, locationUri){
     var query = "";
     query += " SELECT DISTINCT * ";
     query += " WHERE { ";
@@ -118,147 +84,208 @@
       }
     })
     .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
-        var result = data.results.bindings;
+    // 1つめは通信成功時のコールバック
+    function (data) {
+      var result = data.results.bindings;
 
-        if(result.length > 0){
-          var obj = result[0]
+      if(result.length > 0){
+        var obj = result[0]
 
-          $("#p_"+id).append(obj.comment.value)
-        }
-      },
-      // 2つめは通信失敗時のコールバック
-      function () {
-        alert(data.statusText);
+        $("#p_"+id).append(obj.comment.value)
       }
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
     ).always(function() {
       $("#loading").empty()
     });
 
   }
 
-  function displayMap(locations){
-    var mymap = L.map('mapid').setView([51.505, -0.09], 2);
+  function get_dbpedia_info(locationUri){
 
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-      maxZoom: 10,
-      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-      '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-      'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-      id: 'mapbox.streets'
-    }).addTo(mymap);
+    var query = "PREFIX dbo: <http://dbpedia.org/ontology/> ";
+    query += " SELECT DISTINCT * ";
+    query += " WHERE { ";
+    query += " ?s <http://www.w3.org/2002/07/owl#sameAs> <" + locationUri + "> . ";
+    query += " ?s rdfs:comment ?comment . ";
+    //query += " filter(LANG(?comment) = 'ja' || LANG(?comment) = 'en') ";
+    query += " filter(LANG(?comment) = 'ja') ";
+    query += " ?s rdfs:label ?label . ";
+    query += " filter(LANG(?label) = 'ja') ";
+    query += " optional {?s dbo:thumbnail ?thumb . } ";
+    query += " } ";
 
     $.ajax({
-      url:'data/map.json'
+      url:"https://dbpedia.org/sparql",
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
     })
     .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
+    // 1つめは通信成功時のコールバック
+    function (data) {
+      var result = data.results.bindings;
+      
+      if(result.length > 0){
+        var obj = result[0]
 
-        //var result = data.results.bindings;
+        var info = $("#info");
+        info.append($("<hr/>"));
 
-        var markers = L.markerClusterGroup({
-          iconCreateFunction: function(cluster) {
-            var children = cluster.getAllChildMarkers();
-            var sum = 0;
-            for (var i = 0; i < children.length; i++) {
-              sum += children[i].number;
-            }
-            return new L.AwesomeNumberMarkers({number: sum });
-          }
-        });
+        var media = $('<div class="media">');
+          info.append(media);
 
-        var items = new Array();
-
-        var mlat = 0;
-        var mlong = 0;
-
-        var set = new Array()
-
-        for (var i = 0; i < result.length; i++) {
-          var obj = result[i];
-
-          var location = obj["@id"]
-
-          if(locations[location]){
-            var n = locations[location]
-
-            //var title = obj.label.value
-            var title = obj["http://www.w3.org/2000/01/rdf-schema#label"][0]["@value"]
-            var lat = obj["http://www.w3.org/2003/01/geo/wgs84_pos#lat"][0]["@value"]
-            var long = obj["http://www.w3.org/2003/01/geo/wgs84_pos#long"][0]["@value"]
-
-            var marker = L.marker(new L.LatLng(lat, long), { title: title, icon:   new L.AwesomeNumberMarkers({number: n}) });
-            marker.number = n
-
-            mlat += Number(lat);
-            mlong += Number(long);
-
-            var thumb = "";
-            if(obj.thumb){
-              thumb = obj.thumb.value
-            }
-
-            url = location;
-
-            if(set.indexOf(url) == -1){
-
-              var contents = '<div style="width : 180px">'
-
-              contents += '</div>';
-
-              var link = "table.html?property=http://purl.org/dc/terms/spatial&value="+location+"&type=uri"
-
-              var contents = '<div><div class="media">';
-              //contents += '<img class="mr-3" style="width : 64px" src="'+thumb+'" alt="Generic placeholder image">';
-              contents += '<div class="media-body">';
-              contents += '<h5 class="mt-0"><a href="#" onclick="show_modal(\''+link+'\',\''+title+'\'); return false;">'+title+'</a></h5>';
-              //contents += '<p id="p_'+i+'"></p>';
-              contents += '</div>';
-              contents += '</div></div>';
-
-              marker.bindPopup(contents);
-              markers.addLayer(marker);
-
-              set.push(url)
-
-            }
+          if(obj.thumb){
+            var img = $('<img class="mr-3" alt="Generic placeholder image">')
+            media.append(img)
+            img.attr("src", obj.thumb.value)
+            img.attr("width", "64px")
           }
 
-          //get_dbpedia_info(i, obj.location.value)
+          var body = $('<div class="media-body">');
+            media.append(body)
 
+            body.append(obj.comment.value)
+            body.append(" ")
+
+            var a = $("<a>");
+              body.append(a)
+              a.attr("href", "https://ja.wikipedia.org/wiki/"+obj.label.value)
+              a.attr("target", "wiki")
+              a.append("ウィキペディア")
+            }
+          },
+          // 2つめは通信失敗時のコールバック
+          function () {
+            alert(data.statusText);
+          }
+          ).always(function() {
+            $("#loading").empty()
+          });
 
         }
 
-        mymap.addLayer(markers);
+        function displayMap(locations){
+          var mymap = L.map('mapid').setView([51.505, -0.09], 2);
 
-        var popup = L.popup();
+          L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+            maxZoom: 10,
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+            '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+            'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+            id: 'mapbox.streets'
+          }).addTo(mymap);
 
-        function onMapClick(e) {
+          $.ajax({
+            url:'data/map.json'
+          })
+          .then(
+          // 1つめは通信成功時のコールバック
+          function (result) {
 
-          popup
-          .setLatLng(e.latlng)
-          .setContent("You clicked the map at " + e.latlng.toString())
-          .openOn(mymap);
-        }
+            //var result = data.results.bindings;
 
-        mymap.on('click', onMapClick);
+            var markers = L.markerClusterGroup({
+              iconCreateFunction: function(cluster) {
+                var children = cluster.getAllChildMarkers();
+                var sum = 0;
+                for (var i = 0; i < children.length; i++) {
+                  sum += children[i].number;
+                }
+                return new L.AwesomeNumberMarkers({number: sum });
+              }
+            });
 
-        mymap.panTo(new L.LatLng(mlat / result.length, mlong / result.length));
+            var items = new Array();
 
-      },
-      // 2つめは通信失敗時のコールバック
-      function () {
-        alert(data.statusText);
-      }
-    ).always(function() {
-      $("#loading").empty()
-    });
+            var mlat = 0;
+            var mlong = 0;
+
+            var set = new Array()
+
+            for (var i = 0; i < result.length; i++) {
+              var obj = result[i];
+
+              var location = obj["@id"]
+
+              if(locations[location]){
+                var n = locations[location]
+
+                //var title = obj.label.value
+                var title = obj["http://www.w3.org/2000/01/rdf-schema#label"][0]["@value"]
+                var lat = obj["http://www.w3.org/2003/01/geo/wgs84_pos#lat"][0]["@value"]
+                var long = obj["http://www.w3.org/2003/01/geo/wgs84_pos#long"][0]["@value"]
+
+                var marker = L.marker(new L.LatLng(lat, long), { title: title, icon:   new L.AwesomeNumberMarkers({number: n}) });
+                marker.number = n
+
+                mlat += Number(lat);
+                mlong += Number(long);
+
+                var thumb = "";
+                if(obj.thumb){
+                  thumb = obj.thumb.value
+                }
+
+                url = location;
+
+                if(set.indexOf(url) == -1){
+
+                  var contents = '<div style="width : 180px">'
+
+                    contents += '</div>';
+
+                    var link = "table.html?property=http://purl.org/dc/terms/spatial&value="+location+"&type=uri"
+
+                    var contents = '<div><div class="media">';
+                      //contents += '<img class="mr-3" style="width : 64px" src="'+thumb+'" alt="Generic placeholder image">';
+                      contents += '<div class="media-body">';
+                        contents += '<h5 class="mt-0"><a href="#" onclick="get_dbpedia_info(\''+url+'\'); show_modal(\''+link+'\',\''+title+'\'); return false;">'+title+'</a></h5>';
+                        //contents += '<p id="p_'+i+'"></p>';
+                        contents += '</div>';
+                        contents += '</div></div>';
+
+                        marker.bindPopup(contents);
+                        markers.addLayer(marker);
+
+                        set.push(url)
+
+                      }
+                    }
+
+                  }
+
+                  mymap.addLayer(markers);
+
+                  var popup = L.popup();
+
+                  function onMapClick(e) {
+
+                    popup
+                    .setLatLng(e.latlng)
+                    .setContent("You clicked the map at " + e.latlng.toString())
+                    .openOn(mymap);
+                  }
+
+                  mymap.on('click', onMapClick);
+
+                  mymap.panTo(new L.LatLng(mlat / result.length, mlong / result.length));
+
+                },
+                // 2つめは通信失敗時のコールバック
+                function () {
+                  alert(data.statusText);
+                }
+                ).always(function() {
+                  $("#loading").empty()
+                });
 
 
-  }
+              }
 
-  </script>
-</body>
-</html>
+            </script>

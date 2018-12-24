@@ -64,6 +64,7 @@ function check(rootDir){
 }
 
 function show_modal(link, value){
+  $("#info").empty()
   $("#link").attr("href", link)
   $("#value").text(value)
   $('#myModal').modal()
@@ -82,7 +83,7 @@ function show_curation_modal(curation){
         $("#description").empty().append(e)
       }
       $("#iframe").attr("src", "iiif-curation-player/embed.html?curation="+curation)
-      $("#link").attr("href", "iiif-curation-player/?curation="+curation)
+      $("#curationLink").attr("href", "iiif-curation-player/?curation="+curation)
       $('#curationModal').modal()
     }
   );
