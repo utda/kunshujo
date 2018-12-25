@@ -106,6 +106,10 @@ title: 地図で見る
 
   function get_dbpedia_info(locationUri){
 
+    if(locationUri == "http://ja.dbpedia.org/resource/陸奥国"){
+      locationUri = "http://ja.dbpedia.org/resource/陸奥国_(1869-)"
+    }
+
     var query = "PREFIX dbo: <http://dbpedia.org/ontology/> ";
     query += " SELECT DISTINCT * ";
     query += " WHERE { ";
@@ -130,7 +134,7 @@ title: 地図で見る
     // 1つめは通信成功時のコールバック
     function (data) {
       var result = data.results.bindings;
-      
+
       if(result.length > 0){
         var obj = result[0]
 
