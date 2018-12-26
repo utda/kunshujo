@@ -21,7 +21,6 @@ title: 一覧
   }
 </style>
 
-
 <div class="container">
 
   <div class="table-responsive my-5">
@@ -62,7 +61,9 @@ title: 一覧
 
 
 <!-- <script>curation('./');</script> -->
-
+<!-- cdnjs -->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js"></script>
 
 <script>
 
@@ -144,10 +145,10 @@ title: 一覧
                 img_div.append(a)
                 a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
 
-                var img = $("<img class='img-fluid' height='90px'>")
+                var img = $("<img class='img-fluid lazy' height='90px'>")
                 a.append(img)
 
-                img.attr("src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
+                img.attr("data-src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
                 img.before("<span style='display : none;'>image,yes,on,true</span>");
                 img.addClass("z-depth-1")
               }　else {
@@ -202,7 +203,9 @@ title: 一覧
 
                       if(obj[dcterms+"relation"] != null){
                         var a = $("<a>")
-                          a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
+                          //a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
+                          a.attr("href", "iiif-curation-player/?curation="+obj[dcterms+"relation"][0]["@id"])
+                          a.attr("target", "cr")
                           var img = $("<img>")
                           a.append(img)
                           img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
@@ -217,8 +220,12 @@ title: 一覧
 
                     }
 
+
                     // DataTable
                     var table = $('#table').DataTable({
+                      drawCallback: function(){
+                        $(".lazy").lazy();
+                      },
                       "language": {
                         "url": "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
                       },
@@ -277,6 +284,8 @@ title: 一覧
                       .to$()
                       .removeClass( 'selected' );
                     } );
+
+
 
                     // Apply the search
                     table.columns().every( function () {
