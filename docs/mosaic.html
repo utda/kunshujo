@@ -8,16 +8,16 @@ title: サムネイルで見る
 
 
 <style>
-.pagetop a {
-  filter:alpha(opacity=80);
-  -moz-opacity: 0.8;
-  opacity: 0.8;
-}
-.pagetop a:hover {
-  filter:alpha(opacity=80);
-  -moz-opacity: 0.8;
-  opacity: 0.8;
-}
+  .pagetop a {
+    filter:alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+  }
+  .pagetop a:hover {
+    filter:alpha(opacity=80);
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+  }
 </style>
 
 <div class="container-fluid py-2 my-5">
@@ -25,7 +25,7 @@ title: サムネイルで見る
   <h3 class="mb-5 text-center">ランダムに<span id="n"></span>件を抽出して表示します</h3>
 
   <div class="text-center" id="loading">
-    <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+    <img src="assets/images/loading.gif" class="img-fluid"/>
   </div>
 
   <div id="myMosaic"></div>
@@ -35,20 +35,20 @@ title: サムネイルで見る
 <script>
 
 
-var dcterms = "http://purl.org/dc/terms/"
-var foaf = "http://xmlns.com/foaf/0.1/"
+  var dcterms = "http://purl.org/dc/terms/"
+  var foaf = "http://xmlns.com/foaf/0.1/"
 
-var n = 250
-$("#n").append(n)
+  var n = 250
+  $("#n").append(n)
 
-var i_arr = []
+  var i_arr = []
 
-jQuery(document).ready(function() {
+  jQuery(document).ready(function() {
 
-  $.ajax({
-    url:'data/data.json'
-  })
-  .then(
+    $.ajax({
+      url:'data/data.json'
+    })
+    .then(
     // 1つめは通信成功時のコールバック
     function (result) {
 
@@ -77,7 +77,7 @@ jQuery(document).ready(function() {
           img.attr("data-high-res-image-src", url)
           img.attr("width", area[2])
           img.attr("height", area[3])
-          img.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"')")
+          img.attr("onclick", "show_thumbnail_modal('"+obj[dcterms+"relation"][0]["@id"]+"', '"+url+"')")
           img.attr("style", "cursor: pointer")
 
           $("#myMosaic").append(img)
@@ -87,7 +87,7 @@ jQuery(document).ready(function() {
 
       setTimeout(function(){
         $('#myMosaic').Mosaic({
-          maxRowHeight: 200,
+          maxRowHeight: 100,
           innerGap : 10
         });
       },1000);
@@ -98,10 +98,10 @@ jQuery(document).ready(function() {
     function () {
       alert(data.statusText);
     }
-  ).always(function() {
-    $("#loading").empty()
-  });
+    ).always(function() {
+      $("#loading").empty()
+    });
 
-})
+  })
 
 </script>

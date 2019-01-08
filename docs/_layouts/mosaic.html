@@ -15,22 +15,16 @@
   <link rel="image_src" href="{{ site.image }}" />
   <link rel="shortcut icon" href="assets/images/favicon.ico">
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-  <!-- Bootstrap core CSS -->
+
   <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Material Design Bootstrap -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
-
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
-
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/select/1.2.7/css/select.dataTables.min.css">
-
-  <link rel="stylesheet" href="assets/thirdparty/Leaflet.awesome-numbered-marker/src/leaflet_awesome_number_markers.css" />
-
   <link rel="stylesheet" type="text/css" href="./assets/css/style.css"/>
 
-  <link href="assets/thirdparty/vis/4.15.1/vis.min.css" rel="stylesheet" type="text/css" />
+  
+</head>
+<body id="page-top">
+
+  {% include nav.html %}
 
   <script
   src="//code.jquery.com/jquery-3.3.1.min.js"
@@ -41,34 +35,13 @@
   integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
   crossorigin="anonymous"></script>
 
-  <script
-  src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-  <script
-  src="https://cdn.datatables.net/select/1.2.7/js/dataTables.select.min.js"></script>
-
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
-  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
-  <link rel="stylesheet" href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css" />
-  <script src="https://leaflet.github.io/Leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
-  <script src="https://leaflet.github.io/Leaflet.markercluster/example/realworld.388.js"></script>
-
-  <script src="assets/thirdparty/Leaflet.awesome-numbered-marker/src/leaflet_awesome_number_markers.js"></script>
-
-  <script src="assets/thirdparty/vis/4.15.1/vis.min.js"></script>
-
-  <script src="//code.highcharts.com/highcharts.js"></script>
-
   <script src="./assets/js/main.js"></script>
 
-</head>
-<body id="page-top">
 
-  {% include nav.html %}
   {{ content }}
 
   {% include check.html %}
-  {% include curation.html %}
+  {% include thumb.html %}
 
   <p class="pagetop"><a href="#wrap">▲</a></p>
 

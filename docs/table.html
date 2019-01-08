@@ -3,6 +3,16 @@ layout: default
 title: 一覧
 ---
 
+<link rel="preload" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css"></noscript>
+
+<link rel="preload" href="https://cdn.datatables.net/select/1.2.7/css/select.dataTables.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.datatables.net/select/1.2.7/css/select.dataTables.min.css"></noscript>
+
+<script>
+  (function(a){if(!a.loadCSS){a.loadCSS=function(){}}var b=loadCSS.relpreload={};b.support=(function(){var d;try{d=a.document.createElement("link").relList.supports("preload")}catch(f){d=false}return function(){return d}})();b.bindMediaToggle=function(e){var f=e.media||"all";function d(){if(e.addEventListener){e.removeEventListener("load",d)}else{if(e.attachEvent){e.detachEvent("onload",d)}}e.setAttribute("onload",null);e.media=f}if(e.addEventListener){e.addEventListener("load",d)}else{if(e.attachEvent){e.attachEvent("onload",d)}}setTimeout(function(){e.rel="stylesheet";e.media="only x"});setTimeout(d,3000)};b.poly=function(){if(b.support()){return}var d=a.document.getElementsByTagName("link");for(var e=0;e<d.length;e++){var f=d[e];if(f.rel==="preload"&&f.getAttribute("as")==="style"&&!f.getAttribute("data-loadcss")){f.setAttribute("data-loadcss",true);b.bindMediaToggle(f)}}};if(!b.support()){b.poly();var c=a.setInterval(b.poly,500);if(a.addEventListener){a.addEventListener("load",function(){b.poly();a.clearInterval(c)})}else{if(a.attachEvent){a.attachEvent("onload",function(){b.poly();a.clearInterval(c)})}}}if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}else{a.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this));
+</script>
+
 <style>
   div.dataTables_length {
     padding-left: 2em;
@@ -52,13 +62,16 @@ title: 一覧
   </div>
 
   <div class="text-center" id="loading">
-    <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2012/4/24/16/anigif_enhanced-buzz-10731-1335299292-14.gif" class="img-fluid"/>
+    <img src="assets/images/loading.gif" class="img-fluid"/>
   </div>
 
 
 </div>
 
-
+<script
+src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script
+src="https://cdn.datatables.net/select/1.2.7/js/dataTables.select.min.js"></script>
 
 <!-- <script>curation('./');</script> -->
 <!-- cdnjs -->
@@ -94,11 +107,13 @@ title: 一覧
     var array = new Array();
 
     $.ajax({
-      url:'data/data.json'
+      url:'data/table.json',
+      async: true
     })
     .then(
     // 1つめは通信成功時のコールバック
     function (result) {
+
       var dataSet = []
 
       var arr = [dcterms+"description", dcterms+"extent", dcterms+"date", dcterms+"coverage", dcterms+"type", dcterms+"format", dcterms+"subject"]
@@ -107,7 +122,7 @@ title: 一覧
 
         var flg = true
 
-        var obj = result[i];
+        var obj = result[i]["obj"];
 
         if(arg["property"]){
           var p = arg["property"]
@@ -132,182 +147,97 @@ title: 一覧
         }
 
         if(flg){
+          dataSet.push(result[i]["row"])
+        }
 
-          var row = []
+      }
 
-          row.push("")
-
-          var img_div = $("<div>");
-
-            if(obj[foaf+"thumbnail"]){
-
-              var a = $("<a>")
-                img_div.append(a)
-                a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
-
-                var img = $("<img class='img-fluid lazy' height='90px'>")
-                a.append(img)
-
-                img.attr("data-src", obj[foaf+"thumbnail"][0]["@id"].replace("/,300/", "/,90/"))
-                img.before("<span style='display : none;'>image,yes,on,true</span>");
-                img.addClass("z-depth-1")
-              }　else {
-
-                var img = $("<img class='img-fluid' height='90px'>")
-                img_div.append(img)
-
-                img.attr("src", "https://www.freeiconspng.com/uploads/no-image-icon-6.png")
-              }
-
-              row.push(img_div.prop('outerHTML'))
-
-
-              var a = $("<span>")
-
-                if(obj[dcterms+"title"] == null){
-                  console.log(obj[dcterms+"title"])
-                }
-
-
-                a.append(obj[dcterms+"title"][0]["@value"])
-
-                row.push(a.prop('outerHTML'))
-
-                var div = $("<div>")
-                  div.append("『捃拾帖』第"+obj[bibo+"volume"][0]["@value"]+"帖")
-                  row.push(div.prop("outerHTML"))
-
-                  //----------
-
-                  var div = $("<div>")
-
-                    var span = $("<span style='display : none;'>")
-                      div.append(span)
-                      span.append(obj[archiveshub+"note"][0]["@value"])
-                      div.append(obj[dcterms+"identifier"][0]["@value"])
-
-                      row.push(div.prop("outerHTML"))
-
-                      for(var j = 0; j < arr.length; j++){
-                        e = arr[j]
-                        text = ""
-                        if(e == dcterms+"date"){
-                          text = "<span style='display : none;'>"+obj[archiveshub+"dateCreatedAccumulated"][0]["@value"]+"</span>"+obj[archiveshub+"dateCreatedAccumulatedString"][0]["@value"]
-                        } else if(obj[e]){
-                          text = obj[e][0]["@value"]
-                        }
-                        row.push(text)
-                      }
-
-                      //-----------
-
-                      if(obj[dcterms+"relation"] != null){
-                        var a = $("<a>")
-                          //a.attr("onclick", "show_curation_modal('"+obj[dcterms+"relation"][0]["@id"]+"'); return false;")
-                          a.attr("href", "iiif-curation-player/?curation="+obj[dcterms+"relation"][0]["@id"])
-                          a.attr("target", "cr")
-                          var img = $("<img>")
-                          a.append(img)
-                          img.attr("src", "http://codh.rois.ac.jp/icp/favicons/icp-logo-32x32.png")
-                          row.push(a.prop('outerHTML'))
-                        } else {
-                          row.push("")
-                        }
-                        //表示するかの判定
-                        dataSet.push(row)
-
-                      }
-
-                    }
+      // DataTable
+      var table = $('#table').DataTable({
+        drawCallback: function(){
+          $(".lazy").lazy();
+        },
+        "language": {
+          "url": "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
+        },
+        data: dataSet,
+        "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
+        "iDisplayLength" : 50,
+        "order" : [ [ 4, "asc" ] ],
+        "columnDefs": [
+        { "width": "5%", "targets": 0 },
+        { "width": "10%", "targets": 1 },
+        { "width": "10%", "targets": 2 },
+        { "width": "10%", "targets": 3 },
+        { "width": "10%", "targets": 4 },
+        { "width": "15%", "targets": 5 },
+        { "width": "5%", "targets": 6 },
+        { "width": "5%", "targets": 7 },
+        { "width": "5%", "targets": 8 },
+        { "width": "5%", "targets": 9 },
+        { "width": "5%", "targets": 10 },
+        { "width": "10%", "targets": 11 },
+        { "width": "5%", "targets": 12 },
+        {
+          orderable: false,
+          className: 'select-checkbox',
+          targets:   0
+        }
+        ],
+        select: {
+          style:    'multi',
+          selector: 'td:first-child'
+        }
+        //fixedColumns: true
+      });
 
 
-                    // DataTable
-                    var table = $('#table').DataTable({
-                      drawCallback: function(){
-                        $(".lazy").lazy();
-                      },
-                      "language": {
-                        "url": "//cdn.datatables.net/plug-ins/1.10.19/i18n/Japanese.json"
-                      },
-                      data: dataSet,
-                      "dom": '<"top"iflp<"clear">>rt<"bottom"iflp<"clear">>',
-                      "iDisplayLength" : 50,
-                      "order" : [ [ 4, "asc" ] ],
-                      "columnDefs": [
-                      { "width": "5%", "targets": 0 },
-                      { "width": "10%", "targets": 1 },
-                      { "width": "10%", "targets": 2 },
-                      { "width": "10%", "targets": 3 },
-                      { "width": "10%", "targets": 4 },
-                      { "width": "15%", "targets": 5 },
-                      { "width": "5%", "targets": 6 },
-                      { "width": "5%", "targets": 7 },
-                      { "width": "5%", "targets": 8 },
-                      { "width": "5%", "targets": 9 },
-                      { "width": "5%", "targets": 10 },
-                      { "width": "10%", "targets": 11 },
-                      { "width": "5%", "targets": 12 },
-                      {
-                        orderable: false,
-                        className: 'select-checkbox',
-                        targets:   0
-                      }
-                      ],
-                      select: {
-                        style:    'multi',
-                        selector: 'td:first-child'
-                      }
-                      //fixedColumns: true
-                    });
+      $('#compareBtn').click( function () {
+        rows = table.rows('.selected').data()
 
+        if(rows.length > 0){
+          param_str = ""
+          for(i = 0; i < rows.length; i++){
+            curationUri = rows[i][1].split("'")[1]
+            param_str += ";"+curationUri
+          }
+          window.open("mirador/?param="+param_str.substring(1), 'mirador');
+        } else {
+          alert("比較したい資料の行を選択してください.")
+        }
 
-                    $('#compareBtn').click( function () {
-                      rows = table.rows('.selected').data()
+      } );
 
-                      if(rows.length > 0){
-                        param_str = ""
-                        for(i = 0; i < rows.length; i++){
-                          curationUri = rows[i][1].split("'")[1]
-                          param_str += ";"+curationUri
-                        }
-                        window.open("mirador/?param="+param_str.substring(1), 'mirador');
-                      } else {
-                        alert("比較したい資料の行を選択してください.")
-                      }
+      $('#removeBtn').click( function () {
+        table
+        .rows( '.selected' )
+        .nodes()
+        .to$()
+        .removeClass( 'selected' );
+      } );
 
-                    } );
+      // Apply the search
+      table.columns().every( function () {
+        var that = this;
 
-                    $('#removeBtn').click( function () {
-                      table
-                      .rows( '.selected' )
-                      .nodes()
-                      .to$()
-                      .removeClass( 'selected' );
-                    } );
+        $( 'input', this.header() ).on( 'keyup change', function () {
+          if ( that.search() !== this.value ) {
+            that
+            .search( this.value )
+            .draw();
+          }
+        } );
+      } );
 
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+    ).always(function() {
+      $("#loading").empty()
+    });
 
+  })
 
-                    // Apply the search
-                    table.columns().every( function () {
-                      var that = this;
-
-                      $( 'input', this.header() ).on( 'keyup change', function () {
-                        if ( that.search() !== this.value ) {
-                          that
-                          .search( this.value )
-                          .draw();
-                        }
-                      } );
-                    } );
-                  },
-                  // 2つめは通信失敗時のコールバック
-                  function () {
-                    alert(data.statusText);
-                  }
-                  ).always(function() {
-                    $("#loading").empty()
-                  });
-
-                })
-
-              </script>
+</script>

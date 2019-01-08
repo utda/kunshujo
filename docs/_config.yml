@@ -19,6 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。
 url: "https://kunshujo.dl.itc.u-tokyo.ac.jp" # the base hostname & protocol for your site, e.g. https://kunshujo.dl.itc.u-tokyo.ac.jp
 github_username:  utda
-image: https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/092/092_0141.tif/1139,1721,3003,1791/,600/0/default.jpg
+image: https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/092/092_0141.tif/1139,1721,3003,1791/,300/0/default.jpg
 
 google_analytics: UA-131942263-1
