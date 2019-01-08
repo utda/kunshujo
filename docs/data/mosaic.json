@@ -1,0 +1,119 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/mosaic.json",
+  "@type": "sc:Manifest",
+  "label": "捃拾帖 九五",
+  "description": "表紙画像は最終冊の最後に貼られた、当時の新聞の「紙型」（組んだ活字を厚紙に押し付けて作る鋳型）。58年間にもわたって何でも貼り続けた博物学者の情熱がダダ漏れの一頁です。",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/top.tif/full/,300/0/default.jpg",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+  "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/5e421818-26f3-4b60-b01d-c917afc75c38",
+  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/25214",
+  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka",
+  "metadata": [
+    {
+      "label": "タイトル",
+      "value": "捃拾帖 九五"
+    },
+    {
+      "label": "注記",
+      "value": "大正五年六月終"
+    },
+    {
+      "label": "冊",
+      "value": "第92冊"
+    },
+    {
+      "label": "請求記号",
+      "value": "A00:6010"
+    },
+    {
+      "label": "作成者",
+      "value": "田中芳男"
+    },
+    {
+      "label": "identifier",
+      "value": "5e421818-26f3-4b60-b01d-c917afc75c38"
+    },
+    {
+      "label": "Manifest Uri",
+      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e421818-26f3-4b60-b01d-c917afc75c38/manifest"
+    },
+    {
+      "label": "Database Label",
+      "value": "田中芳男・博物学コレクション"
+    },
+    {
+      "label": "attributionLabel",
+      "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/mosaic.json/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingHint": "non-paged",
+      "canvases": [
+        {
+          "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/mosaic.json/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "width": 15000,
+          "height": 10830,
+          "images": [
+            {
+              "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/mosaic.json/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/092/092_0001.tif/full/full/0/default.jpg",
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/top.tif/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "height": 10830,
+                  "label": "加工画像",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/top.tif",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  },
+                  "width": 15000
+                },
+                "format": "image/jpeg",
+                "height": 10830,
+                "width": 15000,
+                "item": [
+                  {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/org.tif/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 10830,
+                    "label": "元画像",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/org.tif",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    },
+                    "width": 15000
+                  }
+                ],
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/top.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "width": 15000,
+                  "height": 10830
+                }
+              },
+              "on": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/mosaic.json/canvas/p1"
+            }
+          ]
+        }
+        ]
+        }
+  ]
+}
