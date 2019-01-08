@@ -11,11 +11,22 @@
 <body>
   <div id="openseadragon"></div>
   <script type="text/javascript">
+
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
+
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
+  }
+
+  var tileSource = arg["tileSource"] != null ? arg["tileSource"] : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/top.tif/info.json";
+
   var viewer = OpenSeadragon({
     id: "openseadragon",
     prefixUrl:       "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.0/images/",
     showNavigator: true,
-    tileSources: "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/top.tif/info.json"
+    tileSources: tileSource
   });
 </script>
 </body>
