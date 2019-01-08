@@ -65,7 +65,7 @@ function check(rootDir){
 
 function show_modal(link, value){
   $("#info").empty()
-  $("#link").attr("href", link)
+  $("#link").attr("href", encodeURI(link))
   $("#value").text(value)
   $('#myModal').modal()
 }
