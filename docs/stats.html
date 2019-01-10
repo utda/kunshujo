@@ -24,7 +24,7 @@ title: カテゴリで見る
   var foaf = "http://xmlns.com/foaf/0.1/"
 
   var properties = {
-    "地名" : "http://purl.org/dc/terms/coverage",
+    "地名" : "http://purl.org/dc/terms/spatial",
     "版" : "http://purl.org/dc/terms/type",
     "形態": "http://purl.org/dc/terms/format",
     "内容": "http://purl.org/dc/terms/subject",
@@ -51,6 +51,10 @@ title: カテゴリで見る
             var arr = obj[v]
             for(var k = 0; k < arr.length; k++){
               var o = arr[k]["@value"]
+              if(o == null){
+                o = arr[k]["@id"].replace("http://ja.dbpedia.org/resource/", "")
+              }
+
               if(!map[label]){
                 map[label] = {}
               }
@@ -147,7 +151,20 @@ title: カテゴリで見る
                       events: {
                         click: function () {
                           //location.href = "table.html?property="+properties[this.series.chart.title.textStr]+"&value="+this.category
-                          var link = "table.html?property="+properties[this.series.chart.title.textStr]+"&value="+this.category
+                          var value = this.category
+
+                          if(value == "その他"){
+                            return false
+                          }
+
+                          if(this.series.chart.title.textStr == "地名"){
+                            value = "http://ja.dbpedia.org/resource/"+value
+                          }
+                          var link = "table.html?property="+properties[this.series.chart.title.textStr]+"&value="+value
+                          if(this.series.chart.title.textStr == "地名"){
+                            link += "&type=uri"
+                          }
+
                           show_modal(link, this.category)
                         }
                       }

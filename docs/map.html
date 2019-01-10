@@ -37,7 +37,7 @@ title: 地図で見る
     jQuery.ajaxSetup({
       cache : true
     });
-
+    
     $.ajax({
       url:'data/data.json'
     })
@@ -54,11 +54,15 @@ title: 地図で見る
         var obj = result[i];
 
         if(obj[dcterms+"spatial"]){
-          var locationUri = obj[dcterms+"spatial"][0]["@id"]
-          if(!locations[locationUri]){
-            locations[locationUri] = 0
+          var tmp = obj[dcterms+"spatial"]
+          for(var j = 0; j < tmp.length; j++){
+            var locationUri = tmp[j]["@id"]
+            if(!locations[locationUri]){
+              locations[locationUri] = 0
+            }
+            locations[locationUri] = locations[locationUri] + 1
           }
-          locations[locationUri] = locations[locationUri] + 1
+
 
         }
 
