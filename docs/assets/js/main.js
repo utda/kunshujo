@@ -82,7 +82,14 @@ function show_curation_modal(curation){
         var e = $(description)
         $("#description").empty().append(e)
       }
-      $("#iframe").attr("src", "iiif-curation-player/embed.html?curation="+curation)
+      var ua = navigator.userAgent;
+      if ((ua.indexOf('iPhone') > 0 || ua.indexOf('Android') > 0) && ua.indexOf('Mobile') > 0) {
+        $("#modal_thumbnail").attr("src", result.selections[0].members[0].thumbnail)
+        $("#iframe").hide()
+      } else {
+        $("#iframe").attr("src", "iiif-curation-player/embed.html?curation="+curation)
+        $("#modal_thumbnail").hide()
+      }
       $("#curationLink").attr("href", "iiif-curation-player/?curation="+curation)
       $('#curationModal').modal()
     }
