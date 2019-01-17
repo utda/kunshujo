@@ -27,12 +27,22 @@ title: 比較 | 電子展示『捃拾帖』
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <style type="text/css">
-  #viewer {
-    width: 100%;
-    height: 100%;
-    position: fixed;
-  }
+    #viewer {
+      width: 100%;
+      height: 100%;
+      position: fixed;
+    }
   </style>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131942263-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-131942263-1');
+  </script>
 
 </head>
 <body>
@@ -50,56 +60,56 @@ title: 比較 | 電子展示『捃拾帖』
 
   <script type="text/javascript" language="javascript">
 
-  //パラメータの取得
-  var vars = getParam();
+    //パラメータの取得
+    var vars = getParam();
 
-  var param = vars["param"];
+    var param = vars["param"];
 
-  params = param.split(";")
+    params = param.split(";")
 
-  $.ajaxSetup({
-    async: false
-  });
-
-  var windowObjects = []
-  data = []
-
-  for(i = 0; i< params.length; i++){
-    $.getJSON(params[i], function(json){
-      selection = json["selections"][0]
-      canvas_uri = selection["members"][0]["@id"].split("#")[0]
-      manifest_uri = selection["within"]["@id"]
-
-      var area = selection["members"][0]["@id"].split("#")[1].split("=")[1].split(",")
-
-      var obj = new Object();
-      obj["loadedManifest"] = manifest_uri;
-      obj["canvasID"] =  canvas_uri;
-      obj["viewType"] = "ImageView";
-      obj["id"] = "window_"+i;
-      obj["windowOptions"] = {
-        "osdBounds": {
-          "x": Number(area[0]),
-          "y": Number(area[1]),
-          "width": Number(area[2]),
-          "height": Number(area[3])
-        }
-      }
-      obj["xywh"] = area
-      windowObjects.push(obj);
-
-      obj = new Object();
-      obj["manifestUri"] = manifest_uri;
-      data.push(obj)
-
+    $.ajaxSetup({
+      async: false
     });
-  }
 
-  layout = "1x"+(params.length);
+    var windowObjects = []
+    data = []
 
-  $(function(){
+    for(i = 0; i< params.length; i++){
+      $.getJSON(params[i], function(json){
+        selection = json["selections"][0]
+        canvas_uri = selection["members"][0]["@id"].split("#")[0]
+        manifest_uri = selection["within"]["@id"]
 
-    miradorInstance = Mirador(
+        var area = selection["members"][0]["@id"].split("#")[1].split("=")[1].split(",")
+
+        var obj = new Object();
+        obj["loadedManifest"] = manifest_uri;
+        obj["canvasID"] =  canvas_uri;
+        obj["viewType"] = "ImageView";
+        obj["id"] = "window_"+i;
+        obj["windowOptions"] = {
+          "osdBounds": {
+            "x": Number(area[0]),
+            "y": Number(area[1]),
+            "width": Number(area[2]),
+            "height": Number(area[3])
+          }
+        }
+        obj["xywh"] = area
+        windowObjects.push(obj);
+
+        obj = new Object();
+        obj["manifestUri"] = manifest_uri;
+        data.push(obj)
+
+      });
+    }
+
+    layout = "1x"+(params.length);
+
+    $(function(){
+
+      miradorInstance = Mirador(
       {
         "id": "viewer",
         "layout": layout,
@@ -117,39 +127,39 @@ title: 比較 | 電子展示『捃拾帖』
         "windowObjects": windowObjects,
         "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" }
       }
-    );
-  });
+      );
+    });
 
-  function move(){
+    function move(){
 
-    for(i = 0; i < windowObjects.length; i++){
-      obj = windowObjects[i]
+      for(i = 0; i < windowObjects.length; i++){
+        obj = windowObjects[i]
 
-      zone_canvasID = obj["canvasID"]
-      xywh = obj["xywh"]
-      zone_x = Number(xywh[0])
-      zone_y = Number(xywh[1])
-      zone_w = Number(xywh[2])
-      zone_z = Number(xywh[3])
+        zone_canvasID = obj["canvasID"]
+        xywh = obj["xywh"]
+        zone_x = Number(xywh[0])
+        zone_y = Number(xywh[1])
+        zone_w = Number(xywh[2])
+        zone_z = Number(xywh[3])
 
-      miradorInstance.eventEmitter.publish('SET_CURRENT_CANVAS_ID.window_'+i, zone_canvasID);
-      miradorInstance.eventEmitter.publish('fitBounds.window_'+i, {'x': zone_x, 'y': zone_y,'width': zone_w, 'height': zone_z});
+        miradorInstance.eventEmitter.publish('SET_CURRENT_CANVAS_ID.window_'+i, zone_canvasID);
+        miradorInstance.eventEmitter.publish('fitBounds.window_'+i, {'x': zone_x, 'y': zone_y,'width': zone_w, 'height': zone_z});
+      }
     }
-  }
 
-  function getParam(){
-    var vars = {};
-    var param = location.search.substring(1).split('&');
-    for(var i = 0; i < param.length; i++) {
-      var keySearch = param[i].search(/=/);
-      var key = '';
-      if(keySearch != -1) key = param[i].slice(0, keySearch);
-      var val = param[i].slice(param[i].indexOf('=', 0) + 1);
-      if(key != '') vars[key] = decodeURI(val);
+    function getParam(){
+      var vars = {};
+      var param = location.search.substring(1).split('&');
+      for(var i = 0; i < param.length; i++) {
+        var keySearch = param[i].search(/=/);
+        var key = '';
+        if(keySearch != -1) key = param[i].slice(0, keySearch);
+        var val = param[i].slice(param[i].indexOf('=', 0) + 1);
+        if(key != '') vars[key] = decodeURI(val);
+      }
+      return vars;
     }
-    return vars;
-  }
 
-</script>
+  </script>
 </body>
 </html>
