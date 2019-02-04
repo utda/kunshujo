@@ -17,29 +17,40 @@
           <li class="nav-item {% if page.url == '/table.html' %} active {% endif %}">
             <a class="nav-link" href="table.html">一覧</a>
           </li>
-          <li class="nav-item {% if page.url == '/map.html') %} active {% endif %}">
-            <a class="nav-link" href="map.html">地図で見る</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              その他の方法で見る
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="map.html">地図で見る</a>
+              <a class="dropdown-item" href="stats.html">カテゴリで見る</a>
+              <a class="dropdown-item" href="mosaic.html">サムネイルで見る</a>
+              <a class="dropdown-item" href="timeline.html">年表で見る</a>
+            </div>
           </li>
-          <li class="nav-item {% if page.url == '/stats.html' %} active {% endif %}">
-            <a class="nav-link" href="stats.html">カテゴリで見る</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              このサイトについて
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="about.html">このサイトについて</a>
+              <a class="dropdown-item" href="license.html">利用条件</a>
+              <a class="dropdown-item" href="legend.html">凡例</a>
+            </div>
           </li>
-          <li class="nav-item {% if page.url == '/mosaic.html' %} active {% endif %}">
-            <a class="nav-link" href="mosaic.html">サムネイルで見る</a>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              ダウンロード
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="data/metadata.xlsx">書誌データのダウンロード（Excel）</a>
+              <a class="dropdown-item" href="data/data.json">書誌データのダウンロード（JSON-LD）</a>
+            </div>
           </li>
-          <li class="nav-item {% if page.url == '/timeline.html' %} active {% endif %}">
-            <a class="nav-link" href="timeline.html">年表で見る</a>
-          </li>
-          <li class="nav-item {% if page.url == '/about.html' %} active {% endif %}">
-            <a class="nav-link" href="about.html">このサイトについて</a>
-          </li>
-          <li class="nav-item {% if page.url == '/license.html' %} active {% endif %}">
-            <a class="nav-link" href="license.html">利用条件</a>
-          </li>
-          <li class="nav-item {% if page.url == '/legend.html' %} active {% endif %}">
-            <a class="nav-link" href="legend.html">凡例</a>
-          </li>
+
           <li class="nav-item">
-            <a class="nav-link" href="data/metadata.xlsx">書誌データのダウンロード</a>
+            <a class="nav-link" target="_blank" href="http://kunshujo-i.dl.itc.u-tokyo.ac.jp/"><!-- 貼り込み資料 -->画像検索プロトタイプ <i class="fas fa-external-link-alt"></i></a>
           </li>
         </ul>
 
