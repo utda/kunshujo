@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-17.json",
+    "@type": "cr:Curation",
+    "label": "山林学共会広告（『捃拾帖』第17帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-17.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p8#xywh=3800,929,2871,3668",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年12月</td></tr><tr><th>西暦コード</th><td>18790012099</td></tr><tr><th>タイトル</th><td>山林学共会広告</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.0×27.5　明治13年1月17日発会、会主生島智雄、緒方道平、松野石間、片山直人、場所は牛込神楽町2丁目12番地</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-17.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-17-17",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治12年12月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18790012099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "山林学共会広告"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×27.5　明治13年1月17日発会、会主生島智雄、緒方道平、松野石間、片山直人、場所は牛込神楽町2丁目12番地"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第17帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/017/017_0008.tif/3800,929,2871,3668/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/manifest",
+                "@label": "捃拾帖 十七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

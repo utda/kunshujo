@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-154.json",
+    "@type": "cr:Curation",
+    "label": "工芸百図刊行案内（『捃拾帖』第18帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-154.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p93#xywh=3832,488,1500,5543",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年8月</td></tr><tr><th>西暦コード</th><td>18790008099</td></tr><tr><th>タイトル</th><td>工芸百図刊行案内</td></tr><tr><th>版種類</th><td>石版？</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>34.0×8.7　博物館蔵版、山高信離の識語あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-154.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-18-154",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治12年8月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18790008099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "工芸百図刊行案内"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "石版？"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "34.0×8.7　博物館蔵版、山高信離の識語あり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0093.tif/3832,488,1500,5543/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/manifest",
+                "@label": "捃拾帖 十八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-52.json",
+    "@type": "cr:Curation",
+    "label": "水晶本珠御誂向細工処引札（『捃拾帖』第18帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-52.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p31#xywh=863,919,2511,3367",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>水晶本珠御誂向細工処引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.7×33.0　山梨県下中巨摩郡宮本村16番戸水晶弘商人相原三有楽</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-52.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>甲斐</td></tr></table>",
+                    "label": "16-A00-6010-18-52",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治14年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18810099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "水晶本珠御誂向細工処引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.7×33.0　山梨県下中巨摩郡宮本村16番戸水晶弘商人相原三有楽"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "甲斐"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0031.tif/863,919,2511,3367/,300/0/default.jpg"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p32#xywh=3897,929,2764,3347",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>水晶本珠御誂向細工処引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.7×33.0　山梨県下中巨摩郡宮本村16番戸水晶弘商人相原三有楽</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-52.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>甲斐</td></tr></table>",
+                    "label": "16-A00-6010-18-52",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治14年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18810099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "水晶本珠御誂向細工処引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.7×33.0　山梨県下中巨摩郡宮本村16番戸水晶弘商人相原三有楽"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "甲斐"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0032.tif/3897,929,2764,3347/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/manifest",
+                "@label": "捃拾帖 十八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

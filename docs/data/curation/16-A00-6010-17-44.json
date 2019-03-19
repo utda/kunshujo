@@ -1,0 +1,64 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-44.json",
+    "@type": "cr:Curation",
+    "label": "〔郵便五厘端書二百枚出納証〕（『捃拾帖』第17帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-44.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p21#xywh=3576,608,1286,2258",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年3月11日</td></tr><tr><th>西暦コード</th><td>18800003011</td></tr><tr><th>タイトル</th><td>〔郵便五厘端書二百枚出納証〕</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.8×7.8　朱印に「印刷局調査部長之印」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-44.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-17-44",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治13年3月11日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18800003011"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔郵便五厘端書二百枚出納証〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.8×7.8　朱印に「印刷局調査部長之印」とあり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第17帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/017/017_0021.tif/3576,608,1286,2258/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/manifest",
+                "@label": "捃拾帖 十七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

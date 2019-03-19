@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-90.json",
+    "@type": "cr:Curation",
+    "label": "保晃会発起者姓名（『捃拾帖』第18帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-90.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p64#xywh=863,1016,5117,3483",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年4月</td></tr><tr><th>西暦コード</th><td>18800004099</td></tr><tr><th>タイトル</th><td>保晃会発起者姓名</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.3×31.0　88の附属史料、本摺物には「明治13年4月25日保晃会第4回会同において公選したる役員姓名」ある故、この月に収む</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-90.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>下野</td></tr></table>",
+                    "label": "16-A00-6010-18-90",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治13年4月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18800004099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "保晃会発起者姓名"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.3×31.0　88の附属史料、本摺物には「明治13年4月25日保晃会第4回会同において公選したる役員姓名」ある故、この月に収む"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会 "
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "下野"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0064.tif/863,1016,5117,3483/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/manifest",
+                "@label": "捃拾帖 十八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

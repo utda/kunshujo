@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-156.json",
+    "@type": "cr:Curation",
+    "label": "和歌山産方言御庭焼花瓶（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-156.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p42#xywh=857,512,2962,3892",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>和歌山産方言御庭焼花瓶</td></tr><tr><th>版種類</th><td>写</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.5×17.5　のし包の上書、田中芳男に贈られたものか</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-156.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>紀伊</td></tr></table>",
+                    "label": "16-A00-6010-16-156",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治11年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18780099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "和歌山産方言御庭焼花瓶"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.5×17.5　のし包の上書、田中芳男に贈られたものか"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "紀伊"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0042.tif/857,512,2962,3892/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-58.json",
+    "@type": "cr:Curation",
+    "label": "〔縫針釣針内国博覧会広告〕（『捃拾帖』第18帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-58.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p35#xywh=889,490,2930,2033",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>〔縫針釣針内国博覧会広告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.0×18.0　銀座1丁目中村利吉、明治10年内国博、11年京都博、13年宮城県博、1879年シドニー万博受賞、14年博覧会のための広告</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-58.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-18-58",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治14年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18810099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔縫針釣針内国博覧会広告〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.0×18.0　銀座1丁目中村利吉、明治10年内国博、11年京都博、13年宮城県博、1879年シドニー万博受賞、14年博覧会のための広告"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0035.tif/889,490,2930,2033/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/manifest",
+                "@label": "捃拾帖 十八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

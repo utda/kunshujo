@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-31.json",
+    "@type": "cr:Curation",
+    "label": "鐘ヒョウ（金偏に表）時刻比較略表（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-31.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p13#xywh=3857,549,3028,4404",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10 ?年</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>タイトル</th><td>鐘ヒョウ（金偏に表）時刻比較略表</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.8×17.5　自然堂蔵版、九ツ時、八ツ時、七ツ時、六ツ時、五ツ時、四ツ時と西洋時の1年間13季の対照表、春秋分では12時が九ツ、八ツが2時12分（昼）、1時48分（夜）、六ツが5時24分（昼）、6時36分（夜）、四ツが9時48分（昼）、10時12分（夜）、日出は6時、日没は6時</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-31.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-16-31",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治10 ?年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18770099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "鐘ヒョウ（金偏に表）時刻比較略表"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "27.8×17.5　自然堂蔵版、九ツ時、八ツ時、七ツ時、六ツ時、五ツ時、四ツ時と西洋時の1年間13季の対照表、春秋分では12時が九ツ、八ツが2時12分（昼）、1時48分（夜）、六ツが5時24分（昼）、6時36分（夜）、四ツが9時48分（昼）、10時12分（夜）、日出は6時、日没は6時"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "暦"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0013.tif/3857,549,3028,4404/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

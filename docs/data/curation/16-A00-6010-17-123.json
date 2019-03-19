@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-123.json",
+    "@type": "cr:Curation",
+    "label": "〔湖氷魚書付〕（『捃拾帖』第17帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-123.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p43#xywh=2153,1727,542,1018",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>〔湖氷魚書付〕</td></tr><tr><th>版種類</th><td>写</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>5.6×3.0</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-123.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>不明</td></tr></table>",
+                    "label": "16-A00-6010-17-123",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治13年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18800099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔湖氷魚書付〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "写"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.6×3.0"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第17帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/017/017_0043.tif/2153,1727,542,1018/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/manifest",
+                "@label": "捃拾帖 十七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

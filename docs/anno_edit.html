@@ -103,11 +103,18 @@ src="https://cdn.datatables.net/select/1.2.7/js/dataTables.select.min.js"></scri
 
       $.ajaxSetup({ async: false });
 
-      for(k = 0 ; k < 5; k++){
+      max = 100
+
+      for(k = 0 ; k < max; k++){
         page = k + 1
+
         url = "https://diyhistory.org/public/omekac/api/items?search=https://diyhistory.org/public/omekac/oa/collections/"+resourceId+"/manifest.json&item_type=18&page="+page
 
         $.getJSON( url, function( data ) {
+
+          if(data.length == 0){
+            k = max
+          }
 
           for(i = 0; i < data.length; i++){
             var obj = data[i]["element_texts"];

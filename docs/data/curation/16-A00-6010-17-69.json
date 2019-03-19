@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-69.json",
+    "@type": "cr:Curation",
+    "label": "滋養牛肉種製品引札（『捃拾帖』第17帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-69.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p31#xywh=1030,600,2840,4156",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>滋養牛肉種製品引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.0×25.5　牛肉エキス、牛肉あめ、牛肉つくだ煮、本舖大坂天満樽屋町福井良朝製、支店平野町3丁目福井金水堂、右側に同店「牛肉ツクダ煮」引札（木、10.3×11.4）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-69.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>大阪</td></tr></table>",
+                    "label": "16-A00-6010-17-69",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治13年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18800099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "滋養牛肉種製品引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×25.5　牛肉エキス、牛肉あめ、牛肉つくだ煮、本舖大坂天満樽屋町福井良朝製、支店平野町3丁目福井金水堂、右側に同店「牛肉ツクダ煮」引札（木、10.3×11.4）あり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第17帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/017/017_0031.tif/1030,600,2840,4156/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/manifest",
+                "@label": "捃拾帖 十七",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

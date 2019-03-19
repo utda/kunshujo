@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-64.json",
+    "@type": "cr:Curation",
+    "label": "〔甘露桃引札〕（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-64.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p19#xywh=879,3601,4868,1449",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>タイトル</th><td>〔甘露桃引札〕</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>7.7×17.7　桃の砂糖漬鑵詰、埼玉郡増林村放牛舎（製）、埼玉県医学校長坪井為春閲、売捌所は岸田吟香店をはじめ全国で8店、他の1枚は「PEACHES PRESERVED IN SUGAR HOGIUSHA IN SAITAMA-KEN 1877、甘霞桃」と写かれた彩色石版(7.5×10.2）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-64.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>武蔵</td></tr></table>",
+                    "label": "16-A00-6010-16-64",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治10年8月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18770008099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔甘露桃引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.7×17.7　桃の砂糖漬鑵詰、埼玉郡増林村放牛舎（製）、埼玉県医学校長坪井為春閲、売捌所は岸田吟香店をはじめ全国で8店、他の1枚は「PEACHES PRESERVED IN SUGAR HOGIUSHA IN SAITAMA-KEN 1877、甘霞桃」と写かれた彩色石版(7.5×10.2）"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "諸営業"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "武蔵"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0019.tif/879,3601,4868,1449/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

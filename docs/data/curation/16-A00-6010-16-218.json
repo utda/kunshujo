@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-218.json",
+    "@type": "cr:Curation",
+    "label": "官許明治水引札（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-218.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p53#xywh=766,851,2997,4096",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>官許明治水引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.3×24.0　元販売所東京本町3丁目円城半右衛門、大取次銀座2丁目精キ(金偏に奇）水本舗岸田吟香、梅毒の特効薬というふれ込み、英医タンネルの名方云々</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-218.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-16-218",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治12年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18790099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "官許明治水引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.3×24.0　元販売所東京本町3丁目円城半右衛門、大取次銀座2丁目精キ(金偏に奇）水本舗岸田吟香、梅毒の特効薬というふれ込み、英医タンネルの名方云々"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0053.tif/766,851,2997,4096/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

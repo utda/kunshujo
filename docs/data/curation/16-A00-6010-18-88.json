@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-88.json",
+    "@type": "cr:Curation",
+    "label": "〔保晃会寄附要請書〕（『捃拾帖』第18帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-88.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p61#xywh=815,482,2851,4407",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年2月</td></tr><tr><th>西暦コード</th><td>18820002099</td></tr><tr><th>タイトル</th><td>〔保晃会寄附要請書〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.0×25.5　発起人差出、「東京浅草東本願寺中保晃会出張所」の朱角印あり、日光山保存組織</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-88.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>下野</td></tr></table>",
+                    "label": "16-A00-6010-18-88",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治15年2月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18820002099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔保晃会寄附要請書〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×25.5　発起人差出、「東京浅草東本願寺中保晃会出張所」の朱角印あり、日光山保存組織"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会 "
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "下野"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0061.tif/815,482,2851,4407/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/manifest",
+                "@label": "捃拾帖 十八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

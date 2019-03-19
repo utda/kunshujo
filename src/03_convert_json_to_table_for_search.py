@@ -39,8 +39,11 @@ for i in range(len(df)):
     obj3["row"] = obj2
 
     obj2.append("")
+    if dcterms+"relation" in obj:
+        obj2.append('<a onclick="show_curation_modal(\''+obj[dcterms+"relation"][0]["@id"].replace("kunshujo.dl.itc.u-tokyo.ac.jp","nakamura196.github.io/kunshujo")+'\'); return false;"><span style="display : none;">true</span><img class="lazy z-depth-1" style="max-height:151px; max-width:200px;" data-src="'+obj[foaf+"thumbnail"][0]["@id"]+'"></a>')
+    else:
+        obj2.append('')
 
-    obj2.append('<a onclick="show_curation_modal(\''+obj[dcterms+"relation"][0]["@id"]+'\'); return false;"><span style="display : none;">true</span><img class="lazy z-depth-1" style="max-height:151px; max-width:200px;" data-src="'+obj[foaf+"thumbnail"][0]["@id"]+'"></a>')
     obj2.append(form(obj[dcterms+"title"][0]["@value"]))
     obj2.append("『捃拾帖』第"+str(obj[bibo+"volume"][0]["@value"])+"帖")
     obj2.append('<span style="display : none;">'+str(obj[archiveshub+"note"][0]["@value"])+'</span>'+obj[dcterms+"identifier"][0]["@value"])
@@ -60,7 +63,10 @@ for i in range(len(df)):
 
         obj2.append(form(text))
 
-    obj2.append('<a href="iiif-curation-player/?curation='+obj[dcterms+"relation"][0]["@id"]+'" target="cr"><img src="assets/images/icp-logo.png"></a>')
+    if dcterms+"relation" in obj:
+        obj2.append('<a href="iiif-curation-player/?curation='+obj[dcterms+"relation"][0]["@id"].replace("kunshujo.dl.itc.u-tokyo.ac.jp","nakamura196.github.io/kunshujo")+'" target="cr"><img src="assets/images/icp-logo.png"></a>')
+    else:
+        obj2.append('')
 
 with open("data/table.json", 'w') as f:
     json.dump(result, f, ensure_ascii=False, sort_keys=True, separators=(',', ': '))
