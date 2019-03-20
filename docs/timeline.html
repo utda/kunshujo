@@ -19,7 +19,7 @@ title: 年表で見る
   <div class="text-center" id="loading">
     <img src="assets/images/loading.gif" class="img-fluid"/>
   </div>
-  
+
   <div id="timeline" class="mt-5"></div>
 
   <div id="visualization" class="my-5"></div>
@@ -82,10 +82,11 @@ title: 年表で見る
     .then(
     // 1つめは通信成功時のコールバック
     function (result) {
+
       for (var i = 0; i < result.length; i++) {
         var obj = result[i];
 
-        var o = obj[dcterms+"date"][0]["@value"]
+        var o = String(obj[dcterms+"date"][0]["@value"])
 
         o = arrangeDate(o)
 
