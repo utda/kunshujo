@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p58#xywh=3083,2446,3686,2584",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>官許新発明簡易水漉器械引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>15.8×21.8　製造人尾崎米吉、発起人東京練塀町37番地添田奇勢、上総国夷隅郡部原村江沢潤一郎、浅草平右衛門町23番地添田就爾写真出張所</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-234.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京、上総</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>官許新発明簡易水漉器械引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>15.8×21.8　製造人尾崎米吉、発起人東京練塀町37番地添田奇勢、上総国夷隅郡部原村江沢潤一郎、浅草平右衛門町23番地添田就爾写真出張所</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=57'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京、上総</td></tr></table>",
                     "label": "16-A00-6010-16-234",
                     "metadata": [
                         {

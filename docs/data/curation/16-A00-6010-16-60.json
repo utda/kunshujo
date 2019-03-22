@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p18#xywh=2294,3163,4591,1903",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>備後鞆津中村製釀銘酒定価附</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>11.0×27.0　（東京販売店）東京府下第4大区7小区本郷4丁目1番地小林喜右衛門、梅酒（1升、61銭8厘）、菊酒、保命酒、養気酒、本直酒、別製酎酒</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-60.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>備後、東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>備後鞆津中村製釀銘酒定価附</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>11.0×27.0　（東京販売店）東京府下第4大区7小区本郷4丁目1番地小林喜右衛門、梅酒（1升、61銭8厘）、菊酒、保命酒、養気酒、本直酒、別製酎酒</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=17'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>備後、東京</td></tr></table>",
                     "label": "16-A00-6010-16-60",
                     "metadata": [
                         {

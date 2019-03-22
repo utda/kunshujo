@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p59#xywh=5093,734,1577,4076",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年8月5日</td></tr><tr><th>西暦コード</th><td>18790008005</td></tr><tr><th>タイトル</th><td>〔大蔵省商務局領収証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.0×9.3　摺物に書込形式、河瀨秀治宛1封、御使中宛、受取者の「稲川」印あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-238.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年8月5日</td></tr><tr><th>西暦コード</th><td>18790008005</td></tr><tr><th>タイトル</th><td>〔大蔵省商務局領収証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.0×9.3　摺物に書込形式、河瀨秀治宛1封、御使中宛、受取者の「稲川」印あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=58'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-238",
                     "metadata": [
                         {

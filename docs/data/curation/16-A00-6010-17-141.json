@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p48#xywh=4012,3429,1082,1450",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>皇国第一鯛味噌引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>8.1×6.0　東京尾張町2丁目22番地紀伊国屋鈴木吉兵衛</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-141.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>皇国第一鯛味噌引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>8.1×6.0　東京尾張町2丁目22番地紀伊国屋鈴木吉兵衛</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=47'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-141",
                     "metadata": [
                         {

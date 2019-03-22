@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p36#xywh=3731,3375,748,964",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>〔麹町三河屋吉五郎すし引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>5.2×4.0　麹町5丁目横町</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-131.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>〔麹町三河屋吉五郎すし引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>5.2×4.0　麹町5丁目横町</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=35'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-131",
                     "metadata": [
                         {

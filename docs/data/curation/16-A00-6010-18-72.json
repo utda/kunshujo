@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p42#xywh=2370,2435,1385,2487",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年7月</td></tr><tr><th>西暦コード</th><td>18810007099</td></tr><tr><th>タイトル</th><td>〔博覧会審査員歓話会案内状〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>10.7×14.2　審査総長佐野常民差出、田中芳男宛、7月6日3時、於芝離宮、封筒（14.9×9.0）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-72.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年7月</td></tr><tr><th>西暦コード</th><td>18810007099</td></tr><tr><th>タイトル</th><td>〔博覧会審査員歓話会案内状〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>10.7×14.2　審査総長佐野常民差出、田中芳男宛、7月6日3時、於芝離宮、封筒（14.9×9.0）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=41'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-72",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p43#xywh=941,627,2355,1781",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年7月</td></tr><tr><th>西暦コード</th><td>18810007099</td></tr><tr><th>タイトル</th><td>〔博覧会審査員歓話会案内状〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>10.7×14.2　審査総長佐野常民差出、田中芳男宛、7月6日3時、於芝離宮、封筒（14.9×9.0）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-72.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年7月</td></tr><tr><th>西暦コード</th><td>18810007099</td></tr><tr><th>タイトル</th><td>〔博覧会審査員歓話会案内状〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>10.7×14.2　審査総長佐野常民差出、田中芳男宛、7月6日3時、於芝離宮、封筒（14.9×9.0）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=42'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-72",
                     "metadata": [
                         {

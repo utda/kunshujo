@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p18#xywh=2344,537,4491,2716",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年7月</td></tr><tr><th>西暦コード</th><td>18780007099</td></tr><tr><th>タイトル</th><td>新発明強澣紙氷嚢引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.5×22.5　発起製造元東京盛業舎饗庭幾久治、製造元兼窮理東京盛業舎酒井亀次郎、販売元東京通塩町2番地辻市太郎、大坂販売元大坂土佐堀1丁目13番地平瀬保兵衛、他にいわしや、回生堂など全国19の取次商店名あり、また「氷嚢」（木版、16.5×4.3）の1紙あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-59.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年7月</td></tr><tr><th>西暦コード</th><td>18780007099</td></tr><tr><th>タイトル</th><td>新発明強澣紙氷嚢引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.5×22.5　発起製造元東京盛業舎饗庭幾久治、製造元兼窮理東京盛業舎酒井亀次郎、販売元東京通塩町2番地辻市太郎、大坂販売元大坂土佐堀1丁目13番地平瀬保兵衛、他にいわしや、回生堂など全国19の取次商店名あり、また「氷嚢」（木版、16.5×4.3）の1紙あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=17'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-59",
                     "metadata": [
                         {

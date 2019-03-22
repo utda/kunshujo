@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p29#xywh=1449,686,2215,3629",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年3月1日</td></tr><tr><th>西暦コード</th><td>18810003001</td></tr><tr><th>タイトル</th><td>〔北甘楽郡富岡町佐藤国太郎蚕種広告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.3×27.0</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-50.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>上野</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年3月1日</td></tr><tr><th>西暦コード</th><td>18810003001</td></tr><tr><th>タイトル</th><td>〔北甘楽郡富岡町佐藤国太郎蚕種広告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.3×27.0</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=28'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>上野</td></tr></table>",
                     "label": "16-A00-6010-18-50",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p30#xywh=3722,793,2132,3405",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年3月1日</td></tr><tr><th>西暦コード</th><td>18810003001</td></tr><tr><th>タイトル</th><td>〔北甘楽郡富岡町佐藤国太郎蚕種広告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.3×27.0</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-50.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>上野</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年3月1日</td></tr><tr><th>西暦コード</th><td>18810003001</td></tr><tr><th>タイトル</th><td>〔北甘楽郡富岡町佐藤国太郎蚕種広告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.3×27.0</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=29'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>上野</td></tr></table>",
                     "label": "16-A00-6010-18-50",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p22#xywh=3795,3525,3016,1528",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>〔尾道蒸気艦日本船本問屋向栄社引札〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.5×8.4　備後尾道築出シ町浜側、乗客諸物貨取扱所とあり、墨書で「広島西本川岩田三兵衛」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-68.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>備後</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>〔尾道蒸気艦日本船本問屋向栄社引札〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.5×8.4　備後尾道築出シ町浜側、乗客諸物貨取扱所とあり、墨書で「広島西本川岩田三兵衛」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=21'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>備後</td></tr></table>",
                     "label": "16-A00-6010-16-68",
                     "metadata": [
                         {

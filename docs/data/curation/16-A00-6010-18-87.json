@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p60#xywh=956,682,2397,3983",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>〔大日本農会集談会開催案内〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>15.5×25.7と15.5×27.2　3月21日～31日</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-87.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>〔大日本農会集談会開催案内〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>15.5×25.7と15.5×27.2　3月21日～31日</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=59'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-87",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p61#xywh=3820,501,2880,4504",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>〔大日本農会集談会開催案内〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>15.5×25.7と15.5×27.2　3月21日～31日</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-87.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>〔大日本農会集談会開催案内〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>15.5×25.7と15.5×27.2　3月21日～31日</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=60'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-87",
                     "metadata": [
                         {

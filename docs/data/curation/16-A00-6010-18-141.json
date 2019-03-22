@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p85#xywh=3853,1024,920,3613",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年3月7日</td></tr><tr><th>西暦コード</th><td>18830003007</td></tr><tr><th>タイトル</th><td>千寿松うなぎ請取証</td></tr><tr><th>版種類</th><td>写</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.5×5.7　30銭、「16年水産博覧会場内」と墨書あり、出店での食事代金か</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-141.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年3月7日</td></tr><tr><th>西暦コード</th><td>18830003007</td></tr><tr><th>タイトル</th><td>千寿松うなぎ請取証</td></tr><tr><th>版種類</th><td>写</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.5×5.7　30銭、「16年水産博覧会場内」と墨書あり、出店での食事代金か</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=84'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-141",
                     "metadata": [
                         {

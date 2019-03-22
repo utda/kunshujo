@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p10#xywh=910,3458,3701,1565",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>タイトル</th><td>調理鮮肉BOILED-BEEF引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>9.0×22.6　熊本県森尾母太郎・高木晋製、売弘東京銀座精キ（金偏に奇）水本舗岸田吟香、同3丁目臭気止本舗末広軒、罐詰肉</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-28.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京、肥後</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>タイトル</th><td>調理鮮肉BOILED-BEEF引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>9.0×22.6　熊本県森尾母太郎・高木晋製、売弘東京銀座精キ（金偏に奇）水本舗岸田吟香、同3丁目臭気止本舗末広軒、罐詰肉</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=9'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京、肥後</td></tr></table>",
                     "label": "16-A00-6010-16-28",
                     "metadata": [
                         {

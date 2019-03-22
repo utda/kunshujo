@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p28#xywh=3795,2593,3084,2374",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年5月</td></tr><tr><th>西暦コード</th><td>18780005099</td></tr><tr><th>タイトル</th><td>京都舎密所訳述山城炭酸泉効用弁</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.8×17.8　上に「京都舎密局実試明治5年2月検出山城炭酸泉」引札（木、10.4×7.8）と「炭酸泉京都舎密局検視印」（銅、14.0×2.8）（明治13年12月20日の墨書あり）貼附</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-61.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年5月</td></tr><tr><th>西暦コード</th><td>18780005099</td></tr><tr><th>タイトル</th><td>京都舎密所訳述山城炭酸泉効用弁</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.8×17.8　上に「京都舎密局実試明治5年2月検出山城炭酸泉」引札（木、10.4×7.8）と「炭酸泉京都舎密局検視印」（銅、14.0×2.8）（明治13年12月20日の墨書あり）貼附</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=27'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
                     "label": "16-A00-6010-17-61",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p21#xywh=4879,870,1927,3979",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年11月23日</td></tr><tr><th>西暦コード</th><td>18800011023</td></tr><tr><th>タイトル</th><td>〔川崎茗荷屋文助領収証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.5×11.5　摺物に書込形式、東海道川崎駅ステーション道茗荷屋文助、金2円14銭、但御酒肴代、木印に「川崎小土呂町茗荷屋文助」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-43.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>武蔵</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年11月23日</td></tr><tr><th>西暦コード</th><td>18800011023</td></tr><tr><th>タイトル</th><td>〔川崎茗荷屋文助領収証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.5×11.5　摺物に書込形式、東海道川崎駅ステーション道茗荷屋文助、金2円14銭、但御酒肴代、木印に「川崎小土呂町茗荷屋文助」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=20'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>武蔵</td></tr></table>",
                     "label": "16-A00-6010-17-43",
                     "metadata": [
                         {

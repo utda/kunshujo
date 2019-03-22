@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p61#xywh=3139,1023,1820,3940",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年9月9日</td></tr><tr><th>西暦コード</th><td>18790009009</td></tr><tr><th>タイトル</th><td>日進堂領収証</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.0×11.0　摺物に書込形式、東香水3本、84銭、田中宛、「西久保葦手町日進堂薬舗印」あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-245.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年9月9日</td></tr><tr><th>西暦コード</th><td>18790009009</td></tr><tr><th>タイトル</th><td>日進堂領収証</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.0×11.0　摺物に書込形式、東香水3本、84銭、田中宛、「西久保葦手町日進堂薬舗印」あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=60'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-245",
                     "metadata": [
                         {

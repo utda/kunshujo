@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p45#xywh=824,496,6121,4549",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年3月</td></tr><tr><th>西暦コード</th><td>18790003099</td></tr><tr><th>タイトル</th><td>奥津温泉広告</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.5×35.5　岡山県美作国西西条郡奥津村牧野儀太郎</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-180.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>美作</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年3月</td></tr><tr><th>西暦コード</th><td>18790003099</td></tr><tr><th>タイトル</th><td>奥津温泉広告</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.5×35.5　岡山県美作国西西条郡奥津村牧野儀太郎</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=44'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>美作</td></tr></table>",
                     "label": "16-A00-6010-16-180",
                     "metadata": [
                         {

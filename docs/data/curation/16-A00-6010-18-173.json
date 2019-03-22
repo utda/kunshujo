@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p98#xywh=927,2419,5620,2573",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>御うす化粧はつみゆき引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.0×10.6　池之端仲町通南側たしからや常次郎、右側に百寿香花のつや初みゆきの効能書（16.0×24.6）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-173.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>御うす化粧はつみゆき引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.0×10.6　池之端仲町通南側たしからや常次郎、右側に百寿香花のつや初みゆきの効能書（16.0×24.6）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=97'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-173",
                     "metadata": [
                         {

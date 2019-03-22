@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p20#xywh=910,520,5854,4369",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年7月</td></tr><tr><th>西暦コード</th><td>18780007099</td></tr><tr><th>タイトル</th><td>〔池之端伊勢屋鶏卵店開店案内〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>25.2×34.4　東京池之端伊勢屋今井六兵衛、旧来ふきぬき横町にて営業の処、今回移転云々、.販売品は地廻り鶏卵おろし小売、玉子せんべい、カステイラ</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-65.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年7月</td></tr><tr><th>西暦コード</th><td>18780007099</td></tr><tr><th>タイトル</th><td>〔池之端伊勢屋鶏卵店開店案内〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>25.2×34.4　東京池之端伊勢屋今井六兵衛、旧来ふきぬき横町にて営業の処、今回移転云々、.販売品は地廻り鶏卵おろし小売、玉子せんべい、カステイラ</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=19'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-65",
                     "metadata": [
                         {

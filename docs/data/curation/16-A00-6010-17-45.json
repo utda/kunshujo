@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p21#xywh=1064,759,2416,2078",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年2月6日</td></tr><tr><th>西暦コード</th><td>18810002006</td></tr><tr><th>タイトル</th><td>佐藤椿園翁追祭会稟告</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.2×15.6　2月6日午後1時、於浅草門跡前高原町16番地松応寺、椿園は信渊の号</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-45.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年2月6日</td></tr><tr><th>西暦コード</th><td>18810002006</td></tr><tr><th>タイトル</th><td>佐藤椿園翁追祭会稟告</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.2×15.6　2月6日午後1時、於浅草門跡前高原町16番地松応寺、椿園は信渊の号</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=20'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-45",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p79#xywh=768,433,2896,4494",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年8月8日</td></tr><tr><th>西暦コード</th><td>18820008008</td></tr><tr><th>タイトル</th><td>〔睦前国野蒜港市街地払下公告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.7×36.2　明治15年7月内務省広告、読売新聞8月8日（第2265号）附録、裏面に「宮城県下陸前国桃生郡野蒜港新市街之図」（木）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-223.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>陸前</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年8月8日</td></tr><tr><th>西暦コード</th><td>18820008008</td></tr><tr><th>タイトル</th><td>〔睦前国野蒜港市街地払下公告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.7×36.2　明治15年7月内務省広告、読売新聞8月8日（第2265号）附録、裏面に「宮城県下陸前国桃生郡野蒜港新市街之図」（木）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=78'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>陸前</td></tr></table>",
                     "label": "16-A00-6010-17-223",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p80#xywh=581,443,5632,4543",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年8月8日</td></tr><tr><th>西暦コード</th><td>18820008008</td></tr><tr><th>タイトル</th><td>〔睦前国野蒜港市街地払下公告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.7×36.2　明治15年7月内務省広告、読売新聞8月8日（第2265号）附録、裏面に「宮城県下陸前国桃生郡野蒜港新市街之図」（木）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-223.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>陸前</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年8月8日</td></tr><tr><th>西暦コード</th><td>18820008008</td></tr><tr><th>タイトル</th><td>〔睦前国野蒜港市街地払下公告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.7×36.2　明治15年7月内務省広告、読売新聞8月8日（第2265号）附録、裏面に「宮城県下陸前国桃生郡野蒜港新市街之図」（木）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=79'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>陸前</td></tr></table>",
                     "label": "16-A00-6010-17-223",
                     "metadata": [
                         {
@@ -105,7 +105,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p81#xywh=932,413,5661,4446",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年8月8日</td></tr><tr><th>西暦コード</th><td>18820008008</td></tr><tr><th>タイトル</th><td>〔睦前国野蒜港市街地払下公告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.7×36.2　明治15年7月内務省広告、読売新聞8月8日（第2265号）附録、裏面に「宮城県下陸前国桃生郡野蒜港新市街之図」（木）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-223.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>陸前</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年8月8日</td></tr><tr><th>西暦コード</th><td>18820008008</td></tr><tr><th>タイトル</th><td>〔睦前国野蒜港市街地払下公告〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.7×36.2　明治15年7月内務省広告、読売新聞8月8日（第2265号）附録、裏面に「宮城県下陸前国桃生郡野蒜港新市街之図」（木）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=80'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>陸前</td></tr></table>",
                     "label": "16-A00-6010-17-223",
                     "metadata": [
                         {

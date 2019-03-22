@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p7#xywh=840,510,2957,4457",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>ビスケート製造場開業告白</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>18.0×27.3が2枚　両国分店京橋区南鍋町風月堂米津松造、1枚はボンボンの宣伝</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-15.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>ビスケート製造場開業告白</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>18.0×27.3が2枚　両国分店京橋区南鍋町風月堂米津松造、1枚はボンボンの宣伝</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=6'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-15",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p8#xywh=3850,564,2828,4371",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>ビスケート製造場開業告白</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>18.0×27.3が2枚　両国分店京橋区南鍋町風月堂米津松造、1枚はボンボンの宣伝</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-15.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>ビスケート製造場開業告白</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>18.0×27.3が2枚　両国分店京橋区南鍋町風月堂米津松造、1枚はボンボンの宣伝</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=7'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-15",
                     "metadata": [
                         {

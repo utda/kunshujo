@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p19#xywh=3696,736,2811,3948",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年6月10日</td></tr><tr><th>西暦コード</th><td>18810006010</td></tr><tr><th>タイトル</th><td>〔内国勧業博覧会褒賞授与式記念花火目録〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.7×27.2　花火の銘柄くわしく記載あり、名前の出ているのは烟花製造人鍵屋弥兵衛、御場内出店の内与兵衛すし小泉与兵衛、藪そば三輪伝次郎、松翁堂佐藤久次郎、松のすし代鹿島清之助、茶店菊むら川島孝造、平清丸山清吉、青柳楼小川源次郎、神田橋通日比谷活版所印行</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-41.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年6月10日</td></tr><tr><th>西暦コード</th><td>18810006010</td></tr><tr><th>タイトル</th><td>〔内国勧業博覧会褒賞授与式記念花火目録〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.7×27.2　花火の銘柄くわしく記載あり、名前の出ているのは烟花製造人鍵屋弥兵衛、御場内出店の内与兵衛すし小泉与兵衛、藪そば三輪伝次郎、松翁堂佐藤久次郎、松のすし代鹿島清之助、茶店菊むら川島孝造、平清丸山清吉、青柳楼小川源次郎、神田橋通日比谷活版所印行</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=18'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-41",
                     "metadata": [
                         {

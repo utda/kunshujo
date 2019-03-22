@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p13#xywh=3857,549,3028,4404",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10 ?年</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>タイトル</th><td>鐘ヒョウ（金偏に表）時刻比較略表</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.8×17.5　自然堂蔵版、九ツ時、八ツ時、七ツ時、六ツ時、五ツ時、四ツ時と西洋時の1年間13季の対照表、春秋分では12時が九ツ、八ツが2時12分（昼）、1時48分（夜）、六ツが5時24分（昼）、6時36分（夜）、四ツが9時48分（昼）、10時12分（夜）、日出は6時、日没は6時</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-31.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10 ?年</td></tr><tr><th>西暦コード</th><td>18770099099</td></tr><tr><th>タイトル</th><td>鐘ヒョウ（金偏に表）時刻比較略表</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.8×17.5　自然堂蔵版、九ツ時、八ツ時、七ツ時、六ツ時、五ツ時、四ツ時と西洋時の1年間13季の対照表、春秋分では12時が九ツ、八ツが2時12分（昼）、1時48分（夜）、六ツが5時24分（昼）、6時36分（夜）、四ツが9時48分（昼）、10時12分（夜）、日出は6時、日没は6時</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=12'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-31",
                     "metadata": [
                         {

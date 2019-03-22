@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p27#xywh=854,538,5984,4434",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>本願寺大教校の図</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>26.7×35.4　京都日日新聞第99号附録、寺町通高札上ル町京都日日新聞社、記事は活版、図は米仙画になる木版、5月3日慶讃会、5月4日正遷仏、5日教興会</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-94.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>本願寺大教校の図</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>26.7×35.4　京都日日新聞第99号附録、寺町通高札上ル町京都日日新聞社、記事は活版、図は米仙画になる木版、5月3日慶讃会、5月4日正遷仏、5日教興会</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=26'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
                     "label": "16-A00-6010-16-94",
                     "metadata": [
                         {

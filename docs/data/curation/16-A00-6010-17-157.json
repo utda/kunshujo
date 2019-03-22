@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p55#xywh=1953,511,4728,3639",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>雁皮紙目録</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>22.5×29.5　日本橋通1丁目1番地聚玉堂榛原直次郞、第1•第2内国博にて受賞の旨、摺物の処に「日本木版細大筆意彫刻板摺物応好最上等出来仕候」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-157.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>雁皮紙目録</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>22.5×29.5　日本橋通1丁目1番地聚玉堂榛原直次郞、第1•第2内国博にて受賞の旨、摺物の処に「日本木版細大筆意彫刻板摺物応好最上等出来仕候」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=54'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-157",
                     "metadata": [
                         {

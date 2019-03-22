@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p67#xywh=3781,482,2958,2112",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年2月3日</td></tr><tr><th>西暦コード</th><td>18790002003</td></tr><tr><th>タイトル</th><td>〔佐藤家領収証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.6×18.0　摺物に書込形式、御状1封、御紙包1，田中様御使御中、「湯島5丁目10番地佐藤(「佐藤執事」印）」とあるので、順天堂のことと思われる</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-264.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年2月3日</td></tr><tr><th>西暦コード</th><td>18790002003</td></tr><tr><th>タイトル</th><td>〔佐藤家領収証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.6×18.0　摺物に書込形式、御状1封、御紙包1，田中様御使御中、「湯島5丁目10番地佐藤(「佐藤執事」印）」とあるので、順天堂のことと思われる</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=66'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-264",
                     "metadata": [
                         {

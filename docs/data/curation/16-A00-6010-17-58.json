@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p25#xywh=3812,494,2939,4423",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>榛名神社御祈祷御礼</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.0×12.3　左側に「榛名二柱大神守給処」摺物（24.0×4.0）あり</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-58.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>上野</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>榛名神社御祈祷御礼</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.0×12.3　左側に「榛名二柱大神守給処」摺物（24.0×4.0）あり</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=24'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>上野</td></tr></table>",
                     "label": "16-A00-6010-17-58",
                     "metadata": [
                         {

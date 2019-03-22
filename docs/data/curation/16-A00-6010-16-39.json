@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p15#xywh=3892,599,2872,2005",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>たまこおしろい引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.5×16.7　製造所金杉村145番地飯島氏、売弘所新乗物町6番地川合元七、取次所12商店名あり、明治10年7月発売開始、鉛毒防止のため製造とあり、取次所中梅素玄魚（浅草三好町3番地）あり、小包2銭</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-39.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>たまこおしろい引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.5×16.7　製造所金杉村145番地飯島氏、売弘所新乗物町6番地川合元七、取次所12商店名あり、明治10年7月発売開始、鉛毒防止のため製造とあり、取次所中梅素玄魚（浅草三好町3番地）あり、小包2銭</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=14'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-39",
                     "metadata": [
                         {

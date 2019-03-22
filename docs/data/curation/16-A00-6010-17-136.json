@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p47#xywh=2921,469,2055,2714",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>〔小田原旅宿小いせや佐兵衛引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.2×11.8　小田原宿中程海側、「かご人足人力車引の口車御用心可被下候」とあり、小田原より静岡迄、小田原より東海道廻り神奈川迄、小田原より横須賀廻り横浜迄の里程図あり、朱印で「江の嶋ゑびすや茂八」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-136.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>相模</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>〔小田原旅宿小いせや佐兵衛引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.2×11.8　小田原宿中程海側、「かご人足人力車引の口車御用心可被下候」とあり、小田原より静岡迄、小田原より東海道廻り神奈川迄、小田原より横須賀廻り横浜迄の里程図あり、朱印で「江の嶋ゑびすや茂八」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=46'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>相模</td></tr></table>",
                     "label": "16-A00-6010-17-136",
                     "metadata": [
                         {

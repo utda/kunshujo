@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p91#xywh=5260,2713,1593,2242",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年1月19日</td></tr><tr><th>西暦コード</th><td>18830001019</td></tr><tr><th>タイトル</th><td>〔岡本浜之助書翰〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>端書、摺ってあるもの、出帆の挨拶、横浜林庄五郎支店新橋日吉町12番地、「名古屋丸にて24日午後4時出帆云々」と墨書あり</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-149.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年1月19日</td></tr><tr><th>西暦コード</th><td>18830001019</td></tr><tr><th>タイトル</th><td>〔岡本浜之助書翰〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>端書、摺ってあるもの、出帆の挨拶、横浜林庄五郎支店新橋日吉町12番地、「名古屋丸にて24日午後4時出帆云々」と墨書あり</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=90'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-149",
                     "metadata": [
                         {

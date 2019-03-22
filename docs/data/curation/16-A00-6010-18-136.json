@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p80#xywh=831,1180,2777,3479",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>上海航郵船横浜発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>36.0×24.0　郵船問屋横浜弁天通り2丁目西村新七、東京堀江町2丁目9番地同支店、東京佐久間町2丁目18番地同支店</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-136.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>上海航郵船横浜発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>36.0×24.0　郵船問屋横浜弁天通り2丁目西村新七、東京堀江町2丁目9番地同支店、東京佐久間町2丁目18番地同支店</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=79'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
                     "label": "16-A00-6010-18-136",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p81#xywh=3957,1136,2853,3424",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>上海航郵船横浜発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>36.0×24.0　郵船問屋横浜弁天通り2丁目西村新七、東京堀江町2丁目9番地同支店、東京佐久間町2丁目18番地同支店</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-136.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年1月</td></tr><tr><th>西暦コード</th><td>18820001099</td></tr><tr><th>タイトル</th><td>上海航郵船横浜発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>36.0×24.0　郵船問屋横浜弁天通り2丁目西村新七、東京堀江町2丁目9番地同支店、東京佐久間町2丁目18番地同支店</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=80'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
                     "label": "16-A00-6010-18-136",
                     "metadata": [
                         {

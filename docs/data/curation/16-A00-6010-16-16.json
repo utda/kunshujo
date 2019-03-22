@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p7#xywh=3832,512,3016,4541",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年</td></tr><tr><th>西暦コード</th><td>18720099099</td></tr><tr><th>タイトル</th><td>官等表・神官官等并月給表・教導職等級表</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.8×27.8　他に工部省各科工術等級并月給表と女官官等并月給表あり、教導職表は明治4年4月25日のもの、また明治5年8月の司法省改正官等表以前のもの</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-16.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治5年</td></tr><tr><th>西暦コード</th><td>18720099099</td></tr><tr><th>タイトル</th><td>官等表・神官官等并月給表・教導職等級表</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.8×27.8　他に工部省各科工術等級并月給表と女官官等并月給表あり、教導職表は明治4年4月25日のもの、また明治5年8月の司法省改正官等表以前のもの</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=6'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-16",
                     "metadata": [
                         {

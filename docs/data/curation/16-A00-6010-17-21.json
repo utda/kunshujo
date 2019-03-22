@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p9#xywh=2132,3569,1590,1331",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>大日本最初新製加琲糖引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>19.1×17.3　A PREPARATION OF COFFEE ready for useとあり本舖京都寺町御池熊谷在楳堂、印刷鳥丸点林堂、下にも小型引札（活、7.0×8.5）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-21.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>大日本最初新製加琲糖引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>19.1×17.3　A PREPARATION OF COFFEE ready for useとあり本舖京都寺町御池熊谷在楳堂、印刷鳥丸点林堂、下にも小型引札（活、7.0×8.5）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=8'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
                     "label": "16-A00-6010-17-21",
                     "metadata": [
                         {

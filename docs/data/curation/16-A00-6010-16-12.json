@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p5#xywh=898,498,1645,2613",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年10月</td></tr><tr><th>西暦コード</th><td>18770010099</td></tr><tr><th>タイトル</th><td>〔外務卿書簡〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>15.5×10.2　活字印刷、11月3日天長節に付、各国公使等延遼館に相招くに付、午後8時より9時迄に参会有りたし云々</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-12.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年10月</td></tr><tr><th>西暦コード</th><td>18770010099</td></tr><tr><th>タイトル</th><td>〔外務卿書簡〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>15.5×10.2　活字印刷、11月3日天長節に付、各国公使等延遼館に相招くに付、午後8時より9時迄に参会有りたし云々</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=4'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-12",
                     "metadata": [
                         {

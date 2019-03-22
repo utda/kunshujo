@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p42#xywh=3781,472,3016,2608",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年11月</td></tr><tr><th>西暦コード</th><td>18780011099</td></tr><tr><th>タイトル</th><td>三重県明治11年県内物産博覧会褒状</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.2×18.0　志摩国英虞郡越賀村井上太市宛、糟漬鮑、品評は博覧会品評係がおこなっている</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-153.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>伊勢、志摩</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年11月</td></tr><tr><th>西暦コード</th><td>18780011099</td></tr><tr><th>タイトル</th><td>三重県明治11年県内物産博覧会褒状</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.2×18.0　志摩国英虞郡越賀村井上太市宛、糟漬鮑、品評は博覧会品評係がおこなっている</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=41'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>伊勢、志摩</td></tr></table>",
                     "label": "16-A00-6010-16-153",
                     "metadata": [
                         {

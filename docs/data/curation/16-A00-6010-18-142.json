@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p85#xywh=988,987,2524,3772",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年1月</td></tr><tr><th>西暦コード</th><td>18830001099</td></tr><tr><th>タイトル</th><td>明治十六癸未年吉凶方位表</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.5×24.5　明治16年略本暦附録、頒暦林組長林立守、「此表はすべて太陽暦にあらず、太陰暦の月日としるべし」とあり</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-142.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年1月</td></tr><tr><th>西暦コード</th><td>18830001099</td></tr><tr><th>タイトル</th><td>明治十六癸未年吉凶方位表</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.5×24.5　明治16年略本暦附録、頒暦林組長林立守、「此表はすべて太陽暦にあらず、太陰暦の月日としるべし」とあり</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=84'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-142",
                     "metadata": [
                         {

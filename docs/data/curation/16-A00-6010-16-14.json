@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p5#xywh=2231,3122,610,1728",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年1月</td></tr><tr><th>西暦コード</th><td>18770001099</td></tr><tr><th>タイトル</th><td>明治十年略歴</td></tr><tr><th>版種類</th><td>石版</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>7.2×2.4　東京大阪領暦商社、1銭2厘、下に「領暦証」（1.7×1.7）(銅板）あり</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-14.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年1月</td></tr><tr><th>西暦コード</th><td>18770001099</td></tr><tr><th>タイトル</th><td>明治十年略歴</td></tr><tr><th>版種類</th><td>石版</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>7.2×2.4　東京大阪領暦商社、1銭2厘、下に「領暦証」（1.7×1.7）(銅板）あり</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=4'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-14",
                     "metadata": [
                         {

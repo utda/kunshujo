@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p84#xywh=787,690,2987,4109",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年1月</td></tr><tr><th>西暦コード</th><td>18830001099</td></tr><tr><th>タイトル</th><td>物品会課題</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.2×27.2　嘗百社、毎月第1第3土曜日1時より名古屋区西二葉町植物園にて集会、毎月25日社員各邸において輪会、午後4時～10時、石黒済庵、菊池有英、内田健之丞の名あり</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-139.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年1月</td></tr><tr><th>西暦コード</th><td>18830001099</td></tr><tr><th>タイトル</th><td>物品会課題</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.2×27.2　嘗百社、毎月第1第3土曜日1時より名古屋区西二葉町植物園にて集会、毎月25日社員各邸において輪会、午後4時～10時、石黒済庵、菊池有英、内田健之丞の名あり</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=83'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
                     "label": "16-A00-6010-18-139",
                     "metadata": [
                         {

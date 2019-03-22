@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p8#xywh=766,2776,3007,2180",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年12月15日</td></tr><tr><th>西暦コード</th><td>18800012015</td></tr><tr><th>タイトル</th><td>〔製紙分社受領証〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.6×12.7　摺物に書込形式、御書状1封、田中芳男宛、「東京製紙分社会計課印章」との朱印あり</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-18.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年12月15日</td></tr><tr><th>西暦コード</th><td>18800012015</td></tr><tr><th>タイトル</th><td>〔製紙分社受領証〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.6×12.7　摺物に書込形式、御書状1封、田中芳男宛、「東京製紙分社会計課印章」との朱印あり</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=7'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-18",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p4#xywh=1630,791,2443,3725",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>金鳳丸引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>22.9×32.0　官許製薬所下野国梁田郡福居町関屋良純、発売元東京横山町1丁目新道天野卯兵衛、博覧会売店は清水観音堂下、足利旭香社印刷</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-10.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>下野</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>金鳳丸引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>22.9×32.0　官許製薬所下野国梁田郡福居町関屋良純、発売元東京横山町1丁目新道天野卯兵衛、博覧会売店は清水観音堂下、足利旭香社印刷</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=3'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>下野</td></tr></table>",
                     "label": "16-A00-6010-18-10",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p5#xywh=3793,801,2885,3800",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>金鳳丸引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>22.9×32.0　官許製薬所下野国梁田郡福居町関屋良純、発売元東京横山町1丁目新道天野卯兵衛、博覧会売店は清水観音堂下、足利旭香社印刷</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-10.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>下野</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>金鳳丸引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>22.9×32.0　官許製薬所下野国梁田郡福居町関屋良純、発売元東京横山町1丁目新道天野卯兵衛、博覧会売店は清水観音堂下、足利旭香社印刷</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=4'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>下野</td></tr></table>",
                     "label": "16-A00-6010-18-10",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p73#xywh=3800,559,2987,2666",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応3年1月</td></tr><tr><th>西暦コード</th><td>18670001099</td></tr><tr><th>タイトル</th><td>本方屠蘇散功能来由</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.8×17.2　池之端仲町吟味薬種所堺屋治兵衛、貞松堂鑑製</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-215.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>江戸</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応3年1月</td></tr><tr><th>西暦コード</th><td>18670001099</td></tr><tr><th>タイトル</th><td>本方屠蘇散功能来由</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.8×17.2　池之端仲町吟味薬種所堺屋治兵衛、貞松堂鑑製</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=72'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>江戸</td></tr></table>",
                     "label": "16-A00-6010-17-215",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p74#xywh=3868,695,2890,2540",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応3年1月</td></tr><tr><th>西暦コード</th><td>18670001099</td></tr><tr><th>タイトル</th><td>本方屠蘇散功能来由</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.8×17.2　池之端仲町吟味薬種所堺屋治兵衛、貞松堂鑑製</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-215.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>江戸</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応3年1月</td></tr><tr><th>西暦コード</th><td>18670001099</td></tr><tr><th>タイトル</th><td>本方屠蘇散功能来由</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.8×17.2　池之端仲町吟味薬種所堺屋治兵衛、貞松堂鑑製</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=73'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>江戸</td></tr></table>",
                     "label": "16-A00-6010-17-215",
                     "metadata": [
                         {

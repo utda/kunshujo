@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p77#xywh=3809,550,827,535",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>虫ノ喰切タル紙片</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>3.5×2.0　田中芳男が虫くいの標本としてはりつけたもの</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-125.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>虫ノ喰切タル紙片</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>3.5×2.0　田中芳男が虫くいの標本としてはりつけたもの</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=76'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-125",
                     "metadata": [
                         {

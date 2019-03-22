@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p39#xywh=945,3064,2852,1886",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>〔祇園新地亀佐引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>6.8×5.5が2枚　京縄手通大和橋南へ入亀佐、同一のもの2枚、上に「加茂川名物鷺しらず」引札（8.8×3.8）と「鷺時雨」引札（6.8×8.8）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-101.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>〔祇園新地亀佐引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>6.8×5.5が2枚　京縄手通大和橋南へ入亀佐、同一のもの2枚、上に「加茂川名物鷺しらず」引札（8.8×3.8）と「鷺時雨」引札（6.8×8.8）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=38'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>京都</td></tr></table>",
                     "label": "16-A00-6010-17-101",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p52#xywh=2272,3688,4421,1374",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>〔石川県水産広業社製造某品引札〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>8.0×19.0　大日本国石川県所産金沢区尾張町36番地水産広業社、左側の「蟹」円形引札（直径7.7）と対のものか</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-211.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>加賀</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>〔石川県水産広業社製造某品引札〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>8.0×19.0　大日本国石川県所産金沢区尾張町36番地水産広業社、左側の「蟹」円形引札（直径7.7）と対のものか</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=51'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>加賀</td></tr></table>",
                     "label": "16-A00-6010-16-211",
                     "metadata": [
                         {

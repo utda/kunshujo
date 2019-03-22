@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p83#xywh=799,774,3007,3950",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年1月</td></tr><tr><th>西暦コード</th><td>18810001099</td></tr><tr><th>タイトル</th><td>大日本郵便汽船客荷物運賃船名発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>38.0×25.3　横浜弁天通5丁目福井忠兵衛、神田区今川小路2丁目1番地回漕店池田屋、東京丸（ニウヨロク）、西京丸（ネバタ）、広島丸（ゴルデンエージ）、名護屋丸（ヲルコニヤ）、玄海丸（コスタリカ）、高砂丸（デルタ）、新潟丸（デハー）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-138.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年1月</td></tr><tr><th>西暦コード</th><td>18810001099</td></tr><tr><th>タイトル</th><td>大日本郵便汽船客荷物運賃船名発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>38.0×25.3　横浜弁天通5丁目福井忠兵衛、神田区今川小路2丁目1番地回漕店池田屋、東京丸（ニウヨロク）、西京丸（ネバタ）、広島丸（ゴルデンエージ）、名護屋丸（ヲルコニヤ）、玄海丸（コスタリカ）、高砂丸（デルタ）、新潟丸（デハー）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=82'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
                     "label": "16-A00-6010-18-138",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p84#xywh=3869,676,2963,4027",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年1月</td></tr><tr><th>西暦コード</th><td>18810001099</td></tr><tr><th>タイトル</th><td>大日本郵便汽船客荷物運賃船名発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>38.0×25.3　横浜弁天通5丁目福井忠兵衛、神田区今川小路2丁目1番地回漕店池田屋、東京丸（ニウヨロク）、西京丸（ネバタ）、広島丸（ゴルデンエージ）、名護屋丸（ヲルコニヤ）、玄海丸（コスタリカ）、高砂丸（デルタ）、新潟丸（デハー）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-138.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年1月</td></tr><tr><th>西暦コード</th><td>18810001099</td></tr><tr><th>タイトル</th><td>大日本郵便汽船客荷物運賃船名発着一覧表</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>38.0×25.3　横浜弁天通5丁目福井忠兵衛、神田区今川小路2丁目1番地回漕店池田屋、東京丸（ニウヨロク）、西京丸（ネバタ）、広島丸（ゴルデンエージ）、名護屋丸（ヲルコニヤ）、玄海丸（コスタリカ）、高砂丸（デルタ）、新潟丸（デハー）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=83'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
                     "label": "16-A00-6010-18-138",
                     "metadata": [
                         {

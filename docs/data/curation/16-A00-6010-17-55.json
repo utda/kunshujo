@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p24#xywh=941,3756,2852,1205",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年1月1日</td></tr><tr><th>西暦コード</th><td>18800001001</td></tr><tr><th>タイトル</th><td>〔電報送達紙〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>25.2×17.0　摺物に書込形式、小田原橋本マサヒト出、田中芳男宛、「明日カカル午後4時頃御宅へ出ル」、左側に配達電報封筒（17.5×6.7）あり</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-55.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>相模</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年1月1日</td></tr><tr><th>西暦コード</th><td>18800001001</td></tr><tr><th>タイトル</th><td>〔電報送達紙〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>25.2×17.0　摺物に書込形式、小田原橋本マサヒト出、田中芳男宛、「明日カカル午後4時頃御宅へ出ル」、左側に配達電報封筒（17.5×6.7）あり</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=23'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>相模</td></tr></table>",
                     "label": "16-A00-6010-17-55",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p22#xywh=3936,620,2649,4281",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>タイトル</th><td>官許消毒丸引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.6×20.6　東京浜町2丁目久松氏蔵方、中暑、かく乱、傷食、船酔、二日酔、総じて胃膓の不和なるによし、右側に「監製消毒丸」引札（木、12.1×6.5）あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-47.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>タイトル</th><td>官許消毒丸引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.6×20.6　東京浜町2丁目久松氏蔵方、中暑、かく乱、傷食、船酔、二日酔、総じて胃膓の不和なるによし、右側に「監製消毒丸」引札（木、12.1×6.5）あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=21'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-47",
                     "metadata": [
                         {

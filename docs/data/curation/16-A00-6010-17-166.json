@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p58#xywh=869,555,5928,3896",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治1?年</td></tr><tr><th>西暦コード</th><td>18680099099</td></tr><tr><th>タイトル</th><td>〔外神田三河屋久兵衛西洋料理案内〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>26.5×34.5　外神田佐久間町1丁目、「柳川先生御真筆」（26.5×8.7）との上に説明書あり、「明治14年3月12日柳川君10年祭紅葉館ニ於テ、三河やより施ス」</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-166.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治1?年</td></tr><tr><th>西暦コード</th><td>18680099099</td></tr><tr><th>タイトル</th><td>〔外神田三河屋久兵衛西洋料理案内〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>26.5×34.5　外神田佐久間町1丁目、「柳川先生御真筆」（26.5×8.7）との上に説明書あり、「明治14年3月12日柳川君10年祭紅葉館ニ於テ、三河やより施ス」</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=57'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-166",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p66#xywh=879,436,812,2498",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>〔知多郡大井村海鼡膓引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>7.1×3.8と6.6×3.8</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-182.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>〔知多郡大井村海鼡膓引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>7.1×3.8と6.6×3.8</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=65'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
                     "label": "16-A00-6010-17-182",
                     "metadata": [
                         {

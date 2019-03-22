@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p30#xywh=1008,3769,1645,1092",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応3年</td></tr><tr><th>西暦コード</th><td>18670099099</td></tr><tr><th>タイトル</th><td>〔パリ万博時田中芳男仏文名刺（送り状）〕</td></tr><tr><th>版種類</th><td>石版？</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>5.8×9.0　SOCIETE D'ACCLIMATATION, 19, rue de Lille, Paris, M TANAKA-YOSIWO, botaniste, Cai-sei-dzjo a Yeddo(Japin）（ママ）、仏語表示困難故、記号の一部省略せり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-107.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>外国</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>慶応3年</td></tr><tr><th>西暦コード</th><td>18670099099</td></tr><tr><th>タイトル</th><td>〔パリ万博時田中芳男仏文名刺（送り状）〕</td></tr><tr><th>版種類</th><td>石版？</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>5.8×9.0　SOCIETE D'ACCLIMATATION, 19, rue de Lille, Paris, M TANAKA-YOSIWO, botaniste, Cai-sei-dzjo a Yeddo(Japin）（ママ）、仏語表示困難故、記号の一部省略せり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=29'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>外国</td></tr></table>",
                     "label": "16-A00-6010-16-107",
                     "metadata": [
                         {

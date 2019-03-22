@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p60#xywh=857,598,5793,4324",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年1月</td></tr><tr><th>西暦コード</th><td>18790001099</td></tr><tr><th>タイトル</th><td>明治十二年略暦</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>35.0×26.0　東京日本橋通3丁目14番地書店丸屋善七、販売は「書類唐物薬品類」となっている、頒暦証貼附、カレンダーの中に「東京医学会社集会日」あり</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-243.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年1月</td></tr><tr><th>西暦コード</th><td>18790001099</td></tr><tr><th>タイトル</th><td>明治十二年略暦</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>35.0×26.0　東京日本橋通3丁目14番地書店丸屋善七、販売は「書類唐物薬品類」となっている、頒暦証貼附、カレンダーの中に「東京医学会社集会日」あり</td></tr><tr><th>内容分類</th><td>暦</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=59'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-243",
                     "metadata": [
                         {

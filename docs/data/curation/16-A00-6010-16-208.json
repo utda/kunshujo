@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p52#xywh=1326,511,2312,1817",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>〔開拓使物産局製ます鑵詰引札〕</td></tr><tr><th>版種類</th><td>石版</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>10.8×15.0と10.8×13.5　大蔵省紙幣局石版印刷、内1枚は用法書</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-208.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>北海道</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年</td></tr><tr><th>西暦コード</th><td>18790099099</td></tr><tr><th>タイトル</th><td>〔開拓使物産局製ます鑵詰引札〕</td></tr><tr><th>版種類</th><td>石版</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>10.8×15.0と10.8×13.5　大蔵省紙幣局石版印刷、内1枚は用法書</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=51'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>北海道</td></tr></table>",
                     "label": "16-A00-6010-16-208",
                     "metadata": [
                         {

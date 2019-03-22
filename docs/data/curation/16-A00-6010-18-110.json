@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p71#xywh=982,763,2732,3853",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>〔キリスト教布教パンフレツト断片〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.2×24.0</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-110.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京？</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>〔キリスト教布教パンフレツト断片〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.2×24.0</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=70'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京？</td></tr></table>",
                     "label": "16-A00-6010-18-110",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p74#xywh=4001,807,2601,3797",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>〔キリスト教布教パンフレツト断片〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.2×24.0</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-110.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京？</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>〔キリスト教布教パンフレツト断片〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.2×24.0</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=73'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京？</td></tr></table>",
                     "label": "16-A00-6010-18-110",
                     "metadata": [
                         {

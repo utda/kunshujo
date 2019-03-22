@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p2#xywh=789,460,1817,2911",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年7月6日</td></tr><tr><th>西暦コード</th><td>18790007006</td></tr><tr><th>タイトル</th><td>〔グラント接待夜会招待状〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.8×11.0　東京接待委員総代渋沢栄ー・福地源一郎、「田中芳男様•御内室様」（墨書）、於虎門内工部大学校、午後9時より、右側に「通門切手」（活、7.3×4.1）と招待状封筒（20.0×7.2）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-1.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年7月6日</td></tr><tr><th>西暦コード</th><td>18790007006</td></tr><tr><th>タイトル</th><td>〔グラント接待夜会招待状〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.8×11.0　東京接待委員総代渋沢栄ー・福地源一郎、「田中芳男様•御内室様」（墨書）、於虎門内工部大学校、午後9時より、右側に「通門切手」（活、7.3×4.1）と招待状封筒（20.0×7.2）あり</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=1'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-1",
                     "metadata": [
                         {

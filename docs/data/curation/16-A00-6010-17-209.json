@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p71#xywh=885,469,2121,4165",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年9月1日</td></tr><tr><th>西暦コード</th><td>18820009001</td></tr><tr><th>タイトル</th><td>〔風月堂受領証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚’</td></tr><tr><th>書誌事項</th><td>24.4×10.8　摺物に書込形式、ビスケット笹折詰壱、50銭、南伝馬町2丁目</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-209.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年9月1日</td></tr><tr><th>西暦コード</th><td>18820009001</td></tr><tr><th>タイトル</th><td>〔風月堂受領証〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚’</td></tr><tr><th>書誌事項</th><td>24.4×10.8　摺物に書込形式、ビスケット笹折詰壱、50銭、南伝馬町2丁目</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=70'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-209",
                     "metadata": [
                         {

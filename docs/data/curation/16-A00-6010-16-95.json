@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p28#xywh=930,505,5984,4521",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年12月</td></tr><tr><th>西暦コード</th><td>18770012099</td></tr><tr><th>タイトル</th><td>〔作州真島郡高田山出硯引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>28.0×35.2　岡山県美作国真島郡高田中町名硯製造所大塚勝次郎、「今年内国博覧会に名硯古瓦の模造品を出した」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-95.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>美作</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年12月</td></tr><tr><th>西暦コード</th><td>18770012099</td></tr><tr><th>タイトル</th><td>〔作州真島郡高田山出硯引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>28.0×35.2　岡山県美作国真島郡高田中町名硯製造所大塚勝次郎、「今年内国博覧会に名硯古瓦の模造品を出した」とあり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=27'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>美作</td></tr></table>",
                     "label": "16-A00-6010-16-95",
                     "metadata": [
                         {

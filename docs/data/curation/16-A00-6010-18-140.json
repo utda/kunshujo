@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p86#xywh=4515,843,2249,4012",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年2月3日</td></tr><tr><th>西暦コード</th><td>18830002003</td></tr><tr><th>タイトル</th><td>貨物輸出記</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.3×13.3　摺物に書込形式、出貨主丹羽脩治、届先上野公園地内田中芳男、伊勢四日市湊黒川彦左衛門、包物</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-140.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>伊勢、東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治16年2月3日</td></tr><tr><th>西暦コード</th><td>18830002003</td></tr><tr><th>タイトル</th><td>貨物輸出記</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>27.3×13.3　摺物に書込形式、出貨主丹羽脩治、届先上野公園地内田中芳男、伊勢四日市湊黒川彦左衛門、包物</td></tr><tr><th>内容分類</th><td>常識・娯楽・遊戯・地図・食事</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=85'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>伊勢、東京</td></tr></table>",
                     "label": "16-A00-6010-18-140",
                     "metadata": [
                         {

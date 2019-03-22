@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p43#xywh=1303,1257,4794,3795",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年4月</td></tr><tr><th>西暦コード</th><td>18790004099</td></tr><tr><th>タイトル</th><td>愛知県下博物館図</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>横28.0　錦絵、明治12年4月10日御届、図書小田切春江、出版人柴田良造、団扇形式のもの、第169号が裏に貼られるもの</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-159.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年4月</td></tr><tr><th>西暦コード</th><td>18790004099</td></tr><tr><th>タイトル</th><td>愛知県下博物館図</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>横28.0　錦絵、明治12年4月10日御届、図書小田切春江、出版人柴田良造、団扇形式のもの、第169号が裏に貼られるもの</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=42'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>尾張</td></tr></table>",
                     "label": "16-A00-6010-16-159",
                     "metadata": [
                         {

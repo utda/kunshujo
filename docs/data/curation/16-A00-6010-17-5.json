@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p3#xywh=1692,3094,1914,1371",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年4月</td></tr><tr><th>西暦コード</th><td>18800004099</td></tr><tr><th>タイトル</th><td>横浜公園物産陳列場開場式招待状</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.2×16.5　田中芳男宛、4月18日午後5時より同所にて、接待委員伏島近蔵、大関定次郞、椎野正兵衛、山ロ直治、箕田長次郎、小野光景、茂木惣兵衛、原善三郎、野村靖、下に「横浜公園通門之証」（活、7.6×5.2）と「横浜公園人力車切符」（活、7.6×5.3）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-5.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年4月</td></tr><tr><th>西暦コード</th><td>18800004099</td></tr><tr><th>タイトル</th><td>横浜公園物産陳列場開場式招待状</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>16.2×16.5　田中芳男宛、4月18日午後5時より同所にて、接待委員伏島近蔵、大関定次郞、椎野正兵衛、山ロ直治、箕田長次郎、小野光景、茂木惣兵衛、原善三郎、野村靖、下に「横浜公園通門之証」（活、7.6×5.2）と「横浜公園人力車切符」（活、7.6×5.3）あり</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=2'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>横浜</td></tr></table>",
                     "label": "16-A00-6010-17-5",
                     "metadata": [
                         {

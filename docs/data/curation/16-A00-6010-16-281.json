@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p70#xywh=873,501,2015,3279",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年12月5日</td></tr><tr><th>西暦コード</th><td>18780012005</td></tr><tr><th>タイトル</th><td>〔水戸祇園寺所蔵関帝金印〕</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>20.0×12.5　「茨城県下水戸祇園寺所蔵関帝金印、心越禅寺之所携帰也」、「明治11年12月5日於該寺得之」と墨書あり</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-281.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>常陸</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年12月5日</td></tr><tr><th>西暦コード</th><td>18780012005</td></tr><tr><th>タイトル</th><td>〔水戸祇園寺所蔵関帝金印〕</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>20.0×12.5　「茨城県下水戸祇園寺所蔵関帝金印、心越禅寺之所携帰也」、「明治11年12月5日於該寺得之」と墨書あり</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=69'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>常陸</td></tr></table>",
                     "label": "16-A00-6010-16-281",
                     "metadata": [
                         {

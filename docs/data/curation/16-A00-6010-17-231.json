@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p84#xywh=2186,1804,2054,3036",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>朝鮮大医李延年氏直伝千金丹引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>19.5×26.0　延齢堂主人石田直助、千金丹延齢堂活版部</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-231.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京、対馬</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>朝鮮大医李延年氏直伝千金丹引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>19.5×26.0　延齢堂主人石田直助、千金丹延齢堂活版部</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=83'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京、対馬</td></tr></table>",
                     "label": "16-A00-6010-17-231",
                     "metadata": [
                         {
@@ -60,7 +60,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p85#xywh=4131,1862,2102,3123",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>朝鮮大医李延年氏直伝千金丹引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>19.5×26.0　延齢堂主人石田直助、千金丹延齢堂活版部</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-231.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京、対馬</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治15年</td></tr><tr><th>西暦コード</th><td>18820099099</td></tr><tr><th>タイトル</th><td>朝鮮大医李延年氏直伝千金丹引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>19.5×26.0　延齢堂主人石田直助、千金丹延齢堂活版部</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=84'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京、対馬</td></tr></table>",
                     "label": "16-A00-6010-17-231",
                     "metadata": [
                         {

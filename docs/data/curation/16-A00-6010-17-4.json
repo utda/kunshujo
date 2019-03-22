@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p3#xywh=3761,452,2987,4300",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年8月</td></tr><tr><th>西暦コード</th><td>18790008099</td></tr><tr><th>タイトル</th><td>御臨幸事務委員総代招待状</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>15.0×17.5　田中芳男宛、8月25日2時30分御出門、上野公園に御臨幸、下に「立食晩餐桟敷席券」（活、9.8×6.9）と「御臨幸委員章」（朱印、9.5×8.5）あり、グラント歓迎の行幸</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-4.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治12年8月</td></tr><tr><th>西暦コード</th><td>18790008099</td></tr><tr><th>タイトル</th><td>御臨幸事務委員総代招待状</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>15.0×17.5　田中芳男宛、8月25日2時30分御出門、上野公園に御臨幸、下に「立食晩餐桟敷席券」（活、9.8×6.9）と「御臨幸委員章」（朱印、9.5×8.5）あり、グラント歓迎の行幸</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=2'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-4",
                     "metadata": [
                         {

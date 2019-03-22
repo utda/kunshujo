@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p29#xywh=4305,4203,1394,807",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>蚤除香水引札</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>4.5×8.3　BEST PERFUMING WATER ANTI-FLEA、新発明越川良仙製、東京第2大区2小区烏森町1番地越川氏、5銭</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-99.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>蚤除香水引札</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>4.5×8.3　BEST PERFUMING WATER ANTI-FLEA、新発明越川良仙製、東京第2大区2小区烏森町1番地越川氏、5銭</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=28'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-99",
                     "metadata": [
                         {

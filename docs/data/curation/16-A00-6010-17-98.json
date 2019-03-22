@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p38#xywh=987,1107,2013,3197",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>英国発明ガラス早接の水硝子引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.3×18.6　大取次所大坂高麗橋2丁目精キ（金偏に奇）水支店池田猶猷、東京浅草区蔵前森田町加藤活版所印行</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-98.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>大阪、東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>英国発明ガラス早接の水硝子引札</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>12.3×18.6　大取次所大坂高麗橋2丁目精キ（金偏に奇）水支店池田猶猷、東京浅草区蔵前森田町加藤活版所印行</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=37'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>大阪、東京</td></tr></table>",
                     "label": "16-A00-6010-17-98",
                     "metadata": [
                         {

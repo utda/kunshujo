@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p59#xywh=902,2280,3833,2637",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年1月</td></tr><tr><th>西暦コード</th><td>18800001099</td></tr><tr><th>タイトル</th><td>北海道開拓雑誌開刊案内</td></tr><tr><th>版種類</th><td>活・石版</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.5×25.5　郵便報知新聞第2126号附録、文中に「本年1月31日以後」出版とあり、明治13年1月発刊なので、この月とする。なおアイヌ人の図には「玄々堂石版部製」とあり</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-242.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>北海道</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年1月</td></tr><tr><th>西暦コード</th><td>18800001099</td></tr><tr><th>タイトル</th><td>北海道開拓雑誌開刊案内</td></tr><tr><th>版種類</th><td>活・石版</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.5×25.5　郵便報知新聞第2126号附録、文中に「本年1月31日以後」出版とあり、明治13年1月発刊なので、この月とする。なおアイヌ人の図には「玄々堂石版部製」とあり</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=58'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>北海道</td></tr></table>",
                     "label": "16-A00-6010-16-242",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p60#xywh=3939,511,1943,2018",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>官許幾那鉄舎利別引札</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>5.0×9.8と6.8×11.5　本舗東京三番町56番地靖国神社脇内務省免許薬舗雨宮綾太郎、同舗売薬方雨宮藤吉、貧血用、右側に「雨宮封印之証」（銅、7.5×1.7）あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-169.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>官許幾那鉄舎利別引札</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>5.0×9.8と6.8×11.5　本舗東京三番町56番地靖国神社脇内務省免許薬舗雨宮綾太郎、同舗売薬方雨宮藤吉、貧血用、右側に「雨宮封印之証」（銅、7.5×1.7）あり</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=59'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-169",
                     "metadata": [
                         {

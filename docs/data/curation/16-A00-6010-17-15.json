@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p7#xywh=883,540,3930,2666",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年8月</td></tr><tr><th>西暦コード</th><td>18780008099</td></tr><tr><th>タイトル</th><td>〔中川彫銅版案内〕</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.2×25.0　中村正直が「以書画彫銅恰与石版同、此吾友中川昇氏新発明也、故名此彫法日中川彫、明治11年8月」と記している、新発明中川彫、東京神田美土代町2丁目1番地東光舎中川昇銅版</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-15.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年8月</td></tr><tr><th>西暦コード</th><td>18780008099</td></tr><tr><th>タイトル</th><td>〔中川彫銅版案内〕</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>17.2×25.0　中村正直が「以書画彫銅恰与石版同、此吾友中川昇氏新発明也、故名此彫法日中川彫、明治11年8月」と記している、新発明中川彫、東京神田美土代町2丁目1番地東光舎中川昇銅版</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=6'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-17-15",
                     "metadata": [
                         {

@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p7#xywh=921,1308,2939,3739",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>タイトル</th><td>菓子ミルク引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>18.0×18.0と18.0×4.5　東京第4大区3小区小石川誠訪町6番地洋薬舖小西清兵衛、30匁に付20銭、MILK CAKE、内国博覧会に出品のもの</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-18.json'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年8月</td></tr><tr><th>西暦コード</th><td>18770008099</td></tr><tr><th>タイトル</th><td>菓子ミルク引札</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>18.0×18.0と18.0×4.5　東京第4大区3小区小石川誠訪町6番地洋薬舖小西清兵衛、30匁に付20銭、MILK CAKE、内国博覧会に出品のもの</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=6'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-16-18",
                     "metadata": [
                         {

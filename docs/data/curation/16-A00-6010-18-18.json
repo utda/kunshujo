@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p9#xywh=843,542,2919,4421",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>金光液引札</td></tr><tr><th>版種類</th><td>石版</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.3×27.2　皇国創製者向柳原町1丁目17番地奇生堂矢口淡山敬業、売捌所松木市左衛門（いわしや）、辻屋市太郎（唐物店）、丸屋善七（同）、尾張屋吉兵衛（船具店）、細井屋半兵衛（絵具店）、小西六右衛門（薬舗）、山田清兵衛（同）、三河屋政五郎（同）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-18.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年</td></tr><tr><th>西暦コード</th><td>18810099099</td></tr><tr><th>タイトル</th><td>金光液引札</td></tr><tr><th>版種類</th><td>石版</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.3×27.2　皇国創製者向柳原町1丁目17番地奇生堂矢口淡山敬業、売捌所松木市左衛門（いわしや）、辻屋市太郎（唐物店）、丸屋善七（同）、尾張屋吉兵衛（船具店）、細井屋半兵衛（絵具店）、小西六右衛門（薬舗）、山田清兵衛（同）、三河屋政五郎（同）</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=8'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-18",
                     "metadata": [
                         {

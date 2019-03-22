@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p11#xywh=1505,879,5134,3621",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年11月7日</td></tr><tr><th>西暦コード</th><td>18800011007</td></tr><tr><th>タイトル</th><td>〔熱海今井半太夫製雁皮紙目録〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.5×31.5　日本橋通金花堂須原屋佐助</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-23.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>伊豆</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年11月7日</td></tr><tr><th>西暦コード</th><td>18800011007</td></tr><tr><th>タイトル</th><td>〔熱海今井半太夫製雁皮紙目録〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>24.5×31.5　日本橋通金花堂須原屋佐助</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=10'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>伊豆</td></tr></table>",
                     "label": "16-A00-6010-17-23",
                     "metadata": [
                         {

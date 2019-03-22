@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 from hashlib import md5
 import pandas as pd
 
-
 def make_md5(s):
     return md5(s.encode('utf-8')).hexdigest()
 
@@ -205,10 +204,16 @@ def exec2collection(org_canvas, org_label, org_manifest):
 
                     description += "<tr><th>" + key + "</th>"
                     if key == "帖数":
-                        description += "<td><a href='" + df["@id"] + "'>" + "『捃拾帖』第" + str(
+
+                        tmp = member["@id"].split("/")
+                        tmp_id = tmp[5]
+                        page = tmp[7].split("#")[0].split("p")[1]
+                        page = int(page) - 1
+                        tmp_url = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/" + tmp_id + "#?cv=" + str(
+                            page)
+
+                        description += "<td><a href='" + tmp_url + "'>" + "『捃拾帖』第" + str(
                             meta[key]) + "帖" + "</a></td></tr>"
-                        # description += "<td><a href='" + relations[df["@id"]] + "'>" + "『捃拾帖』第" + str(
-                        #     meta[key]) + "帖" + "</a></td></tr>"
                     else:
                         description += "<td>" + str(meta[key]) + "</td></tr>"
 
@@ -234,17 +239,6 @@ cpage = 1
 data_dir = "data"
 
 list = get_list("../" + data_dir + "/metadata.xlsx")
-# relations = {}
-import csv
-
-'''
-with open(data_dir+'/relations.csv', 'r') as f:
-    reader = csv.reader(f)
-    header = next(reader)  # ヘッダーを読み飛ばしたい時
-
-    for row in reader:
-        relations[row[0]] = row[1]
-'''
 
 while cflg:
 

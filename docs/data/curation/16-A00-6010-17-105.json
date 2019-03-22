@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fc5274d-3268-413b-9003-abf62990b767/canvas/p40#xywh=3757,549,1704,2166",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>〔写真師中邨雅朝引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.0×9.7　「高麗橋東なかむらの印」の朱印あり、小板3寸1寸8分同図4枚1円、其他1枚12銭5厘、全紙尺6寸尺2寸1枚15円其他1枚3円宛、集会写3名迄定価余1名毎5銭宛増</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-17-105.json'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>大阪</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治13年</td></tr><tr><th>西暦コード</th><td>18800099099</td></tr><tr><th>タイトル</th><td>〔写真師中邨雅朝引札〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>13.0×9.7　「高麗橋東なかむらの印」の朱印あり、小板3寸1寸8分同図4枚1円、其他1枚12銭5厘、全紙尺6寸尺2寸1枚15円其他1枚3円宛、集会写3名迄定価余1名毎5銭宛増</td></tr><tr><th>内容分類</th><td>諸営業</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/0fc5274d-3268-413b-9003-abf62990b767#?cv=39'>『捃拾帖』第17帖</a></td></tr><tr><th>地名</th><td>大阪</td></tr></table>",
                     "label": "16-A00-6010-17-105",
                     "metadata": [
                         {

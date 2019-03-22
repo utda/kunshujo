@@ -15,7 +15,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p56#xywh=1330,1454,4922,3026",
                     "@type": "sc:Canvas",
-                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年12月20日</td></tr><tr><th>西暦コード</th><td>18810012020</td></tr><tr><th>タイトル</th><td>〔獣医の重要性につき意見書〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.5×34.8　大日本農会参加者宛のものか、陸軍は獣医としてアンコー（仏人）をまねき、農学校では外国教師マッケブライトとヤンソンをまねいた云々、陸軍馬医監従6位勲5等深谷周三</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-84.json'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年12月20日</td></tr><tr><th>西暦コード</th><td>18810012020</td></tr><tr><th>タイトル</th><td>〔獣医の重要性につき意見書〕</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>23.5×34.8　大日本農会参加者宛のものか、陸軍は獣医としてアンコー（仏人）をまねき、農学校では外国教師マッケブライトとヤンソンをまねいた云々、陸軍馬医監従6位勲5等深谷周三</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=55'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
                     "label": "16-A00-6010-18-84",
                     "metadata": [
                         {
