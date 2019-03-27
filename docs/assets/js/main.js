@@ -93,8 +93,7 @@ function show_curation_modal(curation){
       icve = IIIFCurationViewerEmbedded({
         id: 'image_canvas',
         data: {
-          manifest: result["selections"][0]["within"]["@id"],
-          canvas: result["selections"][0]["members"][0]["@id"]
+          curation: curation
         }
       });
 
