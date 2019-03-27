@@ -65,3 +65,10 @@ table.table a {
   -moz-opacity: 0.5;
   opacity: 0.5;
 }
+
+/* for iiif-curation-viewer-embedded */
+.reset_style {
+  .modal {
+    *: initial;
+  }
+}
