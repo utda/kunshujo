@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-117.json",
+    "@type": "cr:Curation",
+    "label": "煙草印紙（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-117.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p32#xywh=1008,4499,2627,488",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>煙草印紙</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>2枚</td></tr><tr><th>書誌事項</th><td>1.7×17.0と1.7×11.0　同一のもの</td></tr><tr><th>内容分類</th><td>政治社会変動</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=31'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-16-117",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治11年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18780099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "煙草印紙"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "2枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "1.7×17.0と1.7×11.0　同一のもの"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "政治社会変動"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0032.tif/1008,4499,2627,488/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

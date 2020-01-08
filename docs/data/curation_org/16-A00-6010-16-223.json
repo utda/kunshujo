@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-223.json",
+    "@type": "cr:Curation",
+    "label": "〔榊綽制作洋式木版画〕（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-223.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p55#xywh=1819,3451,1958,1558",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治10年6月8日</td></tr><tr><th>西暦コード</th><td>18770006008</td></tr><tr><th>タイトル</th><td>〔榊綽制作洋式木版画〕</td></tr><tr><th>版種類</th><td>木</td></tr><tr><th>数量</th><td>5枚</td></tr><tr><th>書誌事項</th><td>教会図（榊のサイン入）（12.8×10.0）、婦人図（11.6×7.8）、林間より海を望む図（5.6×10.3）、牧牛図（6.2×8.5）、「日光山二王門雨景」（榊のサイン入）（9.0×11.8）、「明治10年6月8日榊綽より来」との墨書あり</td></tr><tr><th>内容分類</th><td>文芸・芸能・スポーツ・教育・出版・教化</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=54'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-16-223",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治10年6月8日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18770006008"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔榊綽制作洋式木版画〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "5枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "教会図（榊のサイン入）（12.8×10.0）、婦人図（11.6×7.8）、林間より海を望む図（5.6×10.3）、牧牛図（6.2×8.5）、「日光山二王門雨景」（榊のサイン入）（9.0×11.8）、「明治10年6月8日榊綽より来」との墨書あり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "文芸・芸能・スポーツ・教育・出版・教化"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0055.tif/1819,3451,1958,1558/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

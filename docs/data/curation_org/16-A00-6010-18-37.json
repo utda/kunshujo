@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-37.json",
+    "@type": "cr:Curation",
+    "label": "第二博覧会八仙薬房売薬広告（『捃拾帖』第18帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-18-37.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/canvas/p17#xywh=3793,731,2952,3950",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治14年3月</td></tr><tr><th>西暦コード</th><td>18810003099</td></tr><tr><th>タイトル</th><td>第二博覧会八仙薬房売薬広告</td></tr><tr><th>版種類</th><td>活</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.0×26.0　上野広小路西側仲町入口より2軒目存心済世堂、3月1日より会場にて開店、守田治兵衛の宝丹・宝丹水、喜谷市郞右衛門の実母散、河村謙吉の貴真膏・克快丸、山内資生堂の治淋散・霊寿円、資生堂（室町3丁目西側）の神薬・清邪散、高木与兵衛の清婦湯・清心丹、太田雪湖堂の胃散、岸田吟香の種玉丸・回春丸、東京銀座2丁目守田宝丹活版所、芳譚雑誌愛善社印行</td></tr><tr><th>内容分類</th><td>病気・医療</td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/f4a66780-da62-4519-8fcb-99e0f2e3cb01#?cv=16'>『捃拾帖』第18帖</a></td></tr><tr><th>地名</th><td>東京</td></tr></table>",
+                    "label": "16-A00-6010-18-37",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治14年3月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18810003099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "第二博覧会八仙薬房売薬広告"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "活"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×26.0　上野広小路西側仲町入口より2軒目存心済世堂、3月1日より会場にて開店、守田治兵衛の宝丹・宝丹水、喜谷市郞右衛門の実母散、河村謙吉の貴真膏・克快丸、山内資生堂の治淋散・霊寿円、資生堂（室町3丁目西側）の神薬・清邪散、高木与兵衛の清婦湯・清心丹、太田雪湖堂の胃散、岸田吟香の種玉丸・回春丸、東京銀座2丁目守田宝丹活版所、芳譚雑誌愛善社印行"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "病気・医療"
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第18帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "東京"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/018/018_0017.tif/3793,731,2952,3950/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f4a66780-da62-4519-8fcb-99e0f2e3cb01/manifest",
+                "@label": "捃拾帖 十八",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}

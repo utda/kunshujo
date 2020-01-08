@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-67.json",
+    "@type": "cr:Curation",
+    "label": "厳島社頭之全景（『捃拾帖』第16帖のうち）",
+    "selections": [
+        {
+            "@id": "https://kunshujo.dl.itc.u-tokyo.ac.jp/data/curation/16-A00-6010-16-67.json/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/canvas/p22#xywh=2406,524,4254,3016",
+                    "@type": "sc:Canvas",
+                    "description": "<table class=\"table\"><tr><th>和暦</th><td>明治11年</td></tr><tr><th>西暦コード</th><td>18780099099</td></tr><tr><th>タイトル</th><td>厳島社頭之全景</td></tr><tr><th>版種類</th><td>銅</td></tr><tr><th>数量</th><td>1枚</td></tr><tr><th>書誌事項</th><td>18.6×26.0　広島県厳島住中村熊鐫、「著者并出版人広島県第1大区11小区□須賀村村田良穂」との印あり、頼杏坪の七言絶句あり</td></tr><tr><th>内容分類</th><td>信仰・行楽・名所図会 </td></tr><tr><th>帖数</th><td><a href='https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/39efadf4-2c5e-45e9-ac71-4fad6289c031#?cv=21'>『捃拾帖』第16帖</a></td></tr><tr><th>地名</th><td>安芸</td></tr></table>",
+                    "label": "16-A00-6010-16-67",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "明治11年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18780099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "厳島社頭之全景"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "銅"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "1枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.6×26.0　広島県厳島住中村熊鐫、「著者并出版人広島県第1大区11小区□須賀村村田良穂」との印あり、頼杏坪の七言絶句あり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "信仰・行楽・名所図会 "
+                        },
+                        {
+                            "label": "帖数",
+                            "value": "『捃拾帖』第16帖"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "安芸"
+                        }
+                    ],
+                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/016/016_0022.tif/2406,524,4254,3016/,300/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39efadf4-2c5e-45e9-ac71-4fad6289c031/manifest",
+                "@label": "捃拾帖 十六",
+                "@type": "sc:Manifest"
+            }
+        }
+    ]
+}
