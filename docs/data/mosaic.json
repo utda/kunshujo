@@ -8,9 +8,9 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
   "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
-  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/5e421818-26f3-4b60-b01d-c917afc75c38",
-  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/25214",
-  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/5e421818-26f3-4b60-b01d-c917afc75c38",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/5e421818-26f3-4b60-b01d-c917afc75c38?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/tanaka",
   "metadata": [
     {
       "label": "タイトル",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Manifest Uri",
-      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5e421818-26f3-4b60-b01d-c917afc75c38/manifest"
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/5e421818-26f3-4b60-b01d-c917afc75c38/manifest"
     },
     {
       "label": "Database Label",
