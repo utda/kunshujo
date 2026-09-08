@@ -209,8 +209,10 @@ def exec2collection(org_canvas, org_label, org_manifest):
                         tmp_id = tmp[5]
                         page = tmp[7].split("#")[0].split("p")[1]
                         page = int(page) - 1
-                        tmp_url = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/tanaka/document/" + tmp_id + "#?cv=" + str(
-                            page)
+                        # ポータルの UV ラッパーは親ページの pos を canvasIndex として読むため、
+                        # 旧 Omeka の #?cv=N は ?pos=N+1 に対応する
+                        tmp_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/" + tmp_id + "?pos=" + str(
+                            page + 1)
 
                         description += "<td><a href='" + tmp_url + "'>" + "『捃拾帖』第" + str(
                             meta[key]) + "帖" + "</a></td></tr>"
